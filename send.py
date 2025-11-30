@@ -1,12 +1,16 @@
+import json
 import requests
 
-BOT_TOKEN = "8572714143:AAEcLDZaA-S0rnoyjwB20yfs1sFzT_JSJVQ"
-CHAT_ID = "6075833809"
-MESSAGE = "hi, it's working"
+with open("config.json") as f:
+    config = json.load(f)
+
+BOT_TOKEN = config["BOT_TOKEN"]
+CHAT_ID = config["CHAT_ID"]
+
+message = "Test: config file"
 
 url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-payload = {"chat_id": CHAT_ID, "text": MESSAGE}
+params = {"chat_id": CHAT_ID, "text": message}
 
-res = requests.post(url, data=payload)
-print("Done:", res.text)
+requests.get(url, params=params)
 
