@@ -6,6 +6,7 @@ import requests
 BASE = "res"
 os.makedirs(BASE, exist_ok=True)
 
+
 def sort_platform(name, url, mapping):
     log = [f"[*] Sorting: {name}"]
 
@@ -13,7 +14,15 @@ def sort_platform(name, url, mapping):
     results = {v: [] for v in mapping.values()}
 
     for program in data:
-        for asset in program.get("InScope", []):
+        # Prevent crash when API returns null / None
+        if not isinstance(program, dict):
+            continue
+
+        in_scope = program.get("InScope")
+        if not isinstance(in_scope, list):
+            continue
+
+        for asset in in_scope:
             category = asset.get("Category", "").strip()
             target = asset.get("Target", "").strip()
             if category in mapping:
