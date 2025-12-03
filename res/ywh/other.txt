@@ -1,0 +1,82 @@
+(*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
+*.alasco.de
+*.alasco.rocks
+*.atg.se
+AS41690
+Any Other Applications found here: https://mysrc.group/project_detail?id=11
+Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
+Body Comp scale
+Body Scan scale
+Core Product
+CyberGhost VPN servers
+DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
+Device: JBL Authentics 200
+Device: JBL Authentics 300
+Device: JBL Authentics 500
+Device: JBL Bar 1000MK2
+Device: JBL Bar 1300MK2
+Device: JBL Bar 300MK2
+Device: JBL Bar 500MK2
+Device: JBL Bar 700MK2
+Device: JBL Bar 800MK2
+Device: JBL Boombox 3 Wi-Fi
+Device: JBL Charge 5
+Device: JBL Charge 5 Wi-Fi
+Device: JBL Flip 7
+Device: JBL Live Beam 3
+Device: JBL PartyBox Encore 2
+Device: JBL Tour One M3
+ExpressVPN Router
+ExpressVPN VPN servers
+Google Cloud Plateform Instances
+Hardware found on https://www.ezviz.com/category/security-wifi-cameras
+Hardware found on https://www.ezviz.com/category/smart-home
+In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
+PIA VPN servers
+Protocol of the Swiss Post Voting System
+Scanwatch
+Scanwatch 2
+Scanwatch Light
+Scanwatch Nova
+Scenarios with Special Bounties
+Source Code
+Specific scenarios (see program description)
+System Specification
+TrustedVPN 100,000 Bonus Award (See Program Policy for Info)
+https://*.grwtrading.com
+https://*.vidaxl.hk
+https://0-2744452194.s3.nbg01.de.dracoon.io
+https://apps.apple.com/se/app/atg-live/id1608156355
+https://bounty-cloud.dracoon.app/mediaserver
+https://bounty-cloud.dracoon.app/oauth
+https://bounty-cloud.dracoon.app/webdav
+https://bounty-server.dracoon.app/oauth
+https://bounty-server.dracoon.app/webdav
+https://doc.komoju.com/docs/fields-overview
+https://github.com/expressvpn/lightway
+https://github.com/expressvpn/lightway-core
+https://github.com/owncloud/activity
+https://github.com/owncloud/android
+https://github.com/owncloud/client
+https://github.com/owncloud/core
+https://github.com/owncloud/core/tree/master/apps/files
+https://github.com/owncloud/customgroups
+https://github.com/owncloud/gallery
+https://github.com/owncloud/guests
+https://github.com/owncloud/impersonate
+https://github.com/owncloud/ios-app
+https://github.com/owncloud/notifications
+https://github.com/owncloud/oauth2
+https://github.com/owncloud/ocis
+https://github.com/owncloud/openidconnect
+https://github.com/owncloud/richdocuments
+https://github.com/owncloud/updater
+https://github.com/owncloud/user_ldap
+https://github.com/owncloud/web
+https://github.com/owncloud/web-extensions
+https://github.com/tchapgouv
+https://multipay-staging.test.komoju.com
+https://parcelhubeurope.com
+https://vidaxlforwarding.com
+https://wgr-industries.com
+wellbeing.dzcdn.net

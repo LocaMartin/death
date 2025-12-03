@@ -1,0 +1,377 @@
+*.advisorsolutions.gs.com
+*.audible.(TLD)
+*.base.org
+*.capitalone.ca
+*.capitalone.com
+*.capitalonegslbex.com
+*.capitaloneshopping.com
+*.cloudflarepartners.com
+*.folioclient.com
+*.foliodigitalwealth.com
+*.foliofirst.com
+*.foliofn.com
+*.folioidentity.com
+*.folioinstitutional.com
+*.folioinvesting.com
+*.lightroom.adobe.com
+*.magiceden.dev
+*.magiceden.io
+*.magiceden.workers.dev
+*.nextcapital.com
+*.nnip.com
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
+*.say.rocks
+*.saytechnologies.com
+*.sc-corp.net
+*.uberinternal.com
+*.vennhypotheken.nl
+*.visamiddleeast.com
+*.vpn.hackerone.net
+*ubereats.com
+0x0d8775f648430679a709e98d2b0cb6250d2887ef
+0x44fcfabfbe32024a01b778c025d70498382cced0
+0x67fa2c06c9c6d4332f330e14a66bdf1873ef3d2b
+0x7c31560552170ce96c4a7b018e93cddc19dc61b6
+0xfbfa258b9028c7d4fc52ce28031469214d10daeb
+1.1.1.1 Resolver
+1474700 (Steam app id)
+3CX Live chat WordPress plugin
+3CX Phone System
+831287358355275877
+961114489414094898
+<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
+<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
+<locale>.trip.com
+AI Gateway
+AMP Real URL
+API Shield
+Acronis Cyber Infrastructure
+Adobe Commerce, Commerce B2B and Commerce Open Source
+All Assets (other than Blinkit)
+All Evergreen Assets (Excluding staging)
+All Mobile Assets
+All Other BitMEX Assets
+All other Assets
+Anchor
+Android & iOS App for Instacart Shoppers
+Android & iOS App for REI Customers
+Android App
+Any other Epic games owned asset not listed in the out of scope section
+Any other Malwarebytes asset
+Any public (Internet-facing) infrastructure owned and operated by Palantir.
+Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
+Any public cloud resource or infrastructure operated and managed by REI.
+Area 1
+Atlas Charts
+Atlas Data Federation
+Atlas IAM
+Atlas Payments/Billing
+Beeper
+Bot Management
+Braintree SDK
+Browser Isolation
+BrowserGuard (Firefox/Chrome/Safari browser extension)
+Burp Suite DAST
+C100447517
+C103149579
+C2PA Tool
+CDNJS
+Capital One Shopping Browser Extension
+Capture the Flag
+China Network
+Citrix End Point Analysis (EPA) client for Linux
+Citrix End Point Analysis (EPA) client for Windows
+Citrix Secure Access client for Linux
+Citrix Secure Access client for Windows
+Citrix Secure Access client for iOS
+Cloudflare Access
+Cloudflare Analytics
+Cloudflare CASB
+Cloudflare Cache
+Cloudflare D1
+Cloudflare DNS
+Cloudflare Durable Objects
+Cloudflare Pages
+Cloudflare R2
+Cloudflare Tunnel
+Cloudflare Workers CI
+Cloudflare Zaraz
+Cloudflare Zero Trust/Cloudflare One
+Cluster-To-Cluster sync
+Coda Chrome Extension
+Coinbase WaaS (Wallet as a Service)
+ColorOS
+Compass
+Content Authorization Targets
+Copilot
+Copilot Chat on dotcom
+Copilot Coding Agent
+Copilot Spaces
+Copilot for Business
+Core Assets
+Corporate Assets
+CrowdStrike public infrastructure
+Crowdsignal
+Crypto
+Crypto infrastructure for cold and hot wallets
+Crypto.com Wallet Extension
+Customer Connected Domain
+Customer Portal
+Data Loss Prevention (DLP)
+Data Protection Program
+Dependabot
+Elastic Clients
+Elastic Package Registry
+Elastic Synthetics Monitoring
+Enjin Blockchain
+Enjin Coin - Ethereum ERC-20 Contract
+Eno® Browser Extension
+Enterprise Edition Products and Tools
+EpicOnlineServices
+FIles.com REST API
+Faucets
+Figma Atlassian App
+Figma Desktop App
+Figma Slack App
+Figma for Microsoft Teams
+Figma iOS and Android apps
+Files.com Mobile App
+Files.com SDK's
+Freshservice Discovery Agent and Probe
+GHE
+Games Tier 1
+Games Tier 2
+Games Tier 3
+Gateway
+Geneva
+GitHub Actions in our Public Repositories
+GitHub CSP
+GitHub Enterprise Cloud
+GitHub Enterprise Cloud with Data Residency (GHEC-DR)
+GitHub Pages
+GitHub Production Credentials
+GitHub Spark
+GitHub for mobile
+GitLab for Jira Cloud
+Github Repositories or other public artifacts owned by makenotion
+Github findings
+Glassdoor Authentication
+Glassdoor Heritage
+Glassdoor Infrastructure & Misc
+Glassdoor Jobs
+Grammarly Browser Extensions
+H5G
+HubSpot Sales Office 365 add-in
+Hyperdrive
+Images
+Intellectual Property on Public Domains
+Jira
+Jira Projects
+Leaked Credentials
+Leaked/Сompromised Employee accounts
+Livestream software (Producer, Studio)
+Load Balancing
+Localized airbnb sites listed at the link below:
+Look at Me PH (subdomains)
+MIUI OS for Xiaomi Phone
+Mac OS Executable
+Magic Eden Wallet (Chrome Extension)
+Magic Firewall
+Magic Transit
+Magic WAN
+Malwarebytes Device Control
+Malwarebytes Privacy (VPN)
+Megaphone
+Merchant Portal
+Message signing snap
+MetaMask Browser Extension
+MetaMask SDK
+Microsites
+MongoDB Assistant
+MongoDB Atlas
+MongoDB Community Server
+MongoDB Connectors
+MongoDB IntelliJ Plugin
+MongoDB MCP Server
+MongoDB Owned GitHub Repositories
+MongoDB Partner Integrations
+MongoDB Shell
+Mozilla Ad Routing Service
+Mozilla VPN Clients
+NetScaler AAA
+NetScaler ADC
+NetScaler Gateway
+Non-Core Assets
+NordVPN Browser Extension
+Notion Authentication
+Notion Frontend
+Notion Integrations
+OKX Android APK
+OKX Wallet Chrome Extension
+OKX Wallet Edge Add-ons
+OKX Wallet Safari Extension
+OKX iOS APP
+Okta
+Open Source - Consoleme
+Open Source - Spectator
+Open Source - Weep
+Open Source - Zuul
+Open source tools from Cloudflare
+Organizations
+Other
+Other APK Assets
+Other Acronis Domains
+Other Assets
+Other Dyson Assets
+Other Hardware Assets
+Other HubSpot-owned (sub)domains not listed as Out of Scope
+Other In-Scope Assets
+Other Semrush Related Asset
+Other Spotify websites
+Other non-production infrastructure
+Passkey Wallet
+PayPal SDK
+Podsights
+Primary Assets
+Privilege Escalation
+Product API
+Product Delivery
+Public API
+Recon Data
+Relational Migrator
+SSL/TLS
+Sandboxes
+Secondary Assets
+Shopify Developed Apps
+Shopify Mobile Applications
+Slack Desktop Application
+Smokescreen Open Source Project
+Snaps
+Software Supply Chain
+Sonantic
+Spectrum
+Standalone Chrome extension
+Steam Client
+Steam Servers
+Stream
+Stripe Apps
+Stripe Atlas
+Stripe Billing
+Stripe Capital
+Stripe Checkout
+Stripe Climate
+Stripe Connect
+Stripe Dashboard
+Stripe Data Pipeline
+Stripe Elements
+Stripe Financial Connections
+Stripe Identity
+Stripe Invoicing
+Stripe Issuing
+Stripe Open Source
+Stripe Payment Links
+Stripe Payments
+Stripe Radar
+Stripe Revenue Recognition
+Stripe SDKs
+Stripe Sigma
+Stripe Tax
+Stripe Terminal
+Stripe Treasury
+Stripe for Visual Studio Code
+Subdomain Takeover (SDTO)
+Subdomain Takeover - konghq.com
+Superhuman Go
+Tap to Pay (Android)
+Tap to Pay (iOS)
+Texts
+ThreatDown Endpoint Detection & Response (EDR)
+ThreatDown Endpoint Protection
+Tier 1
+Tier 1 Assets
+Tier 1 Studios
+Tier 2
+Tier 2 Assets
+Tier 3
+Tier 3 Assets
+Tier A - Core Assets
+Tier B - Non Core (Bitmoji, Playcanvas)
+Tor
+Tor Browser
+Turnstile
+UID
+UniFi Cloud
+VHX Branded Customer Android Apps
+VHX Branded Customer Roku Apps
+VHX Branded Customer iOS Apps
+VPN
+VS Code Plugin
+Vectorize
+Vulnerability & Patch Management
+WARP Mobile Apps
+WARP desktop client
+WGP Slot Games
+WHOOP 4.0 STRAP
+WHOOP 5.0/MG STRAP
+Waiting Room
+Web3 Smart Contracts
+Wickr Me Android
+Wickr Me Linux
+Wickr Me OS X
+Wickr Me Windows
+Wickr Me iOS
+Wickr Pro Android
+Wickr Pro Linux
+Wickr Pro OS X
+Wickr Pro Windows
+Wickr Pro iOS
+Wickr Pro/Wickr Me (all related technical components) (up to)
+Windows OS Executable
+WooCommerce
+WordPress Plugins & Themes
+WordPress VIP
+Workers
+Workers KV
+Wrapped
+Yoti Password Manager browser extension
+Your Own GitLab Instance
+bankaccountdata.gocardless.com
+channelstore.roku.com/details/48061/vhx
+com.affirm.internal.hackerone
+e-Commerce
+elastic.co credentials
+github.com/deriv-com
+gs://faraday-secret
+gs://fdy-production-sdk-uploads
+https://admin.ring.com/*
+https://api.ring.com/*
+https://app.ring.com/*
+https://apps.facebook.com/pearls-peril
+https://apps.facebook.com/pokerheat
+https://apps.facebook.com/vegas_downtown_slots
+https://billing.ring.com/*
+https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
+https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
+https://fw.ring.com/*
+https://metamask.github.io/phishing-warning/<vX.Y.Z>
+https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
+https://nw.ring.com/*
+https://oauth.ring.com/*
+https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
+https://ring.com/*
+https://storage.googleapis.com/kubernetes-release/
+https://testflight.apple.com/join/533gFghn
+https://www.amazonpay.in/*
+iOS App
+join.whoop.com
+k8s.gcr.io
+mUSD Stablecoin
+mail.hostinger.com/v2
+mpa.qr.web.m-pesa.com
+s3://faraday-secret
+s3://faraday-uploads
+uber.com
+v1. kidswebservices.com
+v1staging.kidswebservices.com

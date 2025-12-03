@@ -1,0 +1,19 @@
+*.siilo.com
+Any Applications under https://www.expressvpn.com/latest
+Applications/Extensions under https://www.cyberghostvpn.com/download
+Applications/Extensions under https://www.privateinternetaccess.com/download
+Contentsquare SDK (cf : Program Description)
+MFA
+Native K8S workers and operator
+OIDC-based API keys
+https://app-*.easy4ipcloud.com
+https://app.easy4ipcloud.com
+https://github.com/Infomaniak/desktop-kDrive
+https://owncloud.org/install/#install-clients
+https://www.cyberghostvpn.com/en_US/apps/linux-vpn
+https://www.cyberghostvpn.com/en_US/apps/macos-vpn
+https://www.cyberghostvpn.com/en_US/apps/windows-vpn
+https://www.privateinternetaccess.com/download/linux-vpn
+https://www.privateinternetaccess.com/download/mac-vpn
+https://www.privateinternetaccess.com/download/windows-vpn
+https://www.teamviewer.com/en/products/teamviewer/

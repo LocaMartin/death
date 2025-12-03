@@ -1,0 +1,17 @@
+*. vfsevisa.id
+*.directverify.in
+*.docswallet.com
+*.findaya.co.id
+*.findaya.com
+*.gaming.gopayapi.com
+*.go-pay.co.id
+*.gobiz.co.id
+*.gofin.io
+*.gofood.co.id
+*.gojekapi.com
+*.gopayapi.com
+*.onevasco.com
+*.vascoworldwide.net
+*.vfsai.com
+*.vfsevisa.com
+*.vfsglobal.by

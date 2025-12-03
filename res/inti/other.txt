@@ -1,0 +1,120 @@
+7 News
+AOL (misc)
+AOL Help
+AOL Homepage
+AOL Mail
+AOL Search
+API's
+All other Web and mobile APPs owned by SBB
+Any related DPG media domain
+Backend/Non-Game
+C# SDK
+Confluence Cloud Plugin for Miro
+Dropbox Desktop Application
+Elvenar
+Engadget
+FPGA Solution Development Tools and Utilities
+Firmware
+Firmware: Mali Command Stream Frontend (CSF) Firmware
+Forge of Empires
+Gemini
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
+Grepolis
+Hardware
+Java SDK
+Jira Cards for Miro
+Jira Cloud Plugin for Miro
+Leaked/compromised employee accounts *.here.com
+Low Cost Access
+MacOs Desktop Application
+Membership
+Miro SDK
+Mobile Applications
+Mobile Apps
+Online Marketplace
+Other (Misc)
+PHP SDK
+React Native SDK
+Services
+SimScale API
+SimScale Platform
+Social Media Accounts
+Software
+Software: Mali GPU Kernel Driver
+TW Media: Front Page
+TW Media: News
+TW Media: Stock
+TW eCommerce: Auctions
+TW eCommerce: Shopping
+TW eCommerce: Used Car
+Ticketing Widget
+Tribal Wars
+TrueLayer for Magento (Magento plugin)
+TrueLayer for WooCommerce (WordPress plugin)
+WP Engine-developed WordPress Plugins and Themes
+Web SDK
+Windows Desktop Application
+Yahoo Calendar
+Yahoo Finance
+Yahoo HK News
+Yahoo Mail
+Yahoo News
+Yahoo Open Source Projects
+Yahoo Search
+Yahoo Sports: Best Ball
+Yahoo Sports: Daily Fantasy
+Yahoo Sports: Editorial
+Yahoo Sports: Fantasy Games
+Yahoo Sports: Fantasy Slate/PicknWin
+Yahoo Sports: Fantasy Sports
+Yahoo Sports: Fantasy Wallet
+Yahoo Sports: Mobile
+Yahoo Video
+Yahoo Weather
+Yahoo! (Misc)
+au01.miro.com
+dash.dropbox.com
+eLoxx: Authorization Center Microservice
+eLoxx: Device Center Microservice
+eLoxx: Locker Center Microservice
+eLoxx: Locker User Center Microservice
+eu01.miro.com
+eventhub.au01.miro.com
+eventhub.eu01.miro.com
+eventhub.us01.miro.com
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-python#False Positive
+https://github.com/AikidoSec/firewall-python#Vulnerability
+https://github.com/RIPE-NCC/rpki-commons
+https://github.com/RIPE-NCC/rpki-core
+https://github.com/RIPE-NCC/rpki-monitoring
+https://github.com/RIPE-NCC/rpki-publication-server
+https://github.com/RIPE-NCC/rpki-ta-0
+https://github.com/RIPE-NCC/rsyncit
+https://github.com/RIPE-NCC/whois
+iOS SDK
+integrations.au01.miro.com
+integrations.eu01.miro.com
+integrations.us01.miro.com
+mobile-api.coolblue-production.eu
+r.au01.miro.com, r01.a01.miro.com, r02.au01.miro.com
+r.eu01.miro.com, r01.eu01.miro.com, r02.eu01.miro.com
+r.us01.miro.com, r01.us01.miro.com, r02.us01.miro.com
+svc.au01.miro.com
+svc.eu01.miro.com
+svc.us01.miro.com
+svg-convert.au01.miro.com
+svg-convert.eu01.miro.com
+svg-convert.us01.miro.com
+truelayer-signing
+us01.miro.com

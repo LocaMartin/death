@@ -2,7 +2,7 @@
 
 import json
 import requests
-from sort import run_sort
+from lib.sort import run_sort
 
 def send_msg(msg: str):
     with open("config.json") as f:

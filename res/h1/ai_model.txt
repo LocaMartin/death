@@ -1,0 +1,4 @@
+GenAI Apps under *.amazon.*
+Notion AI
+Penny
+Workers AI
