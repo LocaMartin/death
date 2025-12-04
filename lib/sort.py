@@ -7,46 +7,56 @@ BASE = "res"
 os.makedirs(BASE, exist_ok=True)
 
 
+def ensure_dir(path):
+    """Create dir if missing."""
+    os.makedirs(path, exist_ok=True)
+
+
 def sort_platform(name, url, mapping):
     log = [f"[*] Sorting: {name}"]
 
-    data = requests.get(url).json()
+    ensure_dir(BASE)                                # ensure res/
+    platform_dir = f"{BASE}/{name}"
+    ensure_dir(platform_dir)                        # ensure /res/platform/
+
+    # Fetch JSON
+    try:
+        data = requests.get(url, timeout=30).json()
+    except Exception as e:
+        return f"[ERROR] {name} → Failed to fetch JSON: {e}"
+
+    # result buckets
     results = {v: [] for v in mapping.values()}
 
-    for program in data:
-        # Prevent crash when API returns null / None
+    for program in data or []:
         if not isinstance(program, dict):
             continue
 
-        in_scope = program.get("InScope")
-        if not isinstance(in_scope, list):
-            continue
-
-        for asset in in_scope:
-            category = asset.get("Category", "").strip()
+        for asset in program.get("InScope", []) or []:
+            category = mapping.get(asset.get("Category", "").strip())
             target = asset.get("Target", "").strip()
-            if category in mapping:
-                results[mapping[category]].append(target)
+            if category and target:
+                results[category].append(target)
 
-    platform_dir = f"{BASE}/{name}"
-    os.makedirs(platform_dir, exist_ok=True)
-
-    # Clear previous files
+    # delete old files
     for f in os.listdir(platform_dir):
         os.remove(os.path.join(platform_dir, f))
 
-    # Save & update log
+    # save updated files
     for cat, items in results.items():
-        unique = sorted(set(items))
-        count = len(unique)
-        log.append(f" → Extracted {cat} ({count} targets)")
-        if count > 0:
-            with open(f"{platform_dir}/{cat}.txt", "w") as f:
-                f.write("\n".join(unique))
+        file_path = f"{platform_dir}/{cat}.txt"
+        unique_items = sorted(set(items))
+        with open(file_path, "w") as f:
+            f.write("\n".join(unique_items))
+        log.append(f" → {cat}.txt : {len(unique_items)} scopes")
 
     log.append(f"[OK] {name} completed")
     return "\n".join(log)
 
+
+# ─────────────────────────────────────────────
+# PLATFORM-SPECIFIC MAPPINGS
+# ─────────────────────────────────────────────
 
 def sort_h1():
     mapping = {
@@ -114,16 +124,21 @@ def sort_inti():
     return sort_platform("inti", "https://bbscope.com/static/scope/latest-it.json", mapping)
 
 
+# ─────────────────────────────────────────────
+# MAIN CONTROLLER USED BY send.py
+# ─────────────────────────────────────────────
+
 def run_sort():
     return {
         "h1": sort_h1(),
         "bugc": sort_bugc(),
         "ywh": sort_ywh(),
-        "inti": sort_inti()
+        "inti": sort_inti(),
     }
 
 
 if __name__ == "__main__":
+    # For standalone testing
     print(sort_h1())
     print(sort_bugc())
     print(sort_ywh())

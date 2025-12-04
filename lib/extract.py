@@ -6,6 +6,9 @@ from pathlib import Path
 OUT_DIR = Path("out")
 RES_DIR = Path("res")
 
+OUT_DIR.mkdir(exist_ok=True)
+RES_DIR.mkdir(exist_ok=True)
+
 CATS = {
     "domain": set(),
     "url": set(),
@@ -14,42 +17,21 @@ CATS = {
     "wildcard": set()
 }
 
-def categorize(line: str):
+def categorize(line):
     line = line.strip()
+    if not line: return None
 
-    if not line:
-        return None
-
-    # URL
-    if re.match(r"^https?://", line, re.I):
-        return "url"
-
-    # CIDR
-    if re.match(r"^\d{1,3}(\.\d{1,3}){3}/\d{1,2}$", line):
-        return "cidr"
-
-    # IP
-    if re.match(r"^\d{1,3}(\.\d{1,3}){3}$", line):
-        return "ip"
-
-    # Wildcard domain
-    if re.match(r"^\*\.[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$", line):
-        return "wildcard"
-
-    # Domain
-    if re.match(r"^[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$", line):
-        return "domain"
-
+    if re.match(r"^https?://", line, re.I): return "url"
+    if re.match(r"^\d{1,3}(\.\d{1,3}){3}/\d{1,2}$", line): return "cidr"
+    if re.match(r"^\d{1,3}(\.\d{1,3}){3}$", line): return "ip"
+    if re.match(r"^\*\.[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$", line): return "wildcard"
+    if re.match(r"^[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$", line): return "domain"
     return None
 
 
 def merge_targets():
-    """Reads everything in res/ and outputs into out/ directory."""
-    # clear previous
-    OUT_DIR.mkdir(exist_ok=True)
-
     for key in CATS:
-        CATS[key].clear()   # clean for every run
+        CATS[key].clear()
 
     for file in RES_DIR.rglob("*.txt"):
         for line in open(file, errors="ignore"):

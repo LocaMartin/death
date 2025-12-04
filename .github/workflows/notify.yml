@@ -1,4 +1,4 @@
-name: Telegram Push Notifier
+name: TeleHub Push Notifier
 
 on:
   push:
@@ -21,5 +21,4 @@ jobs:
 
       - name: Run script
         run: python send.py
-      
 
