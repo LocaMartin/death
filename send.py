@@ -3,6 +3,7 @@
 import json
 import requests
 from lib.sort import run_sort
+from lib.obb import run_obb
 
 def send_msg(msg: str):
     with open("config.json") as f:
