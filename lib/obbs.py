@@ -1,25 +1,15 @@
-# send.py
-
 import os
 import json
 import requests
 from lib.sort import run_sort
 from lib.extract import merge_targets
-#from lib.obb import run_obb
-from lib.obbs import run_obb
+from lib.obb import run_obb
 
-'''
-from scripts.nxc import
-from scripts.ad import
-from scripts.dns import
-from scripts.header import
-from scripts.nxc import
-from scripts.telehub import
-'''
 
 def ensure_base_dirs():
     os.makedirs("res", exist_ok=True)
     os.makedirs("out", exist_ok=True)
+
 
 def send_msg(msg: str):
     with open("config.json") as f:
@@ -36,7 +26,8 @@ def send_msg(msg: str):
 if __name__ == "__main__":
     ensure_base_dirs()
 
-    logs = run_sort()  # returns logs for each platform
+    # 🔹 Sort all main platforms
+    logs = run_sort()  # returns dict: {"h1": "msg", "bugc": "msg", ...}
 
     for platform in ["h1", "bugc", "ywh", "inti"]:
         msg = logs.get(platform, "")
@@ -46,16 +37,18 @@ if __name__ == "__main__":
         else:
             print(f"[EMPTY] {platform}")
 
+    # 🔹 Merge output (combined all)
     merge_log = merge_targets()
     send_msg(merge_log)
     print("[SENT] Merge Log")
 
+    # 🔹 NEW — RUN OBB
     try:
         obb_file = run_obb()  # returns file path
         count = sum(1 for _ in open(obb_file))
         filename = os.path.basename(obb_file)
 
-        send_msg(f"OpenBugBounty updated\nFile: {filename}\nTotal domains: {count}")
+        send_msg(f"📌 OpenBugBounty updated\nFile: {filename}\nTotal domains: {count}")
         print("[SENT] OBB Update")
 
     except Exception as e:
