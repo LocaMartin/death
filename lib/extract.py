@@ -38,6 +38,7 @@ def merge_targets():
             f.unlink()
         except Exception:
             pass
+        
     for file in RES_DIR.rglob("*.txt"):
         for line in open(file, errors="ignore"):
             cat = categorize(line)
