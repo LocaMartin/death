@@ -5,8 +5,7 @@ import json
 import requests
 from lib.sort import run_sort
 from lib.extract import merge_targets
-#from lib.obb import run_obb
-from lib.obbs import run_obb
+from lib.obb import run_obb
 
 '''
 from scripts.nxc import
