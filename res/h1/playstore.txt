@@ -238,7 +238,6 @@ com.scopely.yux
 com.skypicker.main
 com.snapchat.android
 com.spotify.kids
-com.spotify.lite
 com.spotify.music
 com.spotify.s4a
 com.spotify.tv.android

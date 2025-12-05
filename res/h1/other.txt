@@ -103,6 +103,7 @@ Cluster-To-Cluster sync
 Coda Chrome Extension
 Coinbase WaaS (Wallet as a Service)
 ColorOS
+CometBFT
 Compass
 Content Authorization Targets
 Copilot
@@ -112,6 +113,8 @@ Copilot Spaces
 Copilot for Business
 Core Assets
 Corporate Assets
+CosmWasm
+Cosmos SDK
 CrowdStrike public infrastructure
 Crowdsignal
 Crypto
@@ -163,8 +166,11 @@ Glassdoor Infrastructure & Misc
 Glassdoor Jobs
 Grammarly Browser Extensions
 H5G
+Hermes Relayer
+Horcrux
 HubSpot Sales Office 365 add-in
 Hyperdrive
+IBC Go Relayer
 Images
 Intellectual Property on Public Domains
 Jira
@@ -231,6 +237,7 @@ Other In-Scope Assets
 Other Semrush Related Asset
 Other Spotify websites
 Other non-production infrastructure
+Packet Forward Middleware
 Passkey Wallet
 PayPal SDK
 Podsights
@@ -250,6 +257,7 @@ Slack Desktop Application
 Smokescreen Open Source Project
 Snaps
 Software Supply Chain
+Solidity IBC Eureka
 Sonantic
 Spectrum
 Standalone Chrome extension
@@ -365,6 +373,7 @@ https://storage.googleapis.com/kubernetes-release/
 https://testflight.apple.com/join/533gFghn
 https://www.amazonpay.in/*
 iOS App
+ibc-go
 join.whoop.com
 k8s.gcr.io
 mUSD Stablecoin

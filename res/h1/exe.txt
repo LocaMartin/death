@@ -21,7 +21,6 @@ Beats - Packetbeat
 Beats - Winlogbeat
 Burp Collaborator
 Burp Suite Pro/Community
-CFEngine Enterprise
 ColdFusion
 Database Tools
 Desktop Client
