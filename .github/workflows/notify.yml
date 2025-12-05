@@ -22,3 +22,10 @@ jobs:
       - name: Run script
         run: python send.py
 
+      - name: Commit & push out folder
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git add out
+          git commit -m "Update out directory" || echo "No changes to commit"
+          git push
