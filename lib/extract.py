@@ -33,6 +33,11 @@ def merge_targets():
     for key in CATS:
         CATS[key].clear()
 
+    for f in OUT_DIR.glob("*"):
+        try:
+            f.unlink()
+        except Exception:
+            pass
     for file in RES_DIR.rglob("*.txt"):
         for line in open(file, errors="ignore"):
             cat = categorize(line)
