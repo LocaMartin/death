@@ -1,23 +1,15 @@
-# Telegram Push Notifier
-
-This repository sends a message to a Telegram bot each time a push happens.
-
-## How it works
-A GitHub Action runs automatically after every push and executes `send.py`, which sends:
-
-> "hi, it's working"
-
-
-to the Telegram chat linked to the bot.
-
-## Setup
-1. Go to Settings ➜ Secrets ➜ Actions
-2. Add two secrets:
-
-| Name       | Value |
-|------------|-------|
-| BOT_TOKEN  | Your Telegram bot token |
-| CHAT_ID    | Your chat ID |
-
-After adding secrets, commit or push anything — you will receive a Telegram notification.
-
+<div align="center">
+<img src="logo.png"/>
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+  <text 
+    x="300" 
+    y="130" 
+    font-family="Arial Black, Impact, sans-serif" 
+    font-size="92" 
+    font-weight="900" 
+    fill="red" 
+    text-anchor="middle">
+    I AM DEATH
+  </text>
+</svg>
+</div>
