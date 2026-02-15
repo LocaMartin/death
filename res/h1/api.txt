@@ -2,9 +2,12 @@
 Crypto.com Exchange APIs that require an account
 Crypto.com mobile app APIs that require an account
 Glassdoor APIs
+Twilio APIs
 api-gateway.polygon.technology
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
+api.segment.io
+api.twilio.com
 app.klarna.com
 balance-api.polygon.technology/
 faucet-api.polygon.technology/
@@ -14,4 +17,7 @@ https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
 https://events.1password.com/api/
 https://ob-sandbox.gocardless.io
+https://www.twilio.com/docs/authy/api
+https://www.twilio.com/docs/verify/api
 hub-api-sandbox.remitly.io
+prod.meeshoapi.com

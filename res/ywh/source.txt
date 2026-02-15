@@ -17,11 +17,11 @@ Security Vulnerability in OpenPGP.js's high-level API
 Security Vulnerability in the OpenPGP Standard
 Sequoia git Specification
 Shared OpenPGP Certificate Directory
+SoupSession (libsoup client)
 Web of Trust Specification
 buffered-reader
 chameleon
 glib-networking
-https://github.com/ImageMagick/ImageMagick
 https://github.com/bigbluebutton/bbb-playback
 https://github.com/bigbluebutton/bbb-presentation-video
 https://github.com/bigbluebutton/bbb-webrtc-recorder
@@ -31,12 +31,20 @@ https://github.com/bigbluebutton/greenlight
 https://github.com/blindsidenetworks/scalelite
 https://github.com/jenkinsci/credentials-binding-plugin
 https://github.com/jenkinsci/credentials-plugin
+https://github.com/jenkinsci/git-client-plugin
+https://github.com/jenkinsci/git-plugin
 https://github.com/jenkinsci/jelly
 https://github.com/jenkinsci/jenkins
+https://github.com/jenkinsci/ldap-plugin
+https://github.com/jenkinsci/matrix-auth-plugin
+https://github.com/jenkinsci/plain-credentials-plugin
 https://github.com/jenkinsci/script-security-plugin
+https://github.com/jenkinsci/ssh-agents-plugin
+https://github.com/jenkinsci/ssh-credentials-plugin
 https://github.com/jenkinsci/stapler
 https://github.com/jenkinsci/winstone
 https://github.com/jenkinsci/workflow-cps-plugin
+https://github.com/jenkinsci/workflow-scm-step-plugin
 https://github.com/nextcloud/activity
 https://github.com/nextcloud/android
 https://github.com/nextcloud/bruteforcesettings
@@ -67,7 +75,6 @@ https://github.com/pendulum-project/clock-steering
 https://github.com/pendulum-project/ntpd-rs
 https://github.com/pendulum-project/timestamped-socket
 https://gitlab.isc.org/isc-projects/bind9
-libsoup
 libsystemd
 nettle-rs
 nettle-sys
@@ -94,7 +101,6 @@ systemd-gpt-auto-generator
 systemd-hostnamed
 systemd-journald
 systemd-logind
-systemd-networkd
 systemd-resolved
 systemd-stub
 systemd-timesyncd

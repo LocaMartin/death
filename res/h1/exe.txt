@@ -2,7 +2,6 @@
 406056744
 Acronis Agent
 Acronis Cloud Manager
-Acronis Cyber Files
 Acronis Cyber Protect
 Acronis DeviceLock DLP
 Acronis Snap Deploy
@@ -19,6 +18,7 @@ Beats - Metricbeat
 Beats - Osquerybeat
 Beats - Packetbeat
 Beats - Winlogbeat
+Brave Browser Desktop
 Burp Collaborator
 Burp Suite Pro/Community
 ColdFusion
@@ -73,7 +73,6 @@ Logitech MIXLINE
 Logitech Sync
 Logstash
 Mac OS Executable: Download here https://www.larksuite.com/download
-Malwarebytes Incident Response
 Malwarebytes Remediation for CrowdStrike
 Malwarebytes Support Tool (MBST)
 Malwarebytes ToolSet (MBTS)
@@ -102,6 +101,7 @@ UEFN
 UISP
 UNMS
 UniFi Network Application
+UniFi OS Server
 UnrealEditorFortnite-Win64-Shipping.exe
 Virtual Office Desktop
 Windows OS Executable: Download here https://www.larksuite.com/download
@@ -111,16 +111,5 @@ eufyMake Studio software
 hey-mail
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
-https://laptop-updates.brave.com/latest/dev/debian64
-https://laptop-updates.brave.com/latest/dev/ubuntu64
-https://laptop-updates.brave.com/latest/fedora64
-https://laptop-updates.brave.com/latest/linux64
-https://laptop-updates.brave.com/latest/mint64
-https://laptop-updates.brave.com/latest/openSUSE64
-https://laptop-updates.brave.com/latest/osx
-https://laptop-updates.brave.com/latest/winia32
-https://laptop-updates.brave.com/latest/winx64
 https://salesforce.quip.com/blog/desktop
-https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
-https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 npm CLI

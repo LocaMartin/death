@@ -30,20 +30,14 @@
 *.visamiddleeast.com
 *.vpn.hackerone.net
 *ubereats.com
-0x0d8775f648430679a709e98d2b0cb6250d2887ef
-0x44fcfabfbe32024a01b778c025d70498382cced0
-0x67fa2c06c9c6d4332f330e14a66bdf1873ef3d2b
-0x7c31560552170ce96c4a7b018e93cddc19dc61b6
-0xfbfa258b9028c7d4fc52ce28031469214d10daeb
 1.1.1.1 Resolver
 1474700 (Steam app id)
 3CX Live chat WordPress plugin
 3CX Phone System
-831287358355275877
-961114489414094898
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
 <Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 <locale>.trip.com
+@privy-io controlled namespace dependencies
 AI Gateway
 AMP Real URL
 API Shield
@@ -58,6 +52,7 @@ Anchor
 Android & iOS App for Instacart Shoppers
 Android & iOS App for REI Customers
 Android App
+Any host/web property verified to be owned by Twilio et al.
 Any other Epic games owned asset not listed in the out of scope section
 Any other Malwarebytes asset
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
@@ -124,6 +119,7 @@ Customer Connected Domain
 Customer Portal
 Data Loss Prevention (DLP)
 Data Protection Program
+Databricks Free Edition
 Dependabot
 Elastic Clients
 Elastic Package Registry
@@ -133,6 +129,7 @@ Enjin Coin - Ethereum ERC-20 Contract
 Eno® Browser Extension
 Enterprise Edition Products and Tools
 EpicOnlineServices
+Extremely high properties
 FIles.com REST API
 Faucets
 Figma Atlassian App
@@ -148,7 +145,6 @@ Games Tier 1
 Games Tier 2
 Games Tier 3
 Gateway
-Geneva
 GitHub Actions in our Public Repositories
 GitHub CSP
 GitHub Enterprise Cloud
@@ -161,6 +157,7 @@ GitLab for Jira Cloud
 Github Repositories or other public artifacts owned by makenotion
 Github findings
 Glassdoor Authentication
+Glassdoor Employer Center
 Glassdoor Heritage
 Glassdoor Infrastructure & Misc
 Glassdoor Jobs
@@ -180,13 +177,12 @@ Leaked/Сompromised Employee accounts
 Livestream software (Producer, Studio)
 Load Balancing
 Localized airbnb sites listed at the link below:
-Look at Me PH (subdomains)
 MIUI OS for Xiaomi Phone
 Mac OS Executable
-Magic Eden Wallet (Chrome Extension)
 Magic Firewall
 Magic Transit
 Magic WAN
+Main corporate site
 Malwarebytes Device Control
 Malwarebytes Privacy (VPN)
 Megaphone
@@ -220,9 +216,8 @@ OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
 Okta
-Open Source - Consoleme
+Open Scope
 Open Source - Spectator
-Open Source - Weep
 Open Source - Zuul
 Open source tools from Cloudflare
 Organizations
@@ -233,10 +228,10 @@ Other Assets
 Other Dyson Assets
 Other Hardware Assets
 Other HubSpot-owned (sub)domains not listed as Out of Scope
-Other In-Scope Assets
 Other Semrush Related Asset
 Other Spotify websites
 Other non-production infrastructure
+Other related e-commerce services
 Packet Forward Middleware
 Passkey Wallet
 PayPal SDK
@@ -247,6 +242,7 @@ Product API
 Product Delivery
 Public API
 Recon Data
+Recruitment services
 Relational Migrator
 SSL/TLS
 Sandboxes
@@ -260,7 +256,6 @@ Software Supply Chain
 Solidity IBC Eureka
 Sonantic
 Spectrum
-Standalone Chrome extension
 Steam Client
 Steam Servers
 Stream
@@ -295,6 +290,7 @@ Superhuman Go
 Tap to Pay (Android)
 Tap to Pay (iOS)
 Texts
+ThreatDown Browser Phishing Protection
 ThreatDown Endpoint Detection & Response (EDR)
 ThreatDown Endpoint Protection
 Tier 1
@@ -345,6 +341,7 @@ Workers KV
 Wrapped
 Yoti Password Manager browser extension
 Your Own GitLab Instance
+[Unico] Liveness Bypass
 bankaccountdata.gocardless.com
 channelstore.roku.com/details/48061/vhx
 com.affirm.internal.hackerone
@@ -361,7 +358,6 @@ https://apps.facebook.com/pokerheat
 https://apps.facebook.com/vegas_downtown_slots
 https://billing.ring.com/*
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
-https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
 https://fw.ring.com/*
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
 https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
@@ -372,6 +368,13 @@ https://ring.com/*
 https://storage.googleapis.com/kubernetes-release/
 https://testflight.apple.com/join/533gFghn
 https://www.amazonpay.in/*
+https://www.npmjs.com/package/@privy-io/cross-app-connect
+https://www.npmjs.com/package/@privy-io/cross-app-provider
+https://www.npmjs.com/package/@privy-io/expo
+https://www.npmjs.com/package/@privy-io/js-sdk-core
+https://www.npmjs.com/package/@privy-io/wagmi
+https://www.twilio.com/docs/libraries
+https://www.twilio.com/en-us/blog/get-started-webrtc
 iOS App
 ibc-go
 join.whoop.com
@@ -381,6 +384,7 @@ mail.hostinger.com/v2
 mpa.qr.web.m-pesa.com
 s3://faraday-secret
 s3://faraday-uploads
+smtp.sendgrid.net
 uber.com
 v1. kidswebservices.com
 v1staging.kidswebservices.com

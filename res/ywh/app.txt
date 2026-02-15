@@ -6,6 +6,8 @@ Contentsquare SDK (cf : Program Description)
 MFA
 Native K8S workers and operator
 OIDC-based API keys
+Spacelift Intent
+https://airflow-mcp.data.dailymotion.com/*
 https://app-*.easy4ipcloud.com
 https://app.easy4ipcloud.com
 https://github.com/Infomaniak/desktop-kDrive

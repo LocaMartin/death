@@ -1,35 +1,12 @@
 Android Playstation App
 Citrix Secure Access client for Android
-Drogas.Latvia.Android
-Drogas.Lietuva.Android
-Fortress.HongKong.Android
 Glassdoor Android
 HubSpot Android Mobile App
-ICIParisXL.App.Android
 Klarna Android App (com.myklarnamobile)
-Kruidvat.Belgium.Android
-Kruidvat.Netherlands.Android
-Marionnaud.Austria.Android
-Marionnaud.France.Android
-Marionnaud.Italy.Android
-Marionnaud.Romania.Android
-Marionnaud.Switzerland.Android
-MoneyBack.HongKong.Android
 Netflix Mobile Application for Android
-PNS.HongKong.Android
 Saily - Android
 Starbucks China Android
 Starbucks Japan Android
-Superdrug.App.Android
-ThePerfumeShop.App.Android
-Watsons.HongKong.Android
-Watsons.Indonesia.Android
-Watsons.Malaysia.Android
-Watsons.Philippines.Android
-Watsons.Singapore.Android
-Watsons.TaiWan.Android
-Watsons.Thailand.Android
-Watsons.Turkey.Android
 ai.kanghealth
 ai.x.grok
 air.com.bitrhymes.bingo
@@ -39,7 +16,6 @@ air.com.playtika.slotomania
 amazon.speech.sim
 ca.koho
 co.mona.android
-co.tide.tideplatform.in
 com.Hyatt
 com.Seriously.BestFiends
 com.Seriously.Phoenix
@@ -105,7 +81,6 @@ com.blinkit.bistro
 com.boozt
 com.booztlet
 com.brave.browser
-com.brave.browser_beta
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -120,7 +95,6 @@ com.coloros.browser
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.dashlane
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -130,8 +104,6 @@ com.ebookers
 com.eero.android
 com.einnovation.temu
 com.enjin.mobile.wallet
-com.etoro.openbook
-com.etoro.wallet
 com.evernote
 com.exness.android.pa
 com.exness.investments
@@ -188,10 +160,10 @@ com.logitech.circle
 com.logitech.logue
 com.logitech.ueboom
 com.lyst.lystapp
-com.magiceden.wallet
 com.magisto
 com.marcus.android
 com.marcus.android.uk
+com.meesho.supply
 com.mercadoenvios.crowdsourcing
 com.mercadoenvios.driver
 com.mercadoenvios.logistics
@@ -210,9 +182,7 @@ com.oceanwing.FDMPrint
 com.oceanwing.battery.cam
 com.oceanwing.care.cam
 com.oplus.account
-com.oplus.member
 com.oplus.themestore
-com.oplus.vip
 com.oppo.market
 com.oppo.store
 com.orbitz
@@ -230,6 +200,7 @@ com.ringapp
 com.ripio.android
 com.robinhood.android
 com.robinhood.gateway
+com.robinhood.global Android
 com.robinhood.money
 com.romwe
 com.scopely.monopolygo
@@ -248,7 +219,6 @@ com.streamlabs
 com.streamlabs.slobsrc
 com.stripe.android.dashboard
 com.syfe
-com.tideplatform.banking
 com.tiktok.tv
 com.tiktokshop.seller
 com.tinder
@@ -264,6 +234,7 @@ com.ubnt.easyunifi
 com.ubnt.umobile
 com.urbanclap.provider
 com.urbanclap.urbanclap
+com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
 com.vimeo.android.videoapp
@@ -290,39 +261,41 @@ com.zhiliao.musically.livewallpaper
 com.zhiliaoapp.musically
 com.zzkko
 company.thebrowser.arc
-exodusmovement.exodus
+dif.tech.plata
 fi.reworks.redecor
 fi.spankki
 fm.anchor.android
 https://play.google.com/store/apps/details?id=com.booking&hl=en
 https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en
 https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
-https://play.google.com/store/apps/details?id=com.google.android.apps.diabetes
+https://play.google.com/store/apps/details?id=com.exodus.grateful
 https://play.google.com/store/apps/details?id=com.moonpay
-https://play.google.com/store/apps/details?id=com.porsche.one
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
 https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 https://play.google.com/store/apps/details?id=com.verily.me
 https://play.google.com/store/apps/details?id=com.worldcoin
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
+https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
 https://play.google.com/store/apps/dev?id=5503565801970655430&gl=gb
 https://play.google.com/store/apps/dev?id=8912907283039023448&gl=GB
 https://play.google.com/store/apps/dev?id=9151483005769461618&gl=GB
 https://play.google.com/store/apps/developer?id=Sky+Betting+and+Gaming+Apps&gl=uk
 https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps
+https://www.authy.com/download/
 in.amazon.mShop.android.business.shopping
 in.amazon.mShop.android.shopping
 io.coda.codaapp
-io.getdelta.android
 io.metamask
 it.niedermann.owncloud.notes
 lol.onevone
+net.bitstamp.app
 net.supertreat.solitaire
 net.wooga.junes_journey_hidden_object_mystery_game
 net.wooga.switchcraft.googleplay
 net.wooga.tropicats_tropical_cats_puzzle_paradise
 notion.id
+om.vodafone.mva
 org.hartfordhealthcare.hhc247
 org.malwarebytes.antimalware
 org.toshi

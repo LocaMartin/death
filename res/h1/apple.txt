@@ -35,6 +35,7 @@
 1452166623
 1454725763
 1456293789
+1457958492
 1475021574
 1476615877
 1478350915
@@ -54,9 +55,9 @@
 1552455423
 1579372261
 1589023233
+1589071345
 1591003012
 1592204907
-1604650263
 1634080733
 1641486558
 1659883691
@@ -84,7 +85,6 @@
 407558537
 425194759
 427916203
-429704844
 434613896
 447553564
 448142450
@@ -156,12 +156,9 @@
 993135524
 Anker
 Citrix Secure Access client for macOS
-Drogas.Latvia.iOS
-Drogas.Lietuva.iOS
 Exness Investor
 Exness Social Trading
 Exness Trade: Online Trading
-Fortress.HongKong.IOS
 Freshcaller-iOS-App
 Freshchat-iOS-App
 Freshdesk-iOS-App
@@ -170,36 +167,15 @@ Freshservice-iOS-App
 GS Select iOS app
 Glassdoor iOS
 HubSpot iOS Mobile App
-ICIParisXL.App.IOS
+Id1406825640
 Klarna iOS App (com.klarna.app)
-Kruidvat.Belgium.iOS
-Kruidvat.Netherlands.iOS
-Lookatme.Philippines.Android
-Lookatme.Philippines.IOS
-Marionnaud.Austria.iOS
-Marionnaud.France.iOS
-Marionnaud.Italy.iOS
-Marionnaud.Romania.iOS
-Marionnaud.Switzerland.iOS
-MoneyBack.HongKong.iOS
 Netflix Mobile Application for iOS
-PNS.HongKong.iOS
 Saily - iOS
 Starbucks China iOS
 Starbucks Japan iOS
-ThePerfumeShop.App.iOS
-Watsons.HongKong.IOS
-Watsons.Indonesia.IOS
-Watsons.Malaysia.IOS
-Watsons.Philippines.IOS
-Watsons.Singapore.IOS
-Watsons.TaiWan.IOS
-Watsons.Thailand.IOS
-Watsons.Turkey.iOS
 adobe.fresco.ios
 ai.x.GrokApp
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
-co.tide
 com.3mosquitos.MercadoLibre
 com.adobe.Adobe-Reader
 com.adobe.PSMobile
@@ -209,22 +185,17 @@ com.airbnb.app
 com.anchorfminc.Anchor
 com.anker.AnkerMake
 com.atebits.Tweetie2
-com.badoo.hotornot
 com.basecamp.bc3-ios
 com.bitstrips.imoji
 com.boozt.app
 com.boozt.booztlet
 com.brave.ios.browser
 com.clay.ios
-com.coinbase.ios
 com.coinhako.app
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.dashlane.dashlanephonefinal
 com.defi.wallet
 com.enjin.mobile.wallet
-com.etoro.openbook
-com.etoro.wallet
 com.eufylife.EufyHome
 com.foxnextgames.m3
 com.frontapp.mobile
@@ -238,7 +209,6 @@ com.hypr.one
 com.iphone.workfront
 com.kayak.travel
 com.luxuryretreats.ios
-com.magiceden.wallet
 com.malwarebytes.Malwarebytes
 com.marcus.ios-uk
 com.marcus.ios-us
@@ -254,7 +224,6 @@ com.pieyel.scrabble
 com.quora.app.mobile
 com.ripio.ios
 com.scopely.yux
-com.secretkeylabs.xverse
 com.security.BatteryCam
 com.security.care
 com.skypicker.Skypicker
@@ -268,6 +237,7 @@ com.toyopagroup.picaboo
 com.trip.ios
 com.tumblr.tumblr
 com.valvesoftware.Steam
+com.vilcsak.bitcoin2
 com.wealthsimple.wealthsimple
 com.wf.ceomobile
 com.wf.mobilebanking
@@ -279,7 +249,6 @@ exodus-movement.exodus
 https://apps.apple.com/app/chia-signer/id6504493785
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
-https://apps.apple.com/de/app/my-porsche/id1559529059
 https://apps.apple.com/mx/app/debix/id1581440132
 https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871
 https://apps.apple.com/mx/app/six-id/id1620496931
@@ -290,19 +259,21 @@ https://apps.apple.com/us/app/bme-conecta/id6443938949
 https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839
 https://apps.apple.com/us/app/bybit-app/id1488296980
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
+https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
+https://apps.apple.com/us/app/grateful-by-exodus/id6754093889
 https://apps.apple.com/us/app/hhc-24-7/id6741442288
-https://apps.apple.com/us/app/onduo/id1138490045
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
 https://apps.apple.com/us/app/verily-me/id6448808133
+https://www.authy.com/download/
 iOS Playstation App
 id1427744264
 id1520720139
 id1534920947
 id1621328561
+id6443932656
 id6472513080
 io.coda
-io.getdelta.ios
 io.metamask.Metamask
 it.twsweb.Nextcloud
 org.toshi.distribution

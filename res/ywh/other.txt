@@ -42,11 +42,15 @@ Scenarios with Special Bounties
 Source Code
 Specific scenarios (see program description)
 System Specification
-TrustedVPN 100,000 Bonus Award (See Program Policy for Info)
+TrustedServer 100,000 Bonus Award (See Program Policy for Info)
+Zivver Chrome Extension
+Zivver OWA add-in
+Zivver Outlook Plugin
 https://*.grwtrading.com
 https://*.vidaxl.hk
 https://0-2744452194.s3.nbg01.de.dracoon.io
 https://apps.apple.com/se/app/atg-live/id1608156355
+https://bigquery-mcp.data.dailymotion.com/
 https://bounty-cloud.dracoon.app/mediaserver
 https://bounty-cloud.dracoon.app/oauth
 https://bounty-cloud.dracoon.app/webdav
@@ -54,7 +58,6 @@ https://bounty-server.dracoon.app/oauth
 https://bounty-server.dracoon.app/webdav
 https://doc.komoju.com/docs/fields-overview
 https://github.com/expressvpn/lightway
-https://github.com/expressvpn/lightway-core
 https://github.com/owncloud/activity
 https://github.com/owncloud/android
 https://github.com/owncloud/client
@@ -77,6 +80,5 @@ https://github.com/owncloud/web-extensions
 https://github.com/tchapgouv
 https://multipay-staging.test.komoju.com
 https://parcelhubeurope.com
-https://vidaxlforwarding.com
 https://wgr-industries.com
 wellbeing.dzcdn.net
