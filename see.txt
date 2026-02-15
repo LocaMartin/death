@@ -1,3 +1,0 @@
-go install github.com/sw33tLie/bbscope@latest
-
-bbscope immunefi
