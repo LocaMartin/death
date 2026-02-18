@@ -2,3 +2,11 @@
 <img src="logo.png"/>
 <img src="death.svg"/>
 </div>
+
+
+```yml
+git pull --rebase origin main
+```
+```yml
+git push origin main
+```
