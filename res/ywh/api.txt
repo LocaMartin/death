@@ -1,7 +1,5 @@
 *.api.dailymotion.com
 *.api.louisvuitton.com
-*.super-id.net
-*.superbank.id
 ExpressVPN APIs
 api-js.datadome.co
 api.alasco.de

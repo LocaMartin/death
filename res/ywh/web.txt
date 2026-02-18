@@ -132,7 +132,6 @@ https://datadome.co
 https://developer.paddle.com
 https://developer.withings.com/dashboard/
 https://ecohesion.aufbaubank.de
-https://ecosystem-experience.super-id.net
 https://emistores.pinelabs.com/
 https://equatorialguinea-evisa.com
 https://eshop.salt.ch
@@ -243,7 +242,6 @@ https://www.pinelabs.my/
 https://www.pinelabs.us/
 https://www.saturn.de
 https://www.sncf-connect.com
-https://www.superbank.id/
 https://www.tchap.gouv.fr
 https://www.vfsglobalservices-germany.com/Global-Appointment/
 https://www.vfsvisaservice.com/

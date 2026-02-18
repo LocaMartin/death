@@ -684,8 +684,6 @@
 *.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
-*.super-id.net
-*.superbank.id
 *.superbet.com
 *.superbet.pl
 *.superbet.ro

@@ -38,7 +38,6 @@ https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
 https://play.google.com/store/apps/details?id=deezer.android.app
 https://play.google.com/store/apps/details?id=es.mediamarkt.app
 https://play.google.com/store/apps/details?id=fr.gouv.tchap.a&hl=fr
-https://play.google.com/store/apps/details?id=id.co.bankfama.android&hl=en
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
 https://play.google.com/store/apps/details?id=it.mediamarket.mediaworld
 https://play.google.com/store/apps/details?id=nl.com.media.markt
