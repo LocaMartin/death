@@ -1,0 +1,50 @@
+name: Nuclei Header Scan
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 3 * * *"   # runs daily at 03:30 UTC
+  push:
+    paths:
+      - "out/**"
+
+jobs:
+  nuclei:
+    if: github.actor != 'github-actions'
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Install Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      - name: Install Nuclei
+        run: |
+          go install -v github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
+          echo "$HOME/go/bin" >> $GITHUB_PATH
+
+      - name: Update Nuclei Templates
+        run: nuclei -update-templates
+
+      - name: Run Header-Based Templates
+        run: |
+          nuclei \
+            -l out/subdomains.txt \
+            -t http/vulnerabilities/generic/oob-header-based-interaction.yaml,http/vulnerabilities/generic/host-header-injection.yaml \
+            -nh -stats \
+            -o header.log
+
+      - name: Commit Results
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git add header.log
+          git commit -m "Auto update: Nuclei header scan results" || echo "No changes"
+          git push
