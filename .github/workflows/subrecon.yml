@@ -1,0 +1,43 @@
+name: Wildcard Subfinder Scan
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"  # Runs every day at 3 AM UTC"
+
+jobs:
+  recon:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      - name: Install Subfinder
+        run: |
+          go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+          echo "$HOME/go/bin" >> $GITHUB_PATH
+
+      - name: Prepare Domains
+        run: |
+          cat out/wildcards.txt out/urls.txt \
+          | sed 's|https\?://||' \
+          | sed 's|/.*||' \
+          | grep '^\*\.' \
+          | sed 's|^\*\.||' \
+          | sort -u > out/subfinder_input.txt
+
+      - name: Run Subfinder
+        run: |
+          subfinder -dL out/subfinder_input.txt -all -recursive -o out/subdomains.txt
+
+      - name: Commit Results
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git add out/subdomains.txt
+          git commit -m "Auto update subdomains" || echo "No changes"
+          git push
