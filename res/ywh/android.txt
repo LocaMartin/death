@@ -18,7 +18,6 @@ https://play.google.com/store/apps/details?id=com.gojek.app
 https://play.google.com/store/apps/details?id=com.gojek.gopay&hl=id
 https://play.google.com/store/apps/details?id=com.infomaniak.drive
 https://play.google.com/store/apps/details?id=com.infomaniak.mail&hl=en_US
-https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.media.markt
 https://play.google.com/store/apps/details?id=com.media.saturn
 https://play.google.com/store/apps/details?id=com.moneyboxapp

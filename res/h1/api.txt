@@ -9,7 +9,6 @@ api-polygon-tokens.polygon.technology/
 api.segment.io
 api.twilio.com
 app.klarna.com
-balance-api.polygon.technology/
 faucet-api.polygon.technology/
 funding-webhooks.remitly.io
 gasstation.polygon.technology/

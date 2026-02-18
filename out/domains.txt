@@ -280,7 +280,6 @@ api2.frontapp.com
 api2.grofers.com
 apigw.foliofn.com
 apis.mail.yahoo.com
-apis.onecloud.harman.com
 apix.vodafone.om
 app-insiders.marriott.com
 app.Reclaim.ai
@@ -1105,7 +1104,6 @@ ebsext.oft.hyatt.com
 ecrf.uzleuven.be
 edge.lansweeper.com
 edgeapi.slack.com
-edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
 editeurs.monespacesante.fr
@@ -1146,7 +1144,6 @@ eventhub.au01.miro.com
 eventhub.eu01.miro.com
 eventhub.us01.miro.com
 events.launchdarkly.com
-events.onecloud.harman.com
 ews-fusion.my.site.com
 exchange.opera.com
 exness.com
@@ -1704,7 +1701,6 @@ org.malwarebytes.antimalware
 org.toshi
 org.toshi.distribution
 org.vom8x8.sipua
-ota.onecloud.harman.com
 outlook.insightly.com
 ovo.id
 owa-v6.zivver.com

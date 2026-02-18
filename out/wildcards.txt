@@ -7,7 +7,6 @@
 *.a.exodus.io
 *.account.api.here.com
 *.account.here.com
-*.account.roon.app
 *.accounts.realestate.com.au
 *.acrobat.adobe.com
 *.acronis.com
@@ -180,7 +179,6 @@
 *.dancecentral.com
 *.datacamp.com
 *.dcfgateway.marriott.com
-*.de.jbl.com
 *.deliciousbrains.com
 *.demorgen.be
 *.deribit.com
@@ -294,8 +292,6 @@
 *.goldmanpfm.com
 *.goldmansachs.com
 *.gopayapi.com
-*.gotdrops.cloud
-*.gotdrops.com
 *.gotinder.com
 *.grab-sure.com
 *.grab.co
@@ -319,8 +315,6 @@
 *.gsselect.com
 *.gtflabs.io
 *.happening.dev
-*.harmanaudio.com
-*.harmankardon.com
 *.harmonixmusic.com
 *.hellofax.com
 *.hellosign.com
@@ -354,7 +348,6 @@
 *.ikarem.io
 *.immutable.com
 *.imtbl.com
-*.in.jbl.com
 *.indrive.com
 *.indriver.com
 *.indriverapp.com
@@ -366,10 +359,6 @@
 *.int.remitly.com
 *.internal.exoscale.ch
 *.itcapital.io
-*.jbl.com
-*.jbl.com.br
-*.jbl.nl
-*.jbl.ru
 *.jit.si
 *.jitsi.net
 *.jobapi.net
@@ -595,12 +584,6 @@
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
-*.roon.app
-*.roondrops.com
-*.roonessentials.com
-*.roonessentials.net
-*.roonlabs.com
-*.roonlabs.net
 *.router.hereapi.com
 *.runnr.in
 *.s-cloud.net
@@ -708,7 +691,6 @@
 *.superbet.ro
 *.superbet.rs
 *.superhuman.com
-*.support.jbl.com
 *.support.originenergy.com.au
 *.swiftype.com
 *.swisspass.ch
@@ -772,8 +754,6 @@
 *.ubnt.com
 *.ui.com
 *.uisp.com
-*.uk.harmanaudio.com
-*.uk.jbl.com
 *.unrealengine.com
 *.unrealtournament.com
 *.uphodl.com

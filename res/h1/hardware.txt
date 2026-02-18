@@ -25,7 +25,6 @@ FindX7
 FindX7Ultra
 FireTV
 GitHub Enterprise Server
-Helium Hotspot
 Indoor Cam
 K10
 K105G

@@ -18,15 +18,12 @@ api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.qwant.com
 api.swapcard.com
-apis.onecloud.harman.com
 chat-api.swapcard.com/graphql
 collector.zivver.com
 developer.swapcard.com/event-admin/graphql
 dmxleo.com
 downloads.zivver.com
-edgeapis.onecloud.harman.com
 editeur.api.monespacesante.fr
-events.onecloud.harman.com
 https://*.vidaxl.net
 https://*.vidaxl.org
 https://api-app.datadome.co/
@@ -84,13 +81,11 @@ https://pg.paymaya.com
 https://pinepg.in/
 https://pluralcheckout.pinepg.in
 https://privateinternetaccess.com/api/client/v5
-https://quantum-events.onecloud.harman.com
 https://sandbox-api.paddle.com
 https://sandbox.open-xchange.com
 https://scalews.withings.com
 https://search-api.bookbeat.com
 https://static.demarches-simplifiees.fr
-https://tms.onecloud.harman.com
 https://wbsapi.withings.net
 https://www.demarches-simplifiees.fr/api/v2/graphql
 https://www.demarches-simplifiees.fr/graphql
@@ -100,7 +95,6 @@ ifttt-adaptor.pub.kube.dm.gg
 img.swapcard.com
 img.zivver.com
 login.swapcard.com
-ota.onecloud.harman.com
 owa-v6.zivver.com
 pipe.deezer.com
 preprod.api.monespacesante.fr

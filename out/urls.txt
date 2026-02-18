@@ -433,7 +433,6 @@ https://apps.apple.com/fr/app/dailymotion/id336978041
 https://apps.apple.com/fr/app/deezer-musique-podcast/id292738169
 https://apps.apple.com/fr/app/doctolib/id925339063
 https://apps.apple.com/fr/app/infomaniak-mail/id1622596573
-https://apps.apple.com/fr/app/jbl-one/id1610239857
 https://apps.apple.com/fr/app/louis-vuitton-city-guide/id1014618396
 https://apps.apple.com/fr/app/louis-vuitton/id709101942
 https://apps.apple.com/fr/app/swapcard/id879488719
@@ -907,11 +906,6 @@ https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://getflywheel.com
 https://git.libssh.org/
-https://github.com/0xPolygon/auto-claim-service
-https://github.com/0xPolygon/chain-indexer-framework
-https://github.com/0xPolygon/lxly.js
-https://github.com/0xPolygon/proof-generation-api
-https://github.com/0xPolygon/static
 https://github.com/AikidoSec/firewall-node#Detection Bypass
 https://github.com/AikidoSec/firewall-node#False Positive
 https://github.com/AikidoSec/firewall-node#Vulnerability
@@ -1929,7 +1923,6 @@ https://play.google.com/store/apps/details?id=com.indeed.resume
 https://play.google.com/store/apps/details?id=com.infomaniak.drive
 https://play.google.com/store/apps/details?id=com.infomaniak.mail&hl=en_US
 https://play.google.com/store/apps/details?id=com.irobot.home.prime
-https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
@@ -2078,7 +2071,6 @@ https://property.com.au
 https://proprietario.quintoandar.com.br
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
-https://quantum-events.onecloud.harman.com
 https://raptor*.bykea.net
 https://rc.fstr.rocks
 https://rec.net/
@@ -2289,7 +2281,6 @@ https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
 https://tidal.com/
-https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
 https://torquemag.io
 https://tr.ee
@@ -2464,8 +2455,6 @@ https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|co
 https://www.blockchain.com/
 https://www.bluehost.com/
 https://www.bookbeat.com
-https://www.bostonacoustics.com
-https://www.bowerswilkins.com
 https://www.bwin.com
 https://www.canva.com
 https://www.canva.com/developers/
@@ -2478,7 +2467,6 @@ https://www.chime.com
 https://www.chipotle.co.uk
 https://www.chipotle.com
 https://www.classdojo.com
-https://www.classeaudio.com
 https://www.cloudvector.com/
 https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
@@ -2494,11 +2482,9 @@ https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.decathlon.(ch|fr|hu|pl|ro|cz|com.tr)/
 https://www.decathlon.(co.uk|it|nl|de|pt|es|be)/
-https://www.definitivetechnology.com
 https://www.demarches-simplifiees.fr
 https://www.demarches-simplifiees.fr/api/v2/graphql
 https://www.demarches-simplifiees.fr/graphql
-https://www.denon.com
 https://www.dermstore.com
 https://www.designify.com
 https://www.epam.com/
@@ -2571,7 +2557,6 @@ https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
 https://www.mankind.co.uk/
 https://www.mapbox.com/mapbox-gl-js/
-https://www.marantz.com
 https://www.mastercard.ch/de-ch.html
 https://www.mastercard.ch/fr-ch.html
 https://www.mastercard.com.au/en-au.html
@@ -2643,7 +2628,6 @@ https://www.pinelabs.my/
 https://www.pinelabs.us/
 https://www.pixpay.fr/
 https://www.planethoster.com
-https://www.polkaudio.com
 https://www.pornhub.com/
 https://www.pornhubpremium.com/
 https://www.powerman.co.uk/
