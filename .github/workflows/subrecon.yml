@@ -3,7 +3,7 @@ name: Wildcard Subfinder Scan
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"  # Runs every day at 3 AM UTC"
+    - cron: "30 22 * * *"  # Runs every day at 3 AM UTC"
 
 jobs:
   recon:

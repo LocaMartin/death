@@ -3,7 +3,7 @@ name: Nuclei Header Scan
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 3 * * *"   # runs daily at 03:30 UTC
+    - cron: "30 22 * * *" # Runs every day at 3 AM UTC"
   push:
     paths:
       - "out/**"
@@ -32,14 +32,22 @@ jobs:
 
       - name: Update Nuclei Templates
         run: nuclei -update-templates
-
+  
+      - name: Run Header-Based Templates
+        run: |
+          nuclei \
+            -l out/domains.txt \
+            -t http/vulnerabilities/generic/oob-header-based-interaction.yaml,http/vulnerabilities/generic/host-header-injection.yaml \
+            -nh -stats \
+            -o header.log
+        
       - name: Run Header-Based Templates
         run: |
           nuclei \
             -l out/subdomains.txt \
             -t http/vulnerabilities/generic/oob-header-based-interaction.yaml,http/vulnerabilities/generic/host-header-injection.yaml \
             -nh -stats \
-            -o header.log
+            -o header2.log
 
       - name: Commit Results
         run: |

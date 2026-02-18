@@ -10,3 +10,6 @@ git pull --rebase origin main
 ```yml
 git push origin main
 ```
+```
+git config --global pull.rebase true
+```
