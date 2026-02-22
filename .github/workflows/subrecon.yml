@@ -3,11 +3,14 @@ name: Wildcard Subfinder Scan
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 22 * * *"  # Runs every day at 3 AM UTC"
+    - cron: "30 22 * * *"
 
 jobs:
   recon:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -21,23 +24,43 @@ jobs:
           go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
           echo "$HOME/go/bin" >> $GITHUB_PATH
 
-      - name: Prepare Domains
+      - name: Prepare Root Domains
         run: |
           cat out/wildcards.txt out/urls.txt \
           | sed 's|https\?://||' \
           | sed 's|/.*||' \
           | grep '^\*\.' \
           | sed 's|^\*\.||' \
-          | sort -u > out/subfinder_input.txt
+          | sort -u > out/current_roots.txt
 
-      - name: Run Subfinder
+      - name: Create Processed File If Missing
         run: |
-          subfinder -dL out/subfinder_input.txt -all -recursive -o out/subdomains.txt
+          touch out/processed_roots.txt
 
-      - name: Commit Results
+      - name: Find New Roots
+        run: |
+          comm -23 out/current_roots.txt out/processed_roots.txt > out/new_roots.txt
+          echo "New roots:"
+          cat out/new_roots.txt || true
+
+      - name: Run Subfinder Only On New Roots
+        run: |
+          if [ -s out/new_roots.txt ]; then
+            subfinder -dL out/new_roots.txt -all -recursive -silent \
+            | sort -u >> out/subdomains.txt
+
+            # update processed roots
+            cat out/new_roots.txt >> out/processed_roots.txt
+            sort -u out/processed_roots.txt -o out/processed_roots.txt
+          else
+            echo "No new roots found."
+          fi
+
+      - name: Commit Updates
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "github-actions"
-          git add out/subdomains.txt
-          git commit -m "Auto update subdomains" || echo "No changes"
+
+          git add out/subdomains.txt out/processed_roots.txt
+          git commit -m "Incremental subfinder update" || echo "No changes"
           git push
