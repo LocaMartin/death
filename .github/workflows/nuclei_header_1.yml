@@ -40,14 +40,6 @@ jobs:
             -t http/vulnerabilities/generic/oob-header-based-interaction.yaml,http/vulnerabilities/generic/host-header-injection.yaml \
             -nh -stats \
             -o header.log
-        
-      - name: Run Header-Based Templates
-        run: |
-          nuclei \
-            -l out/subdomains.txt \
-            -t http/vulnerabilities/generic/oob-header-based-interaction.yaml,http/vulnerabilities/generic/host-header-injection.yaml \
-            -nh -stats \
-            -o header2.log
 
       - name: Commit Results
         run: |

@@ -1,7 +1,9 @@
 name: TeleHub Push Notifier
 
 on:
-  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 22 * * *" # Runs every day at 3 AM UTC"
 
 jobs:
   notify:
