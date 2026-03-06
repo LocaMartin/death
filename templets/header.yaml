@@ -1,0 +1,359 @@
+id: header-test
+info:
+  name: Header Based Injection Test
+  author: loca
+  severity: critical
+  tags: rce,header,test
+# oob
+http:
+  - raw:
+      - |
+        GET / HTTP/1.1
+        Host: {{Hostname}}
+        {{header}}: {{interactsh-url}}
+
+    payloads:
+      - headers: payloads/headers.txt   
+
+    matchers-condition: or
+    matchers:
+      - type: word
+        part: interactsh_protocol
+        name: http
+        words:
+          - "http"
+
+      - type: word
+        part: interactsh_protocol
+        name: dns
+        words:
+          - "dns" 
+
+extractors: 
+  - type: regex
+    name: header
+    part: header
+    regex:
+      - {{header}}: (.*)
+
+# command injection
+
+http:
+  - raw:
+      - |
+        GET /?{{header}} HTTP/1.1
+        Host: {{Hostname}}
+        {{header}}: {{payload}}
+
+    payloads:
+      header: helpers/payloads/request-headers.txt
+      payload: helpers/payloads/command-injection.txt
+    attack: clusterbomb
+    host-redirects: true
+    stop-at-first-match: true
+
+    matchers-condition: or
+    matchers:
+      - type: word
+        words:
+          - "uid="
+          - "gid="
+          - "groups="
+        condition: and
+
+      - type: regex
+        regex:
+          - "root:.*:0:0:"
+
+# xss
+
+http:
+  - raw:
+      - |
+        GET /?{{header}}={{payload}} HTTP/1.1
+        Host: {{Hostname}}
+        {{header}}: {{payload}}
+
+    payloads:
+      header: payloads/headers.txt
+      payload: helpers/payloads/xss.txt
+    attack: clusterbomb
+    host-redirects: true
+    stop-at-first-match: true
+
+    matchers-condition: or
+    matchers:
+      - type: word
+        words:
+          - "LocaMartin"
+        condition: and
+
+# sql injection
+
+http:
+  - raw:
+      - |
+        GET /?{{header}}={{payload}} HTTP/1.1
+        Host: {{Hostname}}
+        {{header}}: {{payload}}
+
+    payloads:
+      header: payloads/headers.txt
+      payload: helpers/payloads/sql-injection.txt
+    attack: clusterbomb
+    host-redirects: true
+    stop-at-first-match: true
+
+    matchers-condition: or
+    matchers:
+      - type: word
+        words:
+          - "sql"
+          - "syntax"
+          - "error"
+          - "mysql"
+          - "postgresql"
+          - "oracle"
+          - "microsoft sql server"
+          - "sqlstate"
+        condition: and
+
+# ssrf
+http:
+  - raw:
+      - |
+        GET /?{{header}}={{payload}} HTTP/1.1
+        Host: {{Hostname}}
+        {{header}}: {{payload}}
+
+    payloads:
+      header: payloads/headers.txt
+      payload: helpers/payloads/ssrf.txt
+    attack: clusterbomb
+    host-redirects: true
+    stop-at-first-match: true
+
+    matchers-condition: or
+    matchers:
+      - type: word
+        part: interactsh_protocol
+        name: http
+        words:
+          - "http"
+
+      - type: word
+        part: interactsh_protocol
+        name: dns
+        words:
+          - "dns"
+
+# lfi
+
+http:
+  - raw:
+      - |
+        GET /?{{header}}={{payload}} HTTP/1.1
+        Host: {{Hostname}}
+        {{header}}: {{payload}}
+
+    payloads:
+      header: payloads/headers.txt
+      payload: helpers/payloads/lfi.txt
+    attack: clusterbomb
+    host-redirects: true
+    stop-at-first-match: true
+
+    matchers-condition: or
+    matchers:
+      - type: word
+        words:
+          - "root:x:"
+          - "bin/bash"
+          - "etc/passwd"
+        condition: and
+
+# ssti
+
+http:
+  - raw:
+      - |
+        GET /?{{header}}={{payload}} HTTP/1.1
+        Host: {{Hostname}}
+        {{header}}: {{payload}}
+
+    payloads:
+      header: payloads/headers.txt
+      payload: helpers/payloads/ssti.txt
+    attack: clusterbomb
+    host-redirects: true
+    stop-at-first-match: true
+
+    matchers-condition: or
+    matchers:
+      - type: word
+        words:
+          - "LocaMartin"
+        condition: and
+
+# crlf
+
+http:
+  - raw:
+      - |
+        GET /?{{header}}={{payload}} HTTP/1.1
+        Host: {{Hostname}}
+        {{header}}: {{payload}}
+
+    payloads:
+      header: payloads/headers.txt
+      payload: helpers/payloads/crlf.txt
+    attack: clusterbomb
+    host-redirects: true
+    stop-at-first-match: true
+
+    matchers-condition: or
+    matchers:
+      - type: word
+        words:
+          - "LocaMartin"
+        condition: and
+
+# http request smuggling
+
+http:
+  - raw:
+      - |
+        GET /?{{header}}={{payload}} HTTP/1.1
+        Host: {{Hostname}}
+        {{header}}: {{payload}}
+
+    payloads:
+      header: payloads/headers.txt
+      payload: helpers/payloads/http-request-smuggling.txt
+    attack: clusterbomb
+    host-redirects: true
+    stop-at-first-match: true
+
+    matchers-condition: or
+    matchers:
+      - type: word
+        words:
+          - "LocaMartin"
+        condition: and
+  
+  # Open Redirect
+
+http:
+  - raw:
+      - |
+        GET /?{{header}}={{payload}} HTTP/1.1
+        Host: {{Hostname}}
+        {{header}}: {{payload}} 
+
+    payloads:
+      header: payloads/headers.txt
+      payload: helpers/payloads/open-redirect.txt
+    attack: clusterbomb
+    host-redirects: true
+    stop-at-first-match: true 
+
+    matchers-condition: or
+    matchers:
+      - type: word
+        words:
+          - "LocaMartin"
+        condition: and
+
+# Web Cache Deception
+
+http:
+  - raw:
+      - |
+        GET /?{{header}}={{payload}} HTTP/1.1
+        Host: {{Hostname}}
+        {{header}}: {{payload}} 
+
+    payloads:
+      header: payloads/headers.txt
+      payload: helpers/payloads/web-cache-deception.txt
+    attack: clusterbomb
+    host-redirects: true
+    stop-at-first-match: true 
+
+    matchers-condition: or
+    matchers:
+      - type: word
+        words:
+          - "LocaMartin"
+        condition: and
+
+# Session Fixation
+
+http:
+  - raw:
+      - |
+        GET /?{{header}}={{payload}} HTTP/1.1
+        Host: {{Hostname}}
+        {{header}}: {{payload}} 
+
+    payloads:
+      header: payloads/headers.txt
+      payload: helpers/payloads/session-fixation.txt
+    attack: clusterbomb
+    host-redirects: true
+    stop-at-first-match: true 
+
+    matchers-condition: or
+    matchers:
+      - type: word
+        words:
+          - "LocaMartin"
+        condition: and
+
+# Header Spoofing
+
+http:
+  - raw:
+      - |
+        GET /?{{header}}={{payload}} HTTP/1.1
+        Host: {{Hostname}}
+        {{header}}: {{payload}} 
+
+    payloads:
+      header: payloads/headers.txt
+      payload: helpers/payloads/header-spoofing.txt
+    attack: clusterbomb
+    host-redirects: true
+    stop-at-first-match: true 
+
+    matchers-condition: or
+    matchers:
+      - type: word
+        words:
+          - "LocaMartin"
+        condition: and
+
+# Header Smuggling
+
+http:
+  - raw:
+      - |
+        GET /?{{header}}={{payload}} HTTP/1.1
+        Host: {{Hostname}}
+        {{header}}: {{payload}} 
+
+    payloads:
+      header: payloads/headers.txt
+      payload: helpers/payloads/header-smuggling.txt
+    attack: clusterbomb
+    host-redirects: true
+    stop-at-first-match: true 
+
+    matchers-condition: or
+    matchers:
+      - type: word
+        words:
+          - "LocaMartin"
+        condition: and
+        
+

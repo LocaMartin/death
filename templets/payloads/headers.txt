@@ -100,3 +100,4 @@ X-True-IP
 X-UIDH
 X-Wap-Profile
 X-XSRF-TOKEN
+REMOTE_ADDR
