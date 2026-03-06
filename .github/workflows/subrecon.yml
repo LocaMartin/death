@@ -1,9 +1,7 @@
-name: Wildcard Subfinder Scan
+name: Wildcard Subfinder Incremental
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "30 22 * * *"
 
 jobs:
   recon:
@@ -21,8 +19,14 @@ jobs:
 
       - name: Install Subfinder
         run: |
-          go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+          go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
           echo "$HOME/go/bin" >> $GITHUB_PATH
+
+      - name: Prepare Directories
+        run: |
+          mkdir -p out/state
+          touch out/state/processed_roots.txt
+          touch out/subdomains.txt
 
       - name: Prepare Root Domains
         run: |
@@ -31,36 +35,35 @@ jobs:
           | sed 's|/.*||' \
           | grep '^\*\.' \
           | sed 's|^\*\.||' \
-          | sort -u > out/current_roots.txt
-
-      - name: Create Processed File If Missing
-        run: |
-          touch out/processed_roots.txt
+          | sort -u > out/state/current_roots.txt
 
       - name: Find New Roots
         run: |
-          comm -23 out/current_roots.txt out/processed_roots.txt > out/new_roots.txt
-          echo "New roots:"
-          cat out/new_roots.txt || true
+          comm -23 out/state/current_roots.txt out/state/processed_roots.txt > out/state/new_roots.txt
 
-      - name: Run Subfinder Only On New Roots
+      - name: Select Batch (10 Domains)
         run: |
-          if [ -s out/new_roots.txt ]; then
-            subfinder -dL out/new_roots.txt -all -recursive -silent \
+          head -n 10 out/state/new_roots.txt > out/state/batch.txt
+          echo "Batch domains:"
+          cat out/state/batch.txt || true
+
+      - name: Run Subfinder On Batch
+        run: |
+          if [ -s out/state/batch.txt ]; then
+            subfinder -dL out/state/batch.txt -all -recursive -silent \
             | sort -u >> out/subdomains.txt
 
-            # update processed roots
-            cat out/new_roots.txt >> out/processed_roots.txt
-            sort -u out/processed_roots.txt -o out/processed_roots.txt
+            cat out/state/batch.txt >> out/state/processed_roots.txt
+            sort -u out/state/processed_roots.txt -o out/state/processed_roots.txt
           else
-            echo "No new roots found."
+            echo "No new domains to scan."
           fi
 
-      - name: Commit Updates
+      - name: Commit Results
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "github-actions"
 
-          git add out/subdomains.txt out/processed_roots.txt
-          git commit -m "Incremental subfinder update" || echo "No changes"
+          git add out/subdomains.txt out/state/processed_roots.txt
+          git commit -m "Incremental subfinder batch update" || echo "No changes"
           git push
