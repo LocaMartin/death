@@ -47,19 +47,19 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: |
-          nuclei \
+          nuclei -nc \
             -l out/bbp/domains.txt \
             -t http/vulnerabilities/generic/oob-header-based-interaction.yaml,http/vulnerabilities/generic/host-header-injection.yaml \
-            -nh -silent | tee header.log | while read -r line; do
+            -nh -silent | tee log/header.log | while read -r line; do
               curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
                 -H "Content-Type: application/json" \
-                -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"Header Injection Vulnerability Found BBP:\n\n$line\"}"
+                -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"BBP:\n\n$line\"}"
           done
 
       - name: Commit Results
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "github-actions"
-          git add header.log
+          git add log/header.log
           git commit -m "Auto update: Nuclei header scan results" || echo "No changes"
           git push
