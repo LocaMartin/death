@@ -1,4 +1,0 @@
-Firmware
-Functions dealing with vehicle access and immobilizer
-Hardware
-Remaining functions

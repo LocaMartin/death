@@ -1,0 +1,74 @@
+name: Daily Wildcard Fetch
+
+on:
+  schedule:
+    # Runs at 22:00 UTC (10:00 PM) every day
+    - cron: '0 22 * * *'
+  workflow_dispatch: # Allows you to run it manually for testing
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to push changes back to the repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create output directory
+        run: mkdir -p out
+
+      - name: Fetch API data
+        run: |
+          curl -s "https://bbscope.com/api/v1/targets/wildcards?scope=in&type=bbp" -o out/bbp/wildcards.txt
+          curl -s "https://bbscope.com/api/v1/targets/domains?scope=in&type=bbp" -o out/bbp/domains.txt
+          curl -s "https://bbscope.com/api/v1/targets/ips?scope=in&type=bbp" -o out/bbp/ips.txt
+          curl -s "https://bbscope.com/api/v1/targets/cidrs?scope=in&type=bbp" -o out/bbp/cidrs.txt
+          curl -s "https://bbscope.com/api/v1/targets/urls?scope=in&type=bbp" | grep -Evi 'google|apple' > out/bbp/urls.txt
+          curl -s "https://bbscope.com/api/v1/targets/wildcards?scope=in&type=vdp" -o out/vdp/wildcards.txt
+          curl -s "https://bbscope.com/api/v1/targets/domains?scope=in&type=vdp" -o out/vdp/domains.txt
+          curl -s "https://bbscope.com/api/v1/targets/ips?scope=in&type=vdp" -o out/vdp/ips.txt
+          curl -s "https://bbscope.com/api/v1/targets/cidrs?scope=in&type=vdp" -o out/vdp/cidrs.txt
+          curl -s "https://bbscope.com/api/v1/targets/urls?scope=in&type=vdp" | grep -Evi 'google|apple' > out/vdp/urls.txt
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add out/bbp/wildcards.txt
+          git add out/bbp/domains.txt
+          git add out/bbp/ips.txt
+          git add out/bbp/cidrs.txt
+          git add out/bbp/urls.txt
+          git add out/vdp/wildcards.txt
+          git add out/vdp/domains.txt
+          git add out/vdp/ips.txt
+          git add out/vdp/cidrs.txt
+          git add out/vdp/urls.txt
+          # Only commit if the file actually changed to avoid empty commits
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated update: wildcards.txt" && git push)
+
+      - name: Send notifications to Telegram
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: |
+          # Loop through each .txt file in the out directory
+          # Using 'find' ensures we catch files in both bbp/ and vdp/
+          for file in $(find out -name "*.txt"); do
+            # Get the number of lines (targets) in the file
+            count=$(wc -l < "$file")
+            
+            # Get the filename (e.g., wildcards.txt)
+            filename=$(basename "$file")
+            
+            # Get the parent folder (e.g., bbp or vdp)
+            folder=$(basename $(dirname "$file"))
+            
+            # Construct and send the message
+            message=" $count $filename found and saved to $folder/$filename"
+            
+            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+              -H "Content-Type: application/json" \
+              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"$message\"}"
+          done

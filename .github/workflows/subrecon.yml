@@ -22,20 +22,20 @@ jobs:
           go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
           echo "$HOME/go/bin" >> $GITHUB_PATH
 
+      - name: Send notfication to Telegram
+        run: |
+          curl -X POST "https://api.telegram.org/bot${{ secrets.BOT_TOKEN }}/sendMessage" \
+          -H "Content-Type: application/json" \
+          -d '{"chat_id": "'${{ secrets.CHAT_ID }}'", "text": "Starting incremental subfinder scan..."}'
+
       - name: Prepare Directories
         run: |
-          mkdir -p out/state
           touch out/state/processed_roots.txt
           touch out/subdomains.txt
 
       - name: Prepare Root Domains
         run: |
-          cat out/wildcards.txt out/urls.txt \
-          | sed 's|https\?://||' \
-          | sed 's|/.*||' \
-          | grep '^\*\.' \
-          | sed 's|^\*\.||' \
-          | sort -u > out/state/current_roots.txt
+          cat out/bbp/domains.txt | sort -u > out/state/current_roots.txt
 
       - name: Find New Roots
         run: |
