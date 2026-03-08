@@ -35,16 +35,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add out/bbp/wildcards.txt
-          git add out/bbp/domains.txt
-          git add out/bbp/ips.txt
-          git add out/bbp/cidrs.txt
-          git add out/bbp/urls.txt
-          git add out/vdp/wildcards.txt
-          git add out/vdp/domains.txt
-          git add out/vdp/ips.txt
-          git add out/vdp/cidrs.txt
-          git add out/vdp/urls.txt
+          git add out/
           # Only commit if the file actually changed to avoid empty commits
           git diff --quiet && git diff --staged --quiet || (git commit -m "Automated update: wildcards.txt" && git push)
 
