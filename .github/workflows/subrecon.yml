@@ -52,7 +52,9 @@ jobs:
         run: |
           if [ -s out/state/batch.txt ]; then
             subfinder -dL out/state/batch.txt -all -recursive -silent \
-            | sort -u >> out/subdomains.txt
+            >> out/subdomains.txt
+
+            sort -u out/subdomains.txt -o out/subdomains.txt
 
             cat out/state/batch.txt >> out/state/processed_roots.txt
             sort -u out/state/processed_roots.txt -o out/state/processed_roots.txt

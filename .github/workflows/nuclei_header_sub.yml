@@ -39,12 +39,12 @@ jobs:
             -l out/subdomains.txt \
             -t http/vulnerabilities/generic/oob-header-based-interaction.yaml,http/vulnerabilities/generic/host-header-injection.yaml \
             -nh -stats \
-            -o header2.log
+            -o log/header_sub.log
 
       - name: Commit Results
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "github-actions"
-          git add header.log
+          git add log/header_sub.log
           git commit -m "Auto update: Nuclei header scan results" || echo "No changes"
           git push

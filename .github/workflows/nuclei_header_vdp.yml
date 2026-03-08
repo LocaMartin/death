@@ -40,7 +40,7 @@ jobs:
         run: |
           curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
           -d "chat_id=${CHAT_ID}" \
-          -d "text=Starting Nuclei header-based scan. Total domains: $(wc -l < out/vdp/domains.txt)" 
+          -d "text=Starting Nuclei header-based scan. Total domains: $(wc -l < out/vdp/domains.txt)" -o /dev/null
 
       - name: Run Header-Based Templates
         env:
