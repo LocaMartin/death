@@ -1,4 +1,4 @@
-name: Nuclei Header Scan
+name: Nuclei Header VDP
 
 on:
   workflow_dispatch:
