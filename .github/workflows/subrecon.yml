@@ -26,10 +26,11 @@ jobs:
         run: |
           curl -X POST "https://api.telegram.org/bot${{ secrets.BOT_TOKEN }}/sendMessage" \
           -H "Content-Type: application/json" \
-          -d '{"chat_id": "'${{ secrets.CHAT_ID }}'", "text": "Starting incremental subfinder scan..."}'
+          -d '{"chat_id": "'${{ secrets.CHAT_ID }}'", "text": "Starting incremental subfinder scan..."}' -o /dev/null
 
       - name: Prepare Directories
         run: |
+          mkdir -p out/state log
           touch out/state/processed_roots.txt
           touch out/subdomains.txt
 
@@ -58,12 +59,12 @@ jobs:
           else
             echo "No new domains to scan."
           fi
-
+          
       - name: Commit Results
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "github-actions"
 
           git add out/subdomains.txt out/state/processed_roots.txt
-          git commit -m "Incremental subfinder batch update" || echo "No changes"
+          git commit -m "Incremental update: $(date +'%Y-%m-%d')" || echo "No changes"
           git push
