@@ -1,4 +1,4 @@
-name: Daily Wildcard Fetch
+name: Scope Fetcher and Notifier
 
 on:
   schedule:
@@ -17,7 +17,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Create output directory
-        run: mkdir -p out
+        run: | 
+          mkdir -p out
+          mkdir -p out/bbp
+          mkdir -p out/vdp
+
 
       - name: Fetch API data
         run: |
