@@ -50,7 +50,7 @@ jobs:
           nuclei \
             -l out/vdp/domains.txt \
             -t http/vulnerabilities/generic/oob-header-based-interaction.yaml,http/vulnerabilities/generic/host-header-injection.yaml \
-            -nh -silent | tee header.log | while read -r line; do
+            -nh -silent -nc | tee header.log | while read -r line; do
               curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
                 -H "Content-Type: application/json" \
                 -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[vdp]$line\"}" -o /dev/null

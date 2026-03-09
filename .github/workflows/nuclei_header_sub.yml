@@ -39,7 +39,7 @@ jobs:
             -l out/subdomains.txt \
             -t http/vulnerabilities/generic/oob-header-based-interaction.yaml,http/vulnerabilities/generic/host-header-injection.yaml \
             -nh -stats \
-            -o log/header_sub.log
+            -o log/header_sub.log -nc
 
       - name: Commit Results
         run: |
