@@ -380,6 +380,7 @@ ca.gov
 cainiao.com
 callsign.com
 campaigntrack.com
+canada.ca
 canadapost-postescanada.ca
 cancercenterofkansas.com
 canusacps.com
@@ -432,6 +433,8 @@ ccpview.com
 cdcorpltd.com
 cdfifund.gov
 cdo.gov
+cds-snc.ca
+cdssandbox.xyz
 cedacri.com
 cedacri.it
 cedacri.mobi
@@ -1173,6 +1176,7 @@ inframationnews.com
 infraresearch.com
 infrastructure-americas.com
 infrastructureamericas.com
+inky.com
 inposia.com
 insectia.es
 insidevoa.com
@@ -2078,6 +2082,7 @@ rxcrossroads.com
 rxownership.com
 rxsavingssolutions.com
 rxss.com
+saasalerts.com
 sabadellproteccion.com
 sabal.com
 sabra.com

@@ -2101,6 +2101,7 @@ api.select.cbre.com
 api.seleritycorp.com
 api.sentera.com
 api.service.nsw.gov.au
+api.signin-connexion.canada.ca
 api.singlestore.com
 api.siteanalytics.cbre.com
 api.smartfm.cbre.com
@@ -2278,6 +2279,7 @@ app.redislabs.com
 app.response.cbre.com.au
 app.riteaid.fmpilot.com
 app.s02.callsign.com
+app.signin-connexion.canada.ca
 app.smartapply.com
 app.spark.ai
 app.starlingbank.com
@@ -2448,6 +2450,7 @@ arrow.cn
 artectura.ca
 artequation.fr
 articleregistration.com
+articles.alpha.canada.ca
 artifactory-dr.gcsonp.cbre.com
 artifactory-new.gcso.cbre.com
 artifactory-new.gcsonp.cbre.com
@@ -2707,6 +2710,7 @@ auth.service.accept.evcharging.abb.com
 auth.service.accept.evcharging.abb.com.cn
 auth.service.evcharging.abb.com
 auth.service.evcharging.abb.com.cn
+auth.signin-connexion.canada.ca
 auth.singlestore.com
 auth.spark.ai
 auth.stg.optifact.robotics.abb.com
@@ -5152,6 +5156,8 @@ cdp-latam-surveys-connector.elcompanies.com
 cdp-uk-consumption-layer-uat.elcompanies.com
 cdp-uk-consumption-layer.elcompanies.com
 cdp.services.wirtgen-group.com
+cds-snc.ca
+cdssandbox.xyz
 ce-reportwriter.cbre.eu
 ce-reportwriterdev.cbre.eu
 ce-reportwriteruat.cbre.eu
@@ -8539,6 +8545,7 @@ delfrana.com
 deliciousbrains.com
 deliverable.brokerhub.cbre.com
 delivery.gallileo-frankfurt.com
+delivrance-verification.alpha.canada.ca
 delphibank.com.au
 delphifonder.se
 delphifunds.com
@@ -8698,6 +8705,7 @@ derwentworldpatentsindex.com
 derwentwpi.com
 dese.com
 design-pp.project.cbre.fr
+design-system.alpha.canada.ca
 design-uat.project.cbre.fr
 design.gallileo-frankfurt.com
 design.project-pp.cbre.fr
@@ -9250,6 +9258,7 @@ digital-dissertations.net
 digital-dissertations.org
 digital-safety-assessment.in.abb.com
 digital-wall.host-building.com
+digital.canada.ca
 digital.firstdata.eu
 digital.gov
 digital.motion.abb.com.cn
@@ -11975,6 +11984,7 @@ form.digitalcapture.elcompanies.com
 formant.dev.bearflagrobotics.com
 formassembly.com
 formoststar.com
+forms-formulaires.alpha.canada.ca
 forms.abb.com
 forms.cpai.egslb.cmp.aon.com
 forms.deere.com
@@ -12484,6 +12494,7 @@ gbrdcsbcp003.cbre.com
 gbrdcsbcp005.cbre.com
 gbrmyappscallback.cbre.eu
 gbsmccucm06.cbre.eu
+gciv-dvgc.alpha.canada.ca
 gcmrc.gov
 gcsbidra.cbre.com
 gcsfinprd.cbre.com
@@ -14415,6 +14426,7 @@ ingress.svc.fleetboard.com
 inisghtreporting.cbre.com
 inivio.co.nz
 inivio.com.au
+inky.com
 inlandfederal-dc.cert.fec-dc.fiservapps.com
 inlandfederal-dn.financial-net.com
 inlaneservice.checkfreepay.com
@@ -15140,6 +15152,7 @@ isservice.cn.abb.com
 issfrance.aonassurances.com
 issii.org
 issomudaomundo.com.br
+issue-verify.alpha.canada.ca
 issue.is.motion.abb.com.cn
 issyrodin.cbre.fr
 istc-international.org
@@ -15323,6 +15336,7 @@ jdews.channel-extended-warranty-prod-vpn.us.e06.c01.johndeerecloud.com
 jdf-adv-eng.deere.com
 jdf-credit-delivery-integrator-api-devl.deere.com
 jdf-css-unleash-prod.deere.com
+jdfgdmt.deere.com
 jdfm-ext-alb-dev-2132639108.us-east-1.elb.amazonaws.com
 jdfp2-experienceapi-prod.deere.com
 jdfy-cert.deere.com
@@ -19769,6 +19783,7 @@ notifi-rest-uat.fiservapps.com
 notifi-rest.fiservapps.com
 notifi-ui-btat2.fiservapps.com
 notification.billing.appservices.mendix.com
+notification.canada.ca
 notification.icare.abb.com.cn
 notifications.deere.com
 notify.gov
@@ -19850,6 +19865,7 @@ nuf-webquote.uat.cbre.eu
 nuf-webquoteprd.cbreapps.com
 nuf-webquoteuat.cbreapps.com
 null-leasing.com
+numerique.canada.ca
 nummus.robinhood.com
 nurseleaders.com
 nurseonlinecourses.com
@@ -24003,6 +24019,7 @@ sa.cosstores.com
 sa.hm.com
 sa.shopjustice.me
 sa.smartapply.com
+saasalerts.com
 sabadellproteccion.com
 sabal.com
 sabinefcu-admin.originate.fiservapps.com
@@ -26387,6 +26404,7 @@ tafinlar-mekinist.ca
 tafinlar.ca
 takeheartcme.ca
 taking-the-pulse.com
+talent.canada.ca
 talenthub.elcompanies.com
 talkingcancerclinicaltrials.com
 talkspms.ca

@@ -3669,7 +3669,6 @@ pwn.intigriti.rocks
 py.pl
 qaglobal-liquidity.gs.com
 qm-8x8.com
-questionsexualite.fr
 quintoandar.com.br
 quip.com
 quixel.com
@@ -5236,7 +5235,7 @@ zarahome.com
 zdev.net
 zelle.com
 zellepay.com
-zellepay.force.com
+zelleservice.my.salesforce.com
 zelleservice.my.site.com
 zerobounce.net
 ziekenhuisschool.be
