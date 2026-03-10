@@ -290,6 +290,9 @@ https://app.staging.saltlabs.com/
 https://app.taxjar.com
 https://app.thousandeyes.com/
 https://app.welcomesoftware.com/
+https://app.wisdomtreeconnect.com
+https://app.wisdomtreeconnect.com/api
+https://app.wisdomtreeconnect.com/o/token
 https://app.withings.com
 https://appgallery.huawei.com/#/app/c102099703?locale=zh_cn&source=appshare&subsource=c102099703
 https://appgallery.huawei.com/app/c101186357
@@ -1515,7 +1518,6 @@ https://marketplace.visualstudio.com/items?itemname=mongodb.mongodb-vscode
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com
 https://master.servicecentre.digitalservicing-np.lfscnp.com
 https://masterpassteststore.com/
-https://mathem.se
 https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
@@ -1628,7 +1630,6 @@ https://nvoice.usaa.com/
 https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
-https://oda.com
 https://odesli.co
 https://odesli.com
 https://oes.optusnet.com.au/

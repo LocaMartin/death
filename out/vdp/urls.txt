@@ -2060,11 +2060,6 @@ https://github.com/owasp/owaspbugbounty/tree/master/javahtmlsanitizer/war-files
 https://github.com/phpbb/phpbb
 https://github.com/posthog/posthog
 https://github.com/posthog/posthog.com
-https://github.com/pyca/bcrypt
-https://github.com/pyca/cryptography
-https://github.com/pyca/infra
-https://github.com/pyca/pynacl
-https://github.com/pyca/pyopenssl
 https://github.com/revive-adserver/revive-adserver
 https://github.com/rocketchat/rocket.chat
 https://github.com/rocketchat/rocket.chat.electron
@@ -2509,6 +2504,7 @@ https://payroll.xero.com
 https://pci-xp-bff-audit.st.latamairlines.com
 https://pcmag.com
 https://pcpostage.uspspostalone.com
+https://pdc.abb.com/
 https://pedestrian.tv
 https://peps.encryptme.com
 https://perfectdraft.com

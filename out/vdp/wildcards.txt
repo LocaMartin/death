@@ -80,6 +80,7 @@ aig.co.jp
 aig.com
 aig.ie
 aipmanagement.dk
+airaffairs.com.au
 airknowledge.gov
 airnow.gov
 akiracares.com
@@ -193,6 +194,7 @@ autotask.net
 avalara.com
 avalara.io
 avalara.net
+avalarabrasil.com.br
 avcj-lp.com
 avcj.com
 avcjasean.com
@@ -575,7 +577,6 @@ crowdreason.com
 crubricapi.net
 cruiseshipcenters.com
 crunchbar.com
-cryptography.io
 cs-nri.com
 cshs.org
 cslawreport.com
@@ -1610,6 +1611,7 @@ nabtrade.com.au
 naiad.aqora
 naiad.cloud
 naiad.ninja
+naimuri.com
 namejet.com
 namejet.com.au
 namequery.com
@@ -1941,9 +1943,13 @@ pubgesports.com
 pulseway.com
 puntosroyaltyrc.com.co
 pureleaf.com
-pyopenssl.org
 qanmw.com
 qatesttwai.gov
+qinetiq.ca
+qinetiq.cloud
+qinetiq.co.uk
+qinetiq.com
+qinetiq.com.au
 qmastor.com
 qmastor.net
 qmlservices.com

@@ -1434,6 +1434,7 @@ com.coinbase.wallite
 com.coinhako
 com.coinhako.app
 com.coinspot.app
+com.coloros.assistantscreen
 com.coloros.browser
 com.coloros.findmyphone
 com.coloros.pictorial
@@ -2857,7 +2858,6 @@ login.insightly.com
 login.lansweeper.com
 login.oyens.com
 login.playcanvas.com
-login.prod.nube.tech
 login.rei.com
 login.starbucks.co.jp
 login.swapcard.com
@@ -3228,11 +3228,6 @@ napoleonsports.be
 nbafedsvc-dev.nba.com
 nbafedsvc-qa.nba.com
 nbafedsvc.nba.com
-neat.com.hk
-neat.hk
-neat.wtf
-neatcommerce.com
-neattest.com
 neoket.net
 net.bitstamp.app
 net.s2stagehance.com
@@ -3282,7 +3277,6 @@ nmfn.com
 nml.com
 nmtracking.netflix.com
 nnip.com
-no.kolonial.tienda
 node.js/typescript
 notion.id
 notion.so
@@ -3299,7 +3293,6 @@ ns2.optusnet.com.au
 nu.com.co
 nu.com.mx
 nubank.com.br
-nube.tech
 nummus.robinhood.com
 nw.ring.com
 nz.co.vista.android.movie.mjrtheatres
@@ -3315,7 +3308,6 @@ observability.embark.net
 ociadmin.cloud.8x8.com
 ocijlbex1prd.marriott.com
 octopus.com
-oda.com
 odcdn.com.au
 odoo14.notebleue.pro
 odul.watsons.com.tr
@@ -3846,7 +3838,6 @@ scpapi.watsons.com.tr
 screenshot-proxy.netlify.app
 scrutiny.swiftfinancial.com
 se.bingo.com
-se.mathem.mathem
 search.aol.ca
 search.aol.co.uk
 search.aol.com

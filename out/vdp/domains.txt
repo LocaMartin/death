@@ -69,6 +69,7 @@
 123efgdemo-domainz.net
 124mmdemodomains.info
 128.250.0.0/16
+128.98.0.0/16
 129.222.249.89
 129.222.81.69
 13.64.181.40
@@ -94,6 +95,7 @@
 144.91.240.122
 146.168.157.13
 146.168.175.18
+148.252.225.26
 149.19.37.67
 149.19.38.64
 149.19.38.99
@@ -185,16 +187,21 @@
 184.188.143.98
 184.2.219.133
 185.69.116.0/22
+185.76.92.0/24
+185.76.95.0/24
 1882energyventures.com
 1882energyventures.net
 1889-admin.originate.fiservapps.com
 1889.originate.fiservapps.com
 192.0.66.55
+192.102.214.0/24
+192.150.204.0/24
 192.84.89.0/24
 193.110.255.128/28
 193.190.150.0/24
 194.35.0.0/21
 194.35.9.0/23
+194.61.176.0/20
 194.73.139.0/27
 194.73.181.160/29
 194.73.181.176/28
@@ -330,6 +337,9 @@
 209.221.18.72/29
 209.221.20.0/26
 209.34.230.128/27
+209.91.67.138/31
+209.91.67.140/31
+209.91.67.142/32
 212.20.255.225
 212.20.255.54
 212.20.255.58
@@ -643,6 +653,10 @@
 81.128.176.1-81.128.176.62
 81.128.180.192/26
 81.128.180.193-81.128.180.254
+85.159.168.0/22
+85.159.172.0/24
+85.159.173.0/24
+85.159.174.0/23
 85.159.210.14
 85.234.192.0/24
 85.234.203.0/24
@@ -1174,8 +1188,6 @@ adminstaging.sentera.com
 adminstaging2.sentera.com
 admintickets-dev.pla.com.ar
 admintickets.pla.com.ar
-admiraldynamics.be
-admiraldynamics.eu
 admit-it-win.cadbury.co.uk
 admit-it.cadbury.co.uk
 admit-it.cadbury.ie
@@ -1316,6 +1328,7 @@ aimovigdirect.ca
 aimovigtraining.ca
 aipmanagement.dk
 aiproducts.com
+airaffairs.com.au
 airflow.aonmylearning.com
 airknowledge.gov
 airnow.gov
@@ -2886,6 +2899,7 @@ availability.electrificationtools.abb.com
 avalara.com
 avalara.io
 avalara.net
+avalarabrasil.com.br
 avantifcu-dc.cert.fec-dc.fiservapps.com
 avantifcu-dn.financial-net.com
 avatar.ayoba.me
@@ -3964,7 +3978,6 @@ bpfcu-admin.originate.fiservapps.com
 bpfcu-dc.cert.fec-dc.fiservapps.com
 bpfcu-dn.financial-net.com
 bpfcu.originate.fiservapps.com
-bpos-live.com
 bpost.be
 bpost.cloud
 bpworkplacetoolkit.cbre.com
@@ -4024,10 +4037,6 @@ breathewithtomtom.com
 brecofcu-admin.originate.fiservapps.com
 brecofcu-dc.cert.fec-dc.fiservapps.com
 brecofcu.originate.fiservapps.com
-bredana-solutions.dk
-bredanademo.dk
-bredanasolutions.com
-bredanasolutions.dk
 breezhaler.ca
 brennersfest.com
 brevant.fr
@@ -4065,7 +4074,6 @@ britishnursingindex.co.uk
 britishpeawards.com
 britishprivateequityawards.com
 britvic.asp.iongroup.com
-bro-consulting.be
 broadcastingcableyearbook.com
 broadviewnet.com
 broadway-icm.fiservapps.com
@@ -4717,9 +4725,6 @@ catalystcorp.caaweb.com
 cattlemensbank-cs.apps-uat.ilendx.tech
 cattlemensbank-di.apps-uat.ilendx.tech
 cattlemensbank.apps-uat.ilendx.tech
-cayentis.com
-cayentis.nl
-cayentisxrm.nl
 cbank.caaweb.com
 cbankuat.caaweb.com
 cbb.caaweb.com
@@ -5643,6 +5648,7 @@ checkmate.evcharging.abb.com
 checkmyrego.com.au
 checkmyvin.com.au
 checkout-lane.com
+checkout.clover.com
 checkout.cn.mybuildings.abb.com
 checkout.eu.mybuildings.abb.com
 checkout.gallileo-frankfurt.com
@@ -6769,6 +6775,7 @@ com.picsart.studio
 com.rd3digital.amancowavinra
 com.robinhood.android
 com.robinhood.gateway
+com.robinhood.global
 com.robinhood.money
 com.schlage.engage
 com.schlage.overtur
@@ -7849,8 +7856,6 @@ crm-staging.fleetboard.com
 crm-t-cism-0038419341.fleetboard.com
 crm-t.fleetboard.com
 crm-test.fleetboard.com
-crm-trainingen.com
-crm-trainingen.nl
 crm.cbre.com
 crm.fleetboard.com
 crm.gallileo-frankfurt.com
@@ -7861,17 +7866,13 @@ crm365backend.cbre.eu
 crm365backend.uat.cbre.eu
 crm365spain.cbre.eu
 crm365spain.uat.cbre.eu
-crm4utilities.com
 crmemea.cbre.com
-crmhugger.nl
 crmmix.cbre.com
 crmmixrpt-test.cbre.com
 crmmyhrsc.cbre.com
 crmrussia.cbre.eu
 crmtest.fleetboard.com
 crmusuat.cbre.com
-crmvoorenergie.com
-crmvoorenergie.nl
 croghanbank-cs.apps.ilendx.tech
 croghanbank-di.apps.ilendx.tech
 croghanbank.apps.ilendx.tech
@@ -7900,7 +7901,6 @@ cruiseshipcenters.com
 crunchbar.com
 cryptoclarivate.com
 cryptoclarivate.net
-cryptography.io
 crystal-ball-gateway.serviceinsight.cbre.com
 crystal-ball.serviceinsight.cbre.com
 cs-admin.agrisync.com
@@ -9799,8 +9799,6 @@ dynamicriskassessment-uat.cbreapps.com
 dynamicriskassessment.cbreapps.com
 dynamicriskassessment.qat.cbreapps.com
 dynamicriskassessment.uat.cbreapps.com
-dynamicsconnector.net
-dynamicsconnector.nl
 dz.inside.abb.com
 e-biosis.com
 e-dissertations.com
@@ -10021,7 +10019,6 @@ ecommerce.industrialsolutions.abb.com
 econfigure.abb.com.cn
 econfigure.de.abb.com
 econfigure.xe.abb.com
-econocap.dk
 ecorrelations.com
 ecorrelations.net
 ecorrelations.org
@@ -10968,7 +10965,6 @@ exadqa.bankunited.com
 examcentral.com
 example.cloudeng.cbre.com
 examscentral.com
-exarte.be
 exaseek.com
 exceedcard.com
 excelent-news.biz
@@ -13039,7 +13035,6 @@ guides.siteready.com
 gulfcapitalbank.caaweb.com
 gun.cl.iongroup.com
 gustaredetop.ro
-gv-s.be
 gv.cbre.eu
 gvpn-asia.gslb.cbre.eu
 gvpn-br.glb.cbre.com
@@ -13539,8 +13534,6 @@ highwaydistrict21fcu.originate.fiservapps.com
 highwayfcu-dc.cert.fec-dc.fiservapps.com
 highwayfcu-dn.financial-net.com
 hillsshowgroundvillage.cbresi.com
-hillstar.nl
-hillstarsrv.nl
 hilltopbank-cs.apps-uat.ilendx.tech
 hilltopbank-cs.apps.ilendx.tech
 hilltopbank-di.apps-uat.ilendx.tech
@@ -17370,9 +17363,7 @@ marksman.surefireag.com
 marksman.surepointag.com
 marksmonitor.com
 marksmonitor.info
-marktanalyseonline.nl
 marktplaats.nl
-marktpotentieanalyse.nl
 marlmonitor.com
 marmkonitor.com
 marmonitor.com
@@ -19173,6 +19164,7 @@ naheola.streamlendvelocity.net
 naiad.aqora
 naiad.cloud
 naiad.ninja
+naimuri.com
 nalx.elcompanies.com
 nam.abb.com
 namejet.com
@@ -19330,9 +19322,6 @@ nettstasjon.no.abb.com
 networksolutions.com
 netzclub.net
 neu.gallileo-frankfurt.com
-neufaltitudes.com
-neufaltitudes.fr
-neufaltitudes.nl
 neufcu-dn.financial-net.com
 neuflizeobc.fr
 neustar.biz
@@ -19608,10 +19597,6 @@ nigerialogos.com
 nike.wgiftcard.com
 nimblestorage.com
 nimbus-gateway.singlestore.com
-ninealtitude.com
-ninealtitudes.com
-ninealtitudes.dk
-ninealtitudes.se
 nineelmspointlettings.com
 ninesackvillestreet.com
 nissanhelpdesk-crs.cbre.com
@@ -20043,6 +20028,7 @@ officeready-np.cbre.com
 officeready.cbre.com
 officewebapp.norlandmanagedservices.com
 officialimpactfactor.org
+offline.qinetiq.co.uk
 offtarget.info
 offtheeatenpathsnacks.com
 offx.info
@@ -20491,12 +20477,6 @@ optics-api.industriousoffice.com
 optics.industriousoffice.com
 optifact.robotics.abb.com
 optifyr.com
-optigrator.com
-optigrator.dk
-optimate.dk
-optimateas.com
-optimatecrm.dk
-optimatetest.dk
 optimizer.greenqa.cbre.com
 optimumbank-admin.originate.fiservapps.com
 optimumbank.originate.fiservapps.com
@@ -21147,7 +21127,6 @@ pdcpartsrequest.deere.com
 pdd.abb.com
 pdev.gcso.cbre.com
 pdi.deere.com
-pdmlink.dk
 pdr.suppliernet-dev.elcompanies.com
 pdr.suppliernet-hotfix.elcompanies.com
 pdr.suppliernet-qa.elcompanies.com
@@ -22842,8 +22821,6 @@ pwb.fdecs.com
 pwbcat.fdecs.com
 pwbw-digital-ci01.abilityplatform02.abb.com.cn
 pwc.garden.cbre.eu
-pylades.com
-pyopenssl.org
 qa-accesscontrol.gbs.fiserv.com
 qa-accounts.businesstrack.com
 qa-acct-mgmt.catalyst.clover.com
@@ -23054,6 +23031,11 @@ qcaonwebmx.aon.com
 qcaonwebmx.egslb.cmp.aon.com
 qcrholdings.caaweb.com
 qd.surepointag.com
+qinetiq.ca
+qinetiq.cloud
+qinetiq.co.uk
+qinetiq.com
+qinetiq.com.au
 qlik-demo.cbre.com
 qlik-stage.cbre.com
 qlik.cbre.com
@@ -24448,7 +24430,6 @@ securebillpay.ally.com
 secureclient.cbreim.com
 securedadvantagefcu-dc.cert.fec-dc.fiservapps.com
 securedadvantagefcu-dn.financial-net.com
-securedelivery-uat.online.e-gulfbank.com
 secureidentity.com.au
 secureinternetbank-cs.apps-uat.ilendx.tech
 secureinternetbank-cs.apps.ilendx.tech
@@ -27051,7 +27032,6 @@ thevirtualsuperintendent.com.au
 thewallstreetsystem.com
 thewallstreetsystem.net
 thewatergarden-la.com
-thewitnetwork.be
 theworknumber.com
 thewrightcu-dc.cert.fec-dc.fiservapps.com
 thewrightcu-dn.financial-net.com
@@ -27059,7 +27039,6 @@ thfcu-dc.cert.fec-dc.fiservapps.com
 thfcu-dn.financial-net.com
 thfcu.org
 thfcu.vbwebservices.com
-thingworx.dk
 thinkesi.com
 thirdera.com
 thirdpartylending.axosbank.com
@@ -28776,6 +28755,7 @@ us.devartifactory.gcsonp.cbre.com
 us.eip-webhook.cbre.com
 us.gallileo-frankfurt.com
 us.host-building.com
+us.qinetiq.com
 us.sequentra.net
 us17-bcbe7e27-77b3ad6504f814b9f30c04cbc.pages.mailchi.mp
 usaccessedge.cbre.com
@@ -28909,7 +28889,6 @@ utelfcu-dc.cert.fec-dc.fiservapps.com
 utelfcu-dn.financial-net.com
 utopia.cbreesi.com
 uwcu.fundstransfer.cashedge.com
-uwmarktonline.nl
 v.gallileo-frankfurt.com
 v1.gallileo-frankfurt.com
 v1docs.spark.ai
@@ -30017,7 +29996,6 @@ win.jjwws.com
 win.milka.nl
 winco.wgiftcard.com
 wincostore.wgiftcard.com
-windchill.dk
 window.amewas.com
 windstream.com
 windstream.net
@@ -31323,8 +31301,10 @@ www.mywork-dev.cbre.com
 www.mywork-qa.cbre.com
 www.mywork-uat.cbre.com
 www.mywork.cbre.com
+www.naimuri.com
 www.nationalcityplaza.com
 www.navesylogisticacbre.com
+www.ncsiss.org.uk
 www.ncsr.gov.au
 www.neaqbms.cbreesi.com
 www.nekretnine.cbre.rs
@@ -31498,6 +31478,7 @@ www.qa.smartfm.cbre.com
 www.qa.vantage-analytics.cbre.com
 www.qa.vantageanalytics.cbre.com
 www.qa2.vantageanalytics.cbre.com
+www.qinetiq.com
 www.qlik-demo.cbre.com
 www.quadratic-voting.cbre.es
 www.ra.mainstreamsasp.com
@@ -31670,6 +31651,7 @@ www.surefireag.com
 www.surepointag.com
 www.survey.cbre.com
 www.survey.locator.cbre.com
+www.t3e.uk
 www.tap.cbre.com
 www.tapingo.com
 www.tasaciones.cbre.es
@@ -32139,7 +32121,6 @@ xp2.apps-qa.ilendx.tech
 xperience.cbre.com
 xposeprogram.ca
 xpresstemplate.cbre.es
-xrmpartner.com
 xrservice-fileexchange.fiservapps.com
 xssr.n45ht.or.id
 xstore-ru-prod.eu.elcompanies.com
