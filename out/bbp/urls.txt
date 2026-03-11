@@ -90,7 +90,6 @@ http://www.bybit.com/en/alpha/overview
 http://www.bybit.com/trade/tradfi
 http://www.byreal.io
 http://www.kiwi.com/stories
-http://www.lululemon.co.kr/
 http://www.myvisacardportal.com/welcome/enbd/product
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
@@ -1826,7 +1825,6 @@ https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
 https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
-https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
 https://sign.originzero.com.au
@@ -2203,7 +2201,6 @@ https://www.epam.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
-https://www.eu.lululemon.com/
 https://www.exoscale.com/
 https://www.figma.com
 https://www.files.com/docs/client-apps/command-line-interface-cli-app
@@ -2260,14 +2257,6 @@ https://www.logitech.com/blog
 https://www.lookfantastic.com/
 https://www.loom.com/
 https://www.loom.com/download
-https://www.lululemon.co.jp/
-https://www.lululemon.co.nz/
-https://www.lululemon.co.uk/
-https://www.lululemon.com.au/
-https://www.lululemon.com.hk/
-https://www.lululemon.de/
-https://www.lululemon.es/
-https://www.lululemon.fr/
 https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.malloftheemirates.com

@@ -286,8 +286,6 @@
 64.84.60.0/24
 66.232.20.0/23
 66.81.220.0/24
-7671800.bitstamp.net
-7671800.team.bitstamp.net
 77.111.244.0/22
 8.21.164.0/24
 8.25.198.0/24
@@ -314,8 +312,6 @@
 91.203.96.0/22
 94.107.237.192/26
 97.105.243.96/28
-_16928ca3f53f40a48a751be40fa24e4c.bitstamp.net
-_domainconnect.bitstamp.net
 a.exodus.io
 a.root-servers.net
 a4k.amazon.com
@@ -962,7 +958,6 @@ authentication.wolt.com
 authz.workbox.dk
 autobild.de
 autocomplete.booking.com
-autodiscover.bitstamp.net
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
@@ -1091,7 +1086,6 @@ boost.vinci.com
 booth.pm
 boozt.com
 booztlet.com
-bounces.bitstamp.net
 bouw7.nl
 bpa2.marriott.com
 bq.visa.com
@@ -2128,9 +2122,6 @@ elasticsearch.wtf
 eligibility.khealth.com
 elm.nba.com
 elstc.co
-em1198.bitstamp.net
-em4296.team.bitstamp.net
-em9457.team.bitstamp.net
 emag.vinci.com
 emakina.at
 emakina.ch
@@ -2149,8 +2140,6 @@ en.ottokasino.com
 enroll.clearme.com
 ensemble.yahoo.com
 enspotify.com
-enterpriseenrollment.bitstamp.net
-enterpriseregistration.bitstamp.net
 enviso.io
 eops.nl
 epam.com
@@ -2546,6 +2535,7 @@ hub.vroid.com
 hub.yoti.com
 hubapi.com
 hubspot.com
+hubspot.net
 hubspotemail.net
 hubspotpagebuilder.com
 hubspotpagebuilder.eu
@@ -2890,7 +2880,6 @@ luckydays.ca
 luckydays.com
 lucra.live
 lukwerks.com
-lululemon.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
 luxfilmfesttickets.megatix.be
@@ -4125,7 +4114,6 @@ stats.nba.com
 stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
-status.bitstamp.net
 status.delen.be
 status.larksuite.com
 statuspage.io
@@ -4407,7 +4395,6 @@ uphold.com
 upld.krisp.ai
 upsell.hyatt.com
 url-checker.indrive.com
-url6884.team.bitstamp.net
 us.cloud.com
 us.coca-cola.com
 us.forescout.cloud
@@ -5228,7 +5215,6 @@ zelle.com
 zellepay.com
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
-zerobounce.net
 ziekenhuisschool.be
 zomans.com
 zomato.com

@@ -637,8 +637,6 @@
 76.191.116.185
 76.191.116.187
 76.191.116.189
-7671800.bitstamp.net
-7671800.team.bitstamp.net
 78.32.246.234
 78.33.231.186
 79.132.241.0/24
@@ -683,7 +681,6 @@
 99restaurantsstore.wgiftcard.com
 9apps.com
 9sackvillestreet.com
-_16928ca3f53f40a48a751be40fa24e4c.bitstamp.net
 _31266a5c69850f5586e1ab425437109f.benninghoven.com
 _acme-challenge.gm01.benninghoven-gm.com
 _dmarc.benninghoven-gm.com
@@ -835,7 +832,6 @@ _dmarc.witos.com
 _dmarc.witos.de
 _dmarc.witos.info
 _dmarc.witos.net
-_domainconnect.bitstamp.net
 _domainconnect.gd.domaincontrol.com
 a.gallileo-frankfurt.com
 a2-access.com
@@ -2766,7 +2762,6 @@ autodiscover.acemaint.com
 autodiscover.acml.ca
 autodiscover.americansystems.com
 autodiscover.baldor.abb.com
-autodiscover.bitstamp.net
 autodiscover.bodegasindustrialescbre.com
 autodiscover.bovis.es
 autodiscover.cacre.com
@@ -3940,7 +3935,6 @@ boulderdam.apps.ilendx.tech
 boulderdamcu-admin.originate.fiservapps.com
 boulderdamcu.originate.fiservapps.com
 boulognebellevue.cbre.fr
-bounces.bitstamp.net
 bournvita.ng
 bovis.es
 bow-group.com
@@ -6783,6 +6777,10 @@ com.shutterfly
 com.shutterfly.shutterflyuploader
 com.simonsvoss.mobilekey.adminapp
 com.simonsvoss.mobilekey.key4android
+com.smule.autorap
+com.smule.magicpiano
+com.smule.sing
+com.smule.singandroid
 com.snapfish-llc.snapfishexpress
 com.snapfish.mobile
 com.starlingbank.android
@@ -10304,11 +10302,8 @@ eltelit2net.wallstreetsystems.com
 elution.fleetboard.com
 em.abb.com
 em.drives.abb.com
-em1198.bitstamp.net
-em4296.team.bitstamp.net
 em5260.careeralerts.thorntontomasetti.com
 em793.jobalerts.thorntontomasetti.com
-em9457.team.bitstamp.net
 email.100congressbuilding.com
 email.100eastpratt.com
 email.100williamstreetny.com
@@ -10537,7 +10532,6 @@ enterprisecert-temp.olbanking.com
 enterprisecert.olbanking.com
 enterpriseenrollment.baldor.abb.com
 enterpriseenrollment.benninghoven.com
-enterpriseenrollment.bitstamp.net
 enterpriseenrollment.ciber.com.br
 enterpriseenrollment.die-wirtgen-group-auf-der-bauma.de
 enterpriseenrollment.hamm-external.eu
@@ -10558,7 +10552,6 @@ enterprisepaymentsplatform-wab-dr.fiservapps.com
 enterprisepaymentsplatform-wab-prod.fiservapps.com
 enterpriseportal.cbre.eu
 enterpriseregistration.benninghoven.com
-enterpriseregistration.bitstamp.net
 enterpriseregistration.ciber.com.br
 enterpriseregistration.die-wirtgen-group-auf-der-bauma.de
 enterpriseregistration.hamm-external.eu
@@ -17726,6 +17719,7 @@ metabank-velocity-webhook.apps.ilendx.tech
 metabank.apps-uat.ilendx.tech
 metabank.apps.ilendx.tech
 metabank.streamlendvelocity.net
+metabase-test.devl.myvirtualsuper.com
 metabase.dealiq.cbre.com
 metabase.harvestprofit.com
 metaclarivate.com
@@ -21121,6 +21115,7 @@ pctfcu-dc.cert.fec-dc.fiservapps.com
 pctfcu.originate.fiservapps.com
 pda.pla.com.br
 pda.unimil.com.br
+pdc-sapdc-planner-prod.ghns-dwe-transform-prod-vpn.use1.e00.c01.johndeerecloud.com
 pdc.abb.com
 pdci.ca
 pdcpartsrequest.deere.com
@@ -25277,6 +25272,7 @@ smtp.unimil.com.br
 smtp1.jjwws.com
 smtp3.jjwws.com
 smukfest.marabou.dk
+smule.com
 sn-01-cert.fiservapps.com
 sn-01-prod.fiservapps.com
 sn01-auth-cert.fiservapps.com
@@ -25952,7 +25948,6 @@ statsreport-qa.cbre.com
 statsreport-uat.cbre.com
 statsreport.cbre.com
 status.agrisync.com
-status.bitstamp.net
 status.gallileo-frankfurt.com
 statuspage.fr
 statuspageauth.fiservapps.com
@@ -28717,7 +28712,6 @@ upstatetelcofcu-dc.cert.fec-dc.fiservapps.com
 upstatetelcofcu.cert.fec-dc.fiservapps.com
 urbanwaters.gov
 urd.cbre.nl
-url6884.team.bitstamp.net
 urlichsweb.com
 urmycu-admin.originate.fiservapps.com
 urmycu-dc.cert.fec-dc.fiservapps.com
