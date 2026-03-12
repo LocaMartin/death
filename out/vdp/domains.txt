@@ -12,7 +12,6 @@
 100-pine.com
 100.36.51.5
 100congressbuilding.com
-100eastpratt.com
 100topinnovators.com
 100westputnameavenue.com
 100williamstreetny.com
@@ -993,6 +992,7 @@ accessplus-nab-au-cat.fiservapp.com
 accessplus-nab-au-int-cat.fiservapp.com
 accessplus-nab-au.fiservapp.com
 accesspolaris.com
+accessprovide.com
 accessto.l3harris.com
 accon.tsac-staging.daimlertruck.com
 accon.tsac.daimlertruck.com
@@ -3618,6 +3618,7 @@ bigchaulk.net
 bigchaulk.org
 bigchawk.com
 bigchock.com
+bigdatahc.com
 bigislandfcu-dc.cert.fec-dc.fiservapps.com
 bigislandfcu-dn.financial-net.com
 bigmoralis.com
@@ -4385,7 +4386,6 @@ camelotukbidco.co.uk
 camelotukbidco.com
 camelotukbidco.uk
 camelotukbidcolimited.com
-cameras.100eastpratt.com
 campaign.cbre.dk
 campaignmanagement.com.au
 campaignmonitor.fr
@@ -5183,6 +5183,7 @@ ceeunquote.com
 celcofcu-dn.financial-net.com
 celinainsurance-idtheft.com
 cellchaincares.ca
+celticfinance.com
 cencap-admin.originate.fiservapps.com
 cencap.originate.fiservapps.com
 cencapfcu-dc.cert.fec-dc.fiservapps.com
@@ -7100,6 +7101,7 @@ console-sandbox3-server.dev-10.finxact.io
 console-test-server.uat-10.finxact.io
 console.ar.magic-mirror.cn
 console.gallileo-frankfurt.com
+console.liferay.cloud
 console.picsart.io
 constructionriskportal.aon.com
 consultingdrg.com
@@ -9374,6 +9376,8 @@ dit1-cardvalet-ws.fiservapps.com
 dit3-cardvalet-ws.fiservapps.com
 diversity.cbre.com
 diversityyourworld.com
+dividendfinance.com
+dividendsolar.com
 divvy.co
 dixan.it
 dixiecupfcu-dc.cert.fec-dc.fiservapps.com
@@ -9759,6 +9763,7 @@ dtest.devx.cbre.com
 dtestapi.devx.cbre.com
 dtfapi.deere.com
 dtm.intego.dk
+dtsconnex.com
 duckduckgo.com
 duekingincampo.fonzies.it
 dugood-admin.originate.fiservapps.com
@@ -9813,7 +9818,6 @@ e-stacks.com
 e-valuation.cbre.com
 e-verify.gov
 e.100congressbuilding.com
-e.100eastpratt.com
 e.100williamstreetny.com
 e.1340treat.com
 e.1500quail.com
@@ -10305,7 +10309,6 @@ em.drives.abb.com
 em5260.careeralerts.thorntontomasetti.com
 em793.jobalerts.thorntontomasetti.com
 email.100congressbuilding.com
-email.100eastpratt.com
 email.100williamstreetny.com
 email.1340treat.com
 email.1500quail.com
@@ -12043,6 +12046,7 @@ franceunquote.com
 franchise.fiserv.com
 frandsen.architect-cert.fiservapps.com
 frandsen.onlinebank.com
+franklin-street.com
 franklinbnk-admin.originate.fiservapps.com
 franklinbnk.originate.fiservapps.com
 franklinsavings-admin.originate.fiservapps.com
@@ -12172,6 +12176,7 @@ fshlocking.com.au
 fsiis1.fmpilot.com
 fskkradvisor.com
 fsoc.gov
+fspnc.com
 fsrs.gov
 fswdepot.net
 fswidget.creditplus.com
@@ -12592,6 +12597,7 @@ gethalls.com
 gethealthbase.com
 gethired.com
 getpayments.com
+getprovide.com
 getrealworlddata.com
 getroman.com
 getsimnum.gallileo-frankfurt.com
@@ -14037,6 +14043,7 @@ ifastportal.qa.cbre.com
 ifastportal.uat.cbre.com
 ifm-staging.fmpilot2.com
 ifm.fmpilot2.com
+ifsservices.com
 ignet.gov
 ihatemoncler.fr
 ihbnext-ads-rescue.mobile.cedacri.it
@@ -14109,7 +14116,6 @@ imanalytics-dev.cbre.com
 imanalytics-qa.cbre.com
 imanalytics.cbre.com
 imap.100congressbuilding.com
-imap.100eastpratt.com
 imap.100williamstreetny.com
 imap.1340treat.com
 imap.1500quail.com
@@ -16010,6 +16016,7 @@ learn-pilot.elcompanies.com
 learn.elcompanies.com
 learn.gallileo-frankfurt.com
 learn.harvestprofit.com
+learn.liferay.com
 learnconnectgrowday.events.abb.com
 learning-page.net
 learning.cbre.com
@@ -16053,6 +16060,7 @@ legcu-dn.financial-net.com
 legiant.jjwws.com
 legislink.com
 lejiaconejo.es
+lendeavor.com
 lendingclub.caaweb.com
 lendingclubfeds-uat.hepsiian.com
 lenovo.com
@@ -16142,6 +16150,8 @@ lidl.nyerjakedvenceiddel.hu
 lifecompetence.eu
 lifecycleofinnovation.com
 lifelast.com
+liferay.com
+liferay.dev
 lifescience.solutions
 lifescienceinsight.com
 lifesciencesinsight.com
@@ -16841,7 +16851,6 @@ mail-dev.smartfm.cbre.com
 mail-powertalk.referral.abb.com
 mail-relay.thinkesi.com
 mail.100congressbuilding.com
-mail.100eastpratt.com
 mail.100williamstreetny.com
 mail.1340treat.com
 mail.1500quail.com
@@ -17015,6 +17024,7 @@ managedtest.com
 management.buildinglicense.abb.com
 management.multiscan.abb.com
 management.particlehealth.com
+manageprovide.com
 manager.gallileo-frankfurt.com
 managingagent.cbre.nl
 manasquan-p2.onlinebank.com
@@ -17233,6 +17243,7 @@ marketiq.cbre.com
 marketlink.abb.com
 marketplace.ability.abb.com.cn
 marketplace.gallileo-frankfurt.com
+marketplace.liferay.com
 marketplaceadmin.mendixcloud.com
 marketrack.net
 marketrack360.com
@@ -19852,6 +19863,7 @@ nuscriptcentral.com
 nutanix.com
 nutella.com
 nuvionsolutions.com
+nuxeoprod.pdp-ekvnextgen-prod-vpn.us.e20.c01.johndeerecloud.com
 nvs-elogbooks-prd.cbreapps.com
 nvs-elogbooks-uat.cbreapps.com
 nvs-elogbooks.cbreapps.com
@@ -21689,7 +21701,6 @@ pontualmt.net
 pontualreports.net
 pooli.cbre.fi
 pop.100congressbuilding.com
-pop.100eastpratt.com
 pop.100williamstreetny.com
 pop.1340treat.com
 pop.1500quail.com
@@ -23868,6 +23879,7 @@ royalcanin.it
 royalcanin.jp
 royalcanin.nl
 royalcanin.org
+royalcanin.petpaw.com
 royalcanin.pl
 royalcanin.pt
 royalcanin.ro
@@ -25229,7 +25241,6 @@ smslistener.clienttestmatrix.com
 smsservicesnow.com
 smtp-test.truoptik.com
 smtp.100congressbuilding.com
-smtp.100eastpratt.com
 smtp.100williamstreetny.com
 smtp.1340treat.com
 smtp.1500quail.com
@@ -26209,6 +26220,7 @@ support.drumgrange.co.uk
 support.gallileo-frankfurt.com
 support.host-building.com
 support.l3t.com
+support.liferay.com
 support.myvirtualsuper.com
 support.nutanix.com
 support.romonet.com
@@ -26826,6 +26838,7 @@ testpmforecaster.cbre.com
 testpmlocator.cbre.com
 testpossgts.firstdata.com
 testpromoplatform2024.ferreropromo.it
+testprovide.com
 testsecure.todaysebiz.com
 testsgts.firstdata.com
 testtest.cbre.com
@@ -29144,7 +29157,6 @@ vernel.com
 versa.thorntontomasetti.com
 vertmember.com
 vestolit.com
-vet.petpaw.com
 veterans.gov
 vetschoice.co.za
 vetsource.com
@@ -30347,7 +30359,6 @@ www-test2.acemaint.com
 www-uat.dcalonline.com
 www-uat.nonprod.cbre.com
 www-ux-portico.fiservapps.com
-www.100eastpratt.com
 www.100williamstreetny.com
 www.101eastkennedy.com
 www.1500quail.com
@@ -30526,7 +30537,6 @@ www.cadburygiftsdirect.co.uk
 www.cadburyth.com
 www.calc.cbre.com
 www.camelbackesplanade3.com
-www.cameras.100eastpratt.com
 www.campusbrno.cz
 www.candourgroup.co
 www.capital-center.com
@@ -30863,6 +30873,7 @@ www.elite-powerbidev.trammellcrow.com
 www.elite-powerbitest.trammellcrow.com
 www.elite-refresh.trammellcrow.com
 www.elite-test.trammellcrow.com
+www.ellipse.studio
 www.elogbooksqat.cbreapps.com
 www.elogbooksuat.cbreapps.com
 www.emeainsightreporting-test.cbre.com
@@ -31141,6 +31152,7 @@ www.lexus.jp
 www.lexusfinancial.com
 www.lgpd.cbre.com.br
 www.license.romonet.com
+www.liferay.com
 www.lightbox.cbre.com
 www.link.gac.toyota.com
 www.listings.cbre.com.hk
