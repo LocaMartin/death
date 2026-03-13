@@ -1069,6 +1069,7 @@ acquisition.cbre.com.au
 acquisition.gov
 acquisitiongateway.gov
 acrcredit.com.au
+acrevalue.com
 acs580mv-installedbase.abb.com.cn
 acsmgt.t3-int.daimlertruck.com
 acsmgt.t3.daimlertruck.com
@@ -1261,6 +1262,7 @@ aflacfcu-dc.cert.fec-dc.fiservapps.com
 aflacfcu-dn.financial-net.com
 aflaesning.cbre.dk
 africapecongress.com
+after55.com
 ag.gallileo-frankfurt.com
 agd.cbre.eu
 agency365.cbre.eu
@@ -1767,6 +1769,9 @@ apacresearch-tm.nonprod.cbre.com
 apacresearch-uat.nonprod.cbre.com
 apacresearch.cbre.com
 apacretail-otm.elcompanies.com
+apartmentfinder.com
+apartmenthomeliving.com
+apartments.com
 apbrazil-api-dev.cbre.com
 apbrazil-api-qa.cbre.com
 apbrazil-api-uat.cbre.com
@@ -2278,6 +2283,9 @@ app.intellimize.com
 app.investnext.com
 app.investnextdemo.co
 app.jjwws.com
+app.lemcal.com
+app.lemlist.com
+app.lemwarm.com
 app.liveplan.com
 app.medifox-therapie.de
 app.moldmonitoring.it.abb.com
@@ -2292,7 +2300,9 @@ app.signin-connexion.canada.ca
 app.smartapply.com
 app.spark.ai
 app.starlingbank.com
+app.taplio.com
 app.thnks.com
+app.tweethunter.io
 app.web.com
 app.wellhive.com
 app.zone.cbre.es
@@ -2636,6 +2646,7 @@ ats.gallileo-frankfurt.com
 atsapi.firstdata.com
 atscalepoc.ae-databricks-prod-standalone.us.e18.c01.johndeerecloud.com
 atsmobileapi.firstdata.com
+attachments.aws.dshrp.com
 attachmentscert.deere.com
 attorneyjobs.com
 attorneyjobs.net
@@ -3727,7 +3738,9 @@ bitvavo.com
 bitwarden.com
 biuroprasowe.cbre.pl
 bizapi.vbonlineaon.com
+bizbuysell.com
 bizel.it.abb.com
+bizquest.com
 bizrateinsights.fr
 bizspine.org
 bjresidential.cbre.com.cn
@@ -4209,6 +4222,7 @@ bunningsinvestments.com.au
 bunningsportfolio.com.au
 bureau.cbre.fr
 bureaux.cbre.fr
+bureauxlocaux.com
 burgerking.wgiftcard.com
 burgessrawson.app
 burgessrawson.au
@@ -4271,6 +4285,7 @@ businessbillpaytest.santanderbank.com
 businesscard.abb.com
 businesscreditexpress.com.au
 businesselibrary.com
+businessimmo.com
 businessinsights.cbre.com
 businessloyalty.com.au
 businessonlinetest.fiserv.io
@@ -5850,6 +5865,7 @@ citybbq.wgiftcard.com
 citycentertroy.com
 citycofcu-dc.cert.fec-dc.fiservapps.com
 citycofcu-dn.financial-net.com
+cityfeet.com
 cityfinancials.com
 citymesh-connect.be
 citymesh-connect.com
@@ -5863,6 +5879,7 @@ citymesh.net
 citymesh.nl
 citymeshconnect.be
 citymeshconnect.com
+citysnap.com
 cityvox.fr
 ciudadesdesdeelcielo.cbre.es
 civilwarliterature.com
@@ -7272,6 +7289,7 @@ corporate-intelligence.org
 corporate.abercrombie.com
 corporate.cbre.fr
 corporatedomainsummit.com
+corporatehousing.com
 corporateintelligence.com
 corporateintelligence.net
 corporateintelligence.org
@@ -7365,9 +7383,12 @@ cosmicteacher.com
 cosmos-stage.onepeloton.com
 cosmos.onepeloton.com
 cospivot.com
+costar.com
+costargroup.com
 costargw-dev.cbre.com
 costargw-qa.cbre.com
 costargw.cbre.com
+costarmanager.com
 costco.ca
 costco.com
 costco.wgiftcard.com
@@ -8341,6 +8362,7 @@ dataroom.cbre.com
 dataroom.cbre.fr
 datarooms.cbre.fr
 datasafe-lower.fiservapps.com
+dataservices.aws.dshrp.com
 dataspecialist.com.au
 datastar.asia
 datastar.ch
@@ -11558,6 +11580,7 @@ financialstability.gov
 finansfcu-dc.cert.fec-dc.fiservapps.com
 finansfcu-dn.financial-net.com
 fincen.gov
+findafranchise.com
 findroyalcanin.com
 fingerscrossed.cadbury.co.uk
 fingerscrossed.cadbury.ie
@@ -11984,6 +12007,8 @@ forms.gallileo-frankfurt.com
 forms.gov
 forms.wirtgen-group.com
 formula-e-predictor.abb.com
+forrent.com
+forrentuniversity.com
 fortmcclellancu-dc.cert.fec-dc.fiservapps.com
 fortmcclellancu-dn.financial-net.com
 fortress.jjwws.com
@@ -13646,8 +13671,10 @@ homelandcu-di.apps-uat.ilendx.tech
 homelandcu.apps-uat.ilendx.tech
 homelandsecurity.gov
 homer-api.mfg-branch-and-parts-prod-vpn.us.e11.c01.johndeerecloud.com
+homes.com
 homesavingschanute-admin.originate.fiservapps.com
 homesavingschanute.originate.fiservapps.com
+homesnet.aws.dshrp.com
 homestbk-admin.originate.fiservapps.com
 homestbk.caaweb.com
 homestbk.originate.fiservapps.com
@@ -15895,6 +15922,8 @@ lan.com
 lanchile.cl
 lanchile.com
 land-manager.deere.com
+land.com
+landandfarm.com
 landaulettings.com
 landfire.gov
 landimaging.gov
@@ -15910,6 +15939,8 @@ landonstark.com
 landscapes.abb.com
 landsend.wgiftcard.com
 landsendstore.wgiftcard.com
+landsofamerica.com
+landwatch.com
 landx-api.aws.cbre.eu
 landx-api.cbre.co.uk
 landx.aws.cbre.eu
@@ -16641,6 +16672,7 @@ looplink.whiteplains.cbre.us
 looplink.wi.cbre.us
 looplink.windsor.cbre.ca
 looplink.winnipeg.cbre.ca
+loopnet.com
 looza.be
 loreka.abb.com
 lostark.games.aws.dev
@@ -17600,6 +17632,7 @@ meet.gallileo-frankfurt.com
 meet.intego.dk
 meeting-room.in.abb.com
 meetingplace.cbre.eu
+meetings-api-deere.ghns-dwe-transform-prod-vpn.use1.e00.c01.johndeerecloud.com
 meetings.aon.com
 meetmynewpet.com
 mefcu-admin.originate.fiservapps.com
@@ -20398,6 +20431,7 @@ ontada.com
 ontadahealth.com
 ontheborder.wgiftcard.com
 ontheborderstore.wgiftcard.com
+onthemarket.com
 oos.pdc.abb.com
 opavia.info
 ope-qa.dtbsa.co.za
@@ -22403,6 +22437,7 @@ propertycentral-test.cbre.com
 propertycentral.cbre.com
 propertyconnector.cbre.co.nz
 propertyconnector.cbre.com.au
+propertycontrolcenter.com
 propertyfrontier.cbre.com.au
 propertypules-dr.cbre.com
 propertypulse-admin-dev.cbre.com
@@ -23320,6 +23355,7 @@ receivablesoutsourcingllc.com
 receiver-drives.abb.com.cn
 receiver.remotemonitoring.drives.abb.com
 recept.marabou.se
+reconext.deere.com
 recreation.gov
 recruiting.mdlz.com
 redaktion-salestraining-wirtgen.applications.wirtgen-group.com
@@ -26087,6 +26123,7 @@ storybook.emerald.cbre.com
 storybook.spark.ai
 stp2-web.personix.com
 stp2.personix.com
+str.com
 strasbourg.cbre.fr
 stratus.abb.com
 streaklinks.com
@@ -26568,6 +26605,7 @@ templecreditunion-admin.originate.fiservapps.com
 templecreditunion-dc.cert.fec-dc.fiservapps.com
 templecreditunion-dn.financial-net.com
 templecreditunion.originate.fiservapps.com
+ten-x.com
 tenancycheck.com.au
 tenancydatabase.com.au
 tenant-mail01.orl01.cymycloud.com
@@ -26575,6 +26613,7 @@ tenant-svc-fw-01.orl01.cymycloud.com
 tenant-svc-fw-02.orl01.cymycloud.com
 tenantgw01.orl01.cymycloud.com
 tenants-contents.insurance.aon.co.uk
+tenx.aws.dshrp.com
 terminal-api.prod.ip.aon.comindex.html
 terminal.cc
 terms.kreiselelectric.com
@@ -28879,6 +28918,7 @@ usmrae02.cbre.com
 usoncology.com
 usprospectus.com
 uspto.gov
+uss.deere.com
 usss.gov
 ustedquepuedehacer.org
 ustraveldocs.com
@@ -29209,6 +29249,7 @@ virtual.mjl.cbre.com
 virtualapp.com
 virtualbranchservices.com
 virtualhiringassistant.mondelezinternational.com
+virtualpremise.com
 virtualsuperintendent.com.au
 virtualtms.com
 virtuoso.fi-apps.com
@@ -29252,6 +29293,7 @@ visittheusa.fr
 vispriza.ca
 vistaar.deere.com
 vistaar.tal.deere.com
+visuallease.com
 visuals.thinkesi.com
 vitrium.cbre.co.th
 vivelle.ca
@@ -29884,6 +29926,7 @@ westfield.streamlendvelocity.net
 westmetroschoolscu-dc.cert.fec-dc.fiservapps.com
 westmetroschoolscu-dn.financial-net.com
 westpac.com.au
+westsiderentals.com
 westtexascu-admin.originate.fiservapps.com
 westtexascu.originate.fiservapps.com
 westville-frankfurt.com

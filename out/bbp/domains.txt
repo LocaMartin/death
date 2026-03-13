@@ -3628,7 +3628,6 @@ projectbaseline.com
 projects.datacamp.com
 projects.epam.com
 projects.nextcloud.com
-proprietario.quintoandar.com.br
 protrade.com
 prow.k8s.io
 prowly.com
@@ -4812,7 +4811,6 @@ www.fi.dyson.com
 www.files.com
 www.firefox.com
 www.fiscaalgemak.nl
-www.fitvermogen.nl
 www.flights.com
 www.fondation-vinci.com
 www.fortress.com.hk
