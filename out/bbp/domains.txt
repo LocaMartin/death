@@ -334,11 +334,11 @@ account.acronis.com
 account.adobe.com
 account.api.here.com
 account.booking.com
-account.brave.com
 account.here.com
 account.krisp.ai
 account.magento.com
 account.mongodb.com
+account.roon.app
 account.ui.com
 accounts.cloud.com
 accounts.cloud.databricks.com
@@ -501,7 +501,6 @@ apex-football.com
 api calls going to disco-api from https://www.tagesanzeiger.ch
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
-api-dashboard.search.brave.com
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-js.datadome.co
@@ -620,6 +619,7 @@ api.marionnaud.sk
 api.mercadolibre.com
 api.mercadopago.com
 api.mergify.com
+api.metronome.com
 api.midtrans.com
 api.monespacesante.fr
 api.moonpay.com
@@ -802,6 +802,7 @@ app.marionnaud.hu
 app.marionnaud.it
 app.marionnaud.ro
 app.marionnaud.sk
+app.metronome.com
 app.midtrans.com
 app.moderntreasury.com
 app.mona.co
@@ -937,6 +938,7 @@ auth.digital.delen.lu
 auth.embark.net
 auth.hhc247.org
 auth.magic.link
+auth.metronome.com
 auth.monespacesante.fr
 auth.moonpay.com
 auth.mtls.truelayer-sandbox.com
@@ -985,7 +987,6 @@ base.org
 basecamp.app
 basecamp.rivian.com
 basecamp3.exe
-basicattentiontoken.org
 bastion.oath.cloud
 bastion.yahoo.cloud
 battles.tv
@@ -1096,7 +1097,6 @@ braintreegateway.com
 braintreepayments.com
 brasil-store.tomorrowland.com
 brasil.tomorrowland.com
-brave.com
 bredbandsbolaget.se
 bridge.xyz
 bsp.marriott.com
@@ -1825,7 +1825,6 @@ create.fortnite.com
 create.snapchat.com
 creator.amazon.com
 creatormarketplace.tiktok.com
-creators.basicattentiontoken.org
 creditkarma.ca
 creditkarma.co.uk
 creditkarma.com
@@ -1912,6 +1911,7 @@ dcfgateway.marriott.com
 dcfgatewaytst1.marriott.com
 de.bmw.connected.mobile20.row
 de.forescout.cloud
+de.jbl.com
 dealer.prod.ps.axelspringer.de
 debug.8x8.com
 debug.clairvoyance.indrive.tech
@@ -1954,7 +1954,6 @@ developer.authorize.net
 developer.crypto.com
 developer.currencycloud.com
 developer.cybersource.com
-developer.dailymotion.com
 developer.gs.com
 developer.infomaniak.com
 developer.konghq.com
@@ -1988,6 +1987,7 @@ direct.playstation.com
 directverify.in
 distribution-xml.booking.com
 district.in
+dm-event.net
 dm.gg
 dmcdn.net
 dmxleo.com
@@ -2401,6 +2401,8 @@ goldmansachsindices.com
 gop3.nl
 gopayapi.com
 gopaymerchant.midtrans.com
+gotdrops.cloud
+gotdrops.com
 gotinder.com
 gov.bugcrowd.net
 governorofpoker.com
@@ -2459,6 +2461,8 @@ hacktoberfest.com
 happening.dev
 hardware found on https://www.ezviz.com/category/security-wifi-cameras
 hardware found on https://www.ezviz.com/category/smart-home
+harmanaudio.com
+harmankardon.com
 harmonixmusic.com
 harmonyremote.com
 has.embark.net
@@ -2565,7 +2569,6 @@ id.nba.com
 id.oppo.com
 id.realestate.com.au
 id.stg.inspectorio.com
-id.worldcoin.org
 idcash-uat.unico.io
 identi.robinhood.com
 identity-dev.nba.com
@@ -2583,7 +2586,6 @@ idp.uzleuven.be
 idpay-uat.unico.io
 ifast.marriott.com
 iframe.arkoselabs.com
-ifttt-adaptor.pub.kube.dm.gg
 igpayment.com
 ik.watsons.com.tr
 ikarem.io
@@ -2597,6 +2599,7 @@ imx.community
 in-scope products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 in.amazon.mshop.android.business.shopping
 in.amazon.mshop.android.shopping
+in.jbl.com
 in2tel.ie
 incapsula.com
 indeed.net
@@ -2681,6 +2684,10 @@ itscope.de
 itv7.itv.com
 ix2smbdyjt.infomaniak.site
 j.root-servers.net
+jbl.com
+jbl.com.br
+jbl.nl
+jbl.ru
 jimmobile.be
 jira.grab.com
 jira.hyattdev.com
@@ -2761,6 +2768,7 @@ kruidvat.be
 kruidvat.nl
 kruidvatkids.nl
 ksuite.infomaniak.com
+kube.dm.gg
 kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be
@@ -3207,8 +3215,6 @@ mystics.wnba.com
 myteksi.com
 myteksi.net
 mytrainpal.com
-n8n-staging.k8s.dm.gg
-n8n.pub.k8s.dm.gg
 naasapi.optus.com.au
 nadex.com
 napoleoncasino.be
@@ -3374,6 +3380,7 @@ oymyakon.indriver.io
 oysho.cn
 oysho.com
 p.grabtaxi.com
+p2p.walletbot.me
 p4-submit-service.embark.net
 p8t.us
 packet8-pilot.net
@@ -3771,6 +3778,12 @@ romwe.co.in
 romwe.com
 romwe.org
 roominglist.hyatt.com
+roon.app
+roondrops.com
+roonessentials.com
+roonessentials.net
+roonlabs.com
+roonlabs.net
 router.geneva-staging.com
 router.hereapi.com
 rpc.mail.aol.com
@@ -3830,7 +3843,6 @@ se.bingo.com
 search.aol.ca
 search.aol.co.uk
 search.aol.com
-search.brave.com
 sec-tunnel.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
@@ -4180,6 +4192,7 @@ support.creditkarma.ca
 support.cs.money
 support.greenhouse.io
 support.innogames.com
+support.jbl.com
 support.link.com
 support.logi.com
 support.monespacesante.fr
@@ -4215,7 +4228,6 @@ sys.comcast.net
 t.swapcard.com
 t.umblr.com
 tableau.fareharbor.engineering
-talk.brave.com
 tax.audible.com
 tax.crypto.com
 taxi.booking.com
@@ -4378,6 +4390,8 @@ ui.stage.lando.nonprod.cloudops.mozgcp.net
 uisp.com
 uk.bingo.com
 uk.forescout.cloud
+uk.harmanaudio.com
+uk.jbl.com
 ultimateearsuniversity.com
 unico.io
 unifi.ui.com

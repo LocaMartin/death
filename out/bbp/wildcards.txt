@@ -226,7 +226,6 @@ dailymotion.com
 dancecentral.com
 das.eu
 datacamp.com
-datadoghq.eu
 deliciousbrains.com
 dell.com
 delltechnologies.com
@@ -242,8 +241,10 @@ dibz.co.uk
 directly.com
 directverify.in
 district.in
+dm-event.net
 dm.gg
 dmcdn.net
+dmxleo.com
 dns.eu
 docsend.com
 docswallet.com
@@ -398,6 +399,8 @@ goldmansachs.com
 google.com
 gop3.nl
 gopayapi.com
+gotdrops.cloud
+gotdrops.com
 gotinder.com
 governorofpoker.com
 grab-sure.com
@@ -432,6 +435,8 @@ hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.net
 happening.dev
+harmanaudio.com
+harmankardon.com
 harmonixmusic.com
 harmonyremote.com
 hccb.in
@@ -511,6 +516,10 @@ intigriti.rocks
 itcapital.io
 itscope.com
 itscope.de
+jbl.com
+jbl.com.br
+jbl.nl
+jbl.ru
 jit.si
 jitsi.net
 jobapi.net
@@ -634,6 +643,7 @@ mercadopago.com.mx
 mercadopago.com.pe
 mercadopago.com.uy
 metamask.io
+metronome.com
 mevo.com
 miro.com
 miui.com
@@ -845,6 +855,12 @@ rockstargames.com
 romwe.co.in
 romwe.com
 romwe.org
+roon.app
+roondrops.com
+roonessentials.com
+roonessentials.net
+roonlabs.com
+roonlabs.net
 runnr.in
 s-cloud.net
 s3p.cloud
