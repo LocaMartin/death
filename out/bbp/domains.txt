@@ -742,6 +742,7 @@ api.watsons.com.sg
 api.watsons.com.tr
 api.watsons.com.tw
 api.watsons.vn
+api.whatnot.com
 api.wisdomtreeprimeapp.com
 api.wordpress.org
 api.workbox.dk
@@ -892,6 +893,7 @@ atlastunnel.com
 atspotify.com
 atv.peoplecert.org
 au01.miro.com
+auction-service.whatnot.com
 audible.ca
 audible.co.jp
 audible.co.uk
@@ -1463,11 +1465,6 @@ com.finshell.finance
 com.finshell.wallet
 com.foxnextgames.m3
 com.frame.frameio
-com.freshchat.agent.android
-com.freshdesk.helpdesk
-com.freshservice.helpdesk
-com.freshservice.helpdesk.intune
-com.freshworks.freshcaller
 com.frontapp.mobile
 com.genevachat.staging
 com.goodrx
@@ -1702,6 +1699,7 @@ com.wellsfargo.ceomobile
 com.wf.ceomobile
 com.wf.mobilebanking
 com.wf.wellsfargomobile
+com.whatnot_mobile
 com.whoop.android
 com.whoop.iphone
 com.wikibuy.prod.main
@@ -2828,6 +2826,7 @@ list-v2--netlify-plugins.netlify.app
 lists.nextcloud.com
 lists.wordpress.org
 live-backstage.tiktok.com
+live-service.whatnot.com
 livestream.com
 loanbuilder.com
 locale.trip.com
@@ -4604,6 +4603,7 @@ werkenbijgamma.nl
 werkenbijkarwei.nl
 wf.com
 wga.volans.tech
+whatnot.com
 whois.eu
 whoop 4.0 strap
 whoop 5.0/mg strap
@@ -5131,6 +5131,7 @@ www.watsons.vn
 www.watsonsbeautystudio.com
 www.weclapp.com
 www.whatismode.com
+www.whatnot.com
 www.wickr.com
 www.wmconnect.com
 www.wnba.com
@@ -5202,11 +5203,6 @@ yimg.com
 you.23andme.com
 your-store.myshopify.com
 yourcompany.udemy.com
-yourdomain.freshcaller.com
-yourdomain.freshchat.com
-yourdomain.freshdesk.com
-yourdomain.freshrelease.com
-yourdomain.freshservice.com
 yoyogames.com
 ys7.com
 ywh.admin.zecible.fr

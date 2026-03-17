@@ -3878,6 +3878,7 @@ bolservices-qfe.it.abb.com
 bolservices.it.abb.com
 bolt-uat.cardpointe.com
 bolt.cardpointe.com
+bom-chat.pdp-epdm-product-structure-devl-vpn.us.e20.c01.johndeerecloud.com
 bombardier-alstom.fr
 bomgar.bluerivertech.com
 bond-plus.com
@@ -17254,6 +17255,7 @@ marketingapi.nonprod.cbre.com
 marketingcommunication.nonprod.cbre.com
 marketingportal-newsletter.deere.com
 marketingportal.deere.com
+marketingrcmsprod.channel-dss-r1-india-cms-prod-vpn.ap.e06.c01.johndeerecloud.com
 marketinsights-dev.cbre.com
 marketinsights-uat.cbre.com
 marketinsights.cbre.com
@@ -19683,6 +19685,7 @@ nlfcu-dc.cert.fec-dc.fiservapps.com
 nlfcu-dn.financial-net.com
 nlrb.gov
 nmkv.info
+nmq.deere.com
 nmsc.gov
 nmwco.com
 nnarkmonitor.com
@@ -20533,6 +20536,7 @@ orbiaglobal.com
 orbit.apnic.net
 orbitgum.com
 orbitz.com
+orchestrator-qual.deere.com
 orcidsandbox.com
 orcidsandbox.net
 orderagent.sentera.com
@@ -23372,6 +23376,7 @@ redirect.abb.com
 redirect.cbreclarion.com
 redirect.spark.ai
 redis.io
+redjd2.deere.com
 redlands.wgiftcard.com
 redlobster.wgiftcard.com
 redlobstercanada.wgiftcard.com
