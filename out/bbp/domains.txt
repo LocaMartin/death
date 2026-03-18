@@ -2934,6 +2934,7 @@ magiceden.io
 magiceden.workers.dev
 magisto.com
 magwien.gv.at
+mail-builder.infomaniak.com
 mail.hostinger.com/v2
 mail.infomaniak.com
 mail.notion.so

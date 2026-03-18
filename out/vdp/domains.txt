@@ -6402,7 +6402,6 @@ cloud.greensoluce.com
 cloud.havelockone.com
 cloud.marketing.cbre.com.br
 cloud.pomapps01.it.abb.com
-cloud.rocket.chat
 cloud.sequentra.net
 cloud.uat.ch.cbre.eu
 cloudapps01.abb.com
@@ -10322,6 +10321,7 @@ elogbooks-uat.cbreapps.com
 elogbooks.cbreapps.com
 elogbooksqat.cbreapps.com
 elogbooksuat.cbreapps.com
+elotouch.com
 elpc.abb.com
 elsp-digitalproduct-resources.abb.com
 eltel.asp.iongroup.com
@@ -23849,7 +23849,6 @@ rockdalefcu.org
 rockdalefcu.vbwebservices.com
 rockdalefedcu-dc.cert.fec-dc.fiservapps.com
 rockdalefedcu-dn.financial-net.com
-rocket.chat
 rocketball.com
 rocketcityfcu-dc.cert.fec-dc.fiservapps.com
 rocketcityfcu-dn.financial-net.com

@@ -2026,7 +2026,6 @@ https://github.com/arkadiyt/aws_public_ips
 https://github.com/arkadiyt/bounty-targets
 https://github.com/arkadiyt/ddexport
 https://github.com/arkadiyt/free-ft
-https://github.com/arkadiyt/multiple-aws-sessions
 https://github.com/arkadiyt/protodump
 https://github.com/arkadiyt/ssrf_filter
 https://github.com/arkadiyt/zoom-redirector
@@ -2067,9 +2066,6 @@ https://github.com/phpbb/phpbb
 https://github.com/posthog/posthog
 https://github.com/posthog/posthog.com
 https://github.com/revive-adserver/revive-adserver
-https://github.com/rocketchat/rocket.chat
-https://github.com/rocketchat/rocket.chat.electron
-https://github.com/rocketchat/rocket.chat.reactnative
 https://github.com/rundeck/rundeck
 https://github.com/rundeck/rundeck-cli
 https://github.com/strongdm/strongdm-sdk-go
