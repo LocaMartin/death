@@ -40,6 +40,7 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
+http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
 http://federatedid-na1.services.adobe.com
 http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
@@ -138,6 +139,9 @@ https://aemdam.usaa360.com/
 https://afterpay.com
 https://agent.apps.monash.edu/
 https://airflow-mcp.data.dailymotion.com/
+https://aiven.io
+https://aiven.io/clickhouse
+https://aiven.io/docs/products/metrics/concepts/metrics-overview
 https://album.link
 https://alumni-friends.monash.edu
 https://amazon-tacticalplanner.com
@@ -161,6 +165,7 @@ https://api-sandbox.uphold.com/graphql
 https://api-secure.sports.yahoo.com
 https://api-skipthedishes.skipthedishes.com
 https://api.20min.ch
+https://api.aiven.io/login
 https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
 https://api.bitpanda.com
@@ -217,6 +222,7 @@ https://api.pluralonline.com
 https://api.pluralpay.in
 https://api.portal.enterprise.uphold.com
 https://api.production.cde.tamg.cloud
+https://api.recordedfuture.com
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
@@ -279,6 +285,7 @@ https://app.latitudepayapps.com
 https://app.opsgenie.com
 https://app.optimizely.com/
 https://app.pdq.com/
+https://app.recordedfuture.com
 https://app.saltlabs.com/
 https://app.sandbox.agora.incubateur.net
 https://app.sandbox.topperpay.com
@@ -347,6 +354,7 @@ https://bb1.simplisafe.com
 https://bb2.simplisafe.com
 https://bestball.fantasysports.yahoo.com/
 https://beta.arlo.com
+https://bgpview.io
 https://bigquery-mcp.data.dailymotion.com/
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com/
@@ -465,6 +473,7 @@ https://connect.soundcloud.com
 https://consensus2024.sandbox.events.coindesk.com/
 https://consensys.io/
 https://console-stage.neon.build/
+https://console.aiven.io/login
 https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/billing
 https://console.delltechnologies.com/nav/invoice
@@ -699,6 +708,7 @@ https://gateway.superhuman.com
 https://gcsm.oppoit.com/
 https://gemcreditline.co.nz
 https://gemfinance.co.nz
+https://geminiadvisory.io
 https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
@@ -719,6 +729,8 @@ https://github.com/aikidosec/firewall-python#Vulnerability
 https://github.com/aikidosec/firewall-ruby#Detection%20Bypass
 https://github.com/aikidosec/firewall-ruby#False%20Positive
 https://github.com/aikidosec/firewall-ruby#Vulnerability
+https://github.com/aiven
+https://github.com/aiven-open
 https://github.com/apache/airflow
 https://github.com/apache/httpd
 https://github.com/apache/tomcat
@@ -1052,6 +1064,7 @@ https://gwapi1.tripadvisor.com
 https://gwapi2.tripadvisor.com
 https://gx.games
 https://gx.opera-api.com
+https://hatching.io
 https://healthmate.withings.com
 https://help.etsy.com
 https://help.miro.com/hc/en-us/articles/360017572414-jira-add-on
@@ -1081,6 +1094,7 @@ https://i18n.api.just-eat.io
 https://ibconnect.internetbrands.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
+https://id.recordedfuture.com
 https://id.superhuman.com
 https://id.unity.com
 https://identite-sandbox.proconnect.gouv.fr
@@ -1855,6 +1869,7 @@ https://rc.telekom.blis.com
 https://rc.tpmaudience.com
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
+https://regatta.aiven.io
 https://register.blis.com
 https://rentals.tripadvisor.com
 https://repair.voiweb.net
@@ -2072,6 +2087,7 @@ https://trello.com/power-ups/5c2462c384ab8949b1724a20/list-limits
 https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-
 https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 https://trello.com/power-ups/6052d130068a8c0de7b022b4
+https://tria.ge
 https://trm.pinelabs.ae
 https://tw-finance-yql.media.yahoo.com
 https://tw.api.bid.yahoo.com:4443
@@ -2473,6 +2489,7 @@ https://www.privateinternetaccess.com/download/linux-vpn
 https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
 https://www.realcommercial.com.au/
+https://www.recordedfuture.com
 https://www.remove.bg
 https://www.restaurant-information.com
 https://www.saturn.de

@@ -876,7 +876,6 @@ ask.khealth.com
 assessment-api.datacamp.com
 assessment-v2.datacamp.com
 assessment.datacamp.com
-asset-metadata-api.embark.net
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -1499,6 +1498,7 @@ com.heytap.pictorial
 com.heytap.research
 com.heytap.store
 com.heytap.themestore
+com.heytap.wallet
 com.hotornot.app
 com.hotwire.hotels
 com.hyatt
@@ -2414,7 +2414,6 @@ grabpay.com
 grabtaxi.com
 grae.nba.com
 grafana labs developed [plugins](https://grafana.com/grafana/plugins/all-plugins/?signature=grafana) not installed by default are accepted, but not eligible for a bounty
-grafana.embark.net
 grammarly.com
 grammarly.io
 grammarlyaws.com

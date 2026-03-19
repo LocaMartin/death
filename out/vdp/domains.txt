@@ -641,7 +641,6 @@
 79.132.241.0/24
 7apivoexm4xn.wpeproxy.com
 7c905fb0-ac0e-4c32-8191-419d531bf79a.prod.reverse.svc.fleetboard.com
-7days-promo.ro
 8.14.222.0/24
 8.17.26.0/24
 8.30.83.241
@@ -3115,7 +3114,6 @@ bakerdomains.co.uk
 bakerdomains.com
 bakerssquare.wgiftcard.com
 bakerssquarestore.wgiftcard.com
-bakery.milka.com
 bakimonarim.shaya.com.tr
 balambanenerzone.com
 baldor.com
@@ -4353,11 +4351,8 @@ cadbury.ie
 cadburydessertscorner.com
 cadburyfindtheticket.com.au
 cadburyhuntstartshere.com.au
-cadburymatchandwin.com.au
 cadburypakistan.com
 cadburyperksmartunlocks.com
-cadburyrugbypromo.com.au
-cadburytimeout.com
 cadburytrytime.co.nz
 cadburyworld.co.uk
 cadence.architect-cert.fiservapps.com
@@ -6988,8 +6983,6 @@ comunicacion.cbre.es
 comus.us
 concertofeds-uat.hepsiian.com
 concorsi.loctite-consumer.it
-concorso.orosaiwa.it
-concorsoestate.fonzies.it
 condition-monitoring.mining.ability.abb.com
 conditionmonitoring.traction.abb.com
 condor-dev-azfunc.am.elcompanies.com
@@ -8674,7 +8667,6 @@ depositreturns-g1.fiservsco.com
 depositreturns-g2.fiservsco.com
 depot.cbre.fr
 deprod.pip.cbrehotels.com
-derbisevillaconmdlz.com
 derwent-drug-file.com
 derwent-geneseq.com
 derwent-genseq.com
@@ -12431,7 +12423,6 @@ gamesanchor.com
 gamesindustry.biz
 gaming.amazon.com
 ganaconmdlz.com
-ganaconmdlzbalonpuma.com
 ganapremiosmdlz.com
 gandt.co.za
 garantiasempresas.itau.co
@@ -12562,7 +12553,6 @@ generic-anonymous.cbre.eu
 generic-auth.cbre.co.uk
 genericauth.cbre.eu
 generics.com
-generousfirst.cadbury.co.za
 genesisbankcert.olbanking.com
 genesisfeds-uat.hepsiian.com
 genetec.cbre.com
@@ -12681,7 +12671,6 @@ gitlab.gallileo-frankfurt.com
 gitlab.prod.bearflagrobotics.com
 gitlab01.services.wirtgen-group.com
 give-a-little-thanks.cadbury.co.za
-giveacheer.cadbury.com.au
 giveawaygiveaway.cadbury.co.uk
 gkc1.cbrichardellis.com
 gkc2.cbrichardellis.com
@@ -12750,7 +12739,6 @@ glosearchin.cbre.com
 glosearchinuat.cbre.com
 glosearchuat.cbre.com
 glsearch.cbre.com
-gluecksrad.milka.at
 gluh.co
 glv-consulting.cbre.com
 glv-dev.cbre.com
@@ -15418,7 +15406,6 @@ jerseymikesstore.wgiftcard.com
 jessopfcu-dc.cert.fec-dc.fiservapps.com
 jessopfcu-dn.financial-net.com
 jetblue.com
-jeumondelez25-lyovel.fr
 jgilberts.wgiftcard.com
 jgilbertsstore.wgiftcard.com
 jira-dev.cbre.com
@@ -15692,7 +15679,6 @@ kirkpatrickbank-admin.originate.fiservapps.com
 kirkpatrickbank.originate.fiservapps.com
 kirkwoodbank-admin.originate.fiservapps.com
 kirkwoodbank.originate.fiservapps.com
-kisa.marabou.fi
 kit.ro.co
 kiwa.com
 kiwa.info
@@ -15824,7 +15810,6 @@ kymriah.ca
 kyribacash.com
 kyribanow.com
 kz.abb.com
-kz.alpengold.me
 kz.inside.abb.com
 kzn-turntown.co.za
 l.gallileo-frankfurt.com
@@ -17928,20 +17913,13 @@ militaryvotes.ohio.gov
 milka-pasakyklabas.lt
 milka-promo.bg
 milka-sakisveiks.lv
-milka.be
 milka.cl
 milka.com
-milka.de
-milka.es
-milka.it
 milka.ru
 milkacandies.cz
 milkacandies.sk
 milkamaxpromo.ba
-milkamaxpromo.hr
-milkamaxpromo.info
 milkamaxpromo.rs
-milkamaxpromo.si
 milkamozi.hu
 milkapromo.hu
 milkaszaloncukor.hu
@@ -17968,10 +17946,6 @@ minemeld.pprod.gcso.cbre.com
 minerva.robinhood.com
 minetoport.com
 minetoport.net
-minichipsahoy.mondelezplayminigames.com
-minigolden.mondelezplayminigames.com
-minioreo.mondelezplayminigames.com
-miniprincipe.mondelezplayminigames.com
 minnstarbank-admin.originate.fiservapps.com
 minnstarbank.originate.fiservapps.com
 mint.com
@@ -18190,9 +18164,7 @@ moncse-royalcanin-siege.com
 mondelez-afh.co.uk
 mondelez-professional.de
 mondelezcanadafoodservice.ca
-mondelezgrowthprogram.com
 mondelezinternational.com
-mondelezinternationalfoodservice.com
 mondelezinternationalnutritionscience.com
 mondelezpromo.com
 mondelezvending.com
@@ -18649,7 +18621,6 @@ music.gallileo-frankfurt.com
 musicmediamonthly.com
 musictime.app
 musictime.com.gh
-musik.marabou.se
 mutualfederalbank-admin.originate.fiservapps.com
 mutualfederalbank.originate.fiservapps.com
 mutualsavings-dc.cert.fec-dc.fiservapps.com
@@ -19671,7 +19642,6 @@ nl-whitesands.streamlendvelocity.net
 nl-wsfcu.streamlendvelocity.net
 nl.abb.com
 nl.gallileo-frankfurt.com
-nl.oreo.eu
 nl.shop.abb.com
 nl.speakap.speakap
 nlamyarva01.mtn.co.za
@@ -19933,7 +19903,6 @@ nycbcert-temp.olbanking.com
 nycbcert.olbanking.com
 nyerjakedvenceiddel.hu
 nyerjakekszekkel.hu
-nyerjazoreoval.hu
 nyheder.cbre.dk
 nyl.wc3.com
 nylaarpfeds-uat.hepsiian.com
@@ -20560,7 +20529,6 @@ oreo.mx
 oreo.ru
 oreoberbagiseru.com
 oreocookie.jp
-oreofestivalbilletter.no
 oreofun.dk
 oreofun.fi
 oreomasters.com
@@ -21407,13 +21375,11 @@ philadelphia-professional.de
 philadelphia-professional.it
 philadelphia.com.mx
 philadelphia.eu
-philadelphia.it
 philippines-qa.nonprod.cbre.com
 philippines-tm.nonprod.cbre.com
 philippines-uat.nonprod.cbre.com
 philippines.cbre.com
 philly.com.au
-phillyksa.com
 phishphace.com
 phoenixfed-admin.originate.fiservapps.com
 phoenixfed.originate.fiservapps.com
@@ -22413,7 +22379,6 @@ promiseone.originate.fiservapps.com
 promo.7days.com
 promo.gallileo-frankfurt.com
 promo.milka.com
-promo.oreo.mx
 promo.royalcontigo.com
 promobymtn.com
 promocaoondadepremios.com.br
@@ -23687,7 +23652,6 @@ restapi.snappayglobal.com
 restaurant-websites-prod-nextgen-radware.getbento.com
 restaurant-websites-prod-radware.getbento.com
 restaurant.grubhub.com
-restorevalentinesday.com
 restricted.mainstreamsasp.com
 restservice.dev.finishline.cbre.com
 restservice.finishline.cbre.com
@@ -25212,7 +25176,6 @@ slogan-and-claims.com
 slogan.org
 sloveniansavingsandloan.com
 sloveniansavingsandloan.vbwebservices.com
-slowreleasecarbs.com
 slpcu-dc.cert.fec-dc.fiservapps.com
 slpcu-dn.financial-net.com
 slqa.elcompanies.com
@@ -26470,7 +26433,6 @@ tasigna.ca
 task-manager.biz
 tasq-chd.fdcbusinessservices.com
 tasq-oma.fdcbusinessservices.com
-taste-play-win.oreo.eu
 taste-test.thorntontomasetti.com
 tastemade.com
 tastyrewards.ca
@@ -30043,11 +30005,8 @@ willitmakeit45.de
 willys.wgiftcard.com
 wilmingtontrust.com
 win-brandy.biz
-win-oreo.cz
-win-oreo.sk
 win.cadbury.co.uk
 win.jjwws.com
-win.milka.nl
 winco.wgiftcard.com
 wincostore.wgiftcard.com
 window.amewas.com
@@ -30055,7 +30014,6 @@ windstream.com
 windstream.net
 windstreamenterprise.com
 windstreamwholesale.com
-winheroes.cadbury.co.uk
 winstonsfcu-dc.cert.fec-dc.fiservapps.com
 winstonsfcu-dn.financial-net.com
 winterhillbank-admin.originate.fiservapps.com
@@ -30533,7 +30491,6 @@ www.bankunited.com
 www.bearflagrobotics.com
 www.beautyqr.com
 www.bedbathandbeyond.com
-www.belvitaoffer.com
 www.benninghoven.co.uk
 www.benninghoven.com
 www.benninghoven.de
@@ -31268,7 +31225,6 @@ www.michaelhorwitz.com
 www.microsite.digitalcapture.elcompanies.com
 www.miitauviajes.co
 www.milanuncios.com
-www.milka.de
 www.mobicontrol.cbre.com
 www.mobile-bff-dev.smartfm.cbre.com
 www.mobile-bff-qa.smartfm.cbre.com
@@ -32224,6 +32180,7 @@ yelpapp.com
 yelpeat.fr
 yescash.terminal.cc
 yesware.com
+ygeiaspavlides.gr
 yhoo-dev.intrepid.cbre.com
 yhoo.intrepid.cbre.com
 ylfcu-cs.apps-uat.ilendx.tech
@@ -32296,10 +32253,8 @@ zairphir.ca
 zams.zebra.com
 zap.money
 zapatanationalbank.onlinebank.com
-zapytajoreo.pl
 zazzle.ca
 zazzle.fr
-zbaradventure.com
 zcache.fr
 zdperformancemarketing.com
 zebra.com
@@ -32319,7 +32274,6 @@ zentra.co
 zephex.com
 zeroplus.co.uk
 zerto.com
-zeus-portal.oreobm.com
 zeus.agrisync.com
 zeus.expertconnect.deere.com
 zh.gallileo-frankfurt.com
