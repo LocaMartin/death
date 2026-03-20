@@ -751,11 +751,7 @@ api2.frontapp.com
 api2.grofers.com
 apigatewayc.marriott.com
 apigw.foliofn.com
-apigw.prod.quintoandar.com.br/checkout-api
-apigw.prod.quintoandar.com.br/nazare-api
-apigw.prod.quintoandar.com.br/pixar-api
-apigw.prod.quintoandar.com.br/rental-guarantee-api
-apigw.prod.quintoandar.com.br/sales-flow-api
+apigw.prod.quintoandar.com.br
 apigwc.marriott.com
 apis.mail.yahoo.com
 apix.vodafone.om
@@ -828,7 +824,6 @@ app.slack.com
 app.smtp2go.com
 app.snapchat.com
 app.sonantic.io
-app.spacelift.dev
 app.starbucks.com
 app.stg.inspectorio.com
 app.superdrug.com
@@ -2808,7 +2803,7 @@ liberty.wnba.com
 lifeatspotify.com
 liferay dxp 2024.q1
 liferay dxp 2025.q1
-liferay dxp 2025.q4
+liferay dxp 2026.q1
 lightroom.adobe.com
 link.co
 link.com
