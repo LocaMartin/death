@@ -13227,6 +13227,7 @@ hanmibank.caaweb.com
 hannaandersson.fr
 hansmuff.wirtgen-group.com
 hanuta.de
+harbor.ghns-gha-runners-devl-standalone.us.e00.c01.johndeerecloud.com
 harborlightcu-admin.originate.fiservapps.com
 harborlightcu.originate.fiservapps.com
 harbour.cbre.com
@@ -20861,6 +20862,7 @@ partner.buy.hpe.com
 partner.clover.com
 partner.eprod.clover.com
 partner.gallileo-frankfurt.com
+partner.getyourguide.com
 partner.la.clover.com
 partner.particlehealth.com
 partner.staging.clover.com
@@ -26153,6 +26155,7 @@ summitbank.caaweb.com
 summitnb.onlinebank.com
 summon.nl
 summon.xxx
+sunbeltparts.com
 sunchips.com
 suncu-dc.cert.fec-dc.fiservapps.com
 sundancestate.architect-cert.fiservapps.com
@@ -29967,6 +29970,7 @@ wiasia.co.kr
 wiautodiscover.services.wirtgen-group.com
 wideareaapi.net
 widget.dataatc.com
+widget.getyourguide.com
 widos-basic.services.wirtgen-group.com
 widos-basic.wirtgen-group.com
 widos-quality.services.wirtgen-group.com

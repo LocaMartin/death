@@ -2489,6 +2489,7 @@ https://packagecloud.io/pagerduty/rundeckpro/packages/java/com.rundeck.enterpris
 https://packagecloud.io/pagerduty/rundeckpro/packages/java/com.rundeck.sidecar/pd-runner-0.1.46.jar
 https://packagecloud.io/pagerduty/rundeckpro/packages/rpm_any/rpm_any/rundeckpro-enterprise-4.14.1.20230622-1.noarch.rpm/download.rpm?distro_version_id=227
 https://paradisecountry.com.au
+https://partner-public.getyourguide.com/graphql
 https://partner.mobilemoney.mtn.com.gh/partner
 https://partnercenter.intg.appslatam.com/
 https://partnerportal.intg.appslatam.com
