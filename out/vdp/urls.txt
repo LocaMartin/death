@@ -1051,10 +1051,11 @@ http://status.ayoba.me
 http://stg.usdirectexpress.com
 http://storefront.us.baesystems.com
 http://stories.thorntontomasetti.com
+http://sts.thorntontomasetti.us/
 http://sullivanbank.onlinebank.com
 http://sunflower.architect-cert.fiservapps.com
 http://supplierportal.us.baesystems.com
-http://support.drumgrange.co.uk
+http://support.drumgrange.co.uk/
 http://support.drumgrange.com
 http://support.fedhive.com
 http://svb.hepsiian.com
@@ -1106,6 +1107,7 @@ http://transfers.bankofamerica.com
 http://trueskycu.architect-cert.fiservapps.com
 http://trueskycu.onlinebank.com
 http://trustco.onlinebank.com
+http://ttanywhere.thorntontomasetti.us/
 http://tyndall.architect-cert.fiservapps.com
 http://tyndallonlinebanking.org
 http://uat-prepaid.firstdata.com
@@ -1151,8 +1153,11 @@ http://verifynow.fta.cashedge.com
 http://vip4.baldorvip.com
 http://visa.test.3ds.firstdata.com
 http://visa.test2.3ds.firstdata.com
+http://vpn-ca3.thorntontomasetti.us/
+http://vpn-il1.thorntontomasetti.us/
 http://vpn.drakeneurope.network
 http://vpn.elevi.net
+http://vpn.thorntontomasetti.us/
 http://wadenastatebank.onlinebank.com
 http://wageworks.hepsiian.com
 http://warrants.com.sg

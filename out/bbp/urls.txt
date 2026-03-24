@@ -251,7 +251,6 @@ https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
-https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
 https://api.x.immutable.com/
@@ -352,7 +351,6 @@ https://bb1.simplisafe.com
 https://bb2.simplisafe.com
 https://bestball.fantasysports.yahoo.com/
 https://beta.arlo.com
-https://bgpview.io
 https://bigquery-mcp.data.dailymotion.com/
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com/
@@ -725,7 +723,6 @@ https://github.com/auth0/auth0.js
 https://github.com/auth0/auth0.net
 https://github.com/auth0/lock
 https://github.com/auth0/nextjs-auth0
-https://github.com/auth0/passport-wsfed-saml2
 https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
@@ -1813,7 +1810,6 @@ https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io
 https://rentals.tripadvisor.com
-https://repair.voiweb.net
 https://reptox.cnesst.gouv.qc.ca/
 https://res.cloudinary.com
 https://research.monash.edu/
@@ -1862,6 +1858,7 @@ https://secure.vendhq.com
 https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com
+https://securitytrails.com
 https://seekcdn.com
 https://segment.com/docs/connections/sources
 https://selector.viator.com
@@ -2186,6 +2183,7 @@ https://www.cloudflare.com/products/cloudflare-stream
 https://www.cloudvector.com/
 https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
+https://www.coloros.com/
 https://www.coral.co.uk
 https://www.coral.co.uk/en/games
 https://www.crateandbarrel.me
@@ -2560,4 +2558,6 @@ https://yeswehack.com
 https://yeswehack.staging.komoju.com
 https://youcouldbe.com
 https://yourdelivery.de
+https://zhongbao-ear.heytap.com/
+https://zhongbao.heytap.com/
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas

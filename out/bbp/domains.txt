@@ -1455,8 +1455,10 @@ com.fanduel.casino
 com.fanduel.flywheelnativecontainer.picks
 com.fanduel.racing
 com.fanduel.sportsbook
+com.finshell.fin
 com.finshell.finance
 com.finshell.wallet
+com.fintech.life
 com.foxnextgames.m3
 com.frame.frameio
 com.frontapp.mobile
@@ -1484,16 +1486,32 @@ com.gsn.grandcasino
 com.hcom.android
 com.here.app.maps
 com.hey.app.ios
+com.heytap.book
 com.heytap.browser
 com.heytap.cloud
+com.heytap.databaseengine
 com.heytap.health.international
+com.heytap.health.quickapp
+com.heytap.heymelody
 com.heytap.mall
 com.heytap.market
+com.heytap.miniapp.sports
+com.heytap.music
+com.heytap.ocsp.client
 com.heytap.pictorial
+com.heytap.reader
 com.heytap.research
 com.heytap.store
+com.heytap.tas
 com.heytap.themestore
 com.heytap.wallet
+com.heytap.wearable.breeno
+com.heytap.wearable.browser
+com.heytap.wearable.elves
+com.heytap.wearable.healthassessment
+com.heytap.wearable.market
+com.heytap.wearable.research
+com.heytap.wearable.themestore
 com.hotornot.app
 com.hotwire.hotels
 com.hyatt
@@ -1574,8 +1592,6 @@ com.miui.videoplayer
 com.miui.vsimcore
 com.miui.wmsvc
 com.monaco.mobile
-com.moneybird.android
-com.moneybird.moneybird
 com.moveit.app.customer
 com.mtelnet.watson.thailand
 com.nbaimd.gametime.nba2011
@@ -1593,9 +1609,12 @@ com.nordvpn.android
 com.oceanwing.battery.cam
 com.oceanwing.care.cam
 com.oceanwing.fdmprint
+com.oplus.accesscard
 com.oplus.account
 com.oplus.aimemory
+com.oplus.melody
 com.oplus.play
+com.oplus.studycenter
 com.oplus.themestore
 com.oppo.market
 com.oppo.speechassist
@@ -1610,6 +1629,8 @@ com.pieyel.scrabble
 com.playtika.caesarscasino
 com.playtika.wsop.gp
 com.priceline.android.negotiator
+com.qpon.merchant
+com.qpon.platform
 com.quora.android
 com.quora.app.mobile
 com.realme.storecn
@@ -1634,6 +1655,7 @@ com.security.batterycam
 com.security.care
 com.seriously.bestfiends
 com.seriously.phoenix
+com.shopai.apps
 com.skypicker.main
 com.skypicker.skypicker
 com.slack
@@ -2257,7 +2279,6 @@ flowsecurity.app
 flugladen.de
 flyiin.com
 fm.anchor.android
-fm.voiapp.io
 folder.iciparisxl.nl
 folder.kruidvat.be
 folder.kruidvat.nl
@@ -2651,7 +2672,6 @@ io.coda
 io.coda.codaapp
 io.metamask
 io.metamask.metamask
-io.voiapp.voi
 ios: app store	(905953485) nordvpn - [apple app store](https://apps.apple.com/us/app/id905953485?mt=8)  please make sure you are testing the latest version.     ios: app store (1486322860) nordpass - [apple app store](https://apps.apple.com/us/app/nordpass-password-manager/id1486322860?ls=1&referrer=client_id=eba15f5b-e4a3-42ca-ba68-e16c170f39e0)  please make sure you are testing the latest version.    android .apk: com.nordvpn.android nordvpn - [android sideload download](https://nordvpn.com/download/android/)  please make sure you are testing the latest version.    android play store: com.nordvpn.android nordvpn - [google play store](https://play.google.com/store/apps/details?id=com.nordvpn.android)  please make sure you are testing the latest version.    android play store: com.nordpass.android.app.password.manager nordpass - [google play store](https://play.google.com/store/apps/details?id=com.nordpass.android.app.password.manager&launch=true&referrer=client_id=eba15f5b-e4a3-42ca-ba68-e16c170f39e0)    please make sure you are testing the latest version
 ir.bookingholdings.com
 ir.clearme.com
@@ -2999,7 +3019,6 @@ mcdalerts-uat.nba.com
 mcdalerts.nba.com
 mcp.miro.com
 mds.marriott.com
-mds.voiapp.io
 media.drogas.lt
 media.drogas.lv
 media.iciparisxl.be
@@ -3134,8 +3153,6 @@ moments.marriottbonvoy.com
 mona.co
 money.x.com
 moneyback.com.hk
-moneybird.com
-moneybirdstorage.com
 mongodb.com
 monitor.mozilla.org
 monopoly-poker.com
@@ -3241,6 +3258,7 @@ news.remitly.com
 news.yahoo.com
 newsletter-feedback.iciparisxl.nl
 newsletter.iciparisxl.nl
+newsletter.infomaniak.com
 newsletter.nextcloud.com
 newsroom.images.hyatt.com
 next.airbnb.com
@@ -3720,7 +3738,6 @@ rentalcars.com
 replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
-report.voi.com
 reposify.com
 res.blueskytours.globalbookingsolutions.com
 res.funjet.com
@@ -4508,8 +4525,6 @@ vliegwinkel.nl
 voapi.8x8.com
 vod.infomaniak.com
 vod2.infomaniak.com
-voi.com
-voiscooters.com
 volans.tech
 volkskrant.nl
 volkswagen.de
