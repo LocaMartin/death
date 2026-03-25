@@ -344,6 +344,7 @@ http://clientapitest.gyft.com
 http://clientconnect.checkfree.com
 http://cloud-sbox.storman.com
 http://cloud.pitch.se
+http://cloud.redis.io
 http://cm-prod.fiservapps.com
 http://cm-qa3.fiservapps.com
 http://cm-uat.fiservapps.com
@@ -2044,9 +2045,7 @@ https://github.com/aws/aws-sdk
 https://github.com/aws/s2n-tls
 https://github.com/bitwarden
 https://github.com/bwillis/versioncake
-https://github.com/concrete5/concrete5
 https://github.com/defectdojo/django-defectdojo
-https://github.com/dhui/passhash
 https://github.com/duckduckgo/duckduckgo-privacy-extension
 https://github.com/gusto/apollo-federation-ruby
 https://github.com/gusto/grpc-web-ruby

@@ -77,11 +77,36 @@
 13.75.189.223
 13.91.223.119
 131.170.0.0/16
+132.228.146.2/32
+132.228.191.97/32
+132.228.24.17/32
+132.228.45.35/32
 134.122.111.176
+134.223.117.169/32
+134.223.117.170/32
+134.223.117.197/32
+134.223.117.198/32
+134.223.120.148/32
+134.223.120.152/32
+134.223.120.154/32
+134.223.120.166/32
+134.223.120.167/32
+134.223.120.169/32
+134.223.120.180/32
+134.223.120.183/32
+134.223.120.184/32
+134.223.120.186/32
+134.223.120.33/32
+134.223.120.37/32
+134.223.158.75/32
+134.223.231.80/32
+134.223.231.81/32
+134.223.232.12/32
 134.58.0.0/16
 1340treat.com
 136.43.35.170
 136.44.32.242
+137.51.154.3/32
 142.44.104.70
 144.121.137.158
 144.129.144.234
@@ -113,9 +138,32 @@
 1501mst.com
 150northriversideplaza.com
 1540bdwy.com
+155.104.140.226/32
+155.104.253.42/32
 1550and1600tower.com
 1550and1600towers.com
 156.77.0.0/16
+157.127.124.204/32
+157.127.124.209/32
+157.127.124.210/32
+157.127.124.221/32
+157.127.124.234/32
+157.127.124.240/32
+157.127.124.241/32
+157.127.124.245/32
+157.127.141.108/32
+157.127.141.109/32
+157.127.141.162/32
+157.127.141.167/32
+157.127.141.169/32
+157.127.149.67/32
+157.127.227.217/32
+157.127.227.218/32
+157.127.227.219/32
+157.127.239.188/32
+157.127.239.189/32
+157.127.239.190/32
+158.114.100.7/32
 15sackvillestreet.com
 162.17.76.25
 162.17.76.26
@@ -195,7 +243,17 @@
 192.0.66.55
 192.102.214.0/24
 192.150.204.0/24
+192.45.83.137.svecfiber.com
 192.84.89.0/24
+192.86.72.70/32
+192.86.72.71/32
+192.86.75.161/32
+192.86.75.166/32
+192.86.75.167/32
+192.86.75.176/32
+192.86.75.177/32
+192.86.75.70/32
+192.86.75.71/32
 193.110.255.128/28
 193.190.150.0/24
 194.35.0.0/21
@@ -236,12 +294,14 @@
 198.231.21.0/24
 198.231.22.0/24
 198.231.23.0/24
+199.165.146.42/32
 1ap.aboitizpower.com
 1apeip-gmis-uat.aboitizpower.com
 1apeip-gmis.aboitizpower.com
 1ct.es
 1edcu-dc.cert.fec-dc.fiservapps.com
 1edcu-dn.financial-net.com
+1erps4qa5-ext.myngc.com
 1firstbank-admin.originate.fiservapps.com
 1firstbank.originate.fiservapps.com
 1fsb-admin.originate.fiservapps.com
@@ -979,6 +1039,7 @@ access.motion.abb.com
 access.motion.abb.com.cn
 access.platon.daimlertruck.com
 access.saphotonics.com
+access19.ngplte.com
 accessaccountdetails.com
 accessadvantage.fiservapps.com
 accessbank-admin.originate.fiservapps.com
@@ -1030,6 +1091,8 @@ acecefcu-admin.originate.fiservapps.com
 acecefcu.originate.fiservapps.com
 acehardware.wgiftcard.com
 acemaint.com
+aces.northropgrumman.com
+acesprogram.northropgrumman.com
 acetheclass.com
 acetheclass.net
 acetheclass.org
@@ -1192,6 +1255,7 @@ adns1.abb.com
 adns2.abb.com
 adobecloudlm.cbre.com
 ads.gallileo-frankfurt.com
+adsc3061.northgrum.com
 adsfeds-uat.hepsiian.com
 adsfeds.hepsiian.com
 advance.deere.com
@@ -1365,6 +1429,8 @@ aleriglobalbanking.net
 aleriglobalbanking.us
 alert.smsservicesnow.com
 alertinfo.link
+alertus-east.northropgrumman.com
+alertus-west.northropgrumman.com
 alertus.eeoc.gov
 alertxpress.com
 alerus.olbanking.com
@@ -1634,6 +1700,7 @@ andrewjohnson.com
 androscogginbank.caaweb.com
 anf.fmpilot.com
 anfcorp.com
+angelfrost.ca.essd.northgrum.com
 angulardemo.emerald.cbre.com
 anico-acpt.mywc3.net
 anico.wc3.com
@@ -2512,6 +2579,7 @@ ascu-dc.cert.fec-dc.fiservapps.com
 asda.wgiftcard.co
 asdabusiness.com
 asfcu-dn.financial-net.com
+ash.ca.essd.northgrum.com
 ashbury.cbresi.com.au
 ashcroftandoak.fdecs.com
 ashcroftandoakcat.fdecs.com
@@ -2638,6 +2706,7 @@ atlanticusfeds-uat.hepsiian.com
 atlantis.spark.ai
 atmospeer.net
 atmospeer.org
+ato.ca.essd.northgrum.com
 atouchofcare.ca
 atozdomainsmarket.com
 atpqual.tal.deere.com
@@ -2652,6 +2721,7 @@ attorneyjobs.com
 attorneyjobs.net
 attorneyjobs.org
 attorneyjobsonline.com
+atule.ca.essd.northgrum.com
 atw-dev.cbreapps.com
 atw-qat.cbreapps.com
 atw-uat.cbreapps.com
@@ -2840,6 +2910,7 @@ autodiscover.kingagro.com.ar
 autodiscover.kleemann.info
 autodiscover.kreiselelectric.com
 autodiscover.monosemusa.com
+autodiscover.ngplte.com
 autodiscover.njsjv.com
 autodiscover.norlandmanagedservices.com
 autodiscover.outlook.com
@@ -2983,6 +3054,9 @@ awspartner.com
 awsqa12.progressfinservices.com
 awsqa13.progressfinservices.com
 awsqa7.progressfinservices.com
+awtr.ngc.com
+awtrdev.ngc.com
+awtrplte.ngc.com
 aww.be
 awx.devops.cbre.com
 axasecurity.com
@@ -3049,6 +3123,8 @@ azul.ns1.fiservapis.com
 azure-dev.wirtgen-group.com
 azure.fleetboard.com
 azure.wirtgen-group.com
+azurerelay1.ngc.com
+azurerelay2.ngc.com
 b.gallileo-frankfurt.com
 b1bank.caaweb.com
 b1bankuat.caaweb.com
@@ -3070,6 +3146,7 @@ b2c.cardconnect.com
 b2c.experience.cbre.com
 b2rmusic.com
 b2rstore.com
+b2team.wr.is.northgrum.com
 ba.com
 ba68c30c-b6fb-4b10-a3a7-7cde15b3e208.prod.reverse.svc.fleetboard.com
 babelkwt.com
@@ -3095,6 +3172,7 @@ backtoschool2024.ferreropromo.it
 backup.gallileo-frankfurt.com
 backup.net
 backupify.com
+badger.ca.essd.northgrum.com
 badgerglobecu-dc.cert.fec-dc.fiservapps.com
 badlandsfcu-admin.originate.fiservapps.com
 badlandsfcu-dc.cert.fec-dc.fiservapps.com
@@ -3339,6 +3417,7 @@ bantotal-ar-cert.deere.com
 bantotal-ar-prod.deere.com
 barberitos.wgiftcard.com
 baresnacks.com
+bark.ca.essd.northgrum.com
 barni.org
 barniadventures.com
 barracuda.amewas.com
@@ -3494,6 +3573,7 @@ benefits.gov
 benelux.inside.abb.com
 beneluxpecongress.com
 beneluxunquote.com
+benfold.ca.essd.northgrum.com
 benihana.wgiftcard.com
 benihanastore.wgiftcard.com
 benner.br.abb.com
@@ -3502,6 +3582,7 @@ benninghoven.com
 benninghoven.de
 benninghoven.ro
 benninghoven.wirtgen-group.com
+benson.ca.essd.northgrum.com
 bentobox-frontend-nonprod-radware.bentopreprod.com
 bentobox-frontend-prod-radware.getbento.com
 beovu-enrollpref.com
@@ -3934,6 +4015,7 @@ bostonbowl.wgiftcard.com
 bostonmarket.wgiftcard.com
 bostonmarketstore.wgiftcard.com
 bot.gallileo-frankfurt.com
+bot.soran.pics
 botr-admin.originate.fiservapps.com
 botr.originate.fiservapps.com
 botw.ft1.cashedge.com
@@ -3973,7 +4055,9 @@ bowkerservices.com
 bowkersupport.com
 bowkertraining.com
 box.gallileo-frankfurt.com
+boxer.ca.essd.northgrum.com
 boycottmoncler.fr
+boyd.ca.essd.northgrum.com
 boystown-dc.cert.fec-dc.fiservapps.com
 boystown-dn.financial-net.com
 boysweb.shaya.com.tr
@@ -4051,6 +4135,7 @@ brevant.fr
 brfdfcu-dc.cert.fec-dc.fiservapps.com
 brfdfcu-dn.financial-net.com
 bricard.com
+bridge.ca.essd.northgrum.com
 bridgewaterbank.caaweb.com
 bridgewaterbankmn.architect-cert.fiservapps.com
 bridgewaterbankmn.onlinebank.com
@@ -4166,6 +4251,7 @@ btuat.locator.cbre.com
 bubly.com
 bucadibeppo.wgiftcard.com
 bucadibeppostore.wgiftcard.com
+buck.ca.essd.northgrum.com
 buckle.wgiftcard.com
 bucklestore.wgiftcard.com
 buckleystatebank.com
@@ -4262,6 +4348,7 @@ burgessrawsonvic.com
 burgessrawsonvic.com.au
 burgessrawsonwa.au
 burgessrawsonwa.com.au
+burns.ca.essd.northgrum.com
 bus.baldor.com
 busca.cbre.com.br
 buscador.cbre.es
@@ -4328,13 +4415,18 @@ c1arivate.com
 c21.com
 c2153s625.emea.cbre.net
 c2153s626.emea.cbre.net
+c2fsefp.ms.northropgrumman.com
 c3.fleetboard.com
+c30avedge19.ngc.com
+c30webedge19.ngc.com
+c4ionline.northgrum.com
 c6-intelligence.com
 c6api.net
 c88075b5-f05f-47a3-85d0-336f8d02cfb0.ops.reverse.svc.fleetboard.com
 ca-qa.nonprod.cbre.com
 ca-sbc1.cbre.com
 ca-sbc2.cbre.com
+ca-sharecenter.myngc.com
 ca-uat.nonprod.cbre.com
 ca.abb.com
 ca.capitalone.enterprisemobilebanking
@@ -4398,6 +4490,8 @@ camelotukbidco.co.uk
 camelotukbidco.com
 camelotukbidco.uk
 camelotukbidcolimited.com
+camin-2.ms.northropgrumman.com
+camin.ms.northropgrumman.com
 campaign.cbre.dk
 campaignmanagement.com.au
 campaignmonitor.fr
@@ -4588,6 +4682,7 @@ carolinafcu-admin.originate.fiservapps.com
 carolinafcu-dc.cert.fec-dc.fiservapps.com
 carolinafcu-dn.financial-net.com
 carolinafcu.originate.fiservapps.com
+caron.ca.essd.northgrum.com
 carpentersfcu-dc.cert.fec-dc.fiservapps.com
 carpentersfcu-dn.financial-net.com
 carrabbas.wgiftcard.com
@@ -4633,6 +4728,8 @@ cassofte.cbre.com
 cassouat.cbre.com
 castle-chambers.com
 castlechambers.co.uk
+casunhen72b-s01-vlan1-7.ca.essd.northgrum.com
+casunhen911-s01.ca.essd.northgrum.com
 cat-alertcrtl-ext.fiservapps.com
 cat-anconnect-cit.fiservapp.com
 cat-anmeet-cit.fiservapp.com
@@ -5018,6 +5115,7 @@ cbwsfcu-dn.financial-net.com
 cc-aus.fiservclients.com
 cc.ft1.cashedge.com
 cc.gallileo-frankfurt.com
+cc2-ests.cc2.myngc.com
 ccac.gov
 ccaffirm.fdecs.com
 ccareapuat.alshaya.com
@@ -5181,6 +5279,7 @@ cedacrigroup.it
 cedacrinternational.com
 cedacrinternational.md
 cedacriovest.it
+cedar.ca.essd.northgrum.com
 cedars-sinai.edu
 cedars-sinai.org
 cee.cbre.es
@@ -5489,6 +5588,7 @@ certbot.cbre.com
 certcenet.cashedge.com
 certcnetcb.centralbank.com
 certcompass.cashedge.com
+certdata.northropgrumman.com
 certexpress.com
 certican.ca
 certificadoboavista.com.br
@@ -5542,6 +5642,9 @@ cfgreports-eu.cbreapps.com
 cfgreports-sit-eu.cbreapps.com
 cfgreports-trn-eu.cbreapps.com
 cfgreports-uat-eu.cbreapps.com
+cfgsvr05.ca.essd.northgrum.com
+cfgsvr09.ca.essd.northgrum.com
+cfgsvr15.ca.essd.northgrum.com
 cfn.cx
 cfnb-admin.originate.fiservapps.com
 cfnb.originate.fiservapps.com
@@ -5610,6 +5713,7 @@ championcu-dc.cert.fec-dc.fiservapps.com
 championcu-dn.financial-net.com
 champps.wgiftcard.com
 champpsstore.wgiftcard.com
+chandler.ca.essd.northgrum.com
 changelog.harvestprofit.com
 changepass.wirtgen-group.com
 changepassword.kreiselelectric.com
@@ -5716,17 +5820,20 @@ chinaservice.abb.com.cn
 chinataxplus.cbre.com
 chinocommercialbank-admin.originate.fiservapps.com
 chinocommercialbank.originate.fiservapps.com
+chinook.ca.essd.northgrum.com
 chipotle.wgiftcard.com
 chipotlestore.wgiftcard.com
 chips.gov
 chipsahoyscan.com
 chockstone.com
+choctaw.ca.essd.northgrum.com
 choiceatmsmartsafes-corpoint.fiservapps.com
 choiceone-dc.cert.fec-dc.fiservapps.com
 choiceone-dn.financial-net.com
 chokladdrom.marabou.se
 choosethechief.caaweb.com
 christmastreeshops.wgiftcard.com
+chrtpssys.northgrum.com
 chuangxinjiance.cn
 chuangxinjiance.com
 chuangxinjiance.com.cn
@@ -6330,6 +6437,7 @@ clearboundary.com
 clearevate.com
 clearivate.com
 clearsightadvisors.com
+clearstreet.io
 cleartouch-cs.apps-dev.ilendx.tech
 cleartouch-cs.apps-qa.ilendx.tech
 cleartouch-di.apps-dev.ilendx.tech
@@ -6403,6 +6511,7 @@ cloud.uat.ch.cbre.eu
 cloudapps01.abb.com
 cloudapps02.abb.com.cn
 cloudconnect.havelockone.com
+cloudconxdev.myngc.com
 clouddrive.abb.com.cn
 clouddrives.abb.com.cn
 cloudendure.com
@@ -6633,6 +6742,7 @@ coldrivertax.com
 coldstonecreamery.wgiftcard.com
 coldstonecreamerystore.wgiftcard.com
 coldwellbanker.com
+cole.ca.essd.northgrum.com
 colesvillebusinesspark.com
 colindia.cbresi.com
 collab-edge.be.abb.com
@@ -7176,6 +7286,7 @@ convio.com
 convio.net
 conway.fdecs.com
 conwaycat.fdecs.com
+cook.ca.essd.northgrum.com
 cookie.cbrichardellis.com
 coopaee-dc.cert.fec-dc.fiservapps.com
 coopaee-dn.financial-net.com
@@ -7444,6 +7555,7 @@ covermore.com
 covermore.com.au
 covermymeds.com
 cowo.wirtgen-group.com
+cowpens.ca.essd.northgrum.com
 cp-dolphin.com
 cp.gallileo-frankfurt.com
 cp.pki.abb.com
@@ -8014,6 +8126,7 @@ cto-si.zebra.com
 ctp.elcompanies.cn
 ctpbi.elcompanies.cn
 cts.cbre.com
+cttriems.ts.northropgrumman.com
 ctx.mainstreamsasp.com
 ctznzbank.architect-cert.fiservapps.com
 ctznzbank.onlinebank.com
@@ -8067,6 +8180,7 @@ currentdrugdiscovery.com
 curriculummatchfactor.com
 cursoecg.com
 cursormania.fr
+curts.ca.essd.northgrum.com
 cus-hp-web-dev.fiservapps.com
 cuscare.abb.com.cn
 cust-pilot1.genix.abb.com
@@ -8267,6 +8381,7 @@ daimler-ag.sh
 daimlertruck.com
 daimlertrucksgoldcoast.com.au
 dairylea.co.uk
+daisy.ca.essd.northgrum.com
 daisysafety.n45ht.or.id
 dakotalandfcu-dn.financial-net.com
 dakotastar-dc.cert.fec-dc.fiservapps.com
@@ -8276,6 +8391,7 @@ dalecu-dc.cert.fec-dc.fiservapps.com
 dalecu-dn.financial-net.com
 dam.deere.com
 damai.cn
+damato.ca.essd.northgrum.com
 damc.fiservapp.com
 dan.gallileo-frankfurt.com
 danversmfcu-dc.cert.fec-dc.fiservapps.com
@@ -8404,6 +8520,7 @@ dbsiteiq.cbre.com
 dc-service.agrisync.com
 dc-service.expertconnect.deere.com
 dcalonline.com
+dcgsa-pubs.northropgrumman.com
 dcmt-dev.cbreim.com
 dcmt-test.cbreim.com
 dcmt.cbreim.com
@@ -8965,6 +9082,7 @@ dev.bluesky.cbre.com
 dev.brokerdashboard.cbre.com
 dev.brokerhub.cbre.com
 dev.builder.cbre.com
+dev.bushmasterchainguns.com
 dev.capitalflows.cbre.com
 dev.catalyst.clover.com
 dev.cbre-ea.com
@@ -9479,6 +9597,7 @@ docgenerator.staging.miq.cbre.com
 docgenerator.training.miq.cbre.com
 dochescu-dc.cert.fec-dc.fiservapps.com
 dochescu-dn.financial-net.com
+docker-ee-dev.ms.northgrum.com
 docker.azure.fleetboard.com
 docker.gallileo-frankfurt.com
 docker.luna.cbre.de
@@ -9511,6 +9630,7 @@ docusign-qa12.progressfinservices.com
 docusign-qa13.progressfinservices.com
 docusign-receiver.qual.r2crm.deere.com
 docweb.econfigure.abb.com
+doehrs-ih.ms.northropgrumman.com
 doi.gov
 dol-esa.gov
 dol.gov
@@ -9584,6 +9704,7 @@ donnad.it
 donotcontact.com.au
 donuts.app
 donuts.inc
+dorado.ca.essd.northgrum.com
 doritos.co.uk
 doritos.com
 dorkly.fr
@@ -9762,7 +9883,9 @@ ds-avaamoz.dev.chatbot.cbre.com
 ds-ci02.abilityplatform02.abb.com.cn
 ds.chatbot.cbre.com
 ds.dev.chatbot.cbre.com
+dsdev.northgrum.com
 dsl.vodafone.de
+dsplte.ngc.com
 dspy.net
 dsr.cbre.com
 dssmith.asp.iongroup.com
@@ -9795,6 +9918,7 @@ duplo.de
 dupontcentreirvine.com
 duraline.com
 dvc-lightcycle-api.wdprapps.disney.com
+dvcenrl.ngc.com
 dvm.cbre.es
 dw.gallileo-frankfurt.com
 dwbbank-cs.apps-uat.ilendx.tech
@@ -9921,6 +10045,7 @@ ebills.citi.com
 ebillsuat.citibankonlineqa.com
 ebiobrain.com
 ebiobrain.org
+ebis.benefits.northgrum.com
 ebiz.in.abb.com
 eblchoice.com
 eblib.com
@@ -10071,8 +10196,10 @@ edeposit.opencheckarchive.com
 edge-device-bootstrap.cbreesi.com
 edge.apps-devl-vpn.us.e06.c01.johndeerecloud.com
 edge.genixdatalyzer.measurementservice.abb.com
+edge.in.myngc.com
 edge.machinefinder.com
 edge.om-machinefinder-prod-vpn.us.e26.c01.johndeerecloud.com
+edgeeast.ngc.com
 edi-self-service.deere.com
 edi.abb.com.cn
 edi.drives.abb.com.cn
@@ -10182,6 +10309,7 @@ ehxhr.com
 ei-technologies.com
 eicu-admin.originate.fiservapps.com
 eicu.originate.fiservapps.com
+eide-pip.myngc.com
 eifcu-dc.cert.fec-dc.fiservapps.com
 eifcu-dn.financial-net.com
 eig.cbre.com
@@ -10535,6 +10663,7 @@ enjoylifefoods.com
 enom.com
 enorthfield.caaweb.com
 enrollment.monitormyidentity.com
+ens.ngc.com
 ent-elavon-extapi.technologi.co.uk
 entagen.com
 entagen.net
@@ -10557,6 +10686,7 @@ enterpriseenrollment.die-wirtgen-group-auf-der-bauma.de
 enterpriseenrollment.hamm-external.eu
 enterpriseenrollment.hamm.eu
 enterpriseenrollment.kleemann.info
+enterpriseenrollment.ngc.com
 enterpriseenrollment.surepointag.com
 enterpriseenrollment.surepointelectronics.com
 enterpriseenrollment.voegele.info
@@ -10647,6 +10777,7 @@ epluat.olbanking.com
 epm.mtn.com
 eponpr1-vip.it.hpe.com
 eponpr1.it.hpe.com
+eportal.northropgrumman.com
 epos.vertriebspartner.de.o2.com
 epp.cbreinvestors.com
 eppm.mtn.com
@@ -11073,6 +11204,7 @@ external.productinformation.abb.com
 externalaccess.adaptive-execution.abb.com
 externaltransfers.becuonlinebanking.org
 extint.io
+extlyncc30.ngc.com
 extra.milka.de
 extraawards.com
 extractasia.com
@@ -11119,12 +11251,14 @@ ezshield.us
 ezshieldcheckfraudprotection.com
 ezshieldvault.com
 ezstest.com
+f270se75.ms.northropgrumman.com
 f37665c2-eb9f-41b8-b3ec-11696dfcdf44.prod.reverse.svc.fleetboard.com
 f5auth.cbre.com
 f5test.cbre.com
 f5test1.cbre.com
 f5test2.cbre.com
 f5test3.cbre.com
+fa18-dmzwww.northgrum.com
 fac.gov
 fac1.amewas.com
 faca.gov
@@ -11799,6 +11933,7 @@ fiservservicepoint.fiservapps.com
 fiservsso.fta.cashedge.com
 fiservsso.fta.popmoney.com
 fiservtestservicepoint.fiservapps.com
+fisher.ca.essd.northgrum.com
 fisher.fr
 fisherinvestments.fr
 fisheye.pclender.com
@@ -11851,6 +11986,8 @@ flex01.elcompanies.com
 flexport.com
 flexuat2.keystonefunding.com
 fliggy.com
+flightpak.northropgrumman.com
+flightpakdev.northropgrumman.com
 flights.com
 floodsmart.gov
 flooredproducts.cbre.com
@@ -12198,6 +12335,7 @@ fskkradvisor.com
 fsoc.gov
 fspnc.com
 fsrs.gov
+fssfmctest.myngc.com
 fswdepot.net
 fswidget.creditplus.com
 fswidget.dev.finlocker.com
@@ -12655,6 +12793,7 @@ gifts.tatesbakeshop.com
 gilenyago.ca
 gilenyagoprogram.ca
 gilt.wgiftcard.com
+ginkgo.ca.essd.northgrum.com
 ginternal-uat.cbre.eu
 ginternal.cbre.eu
 giotto.de
@@ -12704,6 +12843,7 @@ global.electrification-commercialbuildingplanner.abb.com
 globalbankny-admin.originate.fiservapps.com
 globalbankny.architect-cert.fiservapps.com
 globalbankny.originate.fiservapps.com
+globalconnect.in.myngc.com
 globaldissertations.com
 globaldissertations.net
 globaldissertations.org
@@ -12943,6 +13083,7 @@ greenbeltfcu-dc.cert.fec-dc.fiservapps.com
 greenbeltfcu-dn.financial-net.com
 greenfieldsavings-admin.originate.fiservapps.com
 greenfieldsavings.originate.fiservapps.com
+greenfish.ca.essd.northgrum.com
 greenperspective.cbre.eu
 greenriverfcu-dc.cert.fec-dc.fiservapps.com
 greenriverfcu-dn.financial-net.com
@@ -13031,6 +13172,7 @@ gtservices.fdecs.com
 gttconsult.co.za
 gttconsulting.co.za
 guac-1.aws3.ezshield.ws
+guam.ca.essd.northgrum.com
 guanjiaip.com
 guaranteemanagement.abb.com
 guardian-ida-remedysrx.ca
@@ -13196,6 +13338,7 @@ hafonorm.configurator.nl.abb.com
 hagiegear.com
 hairshop.hr
 halls.jp
+halsey.ca.essd.northgrum.com
 hamakuaccfcu-dn.financial-net.com
 hamiltonhorizons-admin.originate.fiservapps.com
 hamiltonhorizons-dc.cert.fec-dc.fiservapps.com
@@ -13396,6 +13539,7 @@ heartlandordering.us
 heartlandpayroll.com
 heartlandplusone.com
 heat.gov
+heather.ca.essd.northgrum.com
 heberlehelmferguson.com
 hec.esm.abb.com
 hecoefcu-dc.cert.fec-dc.fiservapps.com
@@ -13405,6 +13549,7 @@ heerytt.com
 hefcu-dc.cert.fec-dc.fiservapps.com
 hefcu-dn.financial-net.com
 heico.wfg-baweb.com
+helenium.ca.essd.northgrum.com
 hello.cloudeng.cbre.com
 hello.gallileo-frankfurt.com
 hello.industriousoffice.com
@@ -13586,6 +13731,8 @@ historystudycenter.co.uk
 historystudycenter.com
 historystudycentre.co.uk
 historystudycentre.com
+hit-pro-b.myngc.com
+hit-pro-d.myngc.com
 hive-staging-cdn.industriousoffice.com
 hive-staging.industriousoffice.com
 hive.industriousoffice.com
@@ -13627,6 +13774,7 @@ hnbvoicereward.com
 hnlp.jp
 hobbit3movie.co.kr
 hollisterco.com
+holly.ca.essd.northgrum.com
 hollywoodcasino.com
 holtsmilitarybank.co.uk
 home.candourgroup.co
@@ -13786,6 +13934,7 @@ hr-qa.nonprod.cbre.com
 hr-tm.nonprod.cbre.com
 hr-uat.nonprod.cbre.com
 hr.abb.com
+hr.ca.essd.northgrum.com
 hr.drives.abb.com.cn
 hr.gallileo-frankfurt.com
 hr.inside.abb.com
@@ -13817,6 +13966,7 @@ hrp-test-gicee.cbre.eu
 hrp-test.cbre.eu
 hrp.cbre.eu
 hrtelevision.ca
+hrweb.northgrum.com
 hsbankiowa.onlinebank.com
 hsbc-achex-dr.onefiserv.com
 hsbc-achex-uat.onefiserv.com
@@ -13871,6 +14021,7 @@ hudsonsbay.wgiftcard.com
 hughesfcu-dna.architect-cert.fiservapps.com
 hukitchen.co.uk
 hukitchen.com
+hull.ca.essd.northgrum.com
 humanacards-uat.hepsiian.com
 humancapital.aon.com
 huntingdonvalleybank-admin.originate.fiservapps.com
@@ -13950,6 +14101,8 @@ ibeneficios.com.br
 ibew26fcu-dc.cert.fec-dc.fiservapps.com
 ibew26fcu-dn.financial-net.com
 ibfnet.org
+ibits.benefits.northgrum.com
+ibits.benefits.northropgrumman.com
 ibiz.broadway.bank
 ibm.abb.com
 ibm.com
@@ -14064,6 +14217,7 @@ ifm-staging.fmpilot2.com
 ifm.fmpilot2.com
 ifsservices.com
 ignet.gov
+igtest1.northropgrumman.com
 ihatemoncler.fr
 ihbnext-ads-rescue.mobile.cedacri.it
 ihbnext-ads.mobile.cedacri.it
@@ -14096,6 +14250,7 @@ il-qa.nonprod.cbre.com
 il-tm.nonprod.cbre.com
 il-uat.nonprod.cbre.com
 il.abb.com
+ilaccess13.ngc.com
 ilafcu-dc.cert.fec-dc.fiservapps.com
 ilafcu-dn.financial-net.com
 ilafcu.org
@@ -14108,6 +14263,7 @@ ilhfa-zgw2.il.abb.com
 ilivra.ca
 ilivro.ca
 illustracard.fdecs.com
+ilwebedge13.ngc.com
 im.gallileo-frankfurt.com
 im360-dev.cbreim.com
 im360-staging.cbreim.com
@@ -14720,6 +14876,7 @@ intranet.wirtgen-group.com
 intranet1.intego.dk
 intranetlink.intego.dk
 intrastar.ch
+intrepid.ca.essd.northgrum.com
 intrepid.cbre.com
 intrepiddnt.cbre.com
 intrepidreporting-uat.cbre.com
@@ -14782,6 +14939,7 @@ iontreasury.com
 iopleasant.cbreesi.com
 ioproperties.cbreesi.com
 iopropertyservices.cbre.com
+iosmdm.myngc.com
 iot-discovery-dev.fleetboard.com
 iot-discovery-int.fleetboard.com
 iot-discovery-prod.fleetboard.com
@@ -15248,6 +15406,7 @@ itrackmanual.cbre.com
 itraqr.com
 its.gov
 itstartswithus.net
+itun.myngc.com
 iuawfcu-dc.cert.fec-dc.fiservapps.com
 iuawfcu-dn.financial-net.com
 iupp.com.br
@@ -15412,6 +15571,7 @@ jgilberts.wgiftcard.com
 jgilbertsstore.wgiftcard.com
 jira-dev.cbre.com
 jira-dev.services.wirtgen-group.com
+jira-msst270.ms.northropgrumman.com
 jira-ro.cbre.com
 jira-staging.services.wirtgen-group.com
 jira-tb.services.wirtgen-group.com
@@ -15528,6 +15688,7 @@ jptyosbcp003.cbre.com
 jpworkflowuat.cbre.com
 jrty.cniib-supplysynergy.abb.com.cn
 jsonar.cbre.com
+jstars.northgrum.com
 jtvaecu-dc.cert.fec-dc.fiservapps.com
 jtvaecu-dn.financial-net.com
 juegayganaconmdlz.com
@@ -15540,6 +15701,7 @@ justgiving.com
 justicexchange.com
 juul.fr
 jvsbc1.voegele.info
+jwst-found.gc1.myngc.com
 k2.abb.com
 k2designer.cbre.com
 k2dev03.cbre.eu
@@ -16009,6 +16171,7 @@ lcracu-dn.financial-net.com
 lcrmscp.gov
 lct.fi.abb.com
 ldap-proxy.kleemann.info
+ldapproxy.ngc.com
 ldrpsweb.cbre.com
 ldsv2.cbre.com
 leadbank.caaweb.com
@@ -16061,6 +16224,8 @@ legacy.cbre.eu
 legacy.gallileo-frankfurt.com
 legacy.huntingtonhospital.org
 legacy.siteready.com
+legacy1.ngc.com
+legacy2.ngc.com
 legacybank-cs.apps-uat.ilendx.tech
 legacybank-cs.apps.ilendx.tech
 legacybank-di.apps-uat.ilendx.tech
@@ -16187,6 +16352,7 @@ ligamaissabor.pt
 lightbox.cbre.com
 lightning.icare.abb.com.cn
 lightstep.com
+lilac.ca.essd.northgrum.com
 lilchalk.com
 lilchalk.net
 lille-pp.cbre.fr
@@ -16194,6 +16360,7 @@ lille-prod.cbre.fr
 lille-uat.cbre.fr
 lille.cbre.fr
 lilliesasiancuisine.com
+lily.ca.essd.northgrum.com
 limaenerzone.com
 lime.gallileo-frankfurt.com
 lincoln.com
@@ -16336,6 +16503,7 @@ lockbox.gcso.cbre.com
 lockbox.gcsonp.cbre.com
 lockbox.us.gcsonp.cbre.com
 lockboxir.bankunited.com
+lockwood.ca.essd.northgrum.com
 loctite-automotriz.com
 loctite-consommateur.be
 loctite-consommateur.fr
@@ -16822,6 +16990,7 @@ m1ccu-admin.originate.fiservapps.com
 m1ccu-dc.cert.fec-dc.fiservapps.com
 m1ccu-dn.financial-net.com
 m1ccu.originate.fiservapps.com
+ma-edge-access.marsys.ngc.com
 ma-qa.nonprod.cbre.com
 ma-tm.nonprod.cbre.com
 ma-uat.nonprod.cbre.com
@@ -16863,11 +17032,13 @@ maggianosstore.wgiftcard.com
 magic-mirror.cn
 magicinfo.ca.abb.com
 magisto.fr
+magnolia.ca.essd.northgrum.com
 magnolia.jetblue.com
 magr01.mydevices.cbre.com
 magr01.mydevices.glb.cbre.com
 magr01.uatdevices.cbre.com
 magr01.uatdevices.glb.cbre.com
+mahan.ca.essd.northgrum.com
 mail-dev.smartfm.cbre.com
 mail-powertalk.referral.abb.com
 mail-relay.thinkesi.com
@@ -16950,6 +17121,7 @@ mail.kingagro.com
 mail.kreiselelectric.com
 mail.lgpd.cbre.com.br
 mail.mainstreamsasp.com
+mail.marsys.ngc.com
 mail.mbs-navigator.com
 mail.monosemusa.com
 mail.norlandmanagedservices.com
@@ -16980,8 +17152,13 @@ mail1.wspsecure.co.uk
 mail2.cbre.ca
 mail2.gallileo-frankfurt.com
 mail2.survey-it.dk.cbre.com
+mail2intl.ngc.com
+mail3intl.ngc.com
+mail4intl.ngc.com
+maila.northgrum.com
 mailarchive.cbre.eu
 mailarchiver.cbremidsouth.com
+mailcentral.ngc.com
 mailchimp.com
 maildr.cbre.ca
 mailer.gallileo-frankfurt.com
@@ -16991,6 +17168,8 @@ mailgate.gallileo-frankfurt.com
 mailgw.intego.dk
 mailhost.gallileo-frankfurt.com
 mailing.greensoluce.com
+mailpoc1.ngc.com
+mailpoc2.ngc.com
 mailrelay01.wirtgen-group.com
 mailrelay02.wirtgen-group.com
 mailserver.gallileo-frankfurt.com
@@ -17000,6 +17179,7 @@ mailserver2a.caci.com
 mailserver2b.caci.com
 mailserver3a.caci.com
 mailserver3b.caci.com
+mailwest.ngc.com
 main.gallileo-frankfurt.com
 main.online.cn.abb.com
 mainapp.icare.abb.com.cn
@@ -17167,6 +17347,8 @@ marimonitor.com
 marine.equipmentmanagement.abb.com
 marine.uat.genix.abb.com
 marinecadastre.gov
+marinenet.ca.essd.northgrum.com
+marinetest.ca.essd.northgrum.com
 marjmonitor.com
 mark-manager.biz
 mark-manager.info
@@ -17401,12 +17583,14 @@ marquettecomm-dn.financial-net.com
 marrkmonitor.com
 mars-dna.com
 mars.com
+mars5qa.martis.ms.northgrum.com
 marsbettertogetherfund.org
 marschocolate.com
 marseille-pp.cbre.fr
 marseille-prod.cbre.fr
 marseille-uat.cbre.fr
 marseille.cbre.fr
+martis.ms.northgrum.com
 martkmonitor.com
 maryland.gov
 maryvaleschoolsfcu-dc.cert.fec-dc.fiservapps.com
@@ -17625,6 +17809,7 @@ meetingplace.cbre.eu
 meetings-api-deere.ghns-dwe-transform-prod-vpn.use1.e00.c01.johndeerecloud.com
 meetings.aon.com
 meetmynewpet.com
+meetngc.com
 mefcu-admin.originate.fiservapps.com
 mefcu-dc.cert.fec-dc.fiservapps.com
 mefcu-dn.financial-net.com
@@ -17789,6 +17974,7 @@ metropolitanbank.caaweb.com
 metropolitancert.olbanking.com
 metview.cbre.com
 meubanco.deere.com
+mews.ngc.com
 mexichem.com
 mexico.preview.cbre.com
 mezclaydisfruta.com.ar
@@ -17809,6 +17995,8 @@ mfmmobservice-eu.cbreapps.com
 mfmmobservice-sit-eu.cbreapps.com
 mfmmobservice-trn-eu.cbreapps.com
 mfmmobservice-uat-eu.cbreapps.com
+mft-stg.myngc.com
+mft.myngc.com
 mg.abb.com
 mg3.investnext.com
 mgi.gov
@@ -17940,6 +18128,7 @@ milmarc.com
 milrecruiter.com
 mimiscafe.wgiftcard.com
 mimiscafestore.wgiftcard.com
+mimosa.ca.essd.northgrum.com
 minasidor.cbre.se
 mindstem.net
 mine2port.com
@@ -17987,12 +18176,14 @@ mktgservice.nonprod.cbre.com
 mktinfo.tal.deere.com
 mlams.cbre.co.in
 mlb-vpn-1.l3harris.com
+mllksu01.northgrum.com
 mlsrewards.avant.com
 mm-ads.com
 mm-brandprotection.com
 mm-corp.net
 mm-enforcements.com
 mm-ipenforcements.com
+mmail.ngc.com
 mmanager.businesstrack.com
 mmanuscriptcentral.com
 mmbrandprotection.com
@@ -18082,6 +18273,8 @@ mobile.motionupskill.abb.com
 mobile.mylearning-americas.abb.com
 mobile.mylearning-self.abb.com
 mobile.mylearning.abb.com
+mobile.ngc-mfa.cc2.myngc.com
+mobile.ngc.com
 mobile.partsandmore.net
 mobile.pla.com.br
 mobile.securenet.vodafone.com
@@ -18101,6 +18294,7 @@ mobilemoneynigeria.net
 mobilesales-cons.services.wirtgen-group.com
 mobilesales.services.wirtgen-group.com
 mobiletest.digecenter.com
+mobilewest.ngc.com
 mobilews.cashedge.com
 mocentral-admin.originate.fiservapps.com
 mocentral-dn.financial-net.com
@@ -18229,6 +18423,8 @@ mop.firstdata.eu
 mop.telecash.de
 mopacfcu-dc.cert.fec-dc.fiservapps.com
 mopacfcu-dn.financial-net.com
+mopsbangor.martis.ms.northgrum.com
+mopsuk.martis.ms.northgrum.com
 moralis-internal.io
 moralis-streams.com
 moralis.com
@@ -18358,6 +18554,7 @@ msoid.die-wirtgen-group-auf-der-bauma.com
 msoid.monosemusa.com
 msoid.thorntontomasetti.com
 msp20.genix.abb.com
+msp4.ca.essd.northgrum.com
 mspecu-dc.cert.fec-dc.fiservapps.com
 mspecu-dn.financial-net.com
 mspecu.org
@@ -18648,6 +18845,7 @@ mwrdecu-admin.originate.fiservapps.com
 mwrdecu-dc.cert.fec-dc.fiservapps.com
 mwrdecu-dn.financial-net.com
 mwrdecu.originate.fiservapps.com
+mwssiems.ts.northropgrumman.com
 mwtr.com
 mx-qa.nonprod.cbre.com
 mx-sbc1.cbre.com
@@ -19281,6 +19479,7 @@ nebaswcecomm.fdecs.com
 nebaswcecon.fdecs.com
 nebula.sensor.abb.com.cn
 nehrp.gov
+neiasu01.northgrum.com
 neighborhoodcfcu-dc.cert.fec-dc.fiservapps.com
 neighborhoodcfcu-dn.financial-net.com
 neighborsfcu.caaweb.com
@@ -19581,8 +19780,21 @@ nfse-campinas.mfg-sd-branch-and-parts-devl-vpn.us.e11.c01.johndeerecloud.com
 nfse-campinas.mfg-sd-branch-and-parts-qual-vpn.us.e11.c01.johndeerecloud.com
 ng.abb.com
 ng.inside.abb.com
+ngc-ebip.myngc.com
+ngc-emp.amer.myngc.com
+ngc-eplte.myngc.com
 ngc-itg-oca-externall.it.hpe.com
+ngc-kyano.snpgroup.dev
+ngc-mfa.cc2.myngc.com
+ngc-sp.myngc.com
+ngc-uscpa.ngicpa.myngc.com
+ngcztportal.myngc.com
+ngdnsw.northgrum.com
+ngex-dmz-prod.myngc.com
+ngex-dmz-test.myngc.com
 nginxctl-ingress.gcsonp.cbre.com
+ngmsnet.ca.essd.northgrum.com
+ngnatadd.northgrum.com
 ngq-itg1-ext.it.hpe.com
 ngq-itg2-ext.it.hpe.com
 ngq-itg4-ext.it.hpe.com
@@ -19590,6 +19802,7 @@ ngq-pro-ext.it.hpe.com
 ngq-pro-ext.wip.it.hpe.com
 ngq-pro-ext2-vip.it.hpe.com
 ngq-pro-ext2.it.hpe.com
+ngsafe.northropgrumman.com
 nhaero.com
 nhfcu-dc.cert.fec-dc.fiservapps.com
 nhfcu-dn.financial-net.com
@@ -19746,6 +19959,10 @@ northmaincu-dc.cert.fec-dc.fiservapps.com
 northmaincu-dn.financial-net.com
 northpointe-admin.originate.fiservapps.com
 northpointe.originate.fiservapps.com
+northropgrummancentral.myngc.com
+northropgrummaneast.myngc.com
+northropgrummanpilot.myngc.com
+northropgrummanwest.myngc.com
 northshore2.caaweb.com
 northstarrxllc.com
 northwest-bank.caaweb.com
@@ -19824,18 +20041,23 @@ ns.wirtgen.de
 ns.wirtgenankara.com.tr
 ns1.ext.cymycloud.com
 ns1.gallileo-frankfurt.com
+ns1.nsgslb.myngc.com
+ns1.nsgslbt.myngc.com
 ns1.pla.com.br
 ns1.thorntontomasetti.com
 ns1.unimil.com.br
 ns2.cbreinvestors.com
 ns2.ext.cymycloud.com
 ns2.gallileo-frankfurt.com
+ns2.nsgslb.myngc.com
+ns2.nsgslbt.myngc.com
 ns2.pla.com.br
 ns2.thorntontomasetti.com
 ns2.unimil.com.br
 ns3.cbreinvestors.com
 ns3.pla.com.br
 ns4.cbreinvestors.com
+nsbw01.northropgrumman.com
 nsf.gov
 nso.com
 nsvpx01.kleemann.info
@@ -19848,6 +20070,7 @@ nswh-witos.wirtgen-group.com
 nswlandtitles.com.au
 ntcusa.com
 ntd.net.au
+nteucasvc23.myngc.com
 ntia.gov
 ntis.gov
 ntrip-admin.starfirenetwork.com
@@ -19955,6 +20178,10 @@ oanda.com
 oanda.jp
 oarkmonitor.com
 oasi-servizi.it
+oasis-sdms-plte.myngc.com
+oasis-taxcerts.myngc.com
+oasis.myngc.com
+oasis.northgrum.com
 oasislite.co.uk
 oasislite.com
 oath.locator.cbre.com
@@ -20017,11 +20244,15 @@ ocppauth.accept.evcharging.abb.com
 ocppauth.accept.evcharging.abb.com.cn
 ocppauth.evcharging.abb.com
 ocppauth.evcharging.abb.com.cn
+ocsp.northropgrumman.com
 ocsp.services.wirtgen-group.com
 ocsportal-cat.fiservapp.com
 ocsportal.fiservapp.com
 october.gallileo-frankfurt.com
 octopathsp.net
+oda.myngc.com
+odadev.myngc.com
+odaplte.myngc.com
 oddc.mtn.com
 odwebi08.clienttestmatrix.com
 oem.drives.abb.com.cn
@@ -20127,6 +20358,7 @@ olivegardenstore.wgiftcard.com
 oliveviewfcu-dc.cert.fec-dc.fiservapps.com
 oliveviewfcu-dn.financial-net.com
 olpss.fiservclients.com
+olympia.ca.essd.northgrum.com
 om.abb.com
 oma-cit-maxregister.fiservapp.com
 oma-prod-diligence.businesstrack.com
@@ -20198,6 +20430,7 @@ onecommunityfcu.net
 onecommunityfcu.org
 onecommunityfcu.originate.fiservapps.com
 onecommunityfcu.vbwebservices.com
+onecompany.northropgrumman.com
 onecreditunion-admin.originate.fiservapps.com
 onecreditunion-dc.cert.fec-dc.fiservapps.com
 onecreditunion-dn.financial-net.com
@@ -20218,6 +20451,7 @@ onetcenter.org
 onetcodeconnector.org
 oneteam.cbre.co.uk
 onetonline.org
+onetrickpony.se
 onewashingtoniancenter.com
 onexclarivate.com
 onhir.gov
@@ -20646,6 +20880,7 @@ originateloanscc.streamlendvelocity.net
 origins-productservices.elcompanies.com
 orizen.com
 orizensolutions.com
+orlando.northgrum.com
 orlex-dc.cert.fec-dc.fiservapps.com
 orlex-dn.financial-net.com
 orosaiwa.it
@@ -20725,7 +20960,13 @@ owa.norlandmanagedservices.com
 owa.ucr.com
 owa2.cbre.com.au
 owa2003.cbre.fr
+owack.ngc.com
 owadr.cbre.eu
+owaeast.myngc.com
+owaeast.ngc.com
+owaintegic.ngc.com
+owastage.ngc.com
+owawest.ngc.com
 owncloud.gallileo-frankfurt.com
 ownersupport.deere.com
 oxventure.com
@@ -20908,6 +21149,7 @@ pass.cniib-supplysynergy.abb.com.cn
 passatempo.royalcontigo.com
 passionforservices.com
 passly.com
+passporte.ms.northropgrumman.com
 passthetest.org
 password.cbre.com
 password.intego.dk
@@ -21118,6 +21360,7 @@ pc-fcu.originate.fiservapps.com
 pcamerica.com
 pce-analytics-sg.seleritycorp.com
 pce-sg.seleritycorp.com
+pcedge.myngc.com
 pcg.cbre.com
 pcg.cbre.com.au
 pci.fta.cashedge.com
@@ -21148,9 +21391,11 @@ pdr.suppliernet-hotfix.elcompanies.com
 pdr.suppliernet-qa.elcompanies.com
 pdr.suppliernet-uat.elcompanies.com
 pdr.suppliernet.elcompanies.com
+pds-term1.ca.essd.northgrum.com
 pds.cbre.com
 pds.norlandprojects.co.uk
 pds.uat.cbre.com
+pdsso.ca.essd.northgrum.com
 pdx8fcu-dc.cert.fec-dc.fiservapps.com
 pdx8fcu-dn.financial-net.com
 pdx8fcu.com
@@ -21383,6 +21628,7 @@ philippines-uat.nonprod.cbre.com
 philippines.cbre.com
 philly.com.au
 phishphace.com
+phlox.ca.essd.northgrum.com
 phoenixfed-admin.originate.fiservapps.com
 phoenixfed.originate.fiservapps.com
 phone-home.singlestore.com
@@ -21583,6 +21829,7 @@ plattscsdfcu.vbwebservices.com
 play.gallileo-frankfurt.com
 play.mtn.co.za
 playsecure.abb.com
+pleasereview.northropgrumman.com
 pleasurepier.com
 plexxi.com
 plm.traction.abb.com
@@ -21651,6 +21898,7 @@ pnmac.wc3.com
 pnonprod.gcso.cbre.com
 pnpabilityoi.genix.abb.com
 po.cbre.com
+po.northgrum.com
 poc-cmms-auth.serviceinsight.cbre.com
 poc-cmms.serviceinsight.cbre.com
 poc-cmms2.serviceinsight.cbre.com
@@ -21787,6 +22035,7 @@ portal.industriousoffice.com
 portal.kkr.com
 portal.kleemann.info
 portal.l3harris.com
+portal.ngc-mfa.cc2.myngc.com
 portal.particlehealth.com
 portal.partner.l3harris.com
 portal.romonet.com
@@ -22650,6 +22899,7 @@ providentfcu-dn.financial-net.com
 provider.propellerhealth.biz
 providerpay.com
 provisioner.collaboration.abb.com
+provisioning.northgrum.com
 provisioning.servicemanagement.mendix.com
 proximity.cbresi.com
 proxy-ssl.webflow.com
@@ -22688,6 +22938,7 @@ pscareers.cbre.com
 pscr.gov
 pscufs.fta.popmoney.com
 pscwallboard.cbre.com
+psdev.myngc.com
 psecreditunion-admin.originate.fiservapps.com
 psecreditunion-dc.cert.fec-dc.fiservapps.com
 psecreditunion-dn.financial-net.com
@@ -22698,7 +22949,9 @@ psixbox.com
 psomuchmore.ca
 pspa.solspark.com
 pspportal.firstdata.com
+psprod.myngc.com
 pspt.solspark.com
+psqual.myngc.com
 psrp.clienteitau.co
 pssd.com
 pstcfcu-dc.cert.fec-dc.fiservapps.com
@@ -22730,6 +22983,7 @@ publishservice.gl.cbre.com
 publon.com
 publons.com
 pubportfolio.com.au
+puffer.ca.essd.northgrum.com
 pulpandpaper-industrial-automation-service.abb.com
 pulse-admin-dev.cbre.com
 pulse-admin-dr.cbre.com
@@ -22828,6 +23082,7 @@ purduefed.fta.popmoney.com
 pureleaf.com
 puritanspride.fr
 putil.gcso.cbre.com
+pvedge.northropgrumman.com
 pvpn-asia.gslb.cbre.eu
 pvpn.cbre.eu
 pwb.fdecs.com
@@ -23044,6 +23299,7 @@ qcaonwebmx.aon.com
 qcaonwebmx.egslb.cmp.aon.com
 qcrholdings.caaweb.com
 qd.surepointag.com
+qebasent3.ca.essd.northgrum.com
 qinetiq.ca
 qinetiq.cloud
 qinetiq.co.uk
@@ -23086,6 +23342,7 @@ quantlab.it
 quantlab.org
 quantum.cbre.com
 quantumfiber.com
+queenfish.ca.essd.northgrum.com
 queenvictoriadiaries.co.uk
 queenvictoriadiaries.com
 queenvictoriadiaries.net
@@ -23412,10 +23669,12 @@ regionsmortgage.com
 regionsqa.com
 regionsretirement.com
 regionssource.com
+register-test.myngc.com
 register.alertxpress.com
 register.bpost.be
 register.cbre.eu
 register.gallileo-frankfurt.com
+register.myngc.com
 register.telfordhomes.london
 registerdev.cbre.eu
 registertest.cbre.eu
@@ -23451,7 +23710,9 @@ rel-tyl.technologi.co.uk
 relay-service-qual.deere.com
 relay-service.qual.us.e01.c01.johndeerecloud.com
 relay.cbreesi.com
+relayeast.northgrum.com
 relayhealth.com
+relaywest.northgrum.com
 reliabank-cs.apps-uat.ilendx.tech
 reliabank-di.apps-uat.ilendx.tech
 reliabank.apps-uat.ilendx.tech
@@ -23485,6 +23746,7 @@ remote.usequities.com
 remote.wirtgen-group.com
 remote.wirtgen.co.uk
 remoteaccess.deere.com
+remoteaccess.northropgrumman.com
 remotemonitoring.drives.abb.com
 remotemonitoring.drives.abb.com.cn
 remoteservices.abb.com
@@ -23512,6 +23774,7 @@ reports-ext.cbre.com
 reports-int.cbre.com
 reports-service-qual.ghns-web-platform-prod-standalone5.us.e00.c01.johndeerecloud.com
 reports-uat.cte.client-central.com
+reports.benefits.northgrum.com
 reports.cbre.com
 reports.dev.marketiq.cbre.com
 reports.fmpilot.com
@@ -23845,6 +24108,7 @@ romonet.com
 romonet.net
 roobet.com
 ropharmacy.com
+rosebud.ca.essd.northgrum.com
 ross.wgiftcard.com
 roswellcu-dc.cert.fec-dc.fiservapps.com
 roswellcu-dn.financial-net.com
@@ -23921,6 +24185,11 @@ rsa.cbre.eu
 rsaselfservice.l3t.com
 rsbellcofcu-dc.cert.fec-dc.fiservapps.com
 rsbellcofcu-dn.financial-net.com
+rseca6martis11.ca.essd.northgrum.com
+rseca6reliab.ca.essd.northgrum.com
+rsecav-web02.ssd.es.northgrum.com
+rsiny1-ctxe2.northgrum.com
+rslv26-psllpd01.northropgrumman.com
 rsnb.onlinebank.com
 rsrch.co
 rssl.com
@@ -23989,6 +24258,8 @@ rxstack.com
 rxtickets.com
 rydapt.ca
 s-anywhere.cbre.eu
+s-cert.myngc.com
+s-certdev.myngc.com
 s02.callsign.com
 s1._domainkey.harvestprofit.com
 s1.gallileo-frankfurt.com
@@ -24018,6 +24289,7 @@ sa.smartapply.com
 saasalerts.com
 sabadellproteccion.com
 sabal.com
+sabalo.ca.essd.northgrum.com
 sabinefcu-admin.originate.fiservapps.com
 sabinefcu.originate.fiservapps.com
 sabra.com
@@ -24041,6 +24313,7 @@ safetydrones.be
 safetytriager.com
 sagecapitalbank-admin.originate.fiservapps.com
 sagecapitalbank.originate.fiservapps.com
+sailfish.ca.essd.northgrum.com
 salemfive-uat.streamlendvelocity.net
 salemfive.caaweb.com
 salemfive.olbanking.com
@@ -24095,6 +24368,7 @@ sandhursttrustees.com.au
 sandostatin-lar.ca
 sandostatin.ca
 sandozclinicalpackage.ca
+sandy.ca.essd.northgrum.com
 sangabrielvalleyhealtheconnect.com
 sangabrielvalleyhealtheconnect.net
 sanluisresort.com
@@ -24151,9 +24425,12 @@ sba.apps-dev.ilendx.tech
 sbangular.devx.cbre.com
 sbc.hamm.eu
 sbc.kleemann.info
+sbc.ngc.com
+sbc.ngplte.com
 sbc1-wi.wirtgen-group.com
 sbc1.kleemann.info
 sbc2.kleemann.info
+sbc2.ngc.com
 sbizbillpay-test.amegybank.com
 sbizbillpay-test.calbanktrust.com
 sbizbillpay-test.nbarizona.com
@@ -24358,7 +24635,9 @@ seasons52.wgiftcard.com
 seasons52store.wgiftcard.com
 seasonsfcu-admin.originate.fiservapps.com
 seasonsfcu.originate.fiservapps.com
+seattle.ca.essd.northgrum.com
 seattlebank.caaweb.com
+seavin.ts.northropgrumman.com
 seawestcoastguardcu-cs.apps-uat.ilendx.tech
 seawestcoastguardcu-cs.apps.ilendx.tech
 seawestcoastguardcu-di.apps-uat.ilendx.tech
@@ -24492,6 +24771,7 @@ seguros.itau.co
 segurosarg.aon.com
 seguroseassistenciasqc.com.br
 segurosocial.gov
+seic.ms.northropgrumman.com
 seilingsb-admin.originate.fiservapps.com
 seilingsb.architect-cert.fiservapps.com
 seilingsb.onlinebank.com
@@ -24570,6 +24850,7 @@ semanticdatacore.com
 semanticknowledgebase.com
 semiconductors.gov
 senegocia.cbre.cl
+sengsu05.ca.essd.northgrum.com
 sensor.grubhub.com
 sensoready.ca
 sentinel-hub.cc
@@ -24735,11 +25016,13 @@ sfb.architect-cert.fiservapps.com
 sfb.onlinebank.com
 sftm.precision.fiserv.com
 sftm.premier.fiserv.com
+sftp-stg.myngc.com
 sftp.acculynk.net
 sftp.acml.ca
 sftp.allegrodevelopment.com
 sftp.cbs.fiserv.com
 sftp.isg-isg-automation-autonomy-devl-floating.us.e01.c01.johndeerecloud.com
+sftp.myngc.com
 sftp.wirtgen.de
 sfx.l3harris.com
 sg-qa.nonprod.cbre.com
@@ -24763,6 +25046,7 @@ share.jjwws.com
 shareadvantage-dc.cert.fec-dc.fiservapps.com
 shareadvantage-dn.financial-net.com
 sharecadbury.ca
+sharecenter.myngc.com
 sharedinvestigator.com
 sharedresourcescu-dc.cert.fec-dc.fiservapps.com
 sharedresourcescu-dn.financial-net.com
@@ -24835,6 +25119,8 @@ shoreline.cbresi.com.au
 shortner.gyft.com
 shorturl.abb.com
 show.deere.com
+showcaseapp.myngc.com
+showcaseservices.myngc.com
 showmecu-dc.cert.fec-dc.fiservapps.com
 showmecu-dn.financial-net.com
 showroomdigitalmedia.deere.com
@@ -24966,6 +25252,7 @@ sip.jandjgcs.com
 sip.jjwws.com
 sip.kingagro.com
 sip.kleemann.info
+sip.ngc.com
 sip.njsjv.com
 sip.norlandmanagedservices.com
 sip.pla.com.br
@@ -25133,6 +25420,7 @@ sixpad.fr
 sjmcu-dc.cert.fec-dc.fiservapps.com
 sjmcu-dn.financial-net.com
 sjokoladehus.no
+sjsfsu07.jsf.masd.northgrum.com
 sk-alpha.test.cbreproperties.cz
 sk-qa.nonprod.cbre.com
 sk-sbc1.cbre.com
@@ -25157,6 +25445,7 @@ skagenfunds.lu
 skagenfunds.nl
 skanska-secure-partner.co.uk
 sketchanitch.ca
+skillsoft.northropgrumman.com
 skittles.com
 skladbratislavanapredaj.sk
 sklepoweszukajki.pl
@@ -25168,6 +25457,7 @@ skylinefinancialfcu-dc.cert.fec-dc.fiservapps.com
 skylinefinancialfcu-dn.financial-net.com
 skylinefinancialfcu.originate.fiservapps.com
 skynet.bearflagrobotics.com
+skype2019-se-accesswest.ngc.com
 skyscope.n45ht.or.id
 slbank.onlinebank.com
 slc-vpn-1.l3harris.com
@@ -25191,6 +25481,9 @@ smart-report-ws-pp.cbre.fr
 smart-support-sandbox.cps-csm-sandbox-standalone2.use1.e32.c01.johndeerecloud.com
 smartapplication-admin.eaglesavings.com
 smartapplication.eagle.bank
+smartbuy-dev.myngc.com
+smartbuy-prod.myngc.com
+smartbuy-qa.myngc.com
 smartchargerewards.com
 smartdoc-api-dev.witos.wirtgen-group.com
 smartdoc-dev.witos.wirtgen-group.com
@@ -25412,6 +25705,7 @@ solgar.fr
 solonstatebank.architect-cert.fiservapps.com
 solonstatebank.onlinebank.com
 solucionesmondelez.com
+solumina.ms.northgrum.com
 solutions-admin.originate.fiservapps.com
 solutions.originate.fiservapps.com
 solutions.transunion.co.uk
@@ -25634,6 +25928,7 @@ ssf-transmitter.services.wirtgen-group.com
 ssfcu-dc.cert.fec-dc.fiservapps.com
 ssl.gallileo-frankfurt.com
 ssl01.cacre.com
+sslebxdnx01.northgrum.com
 sslvpn-wh.wirtgen.de
 sslvpn.wirtgen.de
 sso-p2p-td.fiservapps.com
@@ -25685,7 +25980,10 @@ st03n-data.mfg-global-sap-mfg-ops-prod-vpn.us.e11.c01.johndeerecloud.com
 stability.ai
 stableaudio.com
 stacyssnacks.com
+stadabeijing.com
 staff.norlandmanagedservices.com
+staffupdev.ms.northropgrumman.com
+staffuptest.ms.northropgrumman.com
 stage-accesscontrol.gbs.fiserv.com
 stage-acct-mgmt.catalyst.clover.com
 stage-admin.fiserv.com
@@ -26150,14 +26448,17 @@ sugar-uat.cbre.cz
 sugar-uat.cbre.sk
 sugar.cbre.cz
 sugar.cbre.sk
+sugarscoop.ca.essd.northgrum.com
 summitbank.caaweb.com
 summitnb.onlinebank.com
 summon.nl
 summon.xxx
 sunbeltparts.com
+sunbird.ca.essd.northgrum.com
 sunchips.com
 suncu-dc.cert.fec-dc.fiservapps.com
 sundancestate.architect-cert.fiservapps.com
+sundown.northgrum.com
 sundowns-admin.ayoba.me
 sunflower-cs.apps-uat.ilendx.tech
 sunflower-cs.apps.ilendx.tech
@@ -26170,10 +26471,14 @@ sunflowerbank.caaweb.com
 sunflowerbankuat.caaweb.com
 sunflowercert.olbanking.com
 sunlightcanada.ca
+sunny57.ca.essd.northgrum.com
+sunny7.ca.essd.northgrum.com
+sunnymail.ngc.com
 sunoco.wgiftcard.com
 sunocostore.wgiftcard.com
 sunpacific-dc.cert.fec-dc.fiservapps.com
 sunpacific-dn.financial-net.com
+sunrise.northgrum.com
 sunrisebanks.caaweb.com
 sunrisefamilycu-admin.originate.fiservapps.com
 sunrisefamilycu-dc.cert.fec-dc.fiservapps.com
@@ -26320,6 +26625,13 @@ swarmhealthcheck.luna.cbre.de
 swbfcu-dn.financial-net.com
 swcu-dc.cert.fec-dc.fiservapps.com
 swcu-dn.financial-net.com
+swebsu01.northropgrumman.com
+swebsu02.northropgrumman.com
+swebsu05.northropgrumman.com
+swebsu06.ca.essd.northgrum.com
+swebsu06.northropgrumman.com
+swebsu07.ca.essd.northgrum.com
+swebsu07.northropgrumman.com
 sweetfrogstore.wgiftcard.com
 swempfcu-dn.financial-net.com
 swg-prd-vip.it.hpe.com
@@ -26404,6 +26716,7 @@ talent.canada.ca
 talenthub.elcompanies.com
 talkingcancerclinicaltrials.com
 talkspms.ca
+talon.myngc.com
 talx.com
 tamanna.com
 tameyourmigraine.ca
@@ -26414,6 +26727,7 @@ tandemfcu.originate.fiservapps.com
 tandtamcl.com
 tang-gulf.com
 tangit.at
+tank1.northgrum.com
 taobao.com
 tap-api.cbre.ca
 tap.cbre.ca
@@ -26425,6 +26739,7 @@ tapfcu.vbwebservices.com
 tapingo.com
 tappancu-dc.cert.fec-dc.fiservapps.com
 tappancu-dn.financial-net.com
+target2.ca.essd.northgrum.com
 targetmelanomatoday.ca
 targetsafety.info
 tarjetaregalo.oca.com.uy
@@ -26464,6 +26779,7 @@ tcbk.caaweb.com
 tcc-qa.nonprod.cbre.com
 tcc-tm.nonprod.cbre.com
 tcc-uat.nonprod.cbre.com
+tcc.amer.myngc.com
 tccshare.cbre.com
 tccu-tx-admin.originate.fiservapps.com
 tccu-tx-dc.cert.fec-dc.fiservapps.com
@@ -26522,6 +26838,7 @@ team-wheelfcu-dc.cert.fec-dc.fiservapps.com
 team-wheelfcu-dn.financial-net.com
 team.bluerivertechnology.com
 team.gallileo-frankfurt.com
+team.ms.northropgrumman.com
 teamdrg.com
 teamfirstfcu-dc.cert.fec-dc.fiservapps.com
 teamfirstfcu-dn.financial-net.com
@@ -26537,6 +26854,7 @@ teamwork.mbs-navigator.com
 tears.ca
 tech.cbre.com
 techcucert.olbanking.com
+techdb.northropgrumman.com
 techinfo-omview.apps-prod-vpn.us.e06.c01.johndeerecloud.com
 technology.caaweb.com
 techpubs.deere.com
@@ -27119,6 +27437,7 @@ timberlinefcu.originate.fiservapps.com
 timbermanager.deere.com
 time.gov
 time.jjwws.com
+timeadjtprd.northgrum.com
 timebeta.jjwws.com
 timeoutz4snacks.com
 timequities.com
@@ -27136,6 +27455,7 @@ timetobank-admin.originate.fiservapps.com
 timetobank.originate.fiservapps.com
 timewarnerasp.iongroup.com
 timewarneraspdr.iongroup.com
+timext.northgrum.com
 timfunds.com
 timgroup.com
 timinvestor.com
@@ -27149,6 +27469,7 @@ ting.com
 tingmobile.com
 tinyprints.com
 tip.centurum.com
+tiru.ca.essd.northgrum.com
 tisagenleucel-t.com
 titelmax.com
 titelschutz-recherche.info
@@ -27225,6 +27546,7 @@ tmguard.com
 tmguard.info
 tmhfcu-dc.cert.fec-dc.fiservapps.com
 tmhfcu-dn.financial-net.com
+tmipce1.northgrum.com
 tml.elcompanies.com
 tmp-qc.aoncatweb.com
 tms-uat.cardconnect.com
@@ -27711,6 +28033,7 @@ trunorthernfcu-dn.financial-net.com
 trunorthernfcu.org
 trunorthernfcu.vbwebservices.com
 truoptik.com
+trust.myngc.com
 trustaware.com
 trustco-cs.apps-uat.ilendx.tech
 trustco-cs.apps.ilendx.tech
@@ -27734,6 +28057,7 @@ trusttexasbank-di.apps-uat.ilendx.tech
 trusttexasbank-di.apps.ilendx.tech
 trusttexasbank.apps-uat.ilendx.tech
 trusttexasbank.apps.ilendx.tech
+truxtun.ca.essd.northgrum.com
 tryloctite.cn
 tryloctite.in
 ts-info.com
@@ -27765,9 +28089,11 @@ tsp.cl.iongroup.com
 tsp.gov
 tspcarc.cl.iongroup.com
 tspint.cl.iongroup.com
+tspip.ms.northropgrumman.com
 tspqmastor.cl.iongroup.com
 tsr.cbre.com.au
 tsrm.oneaffinity.aon.it
+tssd-thingworx-test.myngc.com
 tssec.com
 tst-cmms.cbre.eu
 tst.cl.iongroup.com
@@ -27917,6 +28243,9 @@ tyverb.ca
 u-sleep.umbian.com
 uafcu-dc.cert.fec-dc.fiservapps.com
 uafcu-dn.financial-net.com
+uag-east.myngc.com
+uag-plte-east.myngc.com
+uag-west.myngc.com
 uaganon.cbre-ea.com
 ual.com
 uarkfcu-dc.cert.fec-dc.fiservapps.com
@@ -28848,6 +29177,7 @@ usecuweb-dc.cert.fec-dc.fiservapps.com
 usecuweb-dn.financial-net.com
 usembassy.gov
 usemoralis.com
+usempportal.cc2.myngc.com
 usend.com
 usendbrazil.com
 usequities.com
@@ -28915,11 +29245,22 @@ va-appgate-ctrl1.dzyne.com
 va.gov
 va.jjwws.com
 vacantspace.cbre.com
+vagaccess13.plte.ngc.com
+vagaccess19.ngc.com
+vagaccess19.plte.ngc.com
+vageplteaccessedge13.ngplte.com
+vageplteaccessedge19.ngplte.com
+vageplteavedge13.ngplte.com
+vagepltewebedge19.ngplte.com
+vagwebedge13.plte.ngc.com
+vagwebedge19.ngc.com
+vagwebedge19.plte.ngc.com
 vahlyonsefcu-admin.originate.fiservapps.com
 vahlyonsefcu-dc.cert.fec-dc.fiservapps.com
 vahlyonsefcu-dn.financial-net.com
 vahlyonsefcu.originate.fiservapps.com
 val-ms-api.elcompanies.com
+valebtpdepopgtm-c01.northropgrumman.com
 valexfcu-dc.cert.fec-dc.fiservapps.com
 valexfcu-dn.financial-net.com
 valic.agg.cashedge.com
@@ -29176,6 +29517,7 @@ vfpt.pt
 vg247.com
 vhb.agrisync.com
 vhb.expertconnect.deere.com
+vhost.northgrum.com
 viaopta.ca
 victoriassecret.ae
 victoriassecret.com.kw
@@ -29215,6 +29557,7 @@ vineapps.com
 vineprotect.com
 vip.gallileo-frankfurt.com
 viq.zebra.com
+virtual-dev.myngc.com
 virtual.mjl.cbre.com
 virtualapp.com
 virtualbranchservices.com
@@ -29223,6 +29566,7 @@ virtualpremise.com
 virtualsuperintendent.com.au
 virtualtms.com
 virtuoso.fi-apps.com
+vis-is.myngc.com
 visa-3ds-test.polcard.com.pl
 visa-3ds.polcard.com.pl
 visa.apac.3ds.firstdata.com
@@ -29580,6 +29924,7 @@ web.evaultdsm01.com
 web.fidsafe.com
 web.gallileo-frankfurt.com
 web.jenkins.pclender.com
+web.northgrum.com
 web.surefireag.com
 web.treasuryaccess.com
 web.wirtgenankara.com.tr
@@ -29677,6 +30022,7 @@ webmail.fmpilot2.net
 webmail.gallileo-frankfurt.com
 webmail.intego.dk
 webmail.kreiselelectric.com
+webmail.ngc.com
 webmail.norlandmanagedservices.com
 webmail.ohsusouthwaterfront.com
 webmail.pla.com.br
@@ -29818,6 +30164,7 @@ webpayments.billmatrix.com
 webpayments.firstdata.com
 webproces.intego.dk
 webprove.cbre.com
+webptr.ms.northropgrumman.com
 webquote.cbreapps.com
 webquote.qat.cbreapps.com
 webquote.uat.cbre.eu
@@ -30011,6 +30358,7 @@ win.cadbury.co.uk
 win.jjwws.com
 winco.wgiftcard.com
 wincostore.wgiftcard.com
+windflower.ca.essd.northgrum.com
 window.amewas.com
 windstream.com
 windstream.net
@@ -30124,6 +30472,8 @@ wlsefcu-dc.cert.fec-dc.fiservapps.com
 wlsefcu-dn.financial-net.com
 wlsfcu-dc.cert.fec-dc.fiservapps.com
 wlsfcu-dn.financial-net.com
+wlspfser.is.northropgrumman.com
+wlspfser.northropgrumman.com
 wlsqa.bankunited.com
 wm-aot-uat.fiservapps.com
 wm-aot.fiservapps.com
@@ -30191,7 +30541,16 @@ workplaceinnovation.net
 workplacetest.cbreapps.com
 worksheets.info
 workshops.aws.dev
+workspace-c.nsgslb.myngc.com
+workspace-dev.myngc.com
+workspace-dr.myngc.com
+workspace-plte.nsgslbt.myngc.com
+workspace.amer.myngc.com
 workspace.cbre.fr
+workspace.gc1.nsgslb.myngc.com
+workspace.myngc.com
+workspace2.gc1.myngc.com
+workspace2.myngc.com
 world-drug-alerts.com
 worldconflictstoday.com
 worldgenealogydatabase.com
@@ -30531,6 +30890,7 @@ www.bt.locator.cbre.com
 www.btuat.locator.cbre.com
 www.build.cbre.com
 www.buildingconsultancy.com
+www.bushmasterchainguns.com
 www.buut.com
 www.buzz.industriousoffice.com
 www.bykilian.dcp.elcompanies.com
@@ -30661,6 +31021,7 @@ www.cbrichardellishawaii.com
 www.cdm.cbre.com
 www.centermanagement.ch
 www.centrepointlettings.com
+www.ceosslibrary.northropgrumman.com
 www.cermview.com
 www.cermview3.com
 www.cfg.mainstreamsasp.com
@@ -31088,6 +31449,7 @@ www.iopropertyservices.cbre.com
 www.iovendormaintenance.cbre.com
 www.ir.cbre.com
 www.ism.intego.dk
+www.iss.northropgrumman.com
 www.itau.com.uy
 www.itax-qa.cbre.eu
 www.itax-uat.cbre.eu
@@ -31147,6 +31509,7 @@ www.laoficinadelfuturo.cbre.es
 www.latam.cbre.com
 www.lavatest.cbre.com
 www.lawintheregions.com
+www.lcs.ds.northropgrumman.com
 www.ldsv2.cbre.com
 www.leaseabstractor.cbre.com
 www.leaseaccountingtool.cbre.com
@@ -31281,6 +31644,7 @@ www.myhcmmauatext.cbre.com
 www.myhcmspgwy.cbre.com
 www.myhremployeefeedback-qa.cbre.com
 www.myndr.nl
+www.myngc.com
 www.myocs.cbre.com
 www.mypassword-dr.cbre.com
 www.mypassword-test.cbre.com
@@ -31624,6 +31988,7 @@ www.sso.cbrelabs.net
 www.sso.mainstreamsasp.com
 www.sst.cbre.com
 www.sst.cbre.eu
+www.staffup.ms.northropgrumman.com
 www.staging-api.performanceiq.cbre.com
 www.staging-performanceiq.cbre.com
 www.staging.fmpilot2.com
@@ -31664,6 +32029,7 @@ www.surefireag.com
 www.surepointag.com
 www.survey.cbre.com
 www.survey.locator.cbre.com
+www.swalesaerospace.com
 www.t3e.uk
 www.tap.cbre.com
 www.tapingo.com
@@ -32011,6 +32377,7 @@ www103.ipg-online.com
 www104.fdconnect.com
 www105.ipg-online.com
 www2-dc-staging.ipg-online.com
+www2-fa18.acs.is.northgrum.com
 www2.cbrichardellis.com
 www2.gallileo-frankfurt.com
 www2.mainstreamsasp.com
@@ -32050,6 +32417,8 @@ xc.abb.com
 xcelerator.com
 xcelfcu-admin.originate.fiservapps.com
 xcelfcu.originate.fiservapps.com
+xcgca003.northgrum.com
+xcgmd811.northgrum.com
 xcx.gallileo-frankfurt.com
 xd.gov
 xdimp10.architect-cert.fiservapps.com
@@ -32171,6 +32540,7 @@ yakimafed.architect-cert.fiservapps.com
 yakimafed.onlinebank.com
 yardhouse.wgiftcard.com
 yardhousestore.wgiftcard.com
+yarrow.ca.essd.northgrum.com
 yelloafrica.com
 yellobroadband.com
 yellobroadband.net
@@ -32194,6 +32564,7 @@ ylfcu.apps.ilendx.tech
 ymoney.net
 yogurette.de
 yonomi.co
+yorktown.ca.essd.northgrum.com
 youcantbemorecertain.com
 youku.com
 your-domain.pdqs.mobi
@@ -32326,6 +32697,7 @@ zozo.fr
 zpc.zebra.com
 zta.nube.53.com
 ztc.nube.53.com
+ztna.myngc.com
 zumbini.fr
 zurich-connect.at
 zurich.at

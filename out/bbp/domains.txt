@@ -417,12 +417,17 @@ airbnb.com
 airbnb.org
 airbnbcitizen.com
 airbnbpayments.com
+airstar-finance.com
+airstar.com
+airstarfinance.net
 airtable.js sdk (https://www.npmjs.com/package/airtable)
 akhwien.at
 akismet.com
 alasco.de
 alasco.rocks
 alchemy.veriff.com
+aleenote.cn
+aleenote.com
 alert.logitech.com
 alerts.ninjakiwi.com
 alexa.amazon.com
@@ -979,6 +984,7 @@ bal.nba.com
 ballistic.com
 ballistic.com.br
 bankaccountdata.gocardless.com
+baoliyun.com
 base.org
 basecamp.app
 basecamp.rivian.com
@@ -1756,7 +1762,6 @@ com.zhiliao.musically.livewallpaper
 com.zhiliaoapp.musically
 com.zzkko
 comcast.com
-comcast.net
 comic-indies.pixiv.net
 comic.pixiv.net
 commerce.coinbase.com
@@ -2051,6 +2056,7 @@ dropboxpartners.com
 dropmix.com
 dropxl.com
 ds proxy (see https://github.com/demarches-simplifiees/ds_proxy)
+duokan.com
 dx-demo.deriv.com
 dx.deriv.com
 e2ro.com
@@ -2524,6 +2530,7 @@ holidaylettings.com
 home.privy.io
 homes-and-villas.marriott.com
 honestdollar.com
+hongyuanib.com
 horeko.com
 horizonchase.com
 horizonchase.com.br
@@ -3114,18 +3121,31 @@ mgmt.fndlsb.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
+mi.cn
 mi.com
+mifile.cn
+migames.com
+miinsurtech.cn
+miinsurtech.com
+miinsurtech.net
+mijiayoupin.com
 mijn.gamma.be
 mijn.gamma.nl
 mijn.karwei.nl
 mijnacc.uzleuven.be
 minerva.robinhood.com
+mioffice.cn
+mios.cn
+miot-spec.org
 mipartnerprivileges.marriott.com
+mipay.com
+mipay.net
 mir.uzleuven.be
 mirc.uzleuven.be
 miro.com
 mirostatic.com
 miui is xiaomi phone operation system (os), custimized on stock android.  the scope inculdes the pre-installed apps with xiaomi certification signed
+miui.cn
 miui.com
 miwifi.com
 mix-dev.monash.edu
@@ -3321,6 +3341,7 @@ odoo14.notebleue.pro
 odul.watsons.com.tr
 og.com
 oklink.com
+oktukids.com
 okx.com
 om.vodafone.mva
 omega.yahoo.com
@@ -3350,6 +3371,7 @@ openapiportal.m-pesa.com
 openfinance.unico.io
 openidconnect.net
 opensource.epam.com
+openvela.com
 opera-mini.net
 opera.com
 opera.news
@@ -3961,6 +3983,7 @@ sidefx.com
 sign.dropbox.com
 sign.zivver.com
 signalpath.com
+signalservice.comcast.net
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
 signup.myconnect.com.au
@@ -4550,6 +4573,7 @@ vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
 waf.cumulusfire.net
+wali.com
 wallet.tg
 wallet.venly.io
 wallet.web3auth.io
@@ -5180,7 +5204,16 @@ xfi gateways (e.g., xb3, xb6, xb7)
 xfinity.com
 xfinityhome.com
 xfiplatform.com
+xiangkankeji.cn
+xiangkankeji.com
+xiangkannews.cn
 xiaomi.com
+xiaomi.net
+xiaomi.org
+xiaomiev.com
+xiaomimobile.com
+xiaomiprint.com
+xiaomiwear.com
 xiaomiyoupin.com
 xlence.iciparisxl.nl
 xoom.com
@@ -5200,6 +5233,8 @@ xs2a.banking.playground.klarna.com
 xs3.tribalwars.cash
 xtrachef.com
 xtramile.grabpay.com
+xunkid.com
+xunkids.com
 xvservice.net
 xvtest.net
 yacht.nl
@@ -5211,6 +5246,7 @@ yelptop100.com
 yelpwifi.com
 yimg.com
 you.23andme.com
+youpin.cn
 your-store.myshopify.com
 yourcompany.udemy.com
 yoyogames.com
@@ -5235,6 +5271,7 @@ zellepay.com
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
 ziekenhuisschool.be
+zmifi.com
 zomans.com
 zomato.com
 zooplus.net

@@ -98,16 +98,6 @@ http://www.whynot.com/
 https://0-2744452194.s3.nbg01.de.dracoon.io
 https://1.1.1.1/
 https://10bis.co.il
-https://195.60.68.241
-https://195.60.68.242
-https://195.60.68.243
-https://195.60.68.244
-https://195.60.68.245
-https://195.60.68.246
-https://195.60.68.247
-https://195.60.68.248
-https://195.60.68.249
-https://195.60.68.250
 https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://a.simplemdm.com/
@@ -138,6 +128,7 @@ https://admintool.lime.bike
 https://aemdam.usaa360.com/
 https://afterpay.com
 https://agent.apps.monash.edu/
+https://aggregator.etoro.com
 https://airflow-mcp.data.dailymotion.com/
 https://aiven.io
 https://aiven.io/clickhouse
@@ -156,6 +147,7 @@ https://api-iam.intercom.io
 https://api-js.datadome.co
 https://api-next.flatmates.com.au
 https://api-payments-secure-prod.skippayments.com
+https://api-portal.etoro.com
 https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
@@ -185,6 +177,7 @@ https://api.dts.kape.com
 https://api.electroneum.com
 https://api.enc.kape.com
 https://api.engadget.com/api
+https://api.etoro.com
 https://api.expressvpn.com
 https://api.fstr.rocks
 https://api.gx.games/dc
@@ -352,6 +345,8 @@ https://bb2.simplisafe.com
 https://bestball.fantasysports.yahoo.com/
 https://beta.arlo.com
 https://bigquery-mcp.data.dailymotion.com/
+https://billing-pci.etoro.com
+https://billing.etoro.com
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com/
 https://binance.tr
@@ -395,10 +390,13 @@ https://bugcrowd-pam-#%23%23-admin.oktapreview.com
 https://bugcrowd-pam-#%23%23.at.oktapreview.com
 https://bugcrowd-pam-#%23%23.oktapreview.com
 https://bugcrowd-pam-#%23%23.workflows.oktapreview.com
+https://bugcrowd.charm.felixforus.ca/home
 https://bugcrowd.com/programs
+https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com
 https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
+https://bullsheet.me
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
 https://business.dailymotion.com/
@@ -409,12 +407,16 @@ https://buyersedge.co.nz
 https://caldav.calendar.yahoo.com/dav/%2A/calendar
 https://caldav.calendar.yahoo.com/principals/users
 https://calendar.yahoo.com/ws/v3/users
+https://candle-src.etoro.com
+https://candle.etoro.com
 https://carecredit.com.au
 https://careers.etsy.com
 https://careers.thetradedesk.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
 https://cash.app
 https://cashback.opera.com
+https://cashier-src.etoro.com
+https://cashier.etoro.com
 https://casino.bwin.com
 https://casino.partycasino.com
 https://casino.sportingbet.com
@@ -430,7 +432,7 @@ https://cdn.unicdn.net/apk/unibetcasino.apk
 https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com
-https://challenge-0326.intigriti.io
+https://charts.etoro.com
 https://chat.openai.com
 https://checkout.finance.yahoo.com/checkout/v1
 https://cicforms.mioot.com/forms/ps
@@ -454,6 +456,8 @@ https://codacontent.io
 https://codahosted.io
 https://cokeplay.cocacola.co.kr/main
 https://collections.monash.edu/
+https://com.etoro.openbook
+https://com.etoro.wallet
 https://communities.epicgames.com
 https://community.etsy.com
 https://community.exoscale.com/
@@ -519,6 +523,7 @@ https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://ddosportal.optus.com.au
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
+https://delta.app
 https://demo.adstruc.com
 https://demo.priceless.com/
 https://desk.thetradedesk.com
@@ -645,6 +650,9 @@ https://esp-srvonly-integ.uidapi.com
 https://etherscan.io/address/0x00005ea00ac477b1030ce78506496e8c2de24bf5
 https://etherscan.io/address/0x0000a26b00c1f0df003000390027140000faa719
 https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
+https://etorologsapi.etoro.com
+https://etoropartners.com
+https://etorox.com
 https://etsypayments.com
 https://events.1password.com/api
 https://events.onecloud.harman.com
@@ -1053,6 +1061,7 @@ https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://help.supplier.viator.com/en
+https://helpers.bullsheet.me
 https://hg.easy4ipcloud.com
 https://hipaa.staging.gearset.com/
 https://hln.be/inloggen
@@ -1100,6 +1109,8 @@ https://internal.platform.blis.com
 https://interviews.monash.edu/
 https://investor.bullish.com/
 https://investor.irobot.com
+https://io.getdelta.android
+https://io.getdelta.ios
 https://iphone-xml.booking.com/json
 https://jaguar.here.com
 https://jenkins-github.gcp.blis.com
@@ -1126,6 +1137,8 @@ https://kronor.io/cde/gql
 https://kronor.io/v1/graphql
 https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
+https://kyc-src.etoro.com
+https://kyc.etoro.com
 https://kyc.ripio.com/
 https://l.usaa.com/
 https://lab.epam.com
@@ -1200,7 +1213,6 @@ https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=
 https://marketplace.atlassian.com/apps/1210993/atlassian-plugin-sdk-tgz?hosting=server
 https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=datacenter
-https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1211094/archive-plugin-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence/version-history
@@ -1210,6 +1222,9 @@ https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged
 https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=server
 https://marketplace.atlassian.com/apps/1211246/autolink-plugin-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1211246/autolink-plugin-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1211303/workzone-pullrequest-workflow?hosting=cloud
+https://marketplace.atlassian.com/apps/1211303/workzone-pullrequest-workflow?hosting=datacenter
+https://marketplace.atlassian.com/apps/1211303/workzone-pullrequest-workflow?hosting=server
 https://marketplace.atlassian.com/apps/1211312/confluence-issue-tab-plugin-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=datacenter
 https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=server
@@ -1241,6 +1256,8 @@ https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-serve
 https://marketplace.atlassian.com/apps/1212736/predator-plugin-for-bamboo?hosting=server
 https://marketplace.atlassian.com/apps/1212778/my-reminders-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1212840/reminders-for-bitbucket?hosting=datacenter
+https://marketplace.atlassian.com/apps/1212840/reminders-for-bitbucket?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1213146/risk-register?hosting=cloud
 https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1213440/asana-importer-plugin-for-jira?hosting=server
@@ -1277,6 +1294,8 @@ https://marketplace.atlassian.com/apps/1215704/workflow-screenshot-for-jira?host
 https://marketplace.atlassian.com/apps/1215795/analytics-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1215843/global-pull-request-organizr?hosting=datacenter
+https://marketplace.atlassian.com/apps/1215843/global-pull-request-organizr?hosting=server
 https://marketplace.atlassian.com/apps/1215924/agent-usage-visualization-for-bamboo?hosting=server
 https://marketplace.atlassian.com/apps/1215948/jira-cloud-for-slack?hosting=cloud
 https://marketplace.atlassian.com/apps/1215965/build-times-for-bamboo-5-10?hosting=server
@@ -1357,7 +1376,6 @@ https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?ho
 https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=server
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=datacenter
-https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/1219514/merge-agent-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1219516/microsoft-teams-for-confluence-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official?hosting=cloud
@@ -1437,6 +1455,7 @@ https://marketplace.atlassian.com/apps/1223493/custom-css-code-for-confluence?ho
 https://marketplace.atlassian.com/apps/1223533?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server
 https://marketplace.atlassian.com/apps/1224009/content-mirror-for-confluence?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1224025/ai-insights-for-jira-service-management?hosting=cloud
 https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
 https://marketplace.atlassian.com/apps/1224394?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1224537?tab=overview&hosting=cloud
@@ -1514,6 +1533,7 @@ https://marketplace.atlassian.com/apps/1235463?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1235488/confluence-widget-for-figma-beta?hosting=cloud
 https://marketplace.atlassian.com/apps/1235496/jira-board-buddy?hosting=cloud
 https://marketplace.atlassian.com/apps/1236260?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence
 https://marketplace.atlassian.com/apps/1237512/latex-math-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1237517/captionizer-ai-image-analyzer
 https://marketplace.atlassian.com/apps/1237729/checklist-for-jira-cloud-smart-todo-lists?hosting=cloud
@@ -1683,6 +1703,7 @@ https://onlinena.vfsglobal.dz/AppointmentAdmin
 https://op.paymaya.com
 https://open.sincera.io
 https://openai.com
+https://openai.com/
 https://openapi.pulsepoint.com
 https://openapitest.pulsepoint.com
 https://opendata-demo.test-socrata.com
@@ -1715,6 +1736,7 @@ https://partnerapi.tapayments.com
 https://partnerapi1.tapayments.com
 https://partnerapi2.tapayments.com
 https://partnerhelp.viator.com
+https://partners.etoro.com
 https://partners.usaa.com
 https://partners.viator.com
 https://passport.immutable.com/
@@ -1802,8 +1824,19 @@ https://projects.epam.com
 https://property.com.au
 https://pt-runner.app.ridewithvia.com
 https://pub-api-ro.fantasysports.yahoo.com/
+https://push-d-gw.cloud.etoro.com
+https://push-d-hap.cloud.etoro.com
+https://push-demo-hk-lightstreamer.cloud.etoro.com
+https://push-demo-lightstreamer.cloud.etoro.com
+https://push-dn-hap.cloud.etoro.com
+https://push-hap.cloud.etoro.com
+https://push-lightstreamer.cloud.etoro.com
+https://push-n-hap.cloud.etoro.com
+https://push-real-hk-lightstreamer.cloud.etoro.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
+https://r.etoro.com
+https://rankings.etoro.com
 https://ray.dailymotion.com/
 https://rc.fstr.rocks
 https://rc.wmaudience.com
@@ -1935,7 +1968,9 @@ https://store.retail.lightspeed.app
 https://store.unity.com
 https://storybook.vistarmedia.com
 https://stp.wien.gv.at
+https://streams.etoro.com
 https://stripe.com/terminal/tap-to-pay
+https://sts.etoro.com
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
@@ -1962,6 +1997,8 @@ https://t-mobile.com
 https://takeaway.com
 https://takeaway.pay-creditcard.takeaway.com/
 https://takeawaypay.azurefd.net/en/takeawaypay
+https://tapi-demo.etoro.com
+https://tapi-real.etoro.com
 https://taxify.eu
 https://teach.classdojo.com
 https://telehealth.onedoc.ch
@@ -1969,6 +2006,7 @@ https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
 https://teleoptiprd.otto.de
+https://templates.etoro.com
 https://tempus-ex.com
 https://tess.service-now.com
 https://test.m4sv.bugbounty.akinox.dev/
@@ -2033,6 +2071,7 @@ https://tw.mapi.shp.yahoo.com
 https://tw.news.yahoo.com
 https://u.oppomobile.com/
 https://uae.voxcinemas.com/
+https://uapi-front.etoro.com
 https://uatcms.optimuscards.com
 https://ui.com/distributors
 https://ui.com/training/partners
@@ -2080,9 +2119,11 @@ https://vtxapp9p.underarmour.com/
 https://vtxapp9q.underarmour.com/
 https://vtxappd.underarmour.com/
 https://wallet-sandbox.uphold.com
+https://wallet.etoro.com
 https://walletproxy.tapayments.com
 https://walletproxy1.tapayments.com
 https://walletproxy2.tapayments.com
+https://watchlistapi.etoro.com
 https://wbsapi.withings.net
 https://wbtc.network
 https://web-retailer-portal.ultramobile.com
@@ -2262,6 +2303,7 @@ https://www.elastic.co/guide/en/fleet/8.8/fleet-server.html
 https://www.elastic.co/guide/en/fleet/current/fleet-elastic-agent-quick-start.html
 https://www.enjoyselfish.com
 https://www.epam.com
+https://www.etoro.com
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
