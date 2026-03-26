@@ -1683,7 +1683,6 @@ new10.com
 newworld.com
 nextdaymed.com
 nfl.com
-nfpors.gov
 nhaero.com
 nic.gov
 nic.uk
@@ -1991,7 +1990,10 @@ radiosawa.com
 radiotelevisionmarti.com
 raffaello.com
 raisingcanesme.com
+rakuten-bank.co.jp
 rakuten-card.jp
+rakutencheck.com
+rakutentrade.my
 rams.com.au
 rapidfiretools.com
 raqn.io
@@ -2228,6 +2230,7 @@ skittles.com
 skyhighsecurity.com
 slgs.gov
 sm.cn
+smapo.jp
 smartchargerewards.com
 smartfood.com
 smashbattleslive.com

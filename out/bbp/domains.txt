@@ -994,7 +994,6 @@ bastion.yahoo.cloud
 battles.tv
 bb.visa.com
 bbpress.org
-bbpress.org/download
 bcny.com
 bd.visa.com
 bdes-api.marionnaud.fr
@@ -1104,7 +1103,6 @@ bridge.xyz
 bsp.marriott.com
 buckingfuggy.com
 buddypress.org
-buddypress.org/download
 budgetair.com
 bug-bounty-be.glean.com
 bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql
@@ -2378,7 +2376,6 @@ github.com/kubernetes-retired
 github.com/mongodb
 github.com/uphold
 github.com/wordpress
-github.com/wordpress/gutenberg
 github.net
 githubapp.com
 githubusercontent.com
@@ -2475,6 +2472,7 @@ hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 hackerone-user-content.com
 hackerone.com
 hackerone.live
+hackerone.net
 hackers_chosendomain.larksuite.com
 hacktoberfest.com
 happening.dev
@@ -3189,6 +3187,7 @@ mpa.qr.web.m-pesa.com
 msg.playcanvas.com
 msgsvc.io
 mta-sts.wearehackerone.com
+munin.wordpress.org
 mus1.badoo.com
 muscache.com
 musta.ch
@@ -4531,10 +4530,6 @@ vimla.se
 vimla.work
 vinci-groupe.profils.org
 vine.co
-vinted.com
-vinted.fr
-vinted.net
-vintedgo.com
 visa.co.cr
 visa.co.ni
 visa.co.za
@@ -4552,7 +4547,6 @@ volans.tech
 volkskrant.nl
 volkswagen.de
 vote.nba.com
-vpn.hackerone.net
 vpn.intigriti.rocks
 vpn.mobilevikings.be
 vpn.mozilla.org
@@ -4678,7 +4672,6 @@ wordcamp.org
 wordpress.com
 wordpress.net
 wordpress.org
-wordpress.org/download/source
 wordpressfoundation.org
 work-staging.8x8.com
 work.8x8.com
@@ -5093,7 +5086,6 @@ www.unibet.com
 www.unibet.com.au
 www.unibet.dk
 www.unibet.ee
-www.unibet.fr
 www.unibet.ie
 www.unibet.it
 www.unibet.mt
@@ -5211,6 +5203,7 @@ xiaomi.com
 xiaomi.net
 xiaomi.org
 xiaomiev.com
+xiaomimimo.com
 xiaomimobile.com
 xiaomiprint.com
 xiaomiwear.com

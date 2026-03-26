@@ -1122,10 +1122,6 @@ vimla.io
 vimla.se
 vimla.work
 vine.co
-vinted.com
-vinted.fr
-vinted.net
-vintedgo.com
 visamiddleeast.com
 vliegwinkel.nl
 volkskrant.nl
@@ -1194,6 +1190,7 @@ xiaomi.com
 xiaomi.net
 xiaomi.org
 xiaomiev.com
+xiaomimimo.com
 xiaomimobile.com
 xiaomiprint.com
 xiaomiwear.com

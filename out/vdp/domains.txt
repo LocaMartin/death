@@ -2046,6 +2046,7 @@ api.avm.cbre.com
 api.awards.cbre.at
 api.ayoba.me
 api.benchmarker.cbre.com
+api.bitvavo.com
 api.bitwarden.com
 api.bluesky.cbre.com
 api.bnpparibas.elavon.pl
@@ -3558,6 +3559,7 @@ bellbank.caaweb.com
 belmontsavingsbank-admin.originate.fiservapps.com
 belmontsavingsbank.originate.fiservapps.com
 belvita.life
+belvitaoffer.com
 belvitasnacks.com
 benbank.com.au
 benchmarker.cbre.com
@@ -3814,7 +3816,6 @@ bis.gov
 bitbucket.fr
 bitdam.com
 bite-lt.staging.pms-ou.aon.com
-bitvavo.com
 bitwarden.com
 biuroprasowe.cbre.pl
 bizapi.vbonlineaon.com
@@ -4444,6 +4445,7 @@ cadbury.ie
 cadburydessertscorner.com
 cadburyfindtheticket.com.au
 cadburyhuntstartshere.com.au
+cadburylollyrewards.com
 cadburypakistan.com
 cadburyperksmartunlocks.com
 cadburytrytime.co.nz
@@ -7094,6 +7096,7 @@ comunicacion.cbre.es
 comus.us
 concertofeds-uat.hepsiian.com
 concorsi.loctite-consumer.it
+concorsocoop.philadelphia.it
 condition-monitoring.mining.ability.abb.com
 conditionmonitoring.traction.abb.com
 condor-dev-azfunc.am.elcompanies.com
@@ -8785,6 +8788,7 @@ depositreturns-g1.fiservsco.com
 depositreturns-g2.fiservsco.com
 depot.cbre.fr
 deprod.pip.cbrehotels.com
+derbicatalunyaconmdlz.com
 derwent-drug-file.com
 derwent-geneseq.com
 derwent-genseq.com
@@ -12278,6 +12282,7 @@ frt-prod-hk-eform.elcompanies.com
 frt-prod-tw-eform.elcompanies.com
 frtib.gov
 frtr.gov
+fruehling-knacken.milka.de
 frws.fdcbusinessservices.com
 fs-prdfus.mtn.com
 fs.ucr.com
@@ -15567,6 +15572,7 @@ jerseymikesstore.wgiftcard.com
 jessopfcu-dc.cert.fec-dc.fiservapps.com
 jessopfcu-dn.financial-net.com
 jetblue.com
+jeumondelez26.fr
 jgilberts.wgiftcard.com
 jgilbertsstore.wgiftcard.com
 jira-dev.cbre.com
@@ -16898,6 +16904,7 @@ luminousproductions.net
 luminousstudio.com
 lumisystem.ca
 luna.cbre.de
+lusingingpacks.nl
 lusitaniabank-admin.originate.fiservapps.com
 lusitaniabank.originate.fiservapps.com
 lusocu.luso-american.com
@@ -17623,6 +17630,7 @@ matkmonitor.com
 matrix.gallileo-frankfurt.com
 matson-dc.cert.fec-dc.fiservapps.com
 matson-dn.financial-net.com
+matt-pokora.milka.com
 mattsmom.cloudeng.cbre.com
 mauifcu-dc.cert.fec-dc.fiservapps.com
 mauifcu-dn.financial-net.com
@@ -17898,6 +17906,7 @@ merco-dc.cert.fec-dc.fiservapps.com
 merco-dn.financial-net.com
 merco.originate.fiservapps.com
 mercury.com.au
+merendadanumeriuno.it
 merendinamusic.com
 merge.api.autobuild.cbre.com
 merge.api.benchmarker.cbre.com
@@ -18100,6 +18109,7 @@ milfordbank-cs.apps.ilendx.tech
 milfordbank-di.apps.ilendx.tech
 milfordbank.apps.ilendx.tech
 militaryvotes.ohio.gov
+milka-husvet.hu
 milka-pasakyklabas.lt
 milka-promo.bg
 milka-sakisveiks.lv
@@ -18112,6 +18122,7 @@ milkamaxpromo.ba
 milkamaxpromo.rs
 milkamozi.hu
 milkapromo.hu
+milkapromo.me
 milkaszaloncukor.hu
 millburycu-admin.originate.fiservapps.com
 millburycu.originate.fiservapps.com
@@ -18358,6 +18369,7 @@ moncheri.it
 moncse-royalcanin-siege.com
 mondelez-afh.co.uk
 mondelez-professional.de
+mondelezawayfromhome.com
 mondelezcanadafoodservice.ca
 mondelezinternational.com
 mondelezinternationalnutritionscience.com
@@ -19249,6 +19261,7 @@ myroyalcanin.hr
 myroyalcanin.hu
 myroyalcanin.ro
 myroyalcanin.si
+mysales.mdlz.com
 myschoolapp.com
 mysearch.fr
 mysecurity-admin.originate.fiservapps.com
@@ -19774,7 +19787,6 @@ nexus.cbre.com
 nexus.e2ctechnology.com
 nexuspro.emergencylighting.abb.com
 nfl.com
-nfpors.gov
 nfse-campinas.mfg-branch-and-parts-prod-vpn.us.e11.c01.johndeerecloud.com
 nfse-campinas.mfg-sd-branch-and-parts-devl-vpn.us.e11.c01.johndeerecloud.com
 nfse-campinas.mfg-sd-branch-and-parts-qual-vpn.us.e11.c01.johndeerecloud.com
@@ -20760,6 +20772,7 @@ oreo.com
 oreo.com.ar
 oreo.com.au
 oreo.eu
+oreo.in
 oreo.mx
 oreo.ru
 oreoberbagiseru.com
@@ -21632,6 +21645,7 @@ phlox.ca.essd.northgrum.com
 phoenixfed-admin.originate.fiservapps.com
 phoenixfed.originate.fiservapps.com
 phone-home.singlestore.com
+phonejeeto.com
 photo.gallileo-frankfurt.com
 photo.walgreens.com
 photoccino.com
@@ -22194,6 +22208,7 @@ pragueofficeadvisor.cbre.cz
 prairiecommunitybank-admin.originate.fiservapps.com
 prairiecommunitybank.originate.fiservapps.com
 prairielandfcu-dc.cert.fec-dc.fiservapps.com
+pranktheroutine.com
 pratiques.cbre.fr
 pravana.com
 prcadmin.cbre.co.in
@@ -22633,6 +22648,7 @@ promo.milka.com
 promo.royalcontigo.com
 promobymtn.com
 promocaoondadepremios.com.br
+promocja7days.pl
 promocjamilka.pl
 promocjaoreo.pl
 promoritz.com
@@ -23436,7 +23452,10 @@ railwaycreditunion.vbwebservices.com
 raise-remoteassistance.abb.com
 raisingcanes.wgiftcard.com
 raisingcanesme.com
+rakuten-bank.co.jp
 rakuten-card.jp
+rakutencheck.com
+rakutentrade.my
 raleighcountyefcu-admin.originate.fiservapps.com
 raleighcountyefcu-dc.cert.fec-dc.fiservapps.com
 raleighcountyefcu-dn.financial-net.com
@@ -25444,6 +25463,7 @@ skagenfunds.it
 skagenfunds.lu
 skagenfunds.nl
 skanska-secure-partner.co.uk
+skaperglede.freia.no
 sketchanitch.ca
 skillsoft.northropgrumman.com
 skittles.com
@@ -25476,6 +25496,7 @@ smagenafguld.marabou.dk
 smailvnsgn01001.cbrevietnam.com
 smailvnsgn01002.cbrevietnam.com
 smallbusiness.virtualbranchservices.com
+smapo.jp
 smart-report-ws-dev.cbre.fr
 smart-report-ws-pp.cbre.fr
 smart-support-sandbox.cps-csm-sandbox-standalone2.use1.e32.c01.johndeerecloud.com
@@ -25725,6 +25746,7 @@ sommfcu-dc.cert.fec-dc.fiservapps.com
 sommfcu-dn.financial-net.com
 sommfcu.originate.fiservapps.com
 somosmaz.com
+somosvipconmdlz.com
 sompoh-crivoapi.crivo.com.br
 sonar.cbre.com
 sonar.cbre.es
@@ -25854,6 +25876,7 @@ spiritbank-admin.originate.fiservapps.com
 spiritbank.originate.fiservapps.com
 spk-telecash.terminal.cc
 spk.telecash.shop
+spkwatermelonslurpee.th12ty.com
 splittypay.com
 splogshield.com
 splogwall.com
@@ -25864,6 +25887,7 @@ sportaranypromo.hu
 sportchalet.wgiftcard.com
 sports-central.com
 sportszelet.hu
+sportszeletjoenergiak.hu
 spp.se
 sppfonder.se
 sppkonsult.se
@@ -29552,6 +29576,7 @@ vinchecks.com.au
 vincialexdelpiero.it
 vinciconfonzies.it
 vinciconmilka.it
+vincicoppaitalia.it
 vindmedgrenade.dk
 vineapps.com
 vineprotect.com
@@ -30356,6 +30381,7 @@ wilmingtontrust.com
 win-brandy.biz
 win.cadbury.co.uk
 win.jjwws.com
+win.milka.nl
 winco.wgiftcard.com
 wincostore.wgiftcard.com
 windflower.ca.essd.northgrum.com
@@ -30615,6 +30641,7 @@ ws-qa-x-01-use4.ns1.fiservapis.com
 ws-support-itg.wip.it.hpe.com
 ws-test-x-01-usc1.ns1.fiservapis.com
 ws-test-x-01-use4.ns1.fiservapis.com
+ws.bitvavo.com
 ws.cbre.fr
 ws.firstdataglobalgateway.com
 ws.ft.cashedge.com
@@ -30899,7 +30926,6 @@ www.c-hunter.cbre.eu
 www.c-huntertest.cbre.eu
 www.cacre.com
 www.cadbury.com.au
-www.cadburygifting.in
 www.cadburygiftsdirect.co.uk
 www.cadburyth.com
 www.calc.cbre.com
@@ -31542,6 +31568,7 @@ www.lokaler.cbre.se
 www.lsexternalapps.uat.cbre.com
 www.lsintraapps.cbre.com
 www.luna.cbre.de
+www.lusingingpacks.be
 www.ma.cbre.se
 www.mac.dcp.elcompanies.com
 www.maccosmetics.dcpm.elcompanies.com
@@ -31724,6 +31751,7 @@ www.onelondon.cbre.co.uk
 www.onepeloton.com
 www.onewashingtoniancenter.com
 www.onlineaon.com.ar
+www.opaviahokej.cz
 www.openlink.com
 www.optimizer.greenqa.cbre.com
 www.oreofun.no
@@ -32469,6 +32497,7 @@ xn--fiq74g7uf5psi1au24czi0a.com
 xn--fiqq24b9n5b96a.com
 xn--fiqq24b9n5b96a.net
 xn--gckg6eh6487b5d0a.jp
+xn--glcksrad-75a.milka.at
 xn--markmnitr-k7ad.tel
 xn--markmntr-13a1a67c.to
 xn--markmteet8450-n78f.com

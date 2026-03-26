@@ -313,7 +313,6 @@ https://assets.development.amazon-tacticalplanner.com
 https://assets.platform.blis.com
 https://assets.platform.development.blis.com
 https://assets.platform.rc.blis.com
-https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://atlantis-ext.myopenpass.com
 https://audience-builder.vistarmedia.com
 https://audiencelogos.blis.com
@@ -528,8 +527,8 @@ https://demo.adstruc.com
 https://demo.priceless.com/
 https://desk.thetradedesk.com
 https://desktop.github.com
-https://desktop.miro.com/platforms/darwin-arm64/install-miro.dmg
-https://desktop.miro.com/platforms/win32/miro.exe
+https://desktop.miro.com/platforms/darwin-arm64/Install-Miro.dmg
+https://desktop.miro.com/platforms/win32/Miro.exe
 https://desktop.water-link.be
 https://dev.fxprivaterelay.nonprod.cloudops.mozgcp.net/api/v1/docs
 https://dev.tutoring.classdojo.com
@@ -607,6 +606,7 @@ https://ebctest.cybersource.com/epcapi
 https://ebctest.cybersource.com/identity
 https://ebctest.cybersource.com/invoicing
 https://ebctest.cybersource.com/jobs
+https://ebctest.cybersource.com/kms
 https://ebctest.cybersource.com/listmanager
 https://ebctest.cybersource.com/merchant-mgmt
 https://ebctest.cybersource.com/merchantvelocity
@@ -1054,9 +1054,9 @@ https://gx.opera-api.com
 https://hatching.io
 https://healthmate.withings.com
 https://help.etsy.com
-https://help.miro.com/hc/en-us/articles/360017572414-jira-add-on
-https://help.miro.com/hc/en-us/articles/360017572434-jira-cards
-https://help.miro.com/hc/en-us/articles/360020712594-confluence-cloud-plugin
+https://help.miro.com/hc/en-us/articles/360017572414-Jira-Add-on
+https://help.miro.com/hc/en-us/articles/360017572434-Jira-Cards
+https://help.miro.com/hc/en-us/articles/360020712594-Confluence-Cloud-Plugin
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
