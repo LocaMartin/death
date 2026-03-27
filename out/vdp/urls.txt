@@ -1858,7 +1858,7 @@ https://docs.strongdm.com/users/client/macos
 https://docs.strongdm.com/users/client/windows
 https://doctordirectory.com
 https://docusave.baldor.com
-https://dojo-yeswehack.com/challenge-of-the-month/dojo-49
+https://dojo-yeswehack.com/challenge-of-the-month/dojo-50
 https://donorbox.org
 https://donorbox.org/admin
 https://donorbox.org/embed/potato
@@ -2045,7 +2045,9 @@ https://github.com/aws/aws-sdk
 https://github.com/aws/s2n-tls
 https://github.com/bitwarden
 https://github.com/bwillis/versioncake
+https://github.com/concrete5/concrete5
 https://github.com/defectdojo/django-defectdojo
+https://github.com/dhui/passhash
 https://github.com/duckduckgo/duckduckgo-privacy-extension
 https://github.com/gusto/apollo-federation-ruby
 https://github.com/gusto/grpc-web-ruby

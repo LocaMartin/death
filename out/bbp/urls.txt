@@ -157,7 +157,6 @@ https://api-secure.sports.yahoo.com
 https://api-skipthedishes.skipthedishes.com
 https://api.20min.ch
 https://api.aiven.io/login
-https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
 https://api.bitpanda.com
 https://api.blts.kape.com
@@ -395,7 +394,6 @@ https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com
 https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
-https://bullsheet.me
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
 https://business.dailymotion.com/
@@ -809,7 +807,6 @@ https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
 https://github.com/hacker0x01/react-datepicker
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport
-https://github.com/infomaniak/desktop-kdrive
 https://github.com/innocraft
 https://github.com/iqlusioninc/crates/tree/main/signatory
 https://github.com/iqlusioninc/tmkms
@@ -1061,7 +1058,6 @@ https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://help.supplier.viator.com/en
-https://helpers.bullsheet.me
 https://hg.easy4ipcloud.com
 https://hipaa.staging.gearset.com/
 https://hln.be/inloggen
@@ -1533,7 +1529,7 @@ https://marketplace.atlassian.com/apps/1235463?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1235488/confluence-widget-for-figma-beta?hosting=cloud
 https://marketplace.atlassian.com/apps/1235496/jira-board-buddy?hosting=cloud
 https://marketplace.atlassian.com/apps/1236260?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence
+https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1237512/latex-math-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1237517/captionizer-ai-image-analyzer
 https://marketplace.atlassian.com/apps/1237729/checklist-for-jira-cloud-smart-todo-lists?hosting=cloud
@@ -2160,7 +2156,6 @@ https://www.amazon.com/aol-inc-mail-news-video/dp/b011vyagsy
 https://www.amazon.com/dp/b08sg2ms3v
 https://www.amazon.com/yahoo-for-fire-tv/dp/b014x5ugpq
 https://www.amazon.com/yahoo-mail-keeps-you-organized/dp/b00632hwog
-https://www.anytask.com/
 https://www.arlo.com
 https://www.arrowfilms.com
 https://www.assurancewireless.com

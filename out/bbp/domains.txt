@@ -273,7 +273,6 @@
 52.86.17.52
 54.175.255.192/27
 54.83.32.16
-5k8vrbdyje.infomaniak.site
 5nine.com
 61.88.222.56
 61.88.222.57
@@ -322,7 +321,6 @@ ablink.info.remitly.com
 about.gitlab.com
 academy-outbound-ads.tiktok.com
 academy.deriv.com
-academy.infomaniak.com
 acc-pub.mobilevikings.be
 acc.mobilevikings.be
 acceptance.cloud.8x8.com
@@ -376,7 +374,6 @@ admin.ring.com
 admin.shopify.com
 admin.sqills-bugbounty-test.cloud.sqills.com
 admin.wickr.com
-admin2.infomaniak.com
 admincms.monespacesante.fr
 adminml.com
 adminstore.monespacesante.fr
@@ -401,7 +398,6 @@ aff.capital.com
 affiliate-id.tokopedia.com
 affiliate.meesho.com
 agents.tasheer.com
-ai-tools.infomaniak.com
 ai.kanghealth
 ai.portswigger.net
 ai.x.grok
@@ -589,7 +585,6 @@ api.hackerone.com
 api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
-api.infomaniak.com
 api.instacart.com
 api.khealth.com
 api.klarna.com
@@ -1145,7 +1140,6 @@ cadastro.uat.unico.app
 caesarsgames.com
 caldav.calendar.yahoo.com
 caldav.larksuite.com
-calendar.infomaniak.com
 calendar.notion.so
 calendar.yahoo.com
 call-control.ie
@@ -1258,7 +1252,6 @@ chime.com
 chimebank.com
 chimecard.com
 chimepayments.com
-chk.infomaniak.com
 chmfin.com
 ci-propertyconversionportal.marriott.com
 cic-bug-bounty.auth0app.com
@@ -1799,7 +1792,6 @@ console.truelayer.com
 consumer.worldcoin.org
 contactallergie.uzleuven.be
 contactallergy.uzleuven.be
-contacts.infomaniak.com
 content-api-dev.nba.com
 content-api-nextgen-dev.nba.com
 content-api-nextgen-prod.nba.com
@@ -1973,7 +1965,6 @@ developer.crypto.com
 developer.currencycloud.com
 developer.cybersource.com
 developer.gs.com
-developer.infomaniak.com
 developer.konghq.com
 developer.mozilla.org
 developer.playcanvas.com
@@ -2174,7 +2165,6 @@ estccdn.com
 estratex.com
 esupplier.marriott.com
 eternal.com
-etickets.infomaniak.com
 etsy.com
 eu-east-1.indriverapp.com
 eu.cloud.com
@@ -2183,7 +2173,6 @@ eu.floqast.app
 eu.remix.com
 eu01.miro.com
 eu1.badoo.com
-euria.infomaniak.com
 eurid.eu
 europolitan.se
 eventhub.au01.miro.com
@@ -2320,7 +2309,6 @@ fusion.tradepmr.com
 fuze.com
 fuze.me
 fuze.site
-fv3lfbdyjh.infomaniak.site
 fw-update.ubnt.com
 fw.ring.com
 gamenotes.nba.com
@@ -2632,7 +2620,6 @@ indriverapp.com
 inf.fndlsb.net
 infinite.visa.fr
 info.shop-apotheke.com
-infomaniak.events
 infra-prod.nsvcs.net
 ingest.clairvoyance.indrive.tech
 innersloth.kidswebservices.com
@@ -2671,7 +2658,6 @@ interseller.io
 intigriti.me
 investors.semrush.com
 invisionu.education
-invitation.infomaniak.com
 invoices.razorpay.com
 io.coda
 io.coda.codaapp
@@ -2699,7 +2685,6 @@ itprojects.talent-community.com
 itscope.com
 itscope.de
 itv7.itv.com
-ix2smbdyjt.infomaniak.site
 j.root-servers.net
 jbl.com
 jbl.com.br
@@ -2749,8 +2734,6 @@ kassa.karwei.nl
 katalog.watsons.com.tr
 kayak.ai
 kayak.com
-kchat.infomaniak.com
-kdrive.infomaniak.com
 khealth.com
 khealth.io
 kibana.wtf
@@ -2770,7 +2753,6 @@ klarna.com
 klarna.net
 klarnacdn.net
 klubcinema.fr
-kmeet.infomaniak.com
 knowage.monespacesante.fr
 knowledge.nextcloud.com
 knox.beta.blendlabs.com
@@ -2779,19 +2761,16 @@ konfigurator.bmw-motorrad.de
 konghq.com
 korta.is
 kortathjonustan.is
-kpaste.infomaniak.com
 krisp.ai
 kruidvat.be
 kruidvat.nl
 kruidvatkids.nl
-ksuite.infomaniak.com
 kube.dm.gg
 kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be
 kwsdose.be
 kyc-onboarding.booking.com
-l75pvbdyjo.infomaniak.site
 lab.epam.com
 label-studio-public.sonantic.io
 landing.ryadom.kz
@@ -2868,7 +2847,6 @@ login.cm.com
 login.delen.be
 login.delen.ch
 login.delen.lu
-login.infomaniak.com
 login.innogames.de
 login.insightly.com
 login.lansweeper.com
@@ -2953,9 +2931,7 @@ magiceden.io
 magiceden.workers.dev
 magisto.com
 magwien.gv.at
-mail-builder.infomaniak.com
 mail.hostinger.com/v2
-mail.infomaniak.com
 mail.notion.so
 mailpoet.com
 maintenance.logitech.com
@@ -2969,7 +2945,6 @@ manage-teams.nba.com
 manage-uat.nba.com
 manage.grab.co
 manage.nba.com
-manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.snapchat.com
 mapi.moneyback.com.hk
@@ -3277,7 +3252,6 @@ news.remitly.com
 news.yahoo.com
 newsletter-feedback.iciparisxl.nl
 newsletter.iciparisxl.nl
-newsletter.infomaniak.com
 newsletter.nextcloud.com
 newsroom.images.hyatt.com
 next.airbnb.com
@@ -3559,7 +3533,6 @@ playartifact.com
 playcanv.as
 playcanvas.com
 player-login.unity.com
-player-radio.infomaniak.com
 player.vimeo.com
 player.vrt.be
 playstation.net
@@ -3960,7 +3933,6 @@ shop.demorgen.be
 shop.dyson.co.za
 shop.dyson.tw
 shop.humo.be
-shop.infomaniak.com
 shop.judge.me
 shop.parool.nl
 shop.shop_apotheke.com.shopapotheke
@@ -4034,7 +4006,6 @@ smartinet.xfinity.com
 smarttrader.deriv.com
 smetrics.marriott.com
 sms.8x8.com
-sms.infomaniak.com
 smtp.sendgrid.net
 smtp2go.com
 snappublisher.snapchat.com
@@ -4165,7 +4136,6 @@ statuspage.io
 steamcommunity.com
 steamstatic.com
 stock.adobe.com
-storage.infomaniak.com
 store.23andme.com
 store.playcanvas.com
 store.playstation.com
@@ -4251,9 +4221,7 @@ swarm.embark.net
 swiftcapital.com
 swiftfinancial.com
 swiftype.com
-swiss-backup.infomaniak.com
 swisspass.ch
-sync.infomaniak.com
 sync.logitech.com
 sync.services.mozilla.com
 syndication.nba.com
@@ -4541,8 +4509,6 @@ visa.com.ua
 visamiddleeast.com
 vliegwinkel.nl
 voapi.8x8.com
-vod.infomaniak.com
-vod2.infomaniak.com
 volans.tech
 volkskrant.nl
 volkswagen.de
@@ -4622,7 +4588,6 @@ webwinkel.volkskrant.nl
 webwsp.aps.kuleuven.be
 wechat.api.marriott.com
 weclapp.com
-welcome.infomaniak.com
 wellsfargo.com
 wellsfargoadvisors.com
 welt.de
@@ -4886,7 +4851,6 @@ www.iciparisxl.lu
 www.iciparisxl.nl
 www.inditex.cn
 www.inditex.com
-www.infomaniak.com
 www.instacart.com
 www.intigriti.com
 www.itscope.com
@@ -5046,7 +5010,6 @@ www.superdrugmobile.com
 www.supernovas.indrive.com
 www.swiftcapital.com
 www.swiftfinancial.com
-www.swisstransfer.com
 www.swoodoo.com
 www.syfe.com
 www.tabac-info-service.fr
@@ -5203,7 +5166,6 @@ xiaomi.com
 xiaomi.net
 xiaomi.org
 xiaomiev.com
-xiaomimimo.com
 xiaomimobile.com
 xiaomiprint.com
 xiaomiwear.com

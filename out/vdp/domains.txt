@@ -1566,7 +1566,6 @@ alternahaircare.cn
 alternahaircare.com.cn
 alteryx-uat.cbre.eu
 alteryx.cbre.eu
-altogroup.investnextdemo.co
 altoonafcu-dc.cert.fec-dc.fiservapps.com
 altoonafcu-dn.financial-net.com
 altoonafcu.com
@@ -2348,8 +2347,6 @@ app.gmelius.com
 app.gyft.com
 app.hyland.eu
 app.intellimize.com
-app.investnext.com
-app.investnextdemo.co
 app.jjwws.com
 app.lemcal.com
 app.lemlist.com
@@ -12134,7 +12131,6 @@ forgotpass.johndeere.com
 form.digitalcapture.elcompanies.com
 formant.dev.bearflagrobotics.com
 formassembly.com
-formoststar.com
 forms-formulaires.alpha.canada.ca
 forms.abb.com
 forms.cpai.egslb.cmp.aon.com
@@ -18007,7 +18003,6 @@ mfmmobservice-uat-eu.cbreapps.com
 mft-stg.myngc.com
 mft.myngc.com
 mg.abb.com
-mg3.investnext.com
 mgi.gov
 mha.gov
 mhcu-dc.cert.fec-dc.fiservapps.com
