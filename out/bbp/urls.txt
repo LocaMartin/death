@@ -317,6 +317,7 @@ https://audience-builder.vistarmedia.com
 https://audiencelogos.blis.com
 https://audio.20min.ch
 https://aus.api.just-eat.io/
+https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.datadome.co
 https://auth.immutable.com
@@ -445,6 +446,7 @@ https://cloud.mongodb.com/ecosystem
 https://cloud.oppo.com/
 https://cloud.unity.com
 https://cloudinary.com/console
+https://cms.adx.opera.com
 https://cms.mobile.monash/
 https://cockpit-eu-west-2.outscale.com
 https://coda.grammarly.com
@@ -804,7 +806,6 @@ https://github.com/innocraft
 https://github.com/iqlusioninc/crates/tree/main/signatory
 https://github.com/iqlusioninc/tmkms
 https://github.com/iqlusioninc/yubihsm.rs
-https://github.com/jitsi
 https://github.com/justeattakeaway
 https://github.com/kiwicom/*
 https://github.com/kubernetes-client
@@ -974,8 +975,6 @@ https://github.com/ripe-ncc/rpki-ta-0
 https://github.com/ripe-ncc/rsyncit
 https://github.com/ripe-ncc/whois
 https://github.com/roundcube/roundcubemail
-https://github.com/ruby/ruby
-https://github.com/rubygems/rubygems
 https://github.com/shopify
 https://github.com/slackhq/nebula
 https://github.com/smartcontractkit/chainlink
@@ -1671,7 +1670,9 @@ https://octopus.com/downloads
 https://odesli.co
 https://odesli.com
 https://oes.optusnet.com.au/
+https://ofa.adx.opera.com
 https://offer.tidal.com/download
+https://ofp.adx.opera.com
 https://ogws.optusnet.com.au/
 https://onboard.neogov.com
 https://one.newrelic.com
@@ -1691,6 +1692,7 @@ https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
 https://opensea.io/
 https://opensource.epam.com
+https://operaneon.com
 https://ops-sso.adsrvr.org
 https://optimizely-edge.com
 https://optout-prod.uidapi.com
@@ -1925,6 +1927,7 @@ https://sprint.com
 https://square.online
 https://squareup.com/
 https://src.mastercard.com/profile/enroll
+https://ssu.staging.myconnect.com.au/get-connected
 https://stadtwien-my.sharepoint.com
 https://stage.fxprivaterelay.nonprod.cloudops.mozgcp.net
 https://stage.merino.nonprod.cloudops.mozgcp.net/api/v1/suggest

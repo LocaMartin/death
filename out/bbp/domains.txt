@@ -18,7 +18,6 @@
 109.70.61.0/24
 10x.redoxengine.com
 121.200.237.36/29
-13.58.121.166
 140.95.0.0/16
 141.0.8.0/21
 146.109.1.0/24
@@ -255,7 +254,6 @@
 3.133.230.28
 3.19.172.158
 3.223.149.182
-3.230.219.249
 3.basecamp.com
 34.237.130.2
 35.156.137.39
@@ -393,10 +391,12 @@ advancedcustomfields.com
 advisor-connection.com
 advisories.gitlab.com
 advisorsolutions.gs.com
+adx.opera.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aff.capital.com
 affiliate-id.tokopedia.com
 affiliate.meesho.com
+agents.hostinger.com
 agents.tasheer.com
 ai.kanghealth
 ai.portswigger.net
@@ -499,6 +499,7 @@ any verified dell-controlled endpoint (domains/ip space/etc.)
 ap-s.cloud.com
 apcgateway.marriott.com
 apex-football.com
+apexscores.io
 api calls going to disco-api from https://www.tagesanzeiger.ch
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
@@ -3354,6 +3355,7 @@ operafootball.com
 operanewsapp.com
 operationstechnology.io
 opposhop.cn
+opr.news
 oprc.portofantwerpbruges.com
 ops.lime.bike
 ops.netlify.com
@@ -3372,6 +3374,7 @@ origindigital-pac.com.au
 ort-admin.pingone.com
 ort-authenticator.pingone.com
 ort-desktop.pingone.com
+osite99.com
 oslo.io
 osp.opera.software
 outage.logitech.com
@@ -3793,8 +3796,8 @@ router.geneva-staging.com
 router.hereapi.com
 rpc.mail.aol.com
 rt.playcanvas.com
+rtbscale.com
 ru-yandex-api-app.vfsevisa.com
-rubygems.org
 runnr.in
 rushbuy.buy.yahoo.com
 ryadom.kz
@@ -3820,6 +3823,7 @@ sandbox.directly.com
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
 savers.co.uk
+savi.xyz
 say.rocks
 saytechnologies.com
 sba.marriott.com
@@ -3925,7 +3929,6 @@ shein.in
 shein.se
 shein.tw
 sheingsp.com
-shipit.rubygems.org
 shop-id.tokopedia.com
 shop-pay-app-api.truelayer.com
 shop.app
@@ -3957,7 +3960,6 @@ signalpath.com
 signalservice.comcast.net
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
-signup.myconnect.com.au
 signup.sendgrid.com
 siilo.com
 simperium.com
@@ -4100,7 +4102,6 @@ sso.oft.hyatt.com
 sso.ryadom.kz
 sso.shop-apotheke.com
 ssr.ccp.xcal.tv
-ssu.myconnect.com.au/signup/get-connected
 stadtwien.onmicrosoft.com
 staff.monash
 stag.tomorrowland.com

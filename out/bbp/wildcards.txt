@@ -77,6 +77,7 @@ andurildev.com
 antom.com
 aol.com
 apex-football.com
+apexscores.io
 apple.com
 appmiral.com
 arlo.com
@@ -747,11 +748,13 @@ opera.technology
 operafootball.com
 operanewsapp.com
 operationstechnology.io
+opr.news
 opsgenie.com
 optimuscards.com
 optus.com.au
 origindigital-pac.com.au
 originenergy.com.au
+osite99.com
 oslo.io
 outfra.xyz
 ovofinansial.com
@@ -884,12 +887,14 @@ roonessentials.com
 roonessentials.net
 roonlabs.com
 roonlabs.net
+rtbscale.com
 runnr.in
 s-cloud.net
 s3p.cloud
 sa-tech.de
 saltlabs.com
 savers.co.uk
+savi.xyz
 say.rocks
 saytechnologies.com
 sbb.ch

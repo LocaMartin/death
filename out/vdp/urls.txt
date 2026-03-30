@@ -2072,6 +2072,8 @@ https://github.com/phpbb/phpbb
 https://github.com/posthog/posthog
 https://github.com/posthog/posthog.com
 https://github.com/revive-adserver/revive-adserver
+https://github.com/ruby/ruby
+https://github.com/rubygems/rubygems
 https://github.com/rundeck/rundeck
 https://github.com/rundeck/rundeck-cli
 https://github.com/strongdm/strongdm-sdk-go
@@ -2879,7 +2881,6 @@ https://toolbox.com
 https://tools.valic.com/agilenet5
 https://topgolf.com.au
 https://torneoaguila.co
-https://tpo-holz.de
 https://trackandtrace.com.br
 https://tracking2nd.com.br
 https://trade.digitalcommerce.truist.com
