@@ -568,7 +568,6 @@ http://gpagpreprod.softwareexpress.com.br
 http://gpvpn.ballaerospace.com
 http://harris-achex.onefiserv.com
 http://hdscasxfer.us.baesystems.com
-http://healthyreentry.thorntontomasetti.com
 http://heartland.hepsiian.com
 http://hendrickscountybank.onlinebank.com
 http://hh-nh11-fsw009.us.baesystems.com
@@ -1763,6 +1762,8 @@ https://control.crucial.com.au
 https://control.web24.com.au
 https://controlid.com.br
 https://controlleddelivery.caci.com
+https://core-api.production.claim.co
+https://core-api.staging.claim.co
 https://corianservicedesk.caci.com
 https://corona-extra.it
 https://corona-extra.jp
@@ -1792,6 +1793,8 @@ https://creatorhub.sproutsocial.com
 https://creditapp.telos.com
 https://creditcard.digitalcommerce.truist.com
 https://cristal.com.pe
+https://cs-dashboard.production.claim.co/graphql
+https://cs-dashboard.staging.claim.co/graphql
 https://csde.caci.com
 https://csgsurveys.caci.com
 https://cso1vpn.ddns.net
@@ -1982,7 +1985,6 @@ https://fitnowinc.com/
 https://fixedassets.xero.com
 https://fjallfoss.fcc.gov
 https://fleet.citymeshconnect.com/
-https://flybuyspointsapi.swaggle.com/
 https://flyhealthy.gov
 https://flyingfishafrica.com
 https://flyingfishsa.co.za
@@ -1990,6 +1992,7 @@ https://flyingfishseltzer.co.za
 https://fnc.com.uy
 https://fo76map.com
 https://foiapal.cpsc.gov
+https://footlocker.com
 https://forestry.deere.com/dealers/salesreport
 https://formd.com
 https://forms.universalservice.org/portal/login
@@ -2127,7 +2130,6 @@ https://healthecareers.com
 https://healthprofessionalacademy.co.uk/
 https://hemi.xyz/
 https://hex.tech
-https://ho9j6dvmo5.execute-api.ap-southeast-2.amazonaws.com/prod/pet-profile
 https://hoegaarden.co.kr
 https://hoegaarden.com.br
 https://hoegaarden.jp
@@ -2199,6 +2201,7 @@ https://jobs.hackthebox.com/
 https://jontest.signaturescience.com
 https://joro.de
 https://jush.pl
+https://justonweb.be/fines
 https://keycloak.csde.caci.com
 https://keycontrol.allegion.com/it
 https://keycontrol.medeco.com
@@ -2826,7 +2829,6 @@ https://support.virtru.com/hc/en-us/articles/1500010860821
 https://survey.ectosense.com/assessment/home
 https://surveys.consumerfinance.gov/
 https://svt2apigw.cmltd.net.au/digital/search/v1
-https://swaggle.com.au
 https://sys.express.53.com
 https://tabletopawards.co.uk/
 https://tabletopawards.com/

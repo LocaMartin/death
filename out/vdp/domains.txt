@@ -1529,6 +1529,7 @@ allwhois.com
 ally.ft1.cashedge.com
 ally.fta.popmoney.com
 allycertws.ft.cashedge.com
+allyoucare-byhenkel.com
 allyws.ft.cashedge.com
 alm.mendixcloud.com
 almglobal.abb.com
@@ -2705,6 +2706,7 @@ atlantis.spark.ai
 atmospeer.net
 atmospeer.org
 ato.ca.essd.northgrum.com
+atolls.com
 atouchofcare.ca
 atozdomainsmarket.com
 atpqual.tal.deere.com
@@ -3856,6 +3858,7 @@ blog.gallileo-frankfurt.com
 blog.greensoluce.com
 blog.romonet.com
 blog.spoonflower.com
+blogdechollos.es
 bloo.com
 bloominbrands.wgiftcard.com
 bloominbrandsstore.wgiftcard.com
@@ -5830,6 +5833,7 @@ choiceatmsmartsafes-corpoint.fiservapps.com
 choiceone-dc.cert.fec-dc.fiservapps.com
 choiceone-dn.financial-net.com
 chokladdrom.marabou.se
+chollometro.com
 choosethechief.caaweb.com
 christmastreeshops.wgiftcard.com
 chrtpssys.northgrum.com
@@ -6907,6 +6911,7 @@ com.smule.singandroid
 com.snapfish-llc.snapfishexpress
 com.snapfish.mobile
 com.starlingbank.android
+com.tastemade.app
 com.tesco.grocery.view
 com.thnks
 com.thnks.appstore
@@ -7516,6 +7521,8 @@ countrytravelreports.biz
 countrytravelreports.com
 countrytravelreports.net
 countrytravelreports.org
+couponation.com
+coupons.com
 course.harvestprofit.com
 courses.gallileo-frankfurt.com
 coutts.com
@@ -8172,6 +8179,24 @@ cumcofcu-dn.financial-net.com
 cuofe-dc.cert.fec-dc.fiservapps.com
 cuofe-dn.financial-net.com
 cuonline.cvfcu.com
+cuponation.at
+cuponation.ch
+cuponation.co.id
+cuponation.co.nz
+cuponation.co.uk
+cuponation.com.au
+cuponation.com.br
+cuponation.com.mx
+cuponation.com.my
+cuponation.com.sg
+cuponation.de
+cuponation.dk
+cuponation.es
+cuponation.fi
+cuponation.fr
+cuponation.it
+cuponation.no
+cuponation.se
 currencyorder.com
 current-drugs.com
 current-patents.com
@@ -8544,6 +8569,7 @@ de.gallileo-frankfurt.com
 de.inside.abb.com
 de.shop.abb.com
 de.smartcampus.abb.com
+dealabs.com
 dealdata-jyusetsu.cbre.com
 dealdata-oss-dev.cbre.com
 dealdata-oss-dev2.cbre.com
@@ -13530,7 +13556,6 @@ healthmart.com
 healthtranzform.com
 healthtranzformdev.com
 healthwarrior.com
-healthyreentry.thorntontomasetti.com
 heartbeat.cbreesi.com
 heartland-uat.hepsiian.com
 heartlandbank.caaweb.com
@@ -13902,6 +13927,7 @@ hotfcu-admin.originate.fiservapps.com
 hotfcu.originate.fiservapps.com
 hotmtnpromo.com
 hotspot.cbre.eu
+hotukdeals.com
 hotwire.com
 hotwirepartnercentral.com
 hou2-web.personix.com
@@ -15931,6 +15957,7 @@ korea-qa.nonprod.cbre.com
 korea-uat.nonprod.cbre.com
 koreai-idp.cbre.com
 koreai.cbre.com
+kortingscode.nl
 kotik.us
 kount.com
 kount.net
@@ -16896,6 +16923,10 @@ lukoil.wgiftcard.com
 lululemon.fr
 luma.co.uk
 lumen.com
+luminor.ee
+luminor.lt
+luminor.lv
+luminorgroup.com
 luminous-productions.com
 luminousproductions.net
 luminousstudio.com
@@ -21499,6 +21530,12 @@ pepcofcu-dc.cert.fec-dc.fiservapps.com
 pepcofcu-dn.financial-net.com
 pepcofcu.originate.fiservapps.com
 pepfar.gov
+pepper.com
+pepper.it
+pepper.pl
+pepperbonus.com
+pepperdeals.com
+pepperdeals.se
 pepsi.com
 pepsi.pl
 pepsico.co.uk
@@ -22243,6 +22280,7 @@ precisionindexing.com
 precisionindexing.net
 precisionindexing.org
 precisionupgrades.com.br
+preisjaeger.at
 prelive1-admin.originate.fiservapps.com
 prelive1.originate.fiservapps.com
 prelive10-admin.originate.fiservapps.com
@@ -22647,6 +22685,7 @@ promocaoondadepremios.com.br
 promocja7days.pl
 promocjamilka.pl
 promocjaoreo.pl
+promodescuentos.com
 promoritz.com
 promotemyprograms.deere.com
 promotional-books.co.uk
@@ -23419,6 +23458,7 @@ radarr.gallileo-frankfurt.com
 radelbi.ca
 radford.aon.com
 radford.com
+radins.com
 radiodetection.fr
 radiosawa.com
 radiotelevisionmarti.com
@@ -25103,6 +25143,7 @@ shinhancat.fdecs.com
 shining-blue.com
 shipit.rubygems.org
 shiseidoprofessionaledu.co.kr
+shoop.de
 shop-cert.deere.com
 shop.buildingconsultancy.com
 shop.deere.com

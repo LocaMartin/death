@@ -632,7 +632,6 @@ https://ebctest.cybersource.com/tss
 https://ebctest.cybersource.com/ums
 https://ebctest.cybersource.com/vdm
 https://ebctest.cybersource.com/vts
-https://ecohesion.aufbaubank.de
 https://edgeacademy.thetradedesk.com
 https://edgeapis.onecloud.harman.com
 https://education.cfr.org/
@@ -806,6 +805,7 @@ https://github.com/innocraft
 https://github.com/iqlusioninc/crates/tree/main/signatory
 https://github.com/iqlusioninc/tmkms
 https://github.com/iqlusioninc/yubihsm.rs
+https://github.com/jitsi
 https://github.com/justeattakeaway
 https://github.com/kiwicom/*
 https://github.com/kubernetes-client
@@ -1105,7 +1105,6 @@ https://just-eat.com
 https://just-eat.dk
 https://just-eat.es
 https://just-eat.io
-https://justonweb.be/fines
 https://keepersecurity.com
 https://keepersecurity.com/console
 https://keepersecurity.com/password-manager-free-trial.html
@@ -2418,6 +2417,8 @@ https://www.opposhop.cn/
 https://www.opposhop.cn/m
 https://www.optus.com.au/osp-ecare
 https://www.originenergy.com.au/
+https://www.osl.com/en
+https://www.osl.com/hk-en
 https://www.otto.de
 https://www.otto.de/jobs
 https://www.outsourcing.optus.net.au/eFRAMS3

@@ -2044,7 +2044,6 @@ dropboxer.net
 dropboxforum.com
 dropboxpartners.com
 dropmix.com
-dropxl.com
 ds proxy (see https://github.com/demarches-simplifiees/ds_proxy)
 duokan.com
 dx-demo.deriv.com
@@ -2437,7 +2436,6 @@ grofer.io
 grofers.com
 grok.com
 grokipedia.com
-grwtrading.com
 gs-mosaic.gs.com
 gs-mosaic.qa.gs.com
 gs.com
