@@ -2074,6 +2074,7 @@ https://github.com/owasp/owaspbugbounty/tree/master/javahtmlsanitizer/war-files
 https://github.com/phpbb/phpbb
 https://github.com/posthog/posthog
 https://github.com/posthog/posthog.com
+https://github.com/rails/rails
 https://github.com/revive-adserver/revive-adserver
 https://github.com/ruby/ruby
 https://github.com/rubygems/rubygems

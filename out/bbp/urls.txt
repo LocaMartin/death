@@ -98,6 +98,8 @@ http://www.whynot.com/
 https://0-2744452194.s3.nbg01.de.dracoon.io
 https://1.1.1.1/
 https://10bis.co.il
+https://1win.com/betting
+https://1win.com/casino
 https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://a.simplemdm.com/
@@ -347,7 +349,7 @@ https://bigquery-mcp.data.dailymotion.com/
 https://billing-pci.etoro.com
 https://billing.etoro.com
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
-https://billingserver.pinelabs.com/
+https://billingserver.pinelabs.com
 https://binance.tr
 https://bistro.sk
 https://bitbucket.org
@@ -361,7 +363,7 @@ https://blog.lastpass.com
 https://blog.thefork.com
 https://blog.verisign.com
 https://bluetooth-events.onecloud.harman.com
-https://board.pinelabs.com/
+https://board.pinelabs.com
 https://bolt.eu
 https://booking.mgm.mo
 https://bounty-cloud.dracoon.app/
@@ -639,7 +641,7 @@ https://eforms.neogov.com
 https://eim.eu-west-2.outscale.com
 https://electroneum.com
 https://elementor.careers
-https://emistores.pinelabs.com/
+https://emistores.pinelabs.com
 https://equatorialguinea-evisa.com
 https://erpx.unit4cloud.com/u4erx_pab_prev
 https://erpx.unit4cloud.com/u4erx_pab_prod
@@ -966,7 +968,6 @@ https://github.com/plaid/plaid-ruby
 https://github.com/plaid/react-native-plaid-link-sdk
 https://github.com/plaid/react-plaid-link
 https://github.com/projectopensea/seaport#deployments
-https://github.com/rails/rails
 https://github.com/ripe-ncc/rpki-commons
 https://github.com/ripe-ncc/rpki-core
 https://github.com/ripe-ncc/rpki-monitoring
@@ -1626,7 +1627,7 @@ https://mydesktop.usaa.com
 https://mylink.page
 https://myopenpass.com
 https://myopenpassdemo.com/
-https://myplutus.pinelabs.my/
+https://myplutus.pinelabs.my
 https://myvpn.usaa.com
 https://n8n-staging.k8s.dm.gg/
 https://n8n.pub.k8s.dm.gg/
@@ -1638,7 +1639,7 @@ https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
 https://napoleondice.be
 https://napoleongames.be
 https://napoleonsports.be
-https://nbs.pinelabs.com/
+https://nbs.pinelabs.com
 https://ncp-gw-abu.media.yahoo.com/
 https://net.geo.opera.com
 https://newrelic.com/
@@ -1744,7 +1745,7 @@ https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal
 https://pets.webmd.com
 https://pg.paymaya.com
-https://pinepg.in/
+https://pinepg.in
 https://pinepgconsole.in:9099
 https://pioneer.truata.com/
 https://pit.water-link.be
@@ -1759,7 +1760,7 @@ https://platform.rc.blis.com
 https://play.fga.dev/
 https://play.immutable.com
 https://playlist.link
-https://plmcixt.pinelabs.com/
+https://plmcixt.pinelabs.com
 https://plugins.jetbrains.com/plugin/24377-mongodb
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
@@ -2337,7 +2338,7 @@ https://www.ladbrokes.com/en/games
 https://www.lansweeper.com/download
 https://www.larksuite.com/download
 https://www.lascana.de/
-https://www.letspaylater.ph/
+https://www.letspaylater.ph
 https://www.li.me/
 https://www.logitech.com/blog
 https://www.lookfantastic.com/
@@ -2429,10 +2430,10 @@ https://www.partypoker.com
 https://www.personio.com/free-trial
 https://www.personio.de/kostenlos-testen
 https://www.pexels.com/
-https://www.pinelabs.ae/
-https://www.pinelabs.com/
-https://www.pinelabs.my/
-https://www.pinelabs.us/
+https://www.pinelabs.ae
+https://www.pinelabs.com
+https://www.pinelabs.my
+https://www.pinelabs.us
 https://www.pixpay.fr/
 https://www.planethoster.com
 https://www.polkaudio.com
