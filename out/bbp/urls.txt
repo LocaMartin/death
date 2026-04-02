@@ -2088,6 +2088,7 @@ https://vendorss.usaa.com
 https://vfs-ai-tiff-image-api-hchkdabjdsdya6ea.switzerlandnorth-01.azurewebsites.net/
 https://vfs.mioot.com/
 https://vfseu.mioot.com/
+https://vfsforms.mioot.com/forms/EIAT
 https://vfsforms.mioot.com/forms/ifal
 https://video-agent.8x8.com
 https://videoplayer.20min.ch
