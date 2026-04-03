@@ -6904,10 +6904,6 @@ com.shutterfly
 com.shutterfly.shutterflyuploader
 com.simonsvoss.mobilekey.adminapp
 com.simonsvoss.mobilekey.key4android
-com.smule.autorap
-com.smule.magicpiano
-com.smule.sing
-com.smule.singandroid
 com.snapfish-llc.snapfishexpress
 com.snapfish.mobile
 com.starlingbank.android
@@ -25642,7 +25638,6 @@ smtp.unimil.com.br
 smtp1.jjwws.com
 smtp3.jjwws.com
 smukfest.marabou.dk
-smule.com
 sn-01-cert.fiservapps.com
 sn-01-prod.fiservapps.com
 sn01-auth-cert.fiservapps.com
