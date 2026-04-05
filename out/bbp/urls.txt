@@ -245,6 +245,7 @@ https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
+https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
 https://api.x.immutable.com/
@@ -1825,6 +1826,7 @@ https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io
 https://rentals.tripadvisor.com
+https://repair.voiweb.net
 https://reptox.cnesst.gouv.qc.ca/
 https://res.cloudinary.com
 https://research.monash.edu/

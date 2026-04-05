@@ -2278,6 +2278,7 @@ flowsecurity.app
 flugladen.de
 flyiin.com
 fm.anchor.android
+fm.voiapp.io
 folder.iciparisxl.nl
 folder.kruidvat.be
 folder.kruidvat.nl
@@ -3003,6 +3004,7 @@ mcdalerts-uat.nba.com
 mcdalerts.nba.com
 mcp.miro.com
 mds.marriott.com
+mds.voiapp.io
 media.drogas.lt
 media.drogas.lv
 media.iciparisxl.be
@@ -3740,6 +3742,7 @@ rentalcars.com
 replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
+report.voi.com
 reposify.com
 res.blueskytours.globalbookingsolutions.com
 res.funjet.com
@@ -4514,6 +4517,8 @@ visa.com.ua
 visamiddleeast.com
 vliegwinkel.nl
 voapi.8x8.com
+voi.com
+voiscooters.com
 volans.tech
 volkskrant.nl
 volkswagen.de
