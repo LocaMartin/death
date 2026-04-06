@@ -19769,6 +19769,7 @@ news.cyberidlock.com
 news.e.abb.com
 news.gallileo-frankfurt.com
 news.ucr.com
+newsamplesplus.com.au
 newsdialog.com
 newsdialog1.com
 newsdialog90.com
@@ -25000,6 +25001,7 @@ servicecrm.wirtgenindia.com
 servicedesk24000.cbre.com
 servicedocs.applications.wirtgen-group.com
 servicefirstfcu.originate.fiservapps.com
+servicegard.deere.com
 servicegateway-qa3.fiservapps.com
 servicegateway.fiservapps.com
 serviceinsight.cbre.com
@@ -25326,9 +25328,11 @@ sip.wirtgen.de
 sip.wirtgen.dk
 sip.wirtgenankara.com.tr
 sipar.pla.com.br
+sipas-ca-west.ccid.neustar.biz
 sipexternal.cbre.com
 sipexternal.cbreglobalinvestors.com
 siponelab.com
+sipvs-ca.ccid.neustar.biz
 sipx.com
 sipx.info
 sipxconstruction.info

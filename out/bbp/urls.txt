@@ -779,6 +779,9 @@ https://github.com/cosmos/ledger-cosmos
 https://github.com/cosmos/relayer
 https://github.com/cosmos/solidity-ibc-eureka
 https://github.com/curl/curl
+https://github.com/digitalocean/do-agent
+https://github.com/digitalocean/doctl
+https://github.com/digitalocean/droplet-agent
 https://github.com/discourse/discourse
 https://github.com/dopplerhq/cli
 https://github.com/dynatrace
