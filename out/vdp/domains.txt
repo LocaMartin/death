@@ -2143,6 +2143,7 @@ api.officeready.cbre.com
 api.opayo.elavon.co.uk
 api.ops.runtime.csg.daimlertruck.com
 api.pagerduty.com
+api.paisly.jetblue.com
 api.particlehealth.com
 api.paybill.com
 api.payeezy.com
@@ -17038,6 +17039,7 @@ machiassavings.caaweb.com
 machiassavings.originate.fiservapps.com
 machiassavingsbankuat.caaweb.com
 machine-analyzer.deere.com
+machinefindertest.deere.com
 machinereports.deere.com
 machines-cons.services.wirtgen-group.com
 machines.services.wirtgen-group.com
@@ -19053,6 +19055,7 @@ mydeliverables.cbre.com
 mydentitycolor.com
 mydevices.cbre.com
 mydialogconnection.com
+mydigitalworkspace.deere.com
 mydocs-tst.cbre.com
 mydocs-tst02.cbre.com
 mydocs-tst03.cbre.com
@@ -21059,6 +21062,7 @@ painel.cbrichardellis.com.br
 painel.pla.com.br
 pais.info
 pais.org
+paisly.jetblue.com
 pakistan-qa.nonprod.cbre.com
 pakistan-tm.nonprod.cbre.com
 pakistan-uat.nonprod.cbre.com

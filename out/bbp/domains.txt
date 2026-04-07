@@ -1892,6 +1892,7 @@ cz.skodaauto.myskoda
 daily.blablacar.fr
 dailyadvent.com
 dailymotion.com
+dailymotionadvertising.com
 dancecentral.com
 das.eu
 dash.ai
@@ -3960,6 +3961,7 @@ shopifycs.com
 shopifyinbox.com
 shopifykloud.com
 shoppers.instacart.com
+shoppingapp.decathlon.com
 sidefx.com
 sign.dropbox.com
 sign.zivver.com
@@ -4759,6 +4761,20 @@ www.cybersource.com
 www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
+www.decathlon.be
+www.decathlon.ch
+www.decathlon.co.uk
+www.decathlon.com.tr
+www.decathlon.cz
+www.decathlon.de
+www.decathlon.es
+www.decathlon.fr
+www.decathlon.hu
+www.decathlon.it
+www.decathlon.nl
+www.decathlon.pl
+www.decathlon.pt
+www.decathlon.ro
 www.delen.bank
 www.delen.be/en
 www.demorgen.be
