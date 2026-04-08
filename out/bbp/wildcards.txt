@@ -255,6 +255,8 @@ dm.gg
 dmcdn.net
 dmxleo.com
 dns.eu
+doccle.be
+doccleservices.eu
 docsend.com
 docswallet.com
 doctolib.com
@@ -787,7 +789,6 @@ payoneer.com
 paypal-.com
 paypal.com
 paypalcorp.com
-pcapcloud.com
 personio-dev.com
 personio-internal.de
 personio.com
@@ -1127,6 +1128,10 @@ vimla.io
 vimla.se
 vimla.work
 vine.co
+vinted.com
+vinted.fr
+vinted.net
+vintedgo.com
 visamiddleeast.com
 vliegwinkel.nl
 voi.com

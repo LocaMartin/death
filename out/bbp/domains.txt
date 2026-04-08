@@ -496,6 +496,7 @@ antbank.hk
 antom.com
 any applications under https://www.expressvpn.com/latest
 any host verified to be owned by tesla motors inc. (domains/ip space/etc.)
+any issue affecting the wp cloud hosting environment allowing cross-site access/impact, the wp cloud api or the wp.cloud website
 any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 any other applications found here: https://mysrc.group/project_detail?id=11
 any verified dell-controlled endpoint (domains/ip space/etc.)
@@ -999,6 +1000,7 @@ bdes-api.marionnaud.fr
 bdese.marionnaud.fr
 be.delen.digital
 be.gamma.app.android
+be.ixor.doccle.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -2012,6 +2014,8 @@ dns0.optus.net.au
 dns1.optus.net.au
 do.co
 doaction.org
+doccle.be
+doccleservices.eu
 docs.gitlab.com
 docs.lansweeper.com
 docs.launchdarkly.com
@@ -2575,6 +2579,7 @@ ichnaea.netflix.com
 iciparisxl.be
 iciparisxl.lu
 iciparisxl.nl
+id.doccle.be
 id.embark.games
 id.employer.staging.seek.com
 id.heytap.com
@@ -3438,6 +3443,7 @@ pay-api.truelayer-sandbox.com
 pay-api.truelayer.com
 pay-sandbox.gocardless.com
 pay.8x8.com
+pay.doccle.be
 pay.ibex.exchange
 pay.staging-enviso.io
 pay.tokopediax.com
@@ -3497,7 +3503,6 @@ paypalcorp.com
 paypalobjects.com
 payroll.razorpay.com
 pb.deribit.com
-pcapcloud.com
 pci.shopifyinc.com
 pcrstudioruzb.uzleuven.be
 pdst.fm
@@ -3553,6 +3558,7 @@ playuzleuven.be
 playwonderbox.com
 playwonderbox.com.br
 playwsop.com
+plugin.doccle.be
 pmtcards.newegg.com
 pns.hk
 podcast-graph-dot-adaptive-growth.appspot.com
@@ -3575,6 +3581,7 @@ portal.polygon.technology
 portal.taxi.booking.com
 portalinmobiliario.cl
 portalinmobiliario.com
+portals.doccle.be
 portfolio.ccpsx.com
 portland-dev.wnba.com
 portland-qa.wnba.com
@@ -3803,7 +3810,11 @@ roonlabs.com
 roonlabs.net
 router.geneva-staging.com
 router.hereapi.com
+rpc.blockdaemon.testnet.arc.network
+rpc.drpc.testnet.arc.network
 rpc.mail.aol.com
+rpc.quicknode.testnet.arc.network
+rpc.testnet.arc.network
 rt.playcanvas.com
 rtbscale.com
 ru-yandex-api-app.vfsevisa.com
@@ -3866,6 +3877,7 @@ secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
 secure.booking.com
 secure.chaturbate.com
+secure.doccle.be
 secure.netflix.com
 secure.newegg.ca
 secure.newegg.com
@@ -4508,6 +4520,10 @@ vimla.se
 vimla.work
 vinci-groupe.profils.org
 vine.co
+vinted.com
+vinted.fr
+vinted.net
+vintedgo.com
 visa.co.cr
 visa.co.ni
 visa.co.za
@@ -4592,6 +4608,7 @@ webauthn.me
 webgateway.koho.ca
 webhooks.booking.com
 webhooks.truelayer-sandbox.com
+webservice.doccle.be
 webtoolbox.notebleue.pro
 webwinkel.ad.nl
 webwinkel.parool.nl
