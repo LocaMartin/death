@@ -1458,7 +1458,6 @@ com.fanduel.casino
 com.fanduel.flywheelnativecontainer.picks
 com.fanduel.racing
 com.fanduel.sportsbook
-com.finshell.fin
 com.finshell.finance
 com.finshell.wallet
 com.fintech.life
@@ -1727,8 +1726,6 @@ com.whoop.iphone
 com.wikibuy.prod.main
 com.wisdomtree.wtprime
 com.withbuddies.dice.free
-com.wolt.android
-com.wolt.courierapp
 com.wooga.pearlsperil
 com.wotif.android
 com.xiaomi.account

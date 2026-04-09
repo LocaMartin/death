@@ -2565,6 +2565,7 @@ https://portal.securevetsource.com/petowner.html
 https://portal.singlestore.com/
 https://portal.singlestore.com/admin
 https://portal.toyotalatam.com
+https://portal.whatsupgold.com/
 https://portalfacturacioncargo.aeromexico.com
 https://portals-preprod.mtn.co.za
 https://portalsso.mtn.co.za
