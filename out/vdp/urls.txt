@@ -2089,6 +2089,7 @@ https://github.com/strongdm/strongdm-sdk-ruby
 https://github.com/supabase
 https://github.com/supabase-community/supabase-mcp
 https://github.com/tomtom-international/*
+https://github.com/usnistgov
 https://github.com/usstatedept
 https://github.com/webflow
 https://github.com/weblateorg/docker
