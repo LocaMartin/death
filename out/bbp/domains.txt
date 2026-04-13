@@ -503,6 +503,7 @@ any verified dell-controlled endpoint (domains/ip space/etc.)
 ap-s.cloud.com
 apcgateway.marriott.com
 apex-football.com
+apexnews.com
 apexscores.io
 api calls going to disco-api from https://www.tagesanzeiger.ch
 api-accpt.portofantwerp.com
@@ -4339,6 +4340,7 @@ transact.playstation.com
 transferwise.com
 translate.badoo.com
 trato-feito-api.quintoandar.com.br
+travel.crypto.com
 travelagents.marriott.com
 travelbook.de
 traveler.marriott.com
