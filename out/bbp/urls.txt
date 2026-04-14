@@ -69,6 +69,7 @@ http://nav.naspers.com
 http://nexus.live.ucs.on.epicgames.com/
 http://ourhouse.underarmour.com/
 http://pay.monashcollege.edu.au/
+http://payments.hostinger.com
 http://secure-iphone-xml.booking.com/json
 http://socialdeal.nl/inspirations/bluemonday
 http://streamer.finance.yahoo.com
@@ -222,6 +223,7 @@ https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.sandbox.agora.incubateur.net
 https://api.sandbox.topperpay.com
 https://api.shop.ua.com/graphql
+https://api.simnext.bullish-test.com
 https://api.simscale.com
 https://api.spotify.com
 https://api.sqills-bugbounty-test.cloud.sqills.com/api/v3/intelligence
@@ -948,7 +950,6 @@ https://github.com/owncloud/web
 https://github.com/owncloud/web-extensions
 https://github.com/pinterest
 https://github.com/plaid/plaid-link-android
-https://github.com/plaid/plaid-link-examples
 https://github.com/plaid/plaid-link-ios
 https://github.com/plaid/plaid-ruby
 https://github.com/plaid/react-native-plaid-link-sdk
@@ -1891,6 +1892,7 @@ https://sign.originzero.com.au
 https://signal.pulsepoint.com/hcp365#/dashboard/advertiser/6603/overview
 https://signal.pulsepoint.com/hcpexplorer#/dashboard/eventsExplorer
 https://signature.blis.com
+https://simnext.bullish-test.com
 https://simplisafe.co.uk
 https://simplisafe.com
 https://sitepixel.blis.com

@@ -1182,6 +1182,7 @@ adevinta.com
 adfs.gallileo-frankfurt.com
 adfs.mainstreamsasp.com
 adfs4.mainstreamsasp.com
+adhub.henkel-system.com
 adirondackbank-admin.originate.fiservapps.com
 adirondackbank.originate.fiservapps.com
 adkcreditunion-admin.originate.fiservapps.com
@@ -1640,6 +1641,7 @@ amex.locator.cbre.com
 amex.na.3ds.firstdata.com
 amex.test2.3ds.firstdata.com
 amfamprotect.com
+ami.henkel-system.com
 amitinoura.com
 aml-kyc.com
 aml.cbre.dk
@@ -21337,6 +21339,7 @@ patriotsbank-admin.originate.fiservapps.com
 patriotsbank.originate.fiservapps.com
 patsystems.com
 pattex.com.cn
+pattex.query.henkel-system.com
 pattexpro.hu
 paving-administration-dev.witos.wirtgen-group.com
 paving-administration.witos.wirtgen-group.com

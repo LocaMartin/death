@@ -3490,7 +3490,6 @@ payments-experience-api.truelayer.com
 payments.aol.com
 payments.geneva-staging.chat
 payments.geneva-staging.com
-payments.hostinger.com
 paynotifications.booking.com
 payoneer.com
 payoneer.com.cn
