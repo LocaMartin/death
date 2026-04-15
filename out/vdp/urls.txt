@@ -1568,7 +1568,9 @@ https://bohemia.com.br
 https://bohemiapuromalte.com.br
 https://boostmobile.com
 https://bourkestreetgreen.com.au
+https://bpapi-snd-next.choiceportal.xyz
 https://bphope.com
+https://bpweb-snd-next.choiceportal.xyz
 https://brahma.com.ar
 https://brahma.com.br
 https://brahma.com.py
@@ -2715,6 +2717,7 @@ https://safesendsoftware.com
 https://safran-dsi.com
 https://salvavidahn.com
 https://samplesplus.com.au
+https://sandbox.choice.dev
 https://sandbox.momodeveloper.mtn.com
 https://sanjuan.com.pe
 https://savecloud.biz
@@ -2984,7 +2987,9 @@ https://webflow.com/dashboard
 https://webflow.com/resources
 https://webmail.caci.com
 https://webmail4.com
+https://webportalsandbox.choice.dev
 https://webservices.cfpb.gov/
+https://webstage.jarvistec.com/
 https://websuite.visiblebody.com
 https://werehereforthebeer.beer
 https://wetnwild.com.au

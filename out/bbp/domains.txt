@@ -245,6 +245,7 @@
 216.59.142.0/24
 216.59.143.0/24
 217.163.57.0/24
+23andmeresearchinstitute.org
 3.0 api
 3.121.117.72
 3.121.138.10
@@ -840,7 +841,6 @@ app.truelayer.com
 app.uma.money
 app.watsons.com.tr
 app.whoop.com
-app.zivver.com
 app3.rewire.to
 applause1.magisto.com
 appmiral.com
@@ -1318,7 +1318,6 @@ coinmarketcap.com
 coke.com
 cokeurl.com
 collections.portswigger.net
-collector.zivver.com
 com.3mosquitos.mercadolibre
 com.acronis.abc
 com.acronis.acronistrueimage
@@ -2001,6 +2000,7 @@ digitalspecs.portofantwerpbruges.com
 direct-demo.currencycloud.com
 direct.playstation.com
 directverify.in
+discover.23andme.com
 distribution-xml.booking.com
 district.in
 dm-event.net
@@ -2037,7 +2037,6 @@ download.krisp.ai
 download.mozilla.org
 download.nextcloud.com
 download.originenergy.com.au
-downloads.zivver.com
 dpgmedia.be
 dpgmedia.nl
 dream-dev.wnba.com
@@ -2053,7 +2052,6 @@ dropboxforum.com
 dropboxpartners.com
 dropmix.com
 dropxl.com
-ds proxy (see https://github.com/demarches-simplifiees/ds_proxy)
 duokan.com
 dx-demo.deriv.com
 dx.deriv.com
@@ -2312,6 +2310,7 @@ foundrygov.com
 fp-sg.tiktokv.com
 fr.louisvuitton.com
 fromspotify.com
+fulfillment.23andme.com
 funding-webhooks.remitly.io
 furycloud.io
 furydocs.io
@@ -2607,7 +2606,6 @@ igpayment.com
 ik.watsons.com.tr
 ikarem.io
 img.swapcard.com
-img.zivver.com
 immedia-semi.com
 immutable.com
 imperva.com
@@ -3080,6 +3078,7 @@ mercadoplay.com.uy
 mercadoplay.pe
 mercadoplay.uy
 mercantile.wordpress.org
+merch.23andme.com
 merchandise.opera-api.com
 merchant.crypto.com
 merchant.wolt.com
@@ -3394,7 +3393,6 @@ outfra.xyz
 outlook.insightly.com
 ovo.id
 ovofinansial.com
-owa-v6.zivver.com
 owa.marriott.com
 ownit.se
 oymyakon.indriver.io
@@ -3566,6 +3564,7 @@ politico.eu
 polymoon.it
 pontoon.allizom.org
 portal-api.coinmarketcap.com
+portal.23andme.com
 portal.arkoselabs.com
 portal.au.frontegg.com
 portal.gofoodmerchant.co.id
@@ -3733,6 +3732,7 @@ redditinc.com
 redditmedia.com
 redecor.com
 redoxengine.com
+refer.23andme.com
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.capital.com
@@ -3973,7 +3973,6 @@ shoppers.instacart.com
 shoppingapp.decathlon.com
 sidefx.com
 sign.dropbox.com
-sign.zivver.com
 signalpath.com
 signalservice.comcast.net
 signature-insights.api.cx.metamask.io
@@ -4187,6 +4186,7 @@ studio-api.swapcard.com
 studio.shop-apotheke.com
 studio.swapcard.com
 studiopress.com
+style.23andme.com
 stylebook.de
 subdomain takeover - konghq.com
 subp-router.hereapi.com
@@ -4364,6 +4364,7 @@ truecaller.com
 truelayer.cloud
 truelayer.com
 truelayer.io
+trust.23andme.com
 try.discourse.org
 tstaging.com
 tstaging.tools
