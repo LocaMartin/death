@@ -12126,6 +12126,7 @@ focuity.ca
 fogodechao.wgiftcard.com
 fogodechaostore.wgiftcard.com
 foiaonline.gov
+fom-services.deere.com
 fonds.fi
 fonic-mobile.de
 fonic.de
@@ -18118,7 +18119,6 @@ migrainemovement.ca
 migrantworker.gov
 migration.fleetboard.com
 mijndpm.nl
-mijnvga.nl
 milady.com
 milbnk-cs.apps-uat.ilendx.tech
 milbnk-cs.apps.ilendx.tech
@@ -18282,7 +18282,6 @@ mobi.wealthscape
 mobi.wealthscapeinvestor
 mobica.com
 mobicontrol.cbre.com
-mobicontrolcloud.com
 mobicorp.com
 mobile-api.rokt.com
 mobile-bff-dev.smartfm.cbre.com
