@@ -1419,7 +1419,6 @@ https://api.gap.com/
 https://api.gap.com/credit_cards/v1?external_customer_id=
 https://api.influencer.sproutsocial.com
 https://api.kroger.com
-https://api.markmonitor.com/
 https://api.mintel.com
 https://api.mtn.com
 https://api.netgear.com
@@ -1546,8 +1545,6 @@ https://beta.widgets.burgerprofiel.dev-vlaanderen.be/
 https://beyondawards.co.za
 https://bglogin.caci.com
 https://biercommuno.com
-https://billing.anchor.com.au
-https://billing.digitalpacific.com.au
 https://biobrew.com
 https://bitcoin-kit.hemi.xyz/
 https://bittings.medeco.com
@@ -1762,8 +1759,6 @@ https://consumercomplaints.fcc.gov
 https://consumidor.gov
 https://consumoresponsable.com.mx
 https://contractscolab.com
-https://control.crucial.com.au
-https://control.web24.com.au
 https://controlid.com.br
 https://controlleddelivery.caci.com
 https://core-api.production.claim.co
@@ -1786,7 +1781,6 @@ https://coronashop.co.za
 https://coronastore.com.br
 https://coronasv.com
 https://corp.cybermyte.io
-https://corp.markmonitor.com/
 https://corporate.lowes.com/
 https://couponcodes.com
 https://coveragecheck.mosaik.com
@@ -2304,7 +2298,6 @@ https://mapelements.com
 https://mapgenie.io
 https://marketing.us.baesystems.com
 https://marketsizes.mintel.com
-https://markmonitor.com/
 https://martechly.com
 https://martechmatch.com
 https://martyawards.com
@@ -2323,7 +2316,6 @@ https://me.mashable.com/
 https://media.sproutsocial.com
 https://medpagetoday.com
 https://membeers.com
-https://members.panthur.com.au
 https://members.transunion.com/oneclicksignup
 https://menucervecero.com.mx
 https://metabomb.net/
@@ -3065,9 +3057,7 @@ https://www.bathandbodyworks.ca/
 https://www.bathandbodyworks.com/
 https://www.belong.com.au
 https://www.bie.edu
-https://www.bigrock.in/
 https://www.blask.ferrerorocher.pl
-https://www.bluehost.in/
 https://www.bnz.co.nz
 https://www.boem.gov
 https://www.bordgaisenergy.ie/
@@ -3110,7 +3100,6 @@ https://www.cpsc.gov/cgibin/labregentry
 https://www.cpsc.gov/cgibin/lighterstart
 https://www.cpsc.gov/cgibin/neissquery
 https://www.cpsc.gov/shipmenttracking
-https://www.crazydomains.com.au/
 https://www.creditcardsexplained.com
 https://www.csb.gov
 https://www.csde.caci.com
@@ -3440,7 +3429,6 @@ https://www.vintagecellars.com.au
 https://www.virtru.com/install
 https://www.visiblebody.com
 https://www.vitacost.com
-https://www.vodien.com/
 https://www.voluntariosmodelo.com.mx
 https://www.votekroger.com
 https://www.vrst.com

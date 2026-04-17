@@ -1,12 +1,10 @@
 ## notes  only use this asset when nothing else can be reasonably selected.    bugs with yahoo! that are not listed in scope of our other yahoo-related assets can still be submitted to this asset and **_*might*_** be eligible for award, at the sole discretion of the yahoo bug bounty team
 *.admanager.yahoo.com
-*.aol.com
 *.compuserve.com
 *.engadget.com
 *.gemini.yahoo.com
 *.isp.netscape.com
 *.lite.aol.com
-*.mail.aol.com
 *.oath.cloud
 *.tw.news.yahoo.com
 *.yahoo.cloud
@@ -881,7 +879,6 @@ assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
 assets.tumblr.com
-assistance.aol.fr
 assurancewireless.com
 at.marionnaud.customer
 atairbnb.com
@@ -1028,11 +1025,9 @@ bigcommerce-adapter.judge.me
 bild.de
 bild.design
 bild.tv
-bill.aol.com
 billing.api.soundtrackyourbrand.com
 billing.ring.com
 billingsupport.chaturbate.com
-billupdate.aol.com
 bilt.marriott.com
 bingoblitz.com
 biolibre.ar
@@ -1176,7 +1171,6 @@ campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
 campus.datacamp.com
-cancel.aol.com
 cancellation.prod.ps.welt.de
 canva-apps.cn
 canva-apps.com
@@ -2489,8 +2483,6 @@ hellofax.com
 hellosign.com
 helloworks.com
 help-jp.krisp.ai
-help.aol.co.uk
-help.aol.com
 help.coinhako.com
 help.krisp.ai
 help.lime.bike
@@ -2511,7 +2503,6 @@ hg.mozilla.org
 hicloudcam.com
 highwebmedia.com
 hikops.com
-hilfe.aol.de
 hilton.com
 hilton.io
 hiltonbusinessonline.com
@@ -2531,6 +2522,7 @@ horizonchase.com
 horizonchase.com.br
 horizonchaseturbo.com
 horizons.hostinger.com
+hosting.ownit.nu
 hotel-deals.marriott.com
 hotel-development.marriott.com
 hoteltonight-test.com
@@ -3204,7 +3196,6 @@ my.visa.fr
 myaccount-cn.payoneer.com
 myaccount-hardening.dynatracelabs.com
 myaccount.ad.nl
-myaccount.aol.com
 myaccount.demorgen.be
 myaccount.hln.be
 myaccount.humo.be
@@ -3213,7 +3204,6 @@ myaccount.payoneer.com
 myaccount.trouw.nl
 myaccount.volkskrant.nl
 myaccount.vtm.be
-mybenefits.aol.com
 myconnect.com.au
 myfitnesspal.com
 myharmony.com
@@ -3223,7 +3213,6 @@ mynexuz.be
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
-myservices.aol.com
 mysqueezebox.com
 mystics-dev.wnba.com
 mystics-qa.wnba.com
@@ -3485,7 +3474,6 @@ payment.vladcazino.ro
 paymentcomponent.booking.com
 payments-experience-api.truelayer-sandbox.com
 payments-experience-api.truelayer.com
-payments.aol.com
 payments.geneva-staging.chat
 payments.geneva-staging.com
 paynotifications.booking.com
@@ -3716,7 +3704,6 @@ read.amazon.com
 readonly.fareharbor.com
 realestate.com.au
 reastatic.net
-recherche.aol.fr
 recko.io
 reckoproduction.com
 reckostaging.com
@@ -3808,7 +3795,6 @@ router.geneva-staging.com
 router.hereapi.com
 rpc.blockdaemon.testnet.arc.network
 rpc.drpc.testnet.arc.network
-rpc.mail.aol.com
 rpc.quicknode.testnet.arc.network
 rpc.testnet.arc.network
 rt.playcanvas.com
@@ -3865,9 +3851,6 @@ scpapi.watsons.com.tr
 screenshot-proxy.netlify.app
 scrutiny.swiftfinancial.com
 se.bingo.com
-search.aol.ca
-search.aol.co.uk
-search.aol.com
 sec-tunnel.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
@@ -4190,7 +4173,6 @@ stylebook.de
 subdomain takeover - konghq.com
 subp-router.hereapi.com
 subscriptions.firefox.com
-suche.aol.de
 sun-dev.wnba.com
 sun-qa.wnba.com
 sun.wnba.com
@@ -4606,6 +4588,7 @@ webauthn.me
 webgateway.koho.ca
 webhooks.booking.com
 webhooks.truelayer-sandbox.com
+webmail.ownit.nu
 webservice.doccle.be
 webtoolbox.notebleue.pro
 webwinkel.ad.nl
@@ -4699,12 +4682,6 @@ www.airbnb.com
 www.allizom.org
 www.am.monespacesante.fr
 www.analvids.com
-www.aol.ca
-www.aol.co.uk
-www.aol.com
-www.aol.com/*
-www.aol.de
-www.aol.in
 www.applevacations.com
 www.arkoselabs.com
 www.astrogaming.com

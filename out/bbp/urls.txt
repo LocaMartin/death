@@ -1572,7 +1572,6 @@ https://move.monash.edu/
 https://movieclub-int.kinepolis.com
 https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
-https://multipay-staging.test.komoju.com
 https://my.arlo.com
 https://my.electroneum.com
 https://my.elementor.com/
@@ -2107,7 +2106,6 @@ https://www.32red.com/
 https://www.adsrvr.org
 https://www.akhwien.at
 https://www.allsaints.me/
-https://www.amazon.com/aol-inc-mail-news-video/dp/b011vyagsy
 https://www.amazon.com/dp/b08sg2ms3v
 https://www.amazon.com/yahoo-for-fire-tv/dp/b014x5ugpq
 https://www.amazon.com/yahoo-mail-keeps-you-organized/dp/b00632hwog

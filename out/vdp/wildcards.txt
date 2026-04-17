@@ -329,7 +329,6 @@ blkreports.com
 blm.gov
 bloo.com
 bls.gov
-bluehost.com
 blueinsurance.ie
 bluepearlvet.com
 bluerivertech.com
@@ -1118,8 +1117,6 @@ homelandsecurity.gov
 homes.com
 horizonaps.com
 horizonaps.net
-hostgator.com.br
-hostgator.in
 hotels.com
 hotwire.com
 hotwirepartnercentral.com
@@ -1641,8 +1638,6 @@ naiad.aqora
 naiad.cloud
 naiad.ninja
 naimuri.com
-namejet.com
-namejet.com.au
 namequery.com
 natcast.com
 natcast.net
@@ -1678,7 +1673,6 @@ netleglobal.com
 netmotionsoftware.com
 netmotionwireless.com
 nettokom.de
-networksolutions.com
 netzclub.net
 neuflizeobc.fr
 neustar.biz
@@ -2249,7 +2243,6 @@ sms3d.net
 snaboitiz.com
 snacks.com
 snapfish.com
-snapnames.com
 snuggle.ca
 snuggle.com
 sobe.com

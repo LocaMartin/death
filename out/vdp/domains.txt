@@ -1563,8 +1563,6 @@ alshaya.com
 alshayaenterprises.com
 altasybajas-qc.aon.com
 altasybajas.aon.com
-alternahaircare.cn
-alternahaircare.com.cn
 alteryx-uat.cbre.eu
 alteryx.cbre.eu
 altoonafcu-dc.cert.fec-dc.fiservapps.com
@@ -2370,7 +2368,6 @@ app.starlingbank.com
 app.taplio.com
 app.thnks.com
 app.tweethunter.io
-app.web.com
 app.wellhive.com
 app.zone.cbre.es
 appanf.fmpilot.com
@@ -3881,7 +3878,6 @@ blueflamecu-admin.originate.fiservapps.com
 blueflamecu-dc.cert.fec-dc.fiservapps.com
 blueflamecu-dn.financial-net.com
 blueflamecu.originate.fiservapps.com
-bluehost.com
 blueinsurance.ie
 bluepearlvet.com
 blueprint.cbre.com
@@ -13897,8 +13893,6 @@ hosted.weblate.org
 hosteyportal-blue.cbrehost.com
 hosteyportal.cbrehost.com
 hosteyportalhelp.cbrehost.com
-hostgator.com.br
-hostgator.in
 hosting.gallileo-frankfurt.com
 hostmaster.gallileo-frankfurt.com
 hostmaster.telfordhomes.london
@@ -19415,8 +19409,6 @@ naiad.ninja
 naimuri.com
 nalx.elcompanies.com
 nam.abb.com
-namejet.com
-namejet.com.au
 namequery.com
 namethename.info
 nammysupplier.cbre.com
@@ -19571,7 +19563,6 @@ netprofiler.cbre.com
 netto-rubbellos.de
 nettokom.de
 nettstasjon.no.abb.com
-networksolutions.com
 netzclub.net
 neu.gallileo-frankfurt.com
 neufcu-dn.financial-net.com
@@ -25683,7 +25674,6 @@ snapfish.de
 snapfish.fr
 snapfish.ie
 snapfish.it
-snapnames.com
 snapon.wgiftcard.com
 snappay-stage.fiserv.com
 snappay.fiserv.com
