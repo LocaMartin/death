@@ -423,6 +423,7 @@ https://cdn.unicdn.net/apk/unibetcasino.apk
 https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com
+https://challenge-0426.intigriti.io
 https://charts.etoro.com
 https://chat.openai.com
 https://checkout.finance.yahoo.com/checkout/v1
@@ -1867,6 +1868,7 @@ https://signature.blis.com
 https://simnext.bullish-test.com
 https://simplisafe.co.uk
 https://simplisafe.com
+https://sip2.dmp.gouv.fr
 https://sitepixel.blis.com
 https://sitepixel.dev.blis.com
 https://skippayments.com
@@ -2087,7 +2089,6 @@ https://webmail.optusnet.com.au/
 https://webmail.usaa.com
 https://webrtc.8x8.com/
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl
-https://wgr-industries.com
 https://wibi.wien.gv.at
 https://widget.thefork.com
 https://wien.at
@@ -2188,6 +2189,8 @@ https://www.definitivetechnology.com
 https://www.demandforced3.com
 https://www.denon.com
 https://www.designify.com
+https://www.dmp.fr
+https://www.dmp.gouv.fr
 https://www.docker.elastic.co/r/apm/apm-server
 https://www.docker.elastic.co/r/beats/auditbeat
 https://www.docker.elastic.co/r/beats/filebeat

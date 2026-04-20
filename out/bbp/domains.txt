@@ -374,8 +374,10 @@ admin.ring.com
 admin.shopify.com
 admin.sqills-bugbounty-test.cloud.sqills.com
 admin.wickr.com
+admincms.developer.monespacesante.fr
 admincms.monespacesante.fr
 adminml.com
+adminstore.developer.monespacesante.fr
 adminstore.monespacesante.fr
 admintool.lime.bike
 adobe.fresco.ios
@@ -441,6 +443,7 @@ allegro.cz.allegrosandbox.pl
 allegro.pl.allegrosandbox.pl
 allegro.sk.allegrosandbox.pl
 alternativa.film
+am.developer.monespacesante.fr
 am.editeur.preprod.monespacesante.fr
 am.monespacesante.fr
 am.preprod.monespacesante.fr
@@ -504,7 +507,6 @@ apcgateway.marriott.com
 apex-football.com
 apexnews.com
 apexscores.io
-api calls going to disco-api from https://www.tagesanzeiger.ch
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
@@ -545,11 +547,13 @@ api.cx.metamask.io
 api.dailymotion.com
 api.deriv.com
 api.dev.lando.nonprod.cloudops.mozgcp.net
+api.developer.monespacesante.fr
 api.digili.s-cloud.fi
 api.digital.delen.be
 api.digital.delen.lu
 api.digitalocean.com
 api.direct.playstation.com
+api.dmp.gouv.fr
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
@@ -934,6 +938,7 @@ auth.blablacar.ru
 auth.blablacar.tr
 auth.digital.delen.be
 auth.digital.delen.lu
+auth.dmp.gouv.fr
 auth.embark.net
 auth.hhc247.org
 auth.magic.link
@@ -2095,6 +2100,7 @@ edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
+editeurs.developer.monespacesante.fr
 editeurs.monespacesante.fr
 edition.iciparisxl.nl
 edition.in
@@ -2231,6 +2237,8 @@ fever-dev.wnba.com
 fever-qa.wnba.com
 fever.wnba.com
 fhdn.fareharbor.com
+fhir.developer.monespacesante.fr
+fhir.monespacesante.fr
 fhir.redoxengine.com
 fi.bingo.com
 fi.mariacasino.com
@@ -2656,6 +2664,7 @@ international.coinbase.com
 internet.xfinity.com
 interseller.io
 intigriti.me
+investor.meesho.com
 investors.semrush.com
 invisionu.education
 invoices.razorpay.com
@@ -2753,6 +2762,7 @@ klarna.com
 klarna.net
 klarnacdn.net
 klubcinema.fr
+knowage.developer.monespacesante.fr
 knowage.monespacesante.fr
 knowledge.nextcloud.com
 knox.beta.blendlabs.com
@@ -2878,6 +2888,8 @@ lol.onevone
 lookatme.com.ph
 lookup.nextcloud.com
 louvre.veriff.me
+lps.dmp.gouv.fr
+lps2.dmp.gouv.fr
 lt.drogas.consumer
 luckydays.ca
 luckydays.com
@@ -3035,6 +3047,7 @@ medias.watsons.vn
 mediatonic.co.uk
 medical.23andme.com
 meechum.netflix.com
+meesho.io
 meetings.hyatt.com
 meetmarriottbonvoy.marriott.com
 megatix.be
@@ -4482,7 +4495,6 @@ vhx.tv
 via.rider
 viator.com
 viatorinc.com
-vidaxl.hk
 vidaxl.io
 vidaxl.net
 vidaxl.org
@@ -4569,6 +4581,7 @@ weather.opera-api.com
 web-edge.clearme.com
 web-message-high.lime.bike
 web-message.lime.bike
+web-mh.dmp.gouv.fr
 web-production.lime.bike
 web.crypto.com
 web.geneva-staging.com
@@ -4662,6 +4675,9 @@ wotif.com
 wp5-truststroke.uzleuven.be
 wpengine.io
 wpesvc.net
+wps-cps.cv.dmp.gouv.fr
+wps-cps.dmp.gouv.fr
+wps-cps.dmp.monespacesante.fr
 wpscan.com
 ws.blockchain.info
 ws.sorare.com
