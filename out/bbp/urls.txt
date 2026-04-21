@@ -442,6 +442,7 @@ https://cloud.unity.com
 https://cloudinary.com/console
 https://cms.adx.opera.com
 https://cms.mobile.monash/
+https://cmsnationaltrainingprogram.cms.gov/
 https://cockpit-eu-west-2.outscale.com
 https://coda.grammarly.com
 https://coda.io
@@ -493,6 +494,7 @@ https://crypto.com/nft
 https://crypto.com/price
 https://cryptowallet.opera-api.com
 https://csp-prod.codebig2.net
+https://csscoperations.com/
 https://cstg-integ.uidapi.com
 https://customer-api.datadome.co
 https://customer-portal.paddle.com
@@ -648,6 +650,8 @@ https://etorologsapi.etoro.com
 https://etoropartners.com
 https://etorox.com
 https://etsypayments.com
+https://eua.cms.gov/
+https://eua.cms.gov/efi
 https://events.1password.com/api
 https://events.onecloud.harman.com
 https://evigilation.monash.edu
@@ -752,6 +756,7 @@ https://github.com/circlefin/stablecoin-evm
 https://github.com/circlefin/stablecoin-near
 https://github.com/circlefin/stablecoin-starknet
 https://github.com/circlefin/stablecoin-sui
+https://github.com/circlefin/stablecoin-xlm
 https://github.com/circlefin/starknet-cctp
 https://github.com/circlefin/sui-cctp
 https://github.com/clickhouse/clickhouse
@@ -891,27 +896,6 @@ https://github.com/mongodb-js/mongodb-mcp-server
 https://github.com/netflix/atlas
 https://github.com/netflix/spectator
 https://github.com/netflix/zuul
-https://github.com/nextcloud/3rdparty
-https://github.com/nextcloud/circles
-https://github.com/nextcloud/collectives
-https://github.com/nextcloud/data_request
-https://github.com/nextcloud/files_antivirus
-https://github.com/nextcloud/files_confidential
-https://github.com/nextcloud/files_fulltextsearch
-https://github.com/nextcloud/files_pdfviewer
-https://github.com/nextcloud/files_texteditor
-https://github.com/nextcloud/firstrunwizard
-https://github.com/nextcloud/flow_notifications
-https://github.com/nextcloud/fulltextsearch
-https://github.com/nextcloud/fulltextsearch_elasticsearch
-https://github.com/nextcloud/groupfolders
-https://github.com/nextcloud/guests
-https://github.com/nextcloud/notifications
-https://github.com/nextcloud/password_policy
-https://github.com/nextcloud/sharepoint
-https://github.com/nextcloud/socialsharing
-https://github.com/nextcloud/suspicious_login
-https://github.com/nextcloud/tables
 https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
@@ -932,7 +916,6 @@ https://github.com/ripe-ncc/rpki-publication-server
 https://github.com/ripe-ncc/rpki-ta-0
 https://github.com/ripe-ncc/rsyncit
 https://github.com/ripe-ncc/whois
-https://github.com/roundcube/roundcubemail
 https://github.com/shopify
 https://github.com/slackhq/nebula
 https://github.com/smartcontractkit/chainlink
@@ -1613,7 +1596,6 @@ https://newrelic.com/
 https://newrelic.com/blog
 https://news-app.abumedia.yql.yahoo.com
 https://next.flatmates.com.au
-https://nextcloud.com/install#install-clients
 https://nice.wfmusaa.com
 https://nominatim.bykea.net
 https://nordpass.com/download/linux
@@ -1739,6 +1721,7 @@ https://portal.afterpay.com
 https://portal.anz.kinergysolutions.com
 https://portal.clearpay.co.uk
 https://portal.clearpay.com
+https://portal.cms.gov/
 https://portal.enterprise.uphold.com
 https://portal.exoscale.com/
 https://portal.ifoodpago.com.br
@@ -1848,7 +1831,6 @@ https://selfcare.ooredoo.qa
 https://send2.co/
 https://sendbird.com
 https://sendbird.com/docs
-https://service.malwarebytes.com/hc/en-us/articles/4417282329491-device-control-in-malwarebytes-nebula
 https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web
 https://service.post.ch/ele-klp/ele
@@ -2171,6 +2153,7 @@ https://www.cloudflare.com/products/cloudflare-access
 https://www.cloudflare.com/products/cloudflare-spectrum
 https://www.cloudflare.com/products/cloudflare-stream
 https://www.cloudvector.com/
+https://www.cms.gov/
 https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
 https://www.coloros.com/
@@ -2301,7 +2284,6 @@ https://www.loom.com/download
 https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
-https://www.malwarebytes.com/business/cloud
 https://www.mankind.co.uk/
 https://www.mapbox.com/mapbox-gl-js
 https://www.marantz.com

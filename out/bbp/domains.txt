@@ -849,7 +849,6 @@ appmiral.com
 apps-accpt.portofantwerp.com
 apps-accpt.portofantwerpbruges.com
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
-apps.nextcloud.com
 apps.ort-one-pingone.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
@@ -947,7 +946,6 @@ auth.monespacesante.fr
 auth.moonpay.com
 auth.mtls.truelayer-sandbox.com
 auth.mtls.truelayer.com
-auth.nextcloud.com
 auth.ort-one-pingone.com
 auth.preprod.monespacesante.fr
 auth.privy.io
@@ -1283,6 +1281,7 @@ cloud.forescout.com
 cloud.malwarebytes.com
 cloud.mattermost.com
 cloud.staging-enviso.io
+cloud.threatdown.com
 cloud.vimeo.com
 cloud8.8x8.com
 cloudflare.com
@@ -1604,9 +1603,6 @@ com.nearme.gamecenter
 com.netease.my.nearme.gamecenter
 com.netflix.mediaclient
 com.newegg.app
-com.nextcloud.client
-com.nextcloud.talk
-com.nextcloud.talk2
 com.nordpass.android.app.password.manager
 com.nordvpn.android
 com.oceanwing.battery.cam
@@ -1627,7 +1623,6 @@ com.pacificinteractive.houseoffun
 com.paypal.android.p2pmobile
 com.paypal.merchant
 com.paypal.merchant.client
-com.peterandlinda.iocnotes
 com.pieyel.scrabble
 com.playtika.caesarscasino
 com.playtika.wsop.gp
@@ -1856,7 +1851,6 @@ credstore.yahoo.com/oauth2/device_auth
 credstore.yahoo.com/saml2
 credstore.yahoo.com/ylc
 crm.na1.insightly.com
-crm.nextcloud.com
 crossclip.com
 crowdstrike.com
 cruises.priceline.com
@@ -1874,7 +1868,6 @@ cubicmotion.com
 custody.coinbase.com
 customer-sessions.arkoselabs.com
 customerevents.netflix.com
-customerupdates.nextcloud.com
 cw.visa.com
 cweb-ott-dev.nba.com
 cweb-ott-devint.nba.com
@@ -2016,7 +2009,6 @@ doccleservices.eu
 docs.gitlab.com
 docs.lansweeper.com
 docs.launchdarkly.com
-docs.nextcloud.com
 docs.redoxengine.com
 docsend.com
 docswallet.com
@@ -2034,7 +2026,6 @@ doppler.team
 download-installer.cdn.mozilla.net
 download.krisp.ai
 download.mozilla.org
-download.nextcloud.com
 download.originenergy.com.au
 dpgmedia.be
 dpgmedia.nl
@@ -2316,7 +2307,6 @@ fulfillment.23andme.com
 funding-webhooks.remitly.io
 furycloud.io
 furydocs.io
-fusion.tradepmr.com
 fuze.com
 fuze.me
 fuze.site
@@ -2496,7 +2486,6 @@ help.krisp.ai
 help.lime.bike
 help.marriott.com
 help.netflix.com
-help.nextcloud.com
 help.redoxengine.com
 help.steampowered.com
 help.ui.com
@@ -2530,7 +2519,6 @@ horizonchase.com
 horizonchase.com.br
 horizonchaseturbo.com
 horizons.hostinger.com
-hosting.ownit.nu
 hotel-deals.marriott.com
 hotel-development.marriott.com
 hoteltonight-test.com
@@ -2638,7 +2626,6 @@ innovation.superdrug.com
 inpli.se
 insider.in
 insight.io
-insight2.tradepmr.com
 insights.deribit.com
 instacart.com
 instacart.tools
@@ -2685,8 +2672,6 @@ ispdesign.ui.com
 issuer.idpay-uat.unico.io
 it.louisvuitton.com
 it.marionnaud.customer
-it.niedermann.owncloud.notes
-it.twsweb.nextcloud
 it.xvservice.net
 itcapital.io
 itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
@@ -2764,7 +2749,6 @@ klarnacdn.net
 klubcinema.fr
 knowage.developer.monespacesante.fr
 knowage.monespacesante.fr
-knowledge.nextcloud.com
 knox.beta.blendlabs.com
 ko.com
 konfigurator.bmw-motorrad.de
@@ -2831,7 +2815,6 @@ liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
-lists.nextcloud.com
 lists.wordpress.org
 live-backstage.tiktok.com
 live-service.whatnot.com
@@ -2880,13 +2863,11 @@ logitechg.com
 logitechg.com.cn
 logitechgchallenge.com
 logitechmusic.com
-logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 logstash.net
 logstash.wtf
 lol.onevone
 lookatme.com.ph
-lookup.nextcloud.com
 louvre.veriff.me
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
@@ -3265,10 +3246,8 @@ news.remitly.com
 news.yahoo.com
 newsletter-feedback.iciparisxl.nl
 newsletter.iciparisxl.nl
-newsletter.nextcloud.com
 newsroom.images.hyatt.com
 next.airbnb.com
-nextcloud.com
 nexuzhealth.com
 nflxext.com
 nflximg.net
@@ -3304,6 +3283,7 @@ nr-data.net
 nr-ops.net
 ns1.optusnet.com.au
 ns2.optusnet.com.au
+nsa-idr.cms.gov
 nu.com.co
 nu.com.mx
 nubank.com.br
@@ -3571,7 +3551,6 @@ portal.au.frontegg.com
 portal.gofoodmerchant.co.id
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
-portal.nextcloud.com
 portal.openbanking.playground.klarna.com
 portal.playground.klarna.com
 portal.polygon.technology
@@ -3655,7 +3634,6 @@ profiles.wordpress.org
 projectbaseline.com
 projects.datacamp.com
 projects.epam.com
-projects.nextcloud.com
 protrade.com
 prow.k8s.io
 prowly.com
@@ -3669,15 +3647,14 @@ public.hyatt.com
 publicsafety.ring.com
 pullandbear.cn
 pullandbear.com
-push-notifications.nextcloud.com
 push.opera.com
 push.services.mozilla.com
-pushfeed.nextcloud.com
 pwapi.ex2b.com
 pwn.intigriti.rocks
 py.pl
 qaglobal-liquidity.gs.com
 qm-8x8.com
+qpp.cms.gov
 quintoandar.com.br
 quip.com
 quixel.com
@@ -3852,7 +3829,6 @@ sbgtest.net
 sc-core.net
 sc-corp.net
 scan.clearme.com
-scan.nextcloud.com
 scan.snapchat.com
 scapegoat.hyatt.com
 scatec.io
@@ -4134,13 +4110,11 @@ staking.polygon.technology
 starling-ttp.lemon8-app.us
 start.khealth.com
 static-website.miro.com
-static.apps.nextcloud.com
 station.veriff.com
 stationapi.veriff.com
 stats-trafficcop-prod.nba.com
 stats.gleague.nba.com
 stats.nba.com
-stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
 status.delen.be
@@ -4213,13 +4187,11 @@ support.link.com
 support.logi.com
 support.monespacesante.fr
 support.mozilla.org
-support.nextcloud.com
 support.originenergy.com.au
 support.rockstargames.com
 support.steampowered.com
 supportal.netlify.app
 survey.vinci.com
-surveyserver.nextcloud.com
 sustentabilidadmercadolibre.com
 svc.au01.miro.com
 svc.eu01.miro.com
@@ -4418,7 +4390,6 @@ unrealeditorfortnite-win64-shipping.exe
 unrealengine.com
 unrealtournament.com
 updates.forescout.com
-updates.nextcloud.com
 updates.push.services.mozilla.com
 uphodl.com
 uphold.com
@@ -4442,7 +4413,6 @@ user-lookup-api.embark.net
 user-profile-staging.8x8.com
 user-profile.8x8.com
 user.quintoandar.com.br
-usercontent.apps.nextcloud.com
 usercontent.koho.ca
 userprofile-acc.landmarkcinemas.com
 userprofile-ui.landmarkcinemas.com
@@ -4601,7 +4571,6 @@ webauthn.me
 webgateway.koho.ca
 webhooks.booking.com
 webhooks.truelayer-sandbox.com
-webmail.ownit.nu
 webservice.doccle.be
 webtoolbox.notebleue.pro
 webwinkel.ad.nl
@@ -5060,7 +5029,6 @@ www.tomorrowland.com
 www.topperpay.com
 www.torfs.be
 www.torfs.nl
-www.tradepmr.com
 www.trajeoh.com
 www.transsicura.ch
 www.travel-brilliantly.marriott.com

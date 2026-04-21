@@ -2437,6 +2437,7 @@ apps.facilitysource.com
 apps.gallileo-frankfurt.com
 apps.havelockone.com
 apps.huntingtonhospital.com
+apps.nextcloud.com
 apps.norlandmanagedservices.com
 apps.rokt.com
 apps.sofa.csg.aboitizpower.org
@@ -2792,6 +2793,7 @@ auth.grubhub.com
 auth.kreisel-cloud.com
 auth.library.abb.com
 auth.myvirtualsuper.com
+auth.nextcloud.com
 auth.optifact.robotics.abb.com
 auth.prod.myvirtualsuper.com
 auth.service.accept.evcharging.abb.com
@@ -3931,6 +3933,7 @@ boarding.moreflo.elavon.com
 boarding.natwest-tyl.com
 boarding.opayo.elavon.co.uk
 boardmonitor.com
+boardsbeyond.com
 boardwalkfantasea.com
 boavistascpc.com.br
 boavistaservicos.com.br
@@ -6878,6 +6881,9 @@ com.mtb.mbanking.sc.retail.prod
 com.mtb.mobilebanking.ncr
 com.mtnghanar3
 com.my-mobilekey.key4friends
+com.nextcloud.client
+com.nextcloud.talk
+com.nextcloud.talk2
 com.oaknorth.businessbanking
 com.oaknorth.oaknorthmobilebanking
 com.oanda.fxtrade
@@ -6889,6 +6895,7 @@ com.pepsicoconsumer.minegociope
 com.pepsicoconsumer.pepsicogfn
 com.pepsicoconsumer.pepsicopartner
 com.pepsicolatam.joy
+com.peterandlinda.iocnotes
 com.picsart.studio
 com.rd3digital.amancowavinra
 com.robinhood.android
@@ -7987,6 +7994,7 @@ crm-test.fleetboard.com
 crm.cbre.com
 crm.fleetboard.com
 crm.gallileo-frankfurt.com
+crm.nextcloud.com
 crm.pnonprod.gcso.cbre.com
 crm.surefireag.com
 crm.thorntontomasetti.com
@@ -8257,6 +8265,7 @@ customersfirstnow.in
 customersfirstnow.info
 customersfirstnow.net
 customersfirstnow.org
+customerupdates.nextcloud.com
 customervoice.biz
 customizing.mybuildings.abb.com
 customperformance.deere.com
@@ -9636,6 +9645,7 @@ docs.gallileo-frankfurt.com
 docs.harvestprofit.com
 docs.host-building.com
 docs.moneynetwork.com
+docs.nextcloud.com
 docs.passwordless.dev
 docs.spark.ai
 docs.trammellcrow.com
@@ -9750,6 +9760,7 @@ download.fleetboard.com
 download.gallileo-frankfurt.com
 download.kleemann.info
 download.myim.cbre.com
+download.nextcloud.com
 download.seleritycorp.com
 download2.fleetboard.com
 downloads.mariadb.org
@@ -12529,7 +12540,6 @@ fundsxpress.fta.popmoney.com
 funwebproducts.fr
 funyuns.com
 fusekit.io
-fusion.tradepmr.com
 futureofdigitalmedicine.com
 futureproofoffices.cbre.be
 futureproofoffices.cbre.lu
@@ -13592,6 +13602,7 @@ help.facilitysource.com
 help.gallileo-frankfurt.com
 help.jetblue.com
 help.locator.cbre.com
+help.nextcloud.com
 help.nprd-exco.deere.com
 help.oportun.com
 help.plc.abb.com
@@ -14695,7 +14706,6 @@ insight-media-digital.com
 insight-media.com
 insight.abb.com
 insight.cbre.com
-insight2.tradepmr.com
 insightinvestment.fr
 insightportal.cbre.com
 insightportal.cbre.eu
@@ -15359,7 +15369,9 @@ it.cbre.eu
 it.cbre.sk
 it.gallileo-frankfurt.com
 it.inside.abb.com
+it.niedermann.owncloud.notes
 it.smartapply.com
+it.twsweb.nextcloud
 it2net.wallstreetsystems.com
 italiano.zebra.com
 italiapecongress.com
@@ -15915,6 +15927,7 @@ knoweurope.net
 knowhistory.co.uk
 knowingisingenious.com
 knowledge.motion.abb.com
+knowledge.nextcloud.com
 knowledgebase.cbreesi.com
 knowmycredit.co.nz
 knowmycredit.com.au
@@ -16437,6 +16450,7 @@ listingsservice.cbre.eu
 listingsservice.uat.cbre.eu
 listnet.it
 listo.gov
+lists.nextcloud.com
 lists.thorntontomasetti.com
 lists.wirtgenankara.com.tr
 listspa.com
@@ -16606,6 +16620,7 @@ logos-ngbp-btat2.fiservapps.com
 logoseer.com
 logs-eastus.ey.cbrehost.com
 logs-westus.ey.cbrehost.com
+logs.nextcloud.com
 loja.abb.com.br
 loja.gallileo-frankfurt.com
 lojadesegurositau.com.br
@@ -16622,6 +16637,7 @@ longhorn.wgiftcard.com
 longhornsteakhousestore.wgiftcard.com
 longhornstore.wgiftcard.com
 lookingforward.ca
+lookup.nextcloud.com
 loopaws.cbre.eu
 loopback.mbs-navigator.com
 looplink.akron.cbre.com
@@ -18028,15 +18044,20 @@ mft-stg.myngc.com
 mft.myngc.com
 mg.abb.com
 mgi.gov
+mh.com
 mha.gov
+mhcampus.com
 mhcu-dc.cert.fec-dc.fiservapps.com
 mhcu-dn.financial-net.com
 mhcu.net
 mhcu.vbwebservices.com
+mheducation.com
 mhfcu-dc.cert.fec-dc.fiservapps.com
 mhfcu-dn.financial-net.com
 mhg.cbre.com
+mhhe.com
 mhiapps.com
+mhprofessional.com
 mi-activesync.cbre.ca
 mi-admin.originate.fiservapps.com
 mi.onlinebank.com
@@ -18112,7 +18133,6 @@ midwestone.caaweb.com
 migrainemovement.ca
 migrantworker.gov
 migration.fleetboard.com
-mijndpm.nl
 milady.com
 milbnk-cs.apps-uat.ilendx.tech
 milbnk-cs.apps.ilendx.tech
@@ -18960,7 +18980,6 @@ myair.resmed.com
 myair.resmed.eu
 myamexdev.fiserv.io
 myaon.aon.fr
-myaon.nl
 myappdr.cbre.com
 myapps-qa.elcompanies.com
 myapps-secure.cbre.eu
@@ -19774,6 +19793,7 @@ newsignature.com
 newsite.gallileo-frankfurt.com
 newsletter.de.abb.com
 newsletter.gallileo-frankfurt.com
+newsletter.nextcloud.com
 newspapervault.com
 newspapervault.net
 newspapervault.org
@@ -19790,6 +19810,7 @@ next-marketing.fiservapps.com
 next.cbreesi.com
 next.gallileo-frankfurt.com
 nextcard.fdecs.com
+nextcloud.com
 nextcloud.gallileo-frankfurt.com
 nextdaymed.com
 nextepsystems.com
@@ -21984,7 +22005,6 @@ polderroof.com
 policyfile.com
 polise.aon.lv
 polismap.aonverzekeringen.nl
-polismap.nkc.nl
 politicsinview.com
 polkcountycreditunion.com
 polkcountycreditunion.vbwebservices.com
@@ -22080,6 +22100,7 @@ portal.industriousoffice.com
 portal.kkr.com
 portal.kleemann.info
 portal.l3harris.com
+portal.nextcloud.com
 portal.ngc-mfa.cc2.myngc.com
 portal.particlehealth.com
 portal.partner.l3harris.com
@@ -22299,7 +22320,6 @@ prelive8-admin.originate.fiservapps.com
 prelive8.originate.fiservapps.com
 prelive9-admin.originate.fiservapps.com
 prelive9.originate.fiservapps.com
-premieberekenen.nkc.nl
 premier-admin.originate.fiservapps.com
 premier-com-ao-cs.apps-qa.ilendx.tech
 premier-com-ao-di.apps-qa.ilendx.tech
@@ -22663,6 +22683,7 @@ projects.cbre.eu
 projects.cbre.se
 projects.drives.abb.com.cn
 projects.gallileo-frankfurt.com
+projects.nextcloud.com
 projects.proptech.cbre.eu
 projectspace.abb.com
 projectstrategy.com.au
@@ -23130,6 +23151,8 @@ puntosroyaltyrc.com.co
 purduefed.fta.popmoney.com
 pureleaf.com
 puritanspride.fr
+push-notifications.nextcloud.com
+pushfeed.nextcloud.com
 putil.gcso.cbre.com
 pvedge.northropgrumman.com
 pvpn-asia.gslb.cbre.eu
@@ -24498,6 +24521,7 @@ sbsh-ks.architect-cert.fiservapps.com
 sbsh-ks.onlinebank.com
 sbtcajun.onlinebank.com
 sbuxopsassist.shaya.com.tr
+scan.nextcloud.com
 scanaecv.billmatrix.com
 scb-admin.originate.fiservapps.com
 scb.onlinebank.com
@@ -25265,6 +25289,7 @@ simfrontend.channel-dss-r1-anubhuti-qual-vpn.ap.e06.c01.johndeerecloud.com
 simfy.africa
 simfy.co.za
 simmonsbank.caaweb.com
+simnetonline.com
 simon.deere.com
 simons-voss.com
 simplate.mendixcloud.com
@@ -26313,6 +26338,7 @@ stateofinnovation.solutions
 stateofinnovation.technology
 stateofinnovations.com
 static-cdn.cms.ayoba.me
+static.apps.nextcloud.com
 static.bearflagrobotics.com
 static.gallileo-frankfurt.com
 static.spacespot.com
@@ -26320,6 +26346,7 @@ stationerycreditunion.com
 stationerycu-dc.cert.fec-dc.fiservapps.com
 stationerycu-dn.financial-net.com
 stats.gallileo-frankfurt.com
+stats.nextcloud.com
 statsreport-dev.cbre.com
 statsreport-qa.cbre.com
 statsreport-uat.cbre.com
@@ -26597,6 +26624,7 @@ support.host-building.com
 support.l3t.com
 support.liferay.com
 support.myvirtualsuper.com
+support.nextcloud.com
 support.nutanix.com
 support.romonet.com
 support.sentera.com
@@ -26641,6 +26669,7 @@ survey.cbre.fr
 survey.locator.cbre.com
 surveycreator.brokerhub.cbre.com
 surveys.eeoc.gov
+surveyserver.nextcloud.com
 sustainability-programs.deere.com
 sustainability.gov
 sustainablephilippines.com
@@ -26927,6 +26956,7 @@ tefcu-fcu-dc.cert.fec-dc.fiservapps.com
 tefcu.com
 tefcu.vbwebservices.com
 tegretol.ca
+tegrity.com
 tekzone.me
 telcommcu-dc.cert.fec-dc.fiservapps.com
 telcommcu-dn.financial-net.com
@@ -29083,6 +29113,7 @@ upc.hu
 upcity.com
 update.gallileo-frankfurt.com
 update2.vectranetworks.com
+updates.nextcloud.com
 updev.net
 uperio.ca
 upgrade-cs.apps-qa.ilendx.tech
@@ -29244,6 +29275,7 @@ usend.com
 usendbrazil.com
 usequities.com
 user-service.dev.e2ctechnology.com
+usercontent.apps.nextcloud.com
 usercontrol-dev.witos.wirtgen-group.com
 usercontrol-materials-dev.witos.wirtgen-group.com
 usercontrol-materials.witos.wirtgen-group.com
@@ -30911,6 +30943,7 @@ www.axiscp-dev.cbre.com
 www.axiscp-test.cbre.com
 www.axisplatform.net
 www.axissolution.com
+www.babcockinternational.com
 www.babelkwt.com
 www.back2thefuture.cbre.es
 www.bammaplogoapi.cbre.com
@@ -32177,7 +32210,6 @@ www.toyotafinancialpr.com
 www.toyotamobility.com
 www.tpt.com
 www.tr.intrepid.cbre.com
-www.tradepmr.com
 www.training.locator.cbre.com
 www.training.vantageanalytics.cbre.com
 www.trammellcrow.com
