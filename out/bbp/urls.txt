@@ -118,11 +118,11 @@ https://acorns.com/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest
 https://adhoc-bugcrowd-studio.cdn-code.org
 https://adhoc-bugcrowd.cdn-code.org
-https://admin-roundups.moneyboxapp.org/
+https://admin-roundups.moneyboxapp.org
 https://admin.atlassian.com/
 https://admin.atlassian.com/atlassian-guard
 https://admin.lastpass.com
-https://admin.moneyboxapp.org/
+https://admin.moneyboxapp.org
 https://admin.sqills-bugbounty-test.cloud.sqills.com/api/v3/intelligence
 https://admin.sqills-bugbounty-test.cloud.sqills.com/en-GB/intelligence
 https://admin3.pentest.clicsante.ca/
@@ -199,7 +199,7 @@ https://api.mafshoppingmalls.com/
 https://api.marionnaud.ch/api/v2/api-docs
 https://api.marionnaud.hu/api/v2/api-docs
 https://api.marionnaud.it/api/v2/api-docs
-https://api.moneyboxapp.com/
+https://api.moneyboxapp.com
 https://api.myntra.com
 https://api.neogov.com
 https://api.netgear.com
@@ -659,6 +659,7 @@ https://example-jssdk-integ.uidapi.com
 https://example-srvonly-integ.uidapi.com
 https://exchange.pulsepoint.com
 https://exchange.pulsepoint.com/AdminPortal/AdminDashBoard.aspx
+https://explorer.cronos.org/token/0x2e53c5586e12a99d4cae366e9fc5c14fe9c6495d
 https://externalconnect.usaa.com/
 https://fantasysports.yahooapis.com/
 https://faucets.chain.link/
@@ -1468,6 +1469,7 @@ https://marketplace.atlassian.com/apps/1237512/latex-math-for-confluence?hosting
 https://marketplace.atlassian.com/apps/1237517/captionizer-ai-image-analyzer
 https://marketplace.atlassian.com/apps/1237729/checklist-for-jira-cloud-smart-todo-lists?hosting=cloud
 https://marketplace.atlassian.com/apps/14896/review-creator-for-fisheye?hosting=server
+https://marketplace.atlassian.com/apps/1899492230/live-tables-from-csv-json-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter
 https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=server
@@ -1926,7 +1928,7 @@ https://support.newrelic.com/
 https://support.okta.com
 https://support.threatdown.com/hc/en-us/articles/4413802501395-protection-policy-settings-in-nebula#browser_phishing_protection_10
 https://supportportal.thalesgroup.com
-https://sycamore.moneyboxapp.org/
+https://sycamore.moneyboxapp.org
 https://t-mobile.com
 https://takeaway.com
 https://takeaway.pay-creditcard.takeaway.com/
