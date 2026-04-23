@@ -4105,7 +4105,6 @@ staging.kidswebservices.com
 staging.magisto.com
 staging.travix.com
 staking-api.polygon.technology
-staking.consensys.io
 staking.polygon.technology
 starling-ttp.lemon8-app.us
 start.khealth.com
@@ -4166,6 +4165,7 @@ sun.wnba.com
 super6.skysports.com
 superbet.bet.br
 superbet.com
+superbet.gr
 superbet.pl
 superbet.ro
 superbet.rs
@@ -4561,7 +4561,6 @@ web.ryadom.kz
 web.snapchat.com
 web.truecaller.com
 web3.moonpay.com
-web3factory.consensys.net
 webapps-accpt.portofantwerp.com
 webapps-accpt.portofantwerpbruges.com
 webapps-test.portofantwerpbruges.com/xui

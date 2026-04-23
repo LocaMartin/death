@@ -15881,6 +15881,7 @@ kiwa.info
 kiwa.nl
 kiwa.no
 kiwa.se
+kiwaimpact.com
 kkr.cloud
 kkr.com
 kkresg.com
