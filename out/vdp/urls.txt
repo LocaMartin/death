@@ -2043,6 +2043,7 @@ https://github.com/aws/s2n-tls
 https://github.com/bitwarden
 https://github.com/bwillis/versioncake
 https://github.com/concrete5/concrete5
+https://github.com/curl/curl
 https://github.com/defectdojo/django-defectdojo
 https://github.com/duckduckgo/duckduckgo-privacy-extension
 https://github.com/gusto/apollo-federation-ruby

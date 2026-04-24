@@ -5812,7 +5812,6 @@ chilis.wgiftcard.com
 chilisstore.wgiftcard.com
 china-dev.migrationlistener.miq.cbre.com
 china-dev.migrationresponse.miq.cbre.com
-china.airasiago.com
 chinaapi-uat.elcompanies.cn
 chinaapi.elcompanies.cn
 chinacacd-prod-floating.us.e10.c01.johndeerecloud.com
@@ -27302,7 +27301,6 @@ tgm.green.cbre.com
 th-qa.nonprod.cbre.com
 th-uat.nonprod.cbre.com
 th.gallileo-frankfurt.com
-thailand.airasiago.com
 thailand.preview.cbre.com
 thcu-admin.originate.fiservapps.com
 thcu-dc.cert.fec-dc.fiservapps.com

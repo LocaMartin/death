@@ -56,7 +56,6 @@ http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/propertie
 http://market.android.com/details?id=com.ibotta.android
 http://marlo.ext.tripadvisor.com
 http://mcp.intercom.com
-http://media.itsfogo.com/media/upload/mobile/android/apk/partycasino_com.apk
 http://member-qa.chime.com/enroll
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
 http://mobileapp-gaming.mgm.mo
@@ -236,7 +235,6 @@ https://api.thefork.io
 https://api.thesecurityteam.rocks
 https://api.thetradedesk.com
 https://api.thousandeyes.com/
-https://api.tidal.com
 https://api.toom.de
 https://api.tripadvisor.com
 https://api.unity.com
@@ -777,7 +775,6 @@ https://github.com/cosmos/ics23
 https://github.com/cosmos/ledger-cosmos
 https://github.com/cosmos/relayer
 https://github.com/cosmos/solidity-ibc-eureka
-https://github.com/curl/curl
 https://github.com/digitalocean/do-agent
 https://github.com/digitalocean/doctl
 https://github.com/digitalocean/droplet-agent
@@ -1801,7 +1798,6 @@ https://sandbox-buy.paddle.com
 https://sandbox-checkout-service.paddle.com
 https://sandbox-login.paddle.com
 https://sandbox-vendors.paddle.com
-https://sandbox.directly.com/dashboard/index
 https://sb-console-api.fireblocks.io
 https://sb-mobile-api.fireblocks.io
 https://scalews.withings.com
@@ -2135,7 +2131,6 @@ https://www.bluehost.com
 https://www.bookbeat.com
 https://www.bostonacoustics.com
 https://www.bowerswilkins.com
-https://www.bwin.com
 https://www.canva.com
 https://www.canva.com/developers
 https://www.canva.com/en_au/help/chatgpt-templates
@@ -2160,7 +2155,6 @@ https://www.cms.gov/
 https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
 https://www.coloros.com/
-https://www.coral.co.uk
 https://www.coral.co.uk/en/games
 https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews
@@ -2237,8 +2231,6 @@ https://www.files.com/docs/client-apps/mobile-app
 https://www.files.com/docs/on-premise/agent
 https://www.finicity.com
 https://www.flipkart.com
-https://www.galabingo.com
-https://www.galacasino.com
 https://www.gamemaker.io
 https://www.gesundheitsverbund.at
 https://www.globalacademycme.com
@@ -2273,7 +2265,6 @@ https://www.kohls.com
 https://www.kohls.com/feature/app.jsp
 https://www.kuleuven.be/sapredir/admissions_50000050
 https://www.kuleuven.be/sapredir/huisvesting
-https://www.ladbrokes.com
 https://www.ladbrokes.com/en/games
 https://www.lansweeper.com/download
 https://www.larksuite.com/download
@@ -2364,8 +2355,6 @@ https://www.otto.de/jobs
 https://www.outsourcing.optus.net.au/eFRAMS3
 https://www.outsourcing2.optus.net.au/eFRAMS3
 https://www.paddle.com
-https://www.partycasino.com
-https://www.partypoker.com
 https://www.personio.com/free-trial
 https://www.personio.de/kostenlos-testen
 https://www.pexels.com/
