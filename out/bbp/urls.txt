@@ -236,7 +236,6 @@ https://api.thefork.io
 https://api.thesecurityteam.rocks
 https://api.thetradedesk.com
 https://api.thousandeyes.com/
-https://api.toom.de
 https://api.tripadvisor.com
 https://api.unity.com
 https://api.upwork.com/graphql
@@ -946,6 +945,13 @@ https://github.com/vercel/vercel
 https://github.com/vercel/workflow
 https://github.com/web3auth/web3auth-web
 https://github.com/worldcoin
+https://github.com/worldcoin/orb-core
+https://github.com/worldcoin/orb-firmware
+https://github.com/worldcoin/orb-messages
+https://github.com/worldcoin/orb-relay-messages
+https://github.com/worldcoin/orb-rustzone
+https://github.com/worldcoin/orb-secure-element
+https://github.com/worldcoin/orb-software
 https://gitlab.com/gitlab-org/gitaly
 https://gitlab.com/gitlab-org/gitlab
 https://gitlab.com/gitlab-org/gitlab-pages
@@ -1955,7 +1961,6 @@ https://tidal.com/
 https://tms.onecloud.harman.com
 https://tomoe.bykea.net
 https://tools-api.cryptocompare.com/
-https://toom.de
 https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com

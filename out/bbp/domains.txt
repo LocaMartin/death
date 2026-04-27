@@ -988,6 +988,7 @@ bal-uat.nba.com
 bal.nba.com
 ballistic.com
 ballistic.com.br
+bancoplata.mx
 bankaccountdata.gocardless.com
 baoliyun.com
 base.org
@@ -2344,7 +2345,6 @@ germany.politico.eu
 gesundheitsverbund.at
 gethypr.com
 getsling.com
-getworldcoin.com
 gh-mail.expressvpn.com
 gift.starbucks.co.jp
 giftcards.marriott.com
@@ -3410,6 +3410,7 @@ pangle-mediation-ttp.tiktokpangle.us
 pangleglobal.com
 parknshop.com
 parool.nl
+parse.ly
 partner-webhook.remitly.io
 partner.logitech.com
 partner.steamgames.com
