@@ -366,6 +366,7 @@ adayevrak.watsons.com.tr
 adb.nba.com
 addons.allizom.org
 adm.cloud.com
+admin-portal.api-xperience.com
 admin.8x8.com
 admin.instacart.com
 admin.meeshosupply.com
@@ -402,6 +403,7 @@ affiliate-id.tokopedia.com
 affiliate.meesho.com
 agents.hostinger.com
 agents.tasheer.com
+ai.8x8.vc
 ai.kanghealth
 ai.portswigger.net
 ai.x.grok
@@ -653,6 +655,7 @@ api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.privy.io
+api.prod.innovexperiments.com
 api.prod.whoop.com
 api.profiler.firefox.com
 api.qualified.com/v1
@@ -779,6 +782,7 @@ app.datacamp.com/learn
 app.delen.be
 app.delen.ch
 app.delen.lu
+app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
@@ -879,6 +883,7 @@ as2.portofantwerpbruges.com
 asadcdn.com
 asana.biz
 ask.khealth.com
+askpeopleteam.visa.com
 assessment-api.datacamp.com
 assessment-v2.datacamp.com
 assessment.datacamp.com
@@ -1185,6 +1190,7 @@ canva-apps.com
 canva.cn
 canva.com
 canva.tech
+capability.prod.innovexperiments.com
 capital.com
 capitalone.ca
 capitalone.com
@@ -1310,6 +1316,7 @@ coda.io
 code.playcanvas.com
 code.yoti.com
 codebig2.net
+codeofconduct.visa.com
 codex.bbpress.org
 codex.buddypress.org
 codex.wordpress.org
@@ -1431,9 +1438,9 @@ com.coinhako
 com.coinhako.app
 com.coinspot.app
 com.coloros.assistantscreen
-com.coloros.browser
 com.coloros.findmyphone
 com.coloros.pictorial
+com.coloros.video
 com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
@@ -1467,6 +1474,7 @@ com.fintech.life
 com.foxnextgames.m3
 com.frame.frameio
 com.frontapp.mobile
+com.fullmetalgamedev.fruitshooting
 com.genevachat.staging
 com.goodrx
 com.goodrx.iphone
@@ -1517,6 +1525,7 @@ com.heytap.wearable.healthassessment
 com.heytap.wearable.market
 com.heytap.wearable.research
 com.heytap.wearable.themestore
+com.heytap.xgame
 com.hotornot.app
 com.hotwire.hotels
 com.hyatt
@@ -1529,6 +1538,9 @@ com.inthepocket.kinepolis
 com.iphone.workfront
 com.jellybtn.boardkings
 com.jellybtn.cashkingmobile
+com.katanlabs.bubblepop
+com.katanlabs.matchballgame
+com.katanlabs.worm.ioeatemall
 com.kayak.android
 com.kayak.travel
 com.kitkagames.fallbuddies
@@ -1616,11 +1628,13 @@ com.oceanwing.fdmprint
 com.oplus.accesscard
 com.oplus.account
 com.oplus.aimemory
+com.oplus.games
 com.oplus.melody
 com.oplus.play
 com.oplus.studycenter
 com.oplus.themestore
 com.oppo.market
+com.oppo.quicksearchbox
 com.oppo.speechassist
 com.oppo.store
 com.orbitz
@@ -1883,6 +1897,7 @@ cweb-ott.nba.com
 cyberghost.app
 cyberghost.com
 cyberghostvpn.com
+cybersourcebouncebacks.visa.com
 cyrus-security.com
 cz.skodaauto.myskoda
 daily.blablacar.fr
@@ -1975,6 +1990,7 @@ developer.swapcard.com/event-admin/graphql
 developer.valvesoftware.com
 developer.visa.com
 developer.worldcoin.org
+developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
 developers.veriff.me
@@ -2048,6 +2064,7 @@ dropboxpartners.com
 dropmix.com
 dropxl.com
 duokan.com
+dwy.visa.com
 dx-demo.deriv.com
 dx.deriv.com
 e2ro.com
@@ -2092,6 +2109,7 @@ edge.blablacar.pt
 edge.blablacar.ro
 edge.blablacar.ru
 edge.blablacar.tr
+edge.bookbeat.com
 edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
@@ -2194,6 +2212,7 @@ exodus.com
 exodus.io
 exoscale.com
 expediapartnercentral.com
+experience.prod.innovexperiments.com
 experiences.booking.com
 explore.redoxengine.com
 expressvpn.com
@@ -2292,6 +2311,7 @@ folioinstitutional.com
 folioinvesting.com
 fonts.adobe.com
 forescout.com
+forms.cybersource.com
 forms.mobilevikings.be
 forspotify.com
 fortnite.com
@@ -2325,6 +2345,7 @@ gamma.grab.co
 gamma.nl
 gammacademy.be
 gammalokaal.nl
+garp.visa.com
 gasstation.polygon.technology
 gatekeeper.prd.iat.it.xvservice.net
 gateway-apc.marriott.com
@@ -2471,6 +2492,7 @@ hacktoberfest.com
 happening.dev
 hardware found on https://www.ezviz.com/category/security-wifi-cameras
 hardware found on https://www.ezviz.com/category/smart-home
+harman.com
 harmanaudio.com
 harmankardon.com
 harmonixmusic.com
@@ -2597,6 +2619,7 @@ iframe.arkoselabs.com
 igpayment.com
 ik.watsons.com.tr
 ikarem.io
+images.demand.cybersource.com
 img.swapcard.com
 immedia-semi.com
 immutable.com
@@ -2620,6 +2643,8 @@ indriver.io
 indriverapp.com
 inf.fndlsb.net
 infinite.visa.fr
+info.authorize.net
+info.cybersource.com
 info.shop-apotheke.com
 infra-prod.nsvcs.net
 ingest.clairvoyance.indrive.tech
@@ -2627,6 +2652,7 @@ innersloth.kidswebservices.com
 innogames.com
 innogames.de
 innovation.superdrug.com
+innovexperiments.com
 inpli.se
 insider.in
 insight.io
@@ -3074,6 +3100,12 @@ merch.23andme.com
 merchandise.opera-api.com
 merchant.crypto.com
 merchant.wolt.com
+merchantsignage.visa.com
+merchantsignageap.visa.com
+merchantsignageca.visa.com
+merchantsignageeu.visa.com
+merchantsignageglobal.visa.com
+merchantsignagejp.visa.com
 mercury-dev.wnba.com
 mercury-qa.wnba.com
 mercury.wnba.com
@@ -3220,6 +3252,7 @@ mystics.wnba.com
 myteksi.com
 myteksi.net
 mytrainpal.com
+myvu.visauniversity.com
 naasapi.optus.com.au
 nadex.com
 napoleoncasino.be
@@ -3605,6 +3638,7 @@ presence.geneva-staging.chat
 presence.geneva-staging.com
 presentationtracking.netflix.com
 press.priceline.com
+preview.8x8.vc
 priceline.com
 pricerunner.com
 prijsmepper.nl
@@ -3820,6 +3854,7 @@ sandbox.authorize.net
 sandbox.braintreegateway.com
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
+sap.api-xperience.com
 savers.co.uk
 savi.xyz
 say.rocks
@@ -4253,6 +4288,7 @@ test.deribit.com
 test.payworks.io
 testapi.redoxengine.com
 testapp.redoxengine.com
+testbank.xs2a.com
 testing.maventa.com
 testko.com
 testnet.bitmex.com
@@ -4440,10 +4476,12 @@ varonis.com
 varonis.io
 varonis.net
 vascoworldwide.net
+vasdemos.visa.com
 vayama.com
 vc.logitech.com
 vcc-*.8x8.com
 vcc-ce.8x8.com
+vdam.visa.com
 vector.prd.iat.it.xvservice.net
 venmo.com
 vennhypotheken.nl
@@ -4467,6 +4505,7 @@ vfsglobal.by
 vfsglobal.ca
 vfsglobal.co.uk
 vfsglobal.com
+vgov.catalogue.digitalcontrolroom.com
 vhx.tv
 via.rider
 viator.com
@@ -4500,7 +4539,10 @@ visa.com.bo
 visa.com.jm
 visa.com.ru
 visa.com.ua
+visainnovationprogram.com
 visamiddleeast.com
+visaonchainanalytics.com
+visasgic.api-xperience.com
 vliegwinkel.nl
 voapi.8x8.com
 voi.com
@@ -4524,6 +4566,7 @@ vt.shop-apotheke.com
 vth.nba.com
 vtm.be
 vtmgo.be
+vwcm.visa.com
 vznkul.be
 vœux.vinci.com
 w1.uzleuven.be
@@ -5042,6 +5085,7 @@ www.travelocity.com
 www.trekpleister.nl
 www.trendyol-milla.com
 www.trendyol.com
+www.trialpay.com
 www.triseptapi.com
 www.triseptdemo.com
 www.triseptsolutions.com

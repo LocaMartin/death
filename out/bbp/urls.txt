@@ -67,6 +67,7 @@ http://my.ultramobile.com
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://nav.naspers.com
 http://nexus.live.ucs.on.epicgames.com/
+http://open.oppomobile.com
 http://ourhouse.underarmour.com/
 http://pay.monashcollege.edu.au/
 http://payments.hostinger.com
@@ -393,6 +394,11 @@ https://businessportal.doccleservices.eu/
 https://businessportal.origin.com.au
 https://butlerfortrello.com/
 https://buyersedge.co.nz
+https://c.realme.com/eg
+https://c.realme.com/global
+https://c.realme.com/id
+https://c.realme.com/in
+https://c.realme.com/ru
 https://caldav.calendar.yahoo.com/dav/%2A/calendar
 https://caldav.calendar.yahoo.com/principals/users
 https://calendar.yahoo.com/ws/v3/users
@@ -453,7 +459,9 @@ https://com.etoro.wallet
 https://communities.epicgames.com
 https://community.etsy.com
 https://community.exoscale.com/
+https://community.oppo.com/
 https://community.personio.com
+https://communityin.oppo.com/
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.monash.edu
@@ -1866,6 +1874,7 @@ https://snc.underarmour.com/
 https://sncf-connect.com
 https://snctest-c.underarmour.com/
 https://snctest-s.underarmour.com/
+https://solutions.visaacceptance.com/subscription
 https://song.link
 https://songlink.io
 https://sora.chatgpt.com
@@ -2353,7 +2362,6 @@ https://www.opera.com/computer/thanks?ni=stable&os=windows
 https://www.oppo.com/id/store
 https://www.oppo.com/in/store
 https://www.oppo.com/my/store
-https://www.oppo.com/th
 https://www.oppo.com/th/store
 https://www.opposhop.cn/
 https://www.opposhop.cn/m
@@ -2520,7 +2528,7 @@ https://www.zoop.ws
 https://www2.acc.jessazh.be/
 https://wwws-staging.moneytree.jp/link
 https://wwws-staging.moneytree.jp/link/mobile
-https://wwws-staging.moneytree.jp/link/mobile#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
+https://wwws-staging.moneytree.jp/link/mobile#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
 https://xv-cp.apis-staging.xvtest.net/
 https://xyzbmojn.net/
 https://yeswehack.com

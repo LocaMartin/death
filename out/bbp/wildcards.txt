@@ -448,6 +448,7 @@ hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.net
 happening.dev
+harman.com
 harmanaudio.com
 harmankardon.com
 harmonixmusic.com
@@ -513,6 +514,7 @@ indriver.io
 indriverapp.com
 innogames.com
 innogames.de
+innovexperiments.com
 inpli.se
 insider.in
 insight.io

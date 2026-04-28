@@ -449,7 +449,6 @@
 217.33.241.33-217.33.241.62
 217.38.165.25/29
 217.68.20.116
-21st.com
 227242d5-a18b-427f-967b-52aece59fc95.prod.reverse.svc.fleetboard.com
 22f3edd8-87d1-4a29-a79d-7f5951ca28a2.prod.reverse.svc.fleetboard.com
 23.31.104.113
@@ -1061,6 +1060,7 @@ accord-produit.daimlertruck.com
 account.buildinglicense.abb.com
 account.buildingplus.abb.com
 account.buildingplus.abb.com.cn
+account.bupa.com.au
 account.deere.com
 account.gallileo-frankfurt.com
 account.n45ht.or.id
@@ -2128,6 +2128,7 @@ api.jobs.hackthebox.com
 api.la.clover.com
 api.locator.cbre.com
 api.locator.research.cbre.com
+api.lovable.dev
 api.marketiq.cbre.com
 api.merge.locator.research.cbre.com
 api.mini.magic-mirror.cn
@@ -2340,7 +2341,6 @@ app.dailypay.com
 app.divvy.co
 app.expertconnect.deere.com
 app.fmpilot.com
-app.formassembly.com
 app.fuelhub.fleetboard.com
 app.getflywheel.com
 app.gmelius.com
@@ -2356,7 +2356,6 @@ app.medifox-therapie.de
 app.moldmonitoring.it.abb.com
 app.mon.luna.cbre.de
 app.monarchmoney.com
-app.overloop.com
 app.redislabs.com
 app.response.cbre.com.au
 app.riteaid.fmpilot.com
@@ -2446,7 +2445,6 @@ apps.uat.thelobby.cbre.com
 apps1.seagate.com
 appscu.fiserv.com
 appsec.olbanking.com
-appsecfa.tfaforms.net
 appsint.cbre.eu
 appslatam.com
 appstore.cbre.com
@@ -2792,6 +2790,7 @@ auth.govone.com
 auth.grubhub.com
 auth.kreisel-cloud.com
 auth.library.abb.com
+auth.lovable.dev
 auth.myvirtualsuper.com
 auth.nextcloud.com
 auth.optifact.robotics.abb.com
@@ -3863,6 +3862,7 @@ bloominbrands.wgiftcard.com
 bloominbrandsstore.wgiftcard.com
 bls-api-prod.cbre.com
 bls.gov
+blua.bupa.com.au
 blue.api-dev.cbre.com
 blue.api-gwm-dev.cbre.com
 blue.api.cbre.com
@@ -3880,7 +3880,6 @@ blueflamecu-admin.originate.fiservapps.com
 blueflamecu-dc.cert.fec-dc.fiservapps.com
 blueflamecu-dn.financial-net.com
 blueflamecu.originate.fiservapps.com
-blueinsurance.ie
 bluepearlvet.com
 blueprint.cbre.com
 blueridge-admin.originate.fiservapps.com
@@ -4160,7 +4159,6 @@ briouk.com
 briousa.com
 bristolmorganbank-admin.originate.fiservapps.com
 bristolmorganbank.originate.fiservapps.com
-bristolwest.com
 britannialifescience.com
 britishairways.com
 britishnursingindex.co.uk
@@ -4306,6 +4304,10 @@ bulkeditprocessor.miq.cbre.com
 bundakraft.com
 bunningsinvestments.com.au
 bunningsportfolio.com.au
+bupa.com.au
+bupaagedcare.com.au
+bupadental.com.au
+bupaoptical.bupa.com.au
 bureau.cbre.fr
 bureaux.cbre.fr
 bureauxlocaux.com
@@ -5807,7 +5809,6 @@ chicagoffcu-dn.financial-net.com
 childcareinvestor.au
 childcareinvestor.com.au
 chile.transunion.com
-chilena.cl
 chilis.wgiftcard.com
 chilisstore.wgiftcard.com
 china-dev.migrationlistener.miq.cbre.com
@@ -7556,8 +7557,6 @@ covenantreviews.com
 covenantxtract.com
 coventry-uat.streamlendvelocity.net
 covergeoperations.com
-covermore.com
-covermore.com.au
 covermymeds.com
 cowo.wirtgen-group.com
 cowpens.ca.essd.northgrum.com
@@ -8396,7 +8395,6 @@ d2c.origins.co.uk
 d2c.smashbox.co.uk
 d2c.tomfordbeauty.co.uk
 d2c.toofaced.co.uk
-da-direkt.de
 daas.abb.com.cn
 dachpecongress.com
 dachpeforum.com
@@ -8788,7 +8786,6 @@ demoruchida.org
 demoui.cbreesi.com
 demouidatacenter.cbreesi.com
 demouidistribution.cbreesi.com
-dentolo.de
 denverwestbusinesspark.com
 denverwestofficepark.com
 dep-val-web-btat2.fiserv.com
@@ -11345,7 +11342,6 @@ fandangostore.wgiftcard.com
 fanniemay.com
 fanout.io
 fapiis.gov
-farmers.com
 farmersandmerchants-cs.apps-uat.ilendx.tech
 farmersandmerchants-cs.apps.ilendx.tech
 farmersandmerchants-di.apps-uat.ilendx.tech
@@ -11357,8 +11353,6 @@ farmersbankgroup-admin.originate.fiservapps.com
 farmersbankgroup.originate.fiservapps.com
 farmersbankks-admin.originate.fiservapps.com
 farmersbankks.originate.fiservapps.com
-farmersinsurance.com
-farmerslife.com
 farmerssavings-admin.originate.fiservapps.com
 farmerssavings.originate.fiservapps.com
 farmersstate-admin.originate.fiservapps.com
@@ -12156,12 +12150,9 @@ ford.ca
 ford.com
 forecaster.cbre.com
 forecaster.research.cbre.com
-foremost.com
-foremoststar.com
 forgotpass.johndeere.com
 form.digitalcapture.elcompanies.com
 formant.dev.bearflagrobotics.com
-formassembly.com
 forms-formulaires.alpha.canada.ca
 forms.abb.com
 forms.cpai.egslb.cmp.aon.com
@@ -15901,7 +15892,6 @@ klefcu-admin.originate.fiservapps.com
 klefcu-dc.cert.fec-dc.fiservapps.com
 klefcu-dn.financial-net.com
 klefcu.originate.fiservapps.com
-klinc.com
 kliosvpn.kleemann.info
 klmail.kleemann.info
 klqr.kleemann.info
@@ -18934,6 +18924,7 @@ my.abb.com
 my.acml.ca
 my.aven.com
 my.bpost.be
+my.bupa.com.au
 my.cbre.com
 my.connect.aws
 my.cyberidlock.com
@@ -21168,6 +21159,7 @@ partnerbuy.wip.it.hpe.com
 partnercare-cert.checkfree.com
 partnergui.mtn.zm
 partnerhub.connect.abb.com
+partnerlogin.bupa.com.au
 partners-cbreglobalinvestors.glb.cbre.com
 partners.cbre.com
 partners.cbreglobalinvestors.com
@@ -22201,7 +22193,6 @@ powerbi.smarterpro.abb.com
 powerco.fdecs.com
 powercocat.fdecs.com
 powercrete.com
-poweredbycovermore.com
 poweringposttrade.com
 poweringposttrade.net
 powerplanrx.com
@@ -23595,7 +23586,6 @@ rbspeople.com
 rcam.target.com
 rcfcu-dc.cert.fec-dc.fiservapps.com
 rcfcu-dn.financial-net.com
-rcis.com
 rcjapan.jp
 rclauthors.com
 rclauthors.org
@@ -24358,7 +24348,6 @@ sa.hm.com
 sa.shopjustice.me
 sa.smartapply.com
 saasalerts.com
-sabadellproteccion.com
 sabal.com
 sabalo.ca.essd.northgrum.com
 sabinefcu-admin.originate.fiservapps.com
@@ -27980,8 +27969,6 @@ transuniondecisioncentre.co.in
 transunionsolutions.co.in
 travatan.ca
 travel.gallileo-frankfurt.com
-travelguard.com
-travelguard.zurichna.com
 travelocity.ca
 travelocity.com
 travelocityincentives.wgiftcard.com
@@ -28321,7 +28308,6 @@ txn.originate.fiservapps.com
 txnationalbank.onlinebank.com
 tyl-connect.technologi.co.uk
 tyl.technologi.co.uk
-typeahead.formassembly.com
 tyverb.ca
 u-sleep.umbian.com
 uafcu-dc.cert.fec-dc.fiservapps.com
@@ -32122,7 +32108,6 @@ www.surefireag.com
 www.surepointag.com
 www.survey.cbre.com
 www.survey.locator.cbre.com
-www.swalesaerospace.com
 www.t3e.uk
 www.tap.cbre.com
 www.tapingo.com
@@ -32792,26 +32777,6 @@ zta.nube.53.com
 ztc.nube.53.com
 ztna.myngc.com
 zumbini.fr
-zurich-connect.at
-zurich.at
-zurich.co.ae
-zurich.co.id
-zurich.co.jp
-zurich.co.uk
-zurich.com
-zurich.com.ar
-zurich.com.au
-zurich.com.br
-zurich.com.hk
-zurich.com.my
-zurich.de
-zurich.es
-zurich.it
-zurichbank.it
-zurichempresas.es
-zurichkotak.com
-zurichna.com
-zurichseguros.com.ec
 zxframework.org
 zxsavvy.org
 zykadia.ca
