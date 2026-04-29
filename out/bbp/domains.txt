@@ -1474,7 +1474,6 @@ com.fintech.life
 com.foxnextgames.m3
 com.frame.frameio
 com.frontapp.mobile
-com.fullmetalgamedev.fruitshooting
 com.genevachat.staging
 com.goodrx
 com.goodrx.iphone
@@ -2062,7 +2061,6 @@ dropboxer.net
 dropboxforum.com
 dropboxpartners.com
 dropmix.com
-dropxl.com
 duokan.com
 dwy.visa.com
 dx-demo.deriv.com
@@ -2462,7 +2460,6 @@ grofer.io
 grofers.com
 grok.com
 grokipedia.com
-grwtrading.com
 gs-mosaic.gs.com
 gs-mosaic.qa.gs.com
 gs.com
@@ -2492,7 +2489,6 @@ hacktoberfest.com
 happening.dev
 hardware found on https://www.ezviz.com/category/security-wifi-cameras
 hardware found on https://www.ezviz.com/category/smart-home
-harman.com
 harmanaudio.com
 harmankardon.com
 harmonixmusic.com
@@ -2690,6 +2686,7 @@ io.coda.codaapp
 io.metamask
 io.metamask.metamask
 ios: app store	(905953485) nordvpn - [apple app store](https://apps.apple.com/us/app/id905953485?mt=8)  please make sure you are testing the latest version.     ios: app store (1486322860) nordpass - [apple app store](https://apps.apple.com/us/app/nordpass-password-manager/id1486322860?ls=1&referrer=client_id=eba15f5b-e4a3-42ca-ba68-e16c170f39e0)  please make sure you are testing the latest version.    android .apk: com.nordvpn.android nordvpn - [android sideload download](https://nordvpn.com/download/android/)  please make sure you are testing the latest version.    android play store: com.nordvpn.android nordvpn - [google play store](https://play.google.com/store/apps/details?id=com.nordvpn.android)  please make sure you are testing the latest version.    android play store: com.nordpass.android.app.password.manager nordpass - [google play store](https://play.google.com/store/apps/details?id=com.nordpass.android.app.password.manager&launch=true&referrer=client_id=eba15f5b-e4a3-42ca-ba68-e16c170f39e0)    please make sure you are testing the latest version
+iqoption.com
 ir.bookingholdings.com
 ir.clearme.com
 ir.remitly.com
@@ -3696,6 +3693,7 @@ py.pl
 qaglobal-liquidity.gs.com
 qm-8x8.com
 qpp.cms.gov
+quadcode.com
 quintoandar.com.br
 quip.com
 quixel.com

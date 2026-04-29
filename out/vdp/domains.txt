@@ -1725,7 +1725,6 @@ annexe17.daimlertruck.com
 annonces-uber.fr
 annoncesuber.fr
 annualreport.cbre.com
-annualreport.cybersecuritycoalition.be
 annualreport2014.e.abb.com
 annualreport2015.e.abb.com
 annualreport2016.e.abb.com
@@ -2341,6 +2340,7 @@ app.dailypay.com
 app.divvy.co
 app.expertconnect.deere.com
 app.fmpilot.com
+app.formassembly.com
 app.fuelhub.fleetboard.com
 app.getflywheel.com
 app.gmelius.com
@@ -2445,6 +2445,7 @@ apps.uat.thelobby.cbre.com
 apps1.seagate.com
 appscu.fiserv.com
 appsec.olbanking.com
+appsecfa.tfaforms.net
 appsint.cbre.eu
 appslatam.com
 appstore.cbre.com
@@ -2790,7 +2791,6 @@ auth.govone.com
 auth.grubhub.com
 auth.kreisel-cloud.com
 auth.library.abb.com
-auth.lovable.dev
 auth.myvirtualsuper.com
 auth.nextcloud.com
 auth.optifact.robotics.abb.com
@@ -12153,6 +12153,7 @@ forecaster.research.cbre.com
 forgotpass.johndeere.com
 form.digitalcapture.elcompanies.com
 formant.dev.bearflagrobotics.com
+formassembly.com
 forms-formulaires.alpha.canada.ca
 forms.abb.com
 forms.cpai.egslb.cmp.aon.com
@@ -26829,6 +26830,7 @@ tastemade.com
 tastyrewards.ca
 tastyrewards.com
 tax.gov
+taxact.com
 tayyarijeetki.in
 tazzinenutella2024.ferreropromo.it
 tbillpay.pcsbanking.net
@@ -28308,6 +28310,7 @@ txn.originate.fiservapps.com
 txnationalbank.onlinebank.com
 tyl-connect.technologi.co.uk
 tyl.technologi.co.uk
+typeahead.formassembly.com
 tyverb.ca
 u-sleep.umbian.com
 uafcu-dc.cert.fec-dc.fiservapps.com
@@ -31364,6 +31367,7 @@ www.fmpilot.org
 www.fmpilot2.com
 www.fmpilot2.net
 www.form.digitalcapture.elcompanies.com
+www.formassembly.com
 www.forumanalytics.com
 www.fotocasa.es
 www.fountainbridgesouth.net

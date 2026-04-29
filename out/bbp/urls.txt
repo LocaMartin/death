@@ -142,7 +142,6 @@ https://analytics-admin.prosus.com
 https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
 https://answers.irobot.com
-https://anytask.thesecurityteam.rocks
 https://api-a.usaa.com
 https://api-app.datadome.co
 https://api-businessportal.origin.com.au
@@ -160,7 +159,6 @@ https://api-secure.sports.yahoo.com
 https://api-skipthedishes.skipthedishes.com
 https://api.20min.ch
 https://api.aiven.io/login
-https://api.anytask.thesecurityteam.rocks
 https://api.bitpanda.com
 https://api.blts.kape.com
 https://api.bookbeat.com
@@ -340,6 +338,7 @@ https://b2blsapi.usaa.com
 https://backblaze.com
 https://backend.ibotta.com
 https://base.org
+https://basescan.org/address/0xf469ec9debf7f0adeba4d1db2ff5c70707beeb30
 https://basketball.fantasysports.yahoo.com/
 https://bb1.simplisafe.com
 https://bb2.simplisafe.com
@@ -370,6 +369,7 @@ https://bounty-fastly.datashield.co
 https://bounty-nginx.datashield.co
 https://bounty-nodejs.datashield.co
 https://bounty.cryptobox.com
+https://bridge.ripio.com/
 https://browser-notifications.opera.com
 https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
@@ -427,7 +427,6 @@ https://cdn.unicdn.net/apk/unibetcasino.apk
 https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com
-https://challenge-0426.intigriti.io
 https://charts.etoro.com
 https://chat.openai.com
 https://checkout.finance.yahoo.com/checkout/v1
@@ -467,7 +466,7 @@ https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.monash.edu
 https://connect.paymaya.com
 https://connect.soundcloud.com
-https://consensus2024.sandbox.events.coindesk.com/
+https://consensus2026.sandbox.events.coindesk.com/
 https://console-stage.neon.build/
 https://console.aiven.io/login
 https://console.delltechnologies.com/nav/administration
@@ -651,6 +650,16 @@ https://esp-jssdk-integ.uidapi.com
 https://esp-srvonly-integ.uidapi.com
 https://etherscan.io/address/0x00005ea00ac477b1030ce78506496e8c2de24bf5
 https://etherscan.io/address/0x0000a26b00c1f0df003000390027140000faa719
+https://etherscan.io/address/0x0dc4f92879b7670e5f4e4e6e3c801d229129d90d
+https://etherscan.io/address/0x337e7456b420bd3481e7fa61fa9850343d610d34
+https://etherscan.io/address/0x46167cb034fec6cec46caed4f61281f5aa0eb0e6
+https://etherscan.io/address/0x465e642387d3d73a57cdc1368ffa53a800ba5d47
+https://etherscan.io/address/0x4f34c8b3b5fb6d98da888f0fea543d4d9c9f2ebe
+https://etherscan.io/address/0x61d450a098b6a7f69fc4b98ce68198fe59768651
+https://etherscan.io/address/0x8a1d45e102e886510e891d2ec656a708991e2d76
+https://etherscan.io/address/0xd168cfbbe260d48cd119497a9a2ee8482080c5e7
+https://etherscan.io/address/0xd76f5faf6888e24d9f04bf92a0c8b921fe4390e0
+https://etherscan.io/address/0xdcc340132740ad57e9fc90c9bd08b00dbbc87986
 https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
 https://etorologsapi.etoro.com
 https://etoropartners.com
@@ -2092,6 +2101,7 @@ https://wiki.atom-lens.com
 https://wise.com
 https://wmaudience.com
 https://world.planethoster.net
+https://worldscan.org/address/0xde7ec97cfdee9f20f9d256f4a0a0d694479fa2e0
 https://wowjobs.ca
 https://wpengine.com
 https://ws.multiplayer.classdojo.com
