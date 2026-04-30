@@ -2,11 +2,18 @@ http://accountoffers.wellsfargo.com
 http://activitylog.io/
 http://analytics.prosus.com
 http://api.faraday.ai
+http://api.gx.games/gms
+http://api.gx.games/gx
+http://api.gx.games/pub
+http://api.gx.me/me
 http://api.insightly.com/v3.1
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
 http://api.lightspark.com
 http://api.na1.insightly.com/v3.1
+http://api.neon.opera.com/neon/pub
+http://api.neon.opera.com/neon/store
+http://api.neon.opera.com/pub
 http://app-qa.chime.com/users/sign_in
 http://app.faraday.ai
 http://app.fing.com/app
@@ -176,7 +183,6 @@ https://api.dextf.com/dd
 https://api.dts.kape.com
 https://api.electroneum.com
 https://api.enc.kape.com
-https://api.engadget.com/api
 https://api.etoro.com
 https://api.expressvpn.com
 https://api.fstr.rocks
@@ -272,6 +278,7 @@ https://app.insomnia.rest/
 https://app.intercom.com
 https://app.intercom.io
 https://app.latitudepayapps.com
+https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
 https://app.pdq.com/
@@ -731,6 +738,7 @@ https://github.com/aikidosec/firewall-python#Vulnerability
 https://github.com/aikidosec/firewall-ruby#Detection%20Bypass
 https://github.com/aikidosec/firewall-ruby#False%20Positive
 https://github.com/aikidosec/firewall-ruby#Vulnerability
+https://github.com/aikidosec/safe-chain
 https://github.com/aiven
 https://github.com/aiven-open
 https://github.com/auth0/auth0-java
@@ -992,6 +1000,7 @@ https://gwapi.tripadvisor.com
 https://gwapi1.tripadvisor.com
 https://gwapi2.tripadvisor.com
 https://gx.games
+https://gx.me
 https://gx.opera-api.com
 https://hatching.io
 https://healthmate.withings.com
@@ -1615,6 +1624,7 @@ https://napoleongames.be
 https://napoleonsports.be
 https://nbs.pinelabs.com
 https://ncp-gw-abu.media.yahoo.com/
+https://neon.opera.com/cards
 https://net.geo.opera.com
 https://newrelic.com/
 https://newrelic.com/blog

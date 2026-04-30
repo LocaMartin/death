@@ -1,7 +1,6 @@
 ## notes  only use this asset when nothing else can be reasonably selected.    bugs with yahoo! that are not listed in scope of our other yahoo-related assets can still be submitted to this asset and **_*might*_** be eligible for award, at the sole discretion of the yahoo bug bounty team
 *.admanager.yahoo.com
 *.compuserve.com
-*.engadget.com
 *.gemini.yahoo.com
 *.isp.netscape.com
 *.lite.aol.com
@@ -2872,6 +2871,7 @@ login.lansweeper.com
 login.oyens.com
 login.playcanvas.com
 login.rei.com
+login.remitly.com
 login.starbucks.co.jp
 login.swapcard.com
 login.truelayer-sandbox.com
