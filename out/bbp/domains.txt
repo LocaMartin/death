@@ -1470,6 +1470,11 @@ com.finshell.wallet
 com.fintech.life
 com.foxnextgames.m3
 com.frame.frameio
+com.freshchat.agent.android
+com.freshdesk.helpdesk
+com.freshservice.helpdesk
+com.freshservice.helpdesk.intune
+com.freshworks.freshcaller
 com.frontapp.mobile
 com.genevachat.staging
 com.goodrx
@@ -5249,6 +5254,12 @@ you.23andme.com
 youpin.cn
 your-store.myshopify.com
 yourcompany.udemy.com
+yourdomain.freshcaller.com
+yourdomain.freshchat.com
+yourdomain.freshdesk.com
+yourdomain.freshrelease.com
+yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yoyogames.com
 ys7.com
 ywh.admin.zecible.fr
