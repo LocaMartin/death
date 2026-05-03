@@ -1615,7 +1615,6 @@ https://busch.com
 https://business.gov
 https://businessdeposits.digitalcommerce.truist.com
 https://businessonboardinguat.momo.africa/
-https://ca-optout.live.web.corebridgefinancial.com/optout/login.jsp
 https://ca-roa.medeco.com
 https://cabmanager.citymesh.com/
 https://cadabotellacuenta.com
@@ -2499,6 +2498,7 @@ https://openanaccount-admin.fnbcreston.com
 https://opendata.fcc.gov
 https://openonline.53.com/
 https://oportun.com
+https://optout.life2.corebridgefinancial.com/optout/login.jsp
 https://order.wonder.com
 https://osts.fcc.gov
 https://otodom.pl
