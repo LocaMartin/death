@@ -260,6 +260,7 @@ http://cat.api.fiservapps.com
 http://cat.emea.api.fiservapps.com
 http://cat.latam.api.fiservapps.com
 http://cat.prepaidaccess.com
+http://cat1.fsdsapps.com/api/fs/ecsauth
 http://cbc-qa.comerica.com
 http://cbc.comerica.com
 http://ccf.onlinebank.com
@@ -1421,7 +1422,6 @@ https://api.influencer.sproutsocial.com
 https://api.kroger.com
 https://api.mintel.com
 https://api.mtn.com
-https://api.netgear.com
 https://api.proof.com
 https://api.seatgeek.com/
 https://api.sproutsocial.com
@@ -1855,7 +1855,7 @@ https://docs.strongdm.com/users/client/macos
 https://docs.strongdm.com/users/client/windows
 https://doctordirectory.com
 https://docusave.baldor.com
-https://dojo-yeswehack.com/challenge-of-the-month/dojo-50
+https://dojo-yeswehack.com/challenge-of-the-month/dojo-51
 https://donorbox.org
 https://donorbox.org/admin
 https://donorbox.org/embed/potato

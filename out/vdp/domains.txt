@@ -9797,6 +9797,7 @@ dr.virtualapp.com
 dra.uat.cbreapps.com
 draftingwillstrusts.com
 draken.aero
+drakesoftware.com
 drcitrixdirector.cbre.eu
 drconsulting.com
 drcsg.cbre.com
@@ -16883,6 +16884,7 @@ loxonin-s.info
 loxonins.info
 loyaltrustbank-admin.originate.fiservapps.com
 loyaltrustbank.originate.fiservapps.com
+loyaltyregistration.deere.com
 lp-global-plm.abb.com
 lp.gallileo-frankfurt.com
 lp1.cbreinvestors.com
@@ -24785,7 +24787,6 @@ secureclient.cbreim.com
 securedadvantagefcu-dc.cert.fec-dc.fiservapps.com
 securedadvantagefcu-dn.financial-net.com
 secureidentity.com.au
-secureinternetbank-cs.apps-uat.ilendx.tech
 secureinternetbank-cs.apps.ilendx.tech
 secureinternetbank-di.apps.ilendx.tech
 secureinternetbank.apps-uat.ilendx.tech
@@ -27970,6 +27971,7 @@ transuniondecisioncentre.co.in
 transunionsolutions.co.in
 travatan.ca
 travel.gallileo-frankfurt.com
+travelers-api.getyourguide.com
 travelocity.ca
 travelocity.com
 travelocityincentives.wgiftcard.com
@@ -31404,6 +31406,7 @@ www.geocoderapi.cbre.com
 www.geoskill-dev.cbre.com
 www.geoskill-test.cbre.com
 www.geoskill.cbre.com
+www.getyourguide.com
 www.gewerbeimmobilien.cbre.de
 www.gia-portal-dev.cbre.com
 www.ginternal-uat.cbre.eu
@@ -31551,6 +31554,7 @@ www.jdepyext.cbre.com
 www.jdeuat.cbre.com
 www.jdeuatext.cbre.com
 www.jdinsight.com.cn
+www.jdmsofom.com.mx
 www.jetblue.com
 www.jira.cbre.com
 www.jiramb.cbre.com
