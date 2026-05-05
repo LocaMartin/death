@@ -362,6 +362,9 @@
 203.119.95.0/24
 203.133.248.0/22
 203.17.179.0/24
+203.31.52.0/23
+203.31.52.0/24
+203.31.53.0/24
 204.136.100.0/23
 204.136.102.0/24
 204.136.103.0/24
@@ -449,6 +452,7 @@
 217.33.241.33-217.33.241.62
 217.38.165.25/29
 217.68.20.116
+21st.com
 227242d5-a18b-427f-967b-52aece59fc95.prod.reverse.svc.fleetboard.com
 22f3edd8-87d1-4a29-a79d-7f5951ca28a2.prod.reverse.svc.fleetboard.com
 23.31.104.113
@@ -3880,6 +3884,7 @@ blueflamecu-admin.originate.fiservapps.com
 blueflamecu-dc.cert.fec-dc.fiservapps.com
 blueflamecu-dn.financial-net.com
 blueflamecu.originate.fiservapps.com
+blueinsurance.ie
 bluepearlvet.com
 blueprint.cbre.com
 blueridge-admin.originate.fiservapps.com
@@ -4159,6 +4164,7 @@ briouk.com
 briousa.com
 bristolmorganbank-admin.originate.fiservapps.com
 bristolmorganbank.originate.fiservapps.com
+bristolwest.com
 britannialifescience.com
 britishairways.com
 britishnursingindex.co.uk
@@ -5809,6 +5815,7 @@ chicagoffcu-dn.financial-net.com
 childcareinvestor.au
 childcareinvestor.com.au
 chile.transunion.com
+chilena.cl
 chilis.wgiftcard.com
 chilisstore.wgiftcard.com
 china-dev.migrationlistener.miq.cbre.com
@@ -7557,6 +7564,8 @@ covenantreviews.com
 covenantxtract.com
 coventry-uat.streamlendvelocity.net
 covergeoperations.com
+covermore.com
+covermore.com.au
 covermymeds.com
 cowo.wirtgen-group.com
 cowpens.ca.essd.northgrum.com
@@ -8395,6 +8404,7 @@ d2c.origins.co.uk
 d2c.smashbox.co.uk
 d2c.tomfordbeauty.co.uk
 d2c.toofaced.co.uk
+da-direkt.de
 daas.abb.com.cn
 dachpecongress.com
 dachpeforum.com
@@ -8786,6 +8796,7 @@ demoruchida.org
 demoui.cbreesi.com
 demouidatacenter.cbreesi.com
 demouidistribution.cbreesi.com
+dentolo.de
 denverwestbusinesspark.com
 denverwestofficepark.com
 dep-val-web-btat2.fiserv.com
@@ -11343,6 +11354,7 @@ fandangostore.wgiftcard.com
 fanniemay.com
 fanout.io
 fapiis.gov
+farmers.com
 farmersandmerchants-cs.apps-uat.ilendx.tech
 farmersandmerchants-cs.apps.ilendx.tech
 farmersandmerchants-di.apps-uat.ilendx.tech
@@ -11354,6 +11366,8 @@ farmersbankgroup-admin.originate.fiservapps.com
 farmersbankgroup.originate.fiservapps.com
 farmersbankks-admin.originate.fiservapps.com
 farmersbankks.originate.fiservapps.com
+farmersinsurance.com
+farmerslife.com
 farmerssavings-admin.originate.fiservapps.com
 farmerssavings.originate.fiservapps.com
 farmersstate-admin.originate.fiservapps.com
@@ -11742,7 +11756,6 @@ fingerscrossed.cadbury.ie
 fingertipformulary.com
 finishline.cbre.com
 finishlinestore.wgiftcard.com
-finmark.com
 finra.org
 finseccu-admin.originate.fiservapps.com
 finseccu-dc.cert.fec-dc.fiservapps.com
@@ -12151,6 +12164,8 @@ ford.ca
 ford.com
 forecaster.cbre.com
 forecaster.research.cbre.com
+foremost.com
+foremoststar.com
 forgotpass.johndeere.com
 form.digitalcapture.elcompanies.com
 formant.dev.bearflagrobotics.com
@@ -15893,6 +15908,7 @@ klefcu-admin.originate.fiservapps.com
 klefcu-dc.cert.fec-dc.fiservapps.com
 klefcu-dn.financial-net.com
 klefcu.originate.fiservapps.com
+klinc.com
 kliosvpn.kleemann.info
 klmail.kleemann.info
 klqr.kleemann.info
@@ -15939,6 +15955,7 @@ konduto.blog
 konduto.com
 kongsbergasp.iongroup.com
 konkursoreo.pl
+konstru.com
 koolaufcu-admin.originate.fiservapps.com
 koolaufcu-dc.cert.fec-dc.fiservapps.com
 koolaufcu-dn.financial-net.com
@@ -22195,6 +22212,7 @@ powerbi.smarterpro.abb.com
 powerco.fdecs.com
 powercocat.fdecs.com
 powercrete.com
+poweredbycovermore.com
 poweringposttrade.com
 poweringposttrade.net
 powerplanrx.com
@@ -23588,6 +23606,7 @@ rbspeople.com
 rcam.target.com
 rcfcu-dc.cert.fec-dc.fiservapps.com
 rcfcu-dn.financial-net.com
+rcis.com
 rcjapan.jp
 rclauthors.com
 rclauthors.org
@@ -24350,6 +24369,7 @@ sa.hm.com
 sa.shopjustice.me
 sa.smartapply.com
 saasalerts.com
+sabadellproteccion.com
 sabal.com
 sabalo.ca.essd.northgrum.com
 sabinefcu-admin.originate.fiservapps.com
@@ -27972,6 +27992,8 @@ transunionsolutions.co.in
 travatan.ca
 travel.gallileo-frankfurt.com
 travelers-api.getyourguide.com
+travelguard.com
+travelguard.zurichna.com
 travelocity.ca
 travelocity.com
 travelocityincentives.wgiftcard.com
@@ -28937,6 +28959,7 @@ unemployment.gov
 unetouchededouceur.ca
 uni.mtn.com
 unibanco.com.br
+unibas.ch
 unibond.co.uk
 unicelarchitectural.com
 uniclass.com.br
@@ -32783,6 +32806,26 @@ zta.nube.53.com
 ztc.nube.53.com
 ztna.myngc.com
 zumbini.fr
+zurich-connect.at
+zurich.at
+zurich.co.ae
+zurich.co.id
+zurich.co.jp
+zurich.co.uk
+zurich.com
+zurich.com.ar
+zurich.com.au
+zurich.com.br
+zurich.com.hk
+zurich.com.my
+zurich.de
+zurich.es
+zurich.it
+zurichbank.it
+zurichempresas.es
+zurichkotak.com
+zurichna.com
+zurichseguros.com.ec
 zxframework.org
 zxsavvy.org
 zykadia.ca
