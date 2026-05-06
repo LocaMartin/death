@@ -1140,6 +1140,7 @@ acs580mv-installedbase.abb.com.cn
 acsmgt.t3-int.daimlertruck.com
 acsmgt.t3.daimlertruck.com
 act-development-testing-internal-tools.apps-dev.ilendx.tech
+act.deere.com
 actipa.com
 activate-ui-blue.vas-plat.cbre.com
 activate-ui-green.vas-plat.cbre.com
@@ -6695,6 +6696,8 @@ coastalstatesbank-admin.originate.fiservapps.com
 coastalstatesbank.originate.fiservapps.com
 cobotlaunch.robotics.abb.com
 cobots.robotics.abb.com
+coca-cola.com
+coca-colacompany.com
 cocert.acfcu.org
 cocoalife.org
 coconinofcu-dc.cert.fec-dc.fiservapps.com
@@ -6746,6 +6749,8 @@ cohnrestaurantsstore.wgiftcard.com
 coinbase.pm
 coinpass.com
 coins.cbre.eu
+coke.com
+cokeurl.com
 colb.vfcu.net
 coldrivertax.com
 coldstonecreamery.wgiftcard.com
@@ -13459,6 +13464,8 @@ hca.aon.com
 hcbanks.architect-cert.fiservapps.com
 hcbanks.onlinebank.com
 hccareers.cbre.com
+hccb.in
+hccbpl.in
 hccu-dn.financial-net.com
 hcfcu4u-dc.cert.fec-dc.fiservapps.com
 hcfcu4u-dn.financial-net.com
@@ -15949,6 +15956,7 @@ knowukreferencecentre.co.uk
 knowus.co.uk
 knowyourtradie.com.au
 knx-maintenance.abb.com
+ko.com
 ko.gallileo-frankfurt.com
 kohls.customercare.emessenger-fd.com
 konduto.blog
@@ -16572,6 +16580,7 @@ loctite-maintenance.it
 loctite-maintenance.nl
 loctite-maintenance.pl
 loctite-proizvodi-za-odrzavanje.hr
+loctite-pulse.com
 loctite-superbond.com.hr
 loctite-superbond.ee
 loctite-superbond.hr
@@ -26875,6 +26884,7 @@ tcc-qa.nonprod.cbre.com
 tcc-tm.nonprod.cbre.com
 tcc-uat.nonprod.cbre.com
 tcc.amer.myngc.com
+tccc-aem.com
 tccshare.cbre.com
 tccu-tx-admin.originate.fiservapps.com
 tccu-tx-dc.cert.fec-dc.fiservapps.com
@@ -27237,6 +27247,7 @@ testing123.cbre.com
 testing1234.cbre.com
 testinlaneservice.checkfreepay.com
 testintegration.cbre.com
+testko.com
 testmail.cbre.ca
 testmriapi.cbre.com
 testmriweb.cbre.com
@@ -29191,6 +29202,7 @@ us.artifactory-staging.gcsonp.cbre.com
 us.artifactory.gcso.cbre.com
 us.artifactory.gcsonp.cbre.com
 us.artifactory.pnonprod.gcso.cbre.com
+us.coca-cola.com
 us.dev-artifactory.gcsonp.cbre.com
 us.dev.artifactory.gcsonp.cbre.com
 us.devartifactory.gcsonp.cbre.com

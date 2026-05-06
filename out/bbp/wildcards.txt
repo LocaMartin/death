@@ -205,16 +205,12 @@ cloudways.com
 cm.com
 cms.gov
 cmtelecom.com
-coca-cola.com
-coca-colacompany.com
 coda.io
 codebig2.net
 cognitiveperformer.com
 coinbase-corp.com
 coinbase.com
 coindcx.com
-coke.com
-cokeurl.com
 comcast.com
 comcast.net
 compuserve.com
@@ -449,8 +445,6 @@ harmanaudio.com
 harmankardon.com
 harmonixmusic.com
 harmonyremote.com
-hccb.in
-hccbpl.in
 hellofax.com
 hellosign.com
 helloworks.com
@@ -556,7 +550,6 @@ kinepolis.lu
 kinepolis.nl
 kiwi.com
 klubcinema.fr
-ko.com
 konghq.com
 korta.is
 kortathjonustan.is
@@ -1007,7 +1000,6 @@ superhuman.com
 swiftype.com
 swisspass.ch
 talent-community.com
-tccc-aem.com
 tchap.gouv.fr
 tdl.sh
 techbook.de
@@ -1018,7 +1010,6 @@ tesla.com
 tesla.services
 teslainsuranceservices.com
 teslamotors.com
-testko.com
 theelasticast.com
 thefork.tech
 theperfumeshop.com
@@ -1075,7 +1066,6 @@ twitter.biz
 twitter.com
 tyo-masters.co.jp
 ua.com
-uber.com
 ubereats.com
 uberinternal.com
 ubi.com

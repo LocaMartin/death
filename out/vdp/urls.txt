@@ -189,7 +189,6 @@ http://bitbucket-dev.lab42.us.baesystems.com
 http://bitbucket.lab42.us.baesystems.com
 http://bnfcu-dn.financial-net.com
 http://bnsfrailwaycu-dn.financial-net.com
-http://boardsbeyond.com/
 http://bossierfcu.onlinebank.com
 http://bptools.businesstrack.com
 http://branding3.secureinternetbank.com
@@ -702,11 +701,6 @@ http://merchantsbank.onlinebank.com
 http://merchantsecure-cat.firstdata.com
 http://merchantsecureapp.com
 http://metering-services.aboitizpower.com
-http://mh.com/
-http://mhcampus.com/
-http://mheducation.com/
-http://mhhe.com/
-http://mhprofessional.com/
 http://microapps.ayoba.me
 http://midambk.onlinebank.com
 http://middlefieldbank.onlinebank.com
@@ -994,7 +988,6 @@ http://sftp1.comerica.com
 http://sfts-test-allen.us.baesystems.com
 http://sfts.us.baesystems.com
 http://sicredi.oneportal24.com
-http://simnetonline.com/
 http://sip.oneportal24.com
 http://sitef.softwareexpress.com.br
 http://sitef1.softwareexpress.com.br
@@ -1071,7 +1064,6 @@ http://tdi-prod.fiservapps.com
 http://tdi-uat.fiservapps.com
 http://teamsites-stage.ext.us.baesystems.com
 http://teamsites.ext.us.baesystems.com
-http://tegrity.com/
 http://test-otp.firstdata.com.ar
 http://test.3ds.firstdata.com
 http://test.apac.api.fiservapps.com
@@ -1285,6 +1277,7 @@ http://www.recalls.gov
 http://www.saferproducts.gov
 http://www.test.api.ipg-online.com
 http://www.thepayplace.com
+http://www.transactiontracking.com
 http://www.usdirectexpress.com
 http://www.visayanelectric.com
 http://www.vuela.aeromexico.com
@@ -1735,6 +1728,7 @@ https://cnd.com.do
 https://cnet.com
 https://codeguardian-veeam.caci.com
 https://codereview.seagate.com
+https://cokeplay.cocacola.co.kr/main
 https://colaypola.com.co
 https://collective.lacie.com
 https://colomovers.com

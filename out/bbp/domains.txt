@@ -351,6 +351,7 @@ accounts.snapchat.com
 accountshomolog.acesso.io
 aces-dev.wnba.com
 aces-qa.wnba.com
+aces-qa2.wnba.com
 aces.wnba.com
 acrobat.adobe.com
 acronis.com
@@ -382,6 +383,7 @@ adobe.fresco.ios
 adobeid-na1.services.adobe.com
 ads-img.allizom.org
 ads-img.mozilla.org
+ads-partners.tw.coupang.com
 ads.allizom.org
 ads.mozilla.org
 ads.reddit.com
@@ -915,8 +917,12 @@ audicagame.com
 auroratechaward.com
 aus5.mozilla.org
 auth-apc.marriott.com
+auth-identity-dev-ping.nba.com
 auth-identity-dev.nba.com
+auth-identity-ping.nba.com
+auth-identity-qa-ping.nba.com
 auth-identity-qa.nba.com
+auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
@@ -1112,6 +1118,7 @@ buckingfuggy.com
 buddypress.org
 budgetair.com
 bug-bounty-be.glean.com
+bugbounty-refined-test-<bugcrowd-name>.refined.site
 bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
@@ -1210,8 +1217,11 @@ cares.nba.com
 cargo.indrive.com
 carrentals.com
 cars.booking.com
+cart-front-api.tw.coupang.com
 cart.starbucks.co.jp
+cart.tw.coupang.com
 cas.tomorrowland.com
+cash.tw.coupang.com
 cashier.deriv.com
 cashier.robinhood.com
 cashstaging.app
@@ -1259,6 +1269,7 @@ checkout.playstation.com
 checkout.rapyd.net
 checkout.razorpay.com
 checkout.stripe.com
+checkout.tw.coupang.com
 checkout.vimeo.com
 chime.com
 chimebank.com
@@ -1299,6 +1310,7 @@ cloudways.com
 cm.com
 cm.com/[locale]/register
 cm.com/app/messagingtrial
+cmapi.tw.coupang.com
 cmcom.atlassian.net
 cms.monespacesante.fr
 cms.nba.com
@@ -1307,8 +1319,6 @@ co.mona.android
 co.uk.getmondo
 coaching.supernovas.indrive.com
 coban.pixiv.net
-coca-cola.com
-coca-colacompany.com
 coda.io
 code.playcanvas.com
 code.yoti.com
@@ -1322,8 +1332,6 @@ coinbase-corp.com
 coinbase.com
 coindcx.com
 coinmarketcap.com
-coke.com
-cokeurl.com
 collections.portswigger.net
 com.3mosquitos.mercadolibre
 com.acronis.abc
@@ -1827,6 +1835,11 @@ contentportalauth.marriott.com
 contentsquare.com
 contile.services.mozilla.com
 contributor.stock.adobe.com
+core-api-aws-dev.nba.com
+core-api-aws-prod-east1.nba.com
+core-api-aws-prod.nba.com
+core-api-aws-qa.nba.com
+core-api-aws-uat.nba.com
 core-api-dev.nba.com
 core-api-devint.nba.com
 core-api-qa.nba.com
@@ -1889,12 +1902,31 @@ custody.coinbase.com
 customer-sessions.arkoselabs.com
 customerevents.netflix.com
 cw.visa.com
+cweb-ott-aws-qa.nba.com
+cweb-ott-aws-uat-uw2.nba.com
+cweb-ott-aws-uat.nba.com
+cweb-ott-dev-aws.nba.com
+cweb-ott-dev-preview.nba.com
 cweb-ott-dev.nba.com
 cweb-ott-devint.nba.com
+cweb-ott-preview.nba.com
+cweb-ott-qa-aws.nba.com
+cweb-ott-qa-preview.nba.com
 cweb-ott-qa.nba.com
+cweb-ott-uat-preview.nba.com
+cweb-ott-uat-uc-preview.nba.com
 cweb-ott-uat-uc.nba.com
+cweb-ott-uc-preview.nba.com
 cweb-ott-uc.nba.com
 cweb-ott.nba.com
+cweb-qa-aws-preview.nba.com
+cweb-slot1-ott-dev.nba.com
+cweb-slot2-ott-dev.nba.com
+cweb-slot3-ott-dev.nba.com
+cweb-slot4-ott-dev.nba.com
+cweb-slot5-ott-dev.nba.com
+cweb-slot6-ott-dev.nba.com
+cweb-slot6-preview-ott-dev.nba.com
 cyberghost.app
 cyberghost.com
 cyberghostvpn.com
@@ -1938,6 +1970,7 @@ datapod-2-query.acceptance.forescoutcloud.net
 dbt.shop-apotheke.com
 dcfgateway.marriott.com
 dcfgatewaytst1.marriott.com
+dco.tw.coupang.com
 de.bmw.connected.mobile20.row
 de.forescout.cloud
 de.jbl.com
@@ -1994,6 +2027,7 @@ developer.worldcoin.org
 developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
+developers.tw.coupangcorp.com
 developers.veriff.me
 device.marriott.com
 devicelock.com
@@ -2053,6 +2087,7 @@ dpgmedia.be
 dpgmedia.nl
 dream-dev.wnba.com
 dream-qa.wnba.com
+dream-qa2.wnba.com
 dream.wnba.com
 drive.wolt.com
 drogas.lt
@@ -2244,12 +2279,14 @@ fashion4less.me
 faucet-api.polygon.technology
 faucet.polygon.technology
 fb.lansweeper.com
+feed-web.tw.coupang.com
 feedback.logitech.com
 feednews.com
 fetlife.com
 fetlifemail.com
 fever-dev.wnba.com
 fever-qa.wnba.com
+fever-qa2.wnba.com
 fever.wnba.com
 fhdn.fareharbor.com
 fhir.developer.monespacesante.fr
@@ -2267,6 +2304,8 @@ files.com
 files.com rest api
 files.com sdk's
 files.uzleuven.be
+fileupload-video.tw.coupang.com
+fileupload.tw.coupang.com
 finance.mobile.yahoo.com
 finance.query.yahoo.com
 finance.quintoandar.com.br
@@ -2275,6 +2314,7 @@ financeiro.quintoandar.com.br
 findaya.co.id
 findaya.com
 fing.com
+fintech-aml-kyc-tw.coupang.com
 fire-dev.wnba.com
 fire-qa.wnba.com
 fire.wnba.com
@@ -2406,6 +2446,7 @@ globaldesign.marriott.com
 globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
+go-cms.tw.coupang.com
 go-pay.co.id
 go.capital.com
 go.geneva-staging.com
@@ -2498,8 +2539,6 @@ harmonyremote.com
 has.embark.net
 hc2services.com
 hc2tooling.com
-hccb.in
-hccbpl.in
 healthclinics.superdrug.com
 hellofax.com
 hellosign.com
@@ -2514,6 +2553,8 @@ help.redoxengine.com
 help.steampowered.com
 help.ui.com
 help.uisp.com
+helpcenter-tw.coupangcorp.com
+helpseller.tw.coupangcorp.com
 here.com
 hereapi.com
 hey.app
@@ -2597,11 +2638,21 @@ id.nba.com
 id.oppo.com
 id.realestate.com.au
 id.stg.inspectorio.com
+id.tw.coupang.com
 idcash-uat.unico.io
 identi.robinhood.com
 identity-dev.nba.com
 identity-ng.nba.com
+identity-ping.nba.com
 identity-qa.nba.com
+identity-server-dev.nba.com
+identity-server-ping-dev.nba.com
+identity-server-ping-qa.nba.com
+identity-server-ping-uat.nba.com
+identity-server-ping.nba.com
+identity-server-qa.nba.com
+identity-server-uat.nba.com
+identity-server.nba.com
 identity-uat.nba.com
 identity.clearme.com
 identity.nba.com
@@ -2641,6 +2692,7 @@ indriver.io
 indriverapp.com
 inf.fndlsb.net
 infinite.visa.fr
+influencers.tw.coupang.com
 info.authorize.net
 info.cybersource.com
 info.shop-apotheke.com
@@ -2779,7 +2831,6 @@ klubcinema.fr
 knowage.developer.monespacesante.fr
 knowage.monespacesante.fr
 knox.beta.blendlabs.com
-ko.com
 konfigurator.bmw-motorrad.de
 konghq.com
 korta.is
@@ -2826,6 +2877,7 @@ lfscnp.com
 libelle.nl
 liberty-dev.wnba.com
 liberty-qa.wnba.com
+liberty-qa2.wnba.com
 liberty.wnba.com
 lifeatspotify.com
 liferay dxp 2024.q1
@@ -2834,6 +2886,7 @@ liferay dxp 2026.q1
 lightroom.adobe.com
 link.co
 link.com
+link.tw.coupang.com
 linkpop.com
 links.geneva-staging.chat
 links.geneva-staging.com
@@ -2848,6 +2901,8 @@ lists.wordpress.org
 live-backstage.tiktok.com
 live-service.whatnot.com
 livestream.com
+ljc-test.tw.coupang.com
+ljc.tw.coupang.com
 loanbuilder.com
 locale.trip.com
 localized versions of www.tripadvisor.com available from the site's header or footer
@@ -2861,7 +2916,11 @@ login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
 login-api.truelayer-sandbox.com
 login-api.truelayer.com
+login-dev.nba.com
+login-qa.nba.com
+login-sandbox.nba.com
 login-test.portofantwerpbruges.com
+login-uat.nba.com
 login.aol.com
 login.arkane.network
 login.cm.com
@@ -2871,6 +2930,7 @@ login.delen.lu
 login.innogames.de
 login.insightly.com
 login.lansweeper.com
+login.nba.com
 login.oyens.com
 login.playcanvas.com
 login.rei.com
@@ -2893,12 +2953,14 @@ logitechg.com
 logitechg.com.cn
 logitechgchallenge.com
 logitechmusic.com
+logs-partners.tw.coupang.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 logstash.net
 logstash.wtf
 lol.onevone
 lookatme.com.ph
 louvre.veriff.me
+loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
 lt.drogas.consumer
@@ -2913,6 +2975,7 @@ luxuryretreats.com
 lv.drogas.consumer
 lynx-dev.wnba.com
 lynx-qa.wnba.com
+lynx-qa2.wnba.com
 lynx.wnba.com
 lyst.co
 lyst.com
@@ -2945,6 +3008,7 @@ m.chaturbate.com
 m.goodrx.com
 m.reddit.com
 m.trendyol.com
+m.tw.coupang.com
 magazine.kruidvat.be
 magento.com
 magic.veriff.me
@@ -2988,6 +3052,7 @@ mark8.syfe.com
 marketing.fareharbor.com
 marketing.na1.insightly.com
 marketplace.gamemaker.io
+marketplace.tw.coupangcorp.com
 marquee.gs.com
 marriott.com
 marriottfranchisetransactions.marriott.com
@@ -3000,6 +3065,7 @@ massimodutti.cn
 massimodutti.com
 matomo.cloud
 matrix.redditspace.com
+mauth.tw.coupang.com
 maximo-accpt.portofantwerp.com
 maximo-accpt.portofantwerpbruges.com
 maximo.portofantwerp.com
@@ -3007,6 +3073,7 @@ maximo.portofantwerpbruges.com
 mb-cosmos.com
 mbamupdates.com
 mc.sendgrid.com
+mc.tw.coupang.com
 mcd-dev.nba.com
 mcd-devint.nba.com
 mcd-perf.nba.com
@@ -3069,6 +3136,7 @@ meliplay.com.ar
 meliplay.com.pe
 meliplay.com.uy
 melonapp.com
+member.tw.coupang.com
 member.watsons.com.tw
 meraki.com
 mercadolibre.cl
@@ -3107,6 +3175,7 @@ merchantsignageglobal.visa.com
 merchantsignagejp.visa.com
 mercury-dev.wnba.com
 mercury-qa.wnba.com
+mercury-qa2.wnba.com
 mercury.wnba.com
 merino.services.mozilla.com
 messenger.eu-east-1.indriverapp.com
@@ -3223,6 +3292,7 @@ my.sheer.com
 my.snapchat.com
 my.swiftfinancial.com
 my.tomorrowland.com
+my.tw.coupang.com
 my.visa.fr
 myaccount-cn.payoneer.com
 myaccount-hardening.dynatracelabs.com
@@ -3243,10 +3313,12 @@ myinsights.io
 mynexuz.be
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
+myself.tw.coupang.com
 myservices-api.stage.vismaonline.com
 mysqueezebox.com
 mystics-dev.wnba.com
 mystics-qa.wnba.com
+mystics-qa2.wnba.com
 mystics.wnba.com
 myteksi.com
 myteksi.net
@@ -3309,6 +3381,7 @@ nml.com
 nmtracking.netflix.com
 nnip.com
 node.js/typescript
+notification-front-web.tw.coupang.com
 notion.id
 notion.so
 notion.so/api/v3
@@ -3427,6 +3500,7 @@ packet8.net
 paddypartners.com
 paddypower.com
 paddypower.it
+pages.tw.coupang.com
 palantir.build
 palantir.com
 palantir.tech
@@ -3453,6 +3527,7 @@ partner.urbancompany.com
 partnerportal.skyscanner.net/*
 partners.deriv.com
 partners.shopify.com
+partners.tw.coupang.com
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
@@ -3466,6 +3541,7 @@ pay.staging-enviso.io
 pay.tokopediax.com
 pay.truelayer-sandbox.com
 pay.truelayer.com
+pay.tw.coupang.com
 pay.wallet.tg
 pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
@@ -3490,6 +3566,7 @@ payment.storspelare.se
 payment.storspiller.com
 payment.truelayer-sandbox.com
 payment.truelayer.com
+payment.tw.coupang.com
 payment.unibet.be
 payment.unibet.co.uk
 payment.unibet.com
@@ -3674,6 +3751,7 @@ profiles.wordpress.org
 projectbaseline.com
 projects.datacamp.com
 projects.epam.com
+promo.tw.coupang.com
 protrade.com
 prow.k8s.io
 prowly.com
@@ -3739,6 +3817,7 @@ recko.io
 reckoproduction.com
 reckostaging.com
 reclaim.ai
+reco.tw.coupang.com
 recovery.privy.io
 redcare-apotheke.ch
 redcare-pharmacie.fr
@@ -3751,6 +3830,7 @@ redditmedia.com
 redecor.com
 redoxengine.com
 refer.23andme.com
+refined.site/admin
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.capital.com
@@ -3786,6 +3866,7 @@ reservations.wynnvacations.com
 resources.krisp.ai
 restaurant-api.wolt.com
 restintergamma.nl
+review.tw.coupang.com
 reviewer.pullrequest.com
 reviewvault.com
 rewire.com
@@ -3827,6 +3908,7 @@ rpc.blockdaemon.testnet.arc.network
 rpc.drpc.testnet.arc.network
 rpc.quicknode.testnet.arc.network
 rpc.testnet.arc.network
+rs-open-api.tw.coupang.com
 rt.playcanvas.com
 rtbscale.com
 ru-yandex-api-app.vfsevisa.com
@@ -3969,6 +4051,7 @@ shop.parool.nl
 shop.shop_apotheke.com.shopapotheke
 shop.tiktok.com
 shop.trouw.nl
+shop.tw.coupang.com
 shop.volkskrant.nl
 shop.whoop.com
 shop.wyndhamvacationownership.trisept.travel
@@ -4005,6 +4088,7 @@ skills-store.amazon.com
 skinfra.xyz
 sky-dev.wnba.com
 sky-qa.wnba.com
+sky-qa2.wnba.com
 sky.wnba.com
 skybet.co.uk
 skybet.com
@@ -4066,6 +4150,7 @@ spaces.pm
 spark.fareharbor.com
 sparks-dev.wnba.com
 sparks-qa.wnba.com
+sparks-qa2.wnba.com
 sparks.wnba.com
 spectacles.com
 speedtest-blacktown.optusnet.com.au
@@ -4151,7 +4236,17 @@ start.khealth.com
 static-website.miro.com
 station.veriff.com
 stationapi.veriff.com
+stats-dev.nba.com
+stats-qa.nba.com
+stats-trafficcop-aws-dev.nba.com
+stats-trafficcop-aws-prod-east1.nba.com
+stats-trafficcop-aws-prod.nba.com
+stats-trafficcop-aws-qa.nba.com
+stats-trafficcop-aws-uat.nba.com
+stats-trafficcop-dev.nba.com
 stats-trafficcop-prod.nba.com
+stats-trafficcop-qa.nba.com
+stats-trafficcop-uat.nba.com
 stats.gleague.nba.com
 stats.nba.com
 stats.vinci.com
@@ -4162,6 +4257,7 @@ statuspage.io
 steamcommunity.com
 steamstatic.com
 stock.adobe.com
+store-display.tw.coupang.com
 store.23andme.com
 store.playcanvas.com
 store.playstation.com
@@ -4173,6 +4269,7 @@ store.ui.com
 storefront.steampowered.com
 storm-dev.wnba.com
 storm-qa.wnba.com
+storm-qa2.wnba.com
 storm.wnba.com
 story.snapchat.com
 stradivarius.cn
@@ -4201,6 +4298,7 @@ subp-router.hereapi.com
 subscriptions.firefox.com
 sun-dev.wnba.com
 sun-qa.wnba.com
+sun-qa2.wnba.com
 sun.wnba.com
 super6.skysports.com
 superbet.bet.br
@@ -4250,6 +4348,7 @@ swisspass.ch
 sync.logitech.com
 sync.services.mozilla.com
 syndication.nba.com
+syndication.tw.coupang.com
 sys.comcast.net
 t.swapcard.com
 t.umblr.com
@@ -4258,7 +4357,6 @@ tax.audible.com
 tax.crypto.com
 taxi.booking.com
 taxis.booking.com
-tccc-aem.com
 tchap.gouv.fr
 tdl.sh
 team.swapcard.com
@@ -4289,7 +4387,6 @@ testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
 testing.maventa.com
-testko.com
 testnet.bitmex.com
 testnet.immutable.com
 teststs.uzleuven.be
@@ -4383,6 +4480,9 @@ tunnistus.s-ryhma.fi
 tvg.com
 tw.bid.yahoo.com
 tw.com.watsons.app
+tw.coupang.com
+tw.coupangcorp.com
+tw.coupangls.com
 tw.mobi.yahoo.com
 tw.search.ec.yahoo.com
 tw.stock.yahoo.com
@@ -4438,7 +4538,6 @@ upld.krisp.ai
 upsell.hyatt.com
 url-checker.indrive.com
 us.cloud.com
-us.coca-cola.com
 us.forescout.cloud
 us.identity.konghq.com
 us.louisvuitton.com
@@ -4658,6 +4757,7 @@ wimpmusic.com
 winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
+wings-qa2.wnba.com
 wings.wnba.com
 winkels.torfs.be
 winter.tomorrowland.com
@@ -5092,6 +5192,7 @@ www.trouw.nl
 www.trouw.nl/abonnementen
 www.truecaller.com
 www.tumblr.com
+www.tw.coupang.com
 www.udemy.com
 www.ultimateears.com
 www.unibet.be
