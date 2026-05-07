@@ -437,6 +437,7 @@ https://charts.etoro.com
 https://chat.openai.com
 https://checkout.finance.yahoo.com/checkout/v1
 https://cicforms.mioot.com/forms/ps
+https://claude.ai/download
 https://clearpay.co.uk
 https://clearpay.com
 https://cli.github.com
@@ -739,6 +740,8 @@ https://github.com/aikidosec/firewall-ruby#Vulnerability
 https://github.com/aikidosec/safe-chain
 https://github.com/aiven
 https://github.com/aiven-open
+https://github.com/anthropics/claude-code
+https://github.com/anthropics/claude-code-action
 https://github.com/auth0/auth0-java
 https://github.com/auth0/auth0-php
 https://github.com/auth0/auth0-spa-js
@@ -763,6 +766,7 @@ https://github.com/chia-network/chiavdf
 https://github.com/chia-network/clvm_rs
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
+https://github.com/circlefin/arc-remote-signer
 https://github.com/circlefin/buidl-wallet-contracts
 https://github.com/circlefin/evm-cctp-contracts
 https://github.com/circlefin/evm-cpn-contracts

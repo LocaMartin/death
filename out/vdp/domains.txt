@@ -1784,6 +1784,8 @@ anubhutiuatapis.deere.com
 anuscriptcentral.com
 anvil.com
 anywhere.re
+anz.com
+anz.com.au
 anz.fdecs.com
 anzcat.fdecs.com
 aommetrics.deere.com
@@ -6415,7 +6417,6 @@ classiccitybank-admin.originate.fiservapps.com
 classiccitybank.originate.fiservapps.com
 classicpartsprojects.motion.abb.com
 classpaper.com
-claude.ai
 clavirate.com
 clawreport.com
 clcefcu-dc.cert.fec-dc.fiservapps.com
@@ -12551,6 +12552,7 @@ fundsxpress.fta.popmoney.com
 funwebproducts.fr
 funyuns.com
 fusekit.io
+fusion.tradepmr.com
 futureofdigitalmedicine.com
 futureproofoffices.cbre.be
 futureproofoffices.cbre.lu
@@ -12591,7 +12593,6 @@ galaxyfcu-dc.cert.fec-dc.fiservapps.com
 galaxyfcu-dn.financial-net.com
 gale.com
 gallileo-frankfurt.com
-galvestonholidayinn.com
 galvus.ca
 game.gallileo-frankfurt.com
 game.milka.bg
@@ -14718,6 +14719,7 @@ insight-media-digital.com
 insight-media.com
 insight.abb.com
 insight.cbre.com
+insight2.tradepmr.com
 insightinvestment.fr
 insightportal.cbre.com
 insightportal.cbre.eu
@@ -27931,6 +27933,7 @@ trademarkwatching.net
 trademarkwatching.org
 trademarkwatching.org.uk
 trademarkwatching.uk
+tradepmr.com
 tradesandlabor-dc.cert.fec-dc.fiservapps.com
 tradesandlabor-dn.financial-net.com
 tradesandlabor.com
@@ -32229,6 +32232,7 @@ www.toyotafinancialpr.com
 www.toyotamobility.com
 www.tpt.com
 www.tr.intrepid.cbre.com
+www.tradepmr.com
 www.training.locator.cbre.com
 www.training.vantageanalytics.cbre.com
 www.trammellcrow.com

@@ -496,6 +496,7 @@ andurildev.au
 andurildev.com
 anext.com.sg
 antbank.hk
+anthropic.atlassian.com
 antom.com
 any applications under https://www.expressvpn.com/latest
 any host verified to be owned by tesla motors inc. (domains/ip space/etc.)
@@ -527,6 +528,7 @@ api.accounts.firefox.com
 api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
+api.anthropic.com
 api.arkane.network
 api.atg.se
 api.au.frontegg.com
@@ -1019,6 +1021,7 @@ be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
 beacon.netflix.com
+beamitmobile.com
 beauty-and-you.iciparisxl.nl
 belgium.tomorrowland.com
 bershka.cn
@@ -1276,6 +1279,7 @@ chimebank.com
 chimecard.com
 chimepayments.com
 chmfin.com
+chromewebstore.google.com
 ci-propertyconversionportal.marriott.com
 cic-bug-bounty.auth0app.com
 circle.logi.com
@@ -1286,6 +1290,8 @@ claritymoney.com
 classdojo.co.uk
 classdojo.com
 classroom.github.com
+claude desktop extensions and claude.ai mcp servers
+claude.ai
 clay.earth
 clearme.atlassian.net
 clearme.com
@@ -1809,8 +1815,10 @@ connect.8x8.com
 connect.arkane.network
 connect.secure.wellsfargo.com
 connect.venly.io
+connectors (e.g., desktop extensions, local mcp servers, and remote mcp servers) installable from the claude.ai & desktop connectors directory may be developed by anthropic or created independently by third-party developers. vulnerabilities discovered in anthropic developed software are in-scope for anthropic's hackerone program
 console-backend.truelayer-sandbox.com
 console-backend.truelayer.com
+console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
 console.tink.com
@@ -2062,6 +2070,7 @@ do.co
 doaction.org
 doccle.be
 doccleservices.eu
+docs.anthropic.com
 docs.gitlab.com
 docs.lansweeper.com
 docs.launchdarkly.com
@@ -2372,6 +2381,7 @@ fulfillment.23andme.com
 funding-webhooks.remitly.io
 furycloud.io
 furydocs.io
+fusion.tradepmr.com
 fuze.com
 fuze.me
 fuze.site
@@ -2398,6 +2408,7 @@ gatewaydsapdev2.marriott.com
 gatewaydsaptst1.marriott.com
 gatewaydsaptst2.marriott.com
 gc.watsons.com.tr
+general issues with a saas platform should be reported to that vendor's bug bounty program if they have one. however, we may, at our discretion, decide to award a bounty if there is demonstrated impact to anthropic
 geneva-staging.chat
 genoapay.co.nz
 genoapay.com
@@ -2405,7 +2416,9 @@ geofilters.snapchat.com
 germany.politico.eu
 gesundheitsverbund.at
 gethypr.com
+getorigen.com
 getsling.com
+getsurenow.com
 gh-mail.expressvpn.com
 gift.starbucks.co.jp
 giftcards.marriott.com
@@ -2414,6 +2427,9 @@ gifts.marriott.com
 gist.github.com
 git.wordpress.org
 github.com
+github.com/anthropics
+github.com/anthropics/anthropic-sdk-python
+github.com/anthropics/anthropic-sdk-typescript
 github.com/binary-com
 github.com/brave
 github.com/brave-intl
@@ -2706,10 +2722,12 @@ innovexperiments.com
 inpli.se
 insider.in
 insight.io
+insight2.tradepmr.com
 insights.deribit.com
 instacart.com
 instacart.tools
 institutional.coinbase.com
+insuritly.com
 int.32red.com
 integrations.au01.miro.com
 integrations.eu01.miro.com
@@ -3381,6 +3399,7 @@ nml.com
 nmtracking.netflix.com
 nnip.com
 node.js/typescript
+note that any vulnerabilities discovered in software developed by third parties (whether or not they are included in anthropic's connectors directory) are not in scope for anthropic’s hackerone program and should be reported directly to those third-party developers. for details on reporting, see the extension page in claude desktop. we ask that vulnerability reports regarding third-party connectors are only shared with anthropic if a satisfactory response is not received from the responsible developer
 notification-front-web.tw.coupang.com
 notion.id
 notion.so
@@ -3473,6 +3492,11 @@ org.piwik.mobile2
 org.toshi
 org.toshi.distribution
 org.vom8x8.sipua
+origenapp.com
+origenbanking.com
+origencard.com
+origendebit.com
+origenfinance.com
 origindigital-pac.com.au
 ort-admin.pingone.com
 ort-authenticator.pingone.com
@@ -3700,6 +3724,7 @@ prddsplunkhf.uzleuven.be
 preempt.com
 preemptsecurity.com
 prelert.com
+premium.pixiv.net
 preprod.am.monespacesante.fr
 preprod.api.monespacesante.fr
 preprod.auth.monespacesante.fr
@@ -3840,7 +3865,41 @@ registry.gitlab.com
 rei.com
 relay.firefox.com
 relay.playcanvas.com
+remilty.net
+remilty.org
+remitir.com
+remitiy.com
+remitly-3pjs.com
+remitly-vendor.com
+remitly.ca
+remitly.cash
+remitly.co
+remitly.co.uk
 remitly.com
+remitly.com.au
+remitly.com.mx
+remitly.de
+remitly.es
+remitly.eu
+remitly.fr
+remitly.io
+remitly.jp
+remitly.me
+remitly.mx
+remitly.net
+remitly.org
+remitly.uk
+remitly.xyz
+remitlyapi.com
+remitlycard.com
+remitlycredit.com
+remitlydata.com
+remitlyit.com
+remitlypay.com
+remitlypayments.com
+remitlytest.com
+remitlywallet.com
+remitresearch.com
 rentalcars.com
 replay.dropbox.com
 repo.magento.com
@@ -4316,6 +4375,7 @@ supply-xml.booking.com
 support-api.airbnb.com
 support-portal.8x8.com
 support.allizom.org
+support.anthropic.com
 support.creditkarma.ca
 support.cs.money
 support.greenhouse.io
@@ -4446,6 +4506,7 @@ trato-feito-api.quintoandar.com.br
 travel.crypto.com
 travelagents.marriott.com
 travelbook.de
+travelcash.money
 traveler.marriott.com
 travelocity.ca
 travelocity.com
@@ -4664,6 +4725,9 @@ vt.shop-apotheke.com
 vth.nba.com
 vtm.be
 vtmgo.be
+vulnerabilities in anthropic infrastructure that could lead to unauthorized access, data exposure, or service disruption. examples include server misconfigurations, exposed internal services, subdomain takeovers, etc
+vulnerabilities in internal anthropic web applications and services that are not intended for public access. this includes things like admin panels, support portals, build systems, monitoring tools, etc. issues could include authentication bypasses, privilege escalation, xss, etc
+vulnerabilities leading to unauthorized disclosure of confidential anthropic information through third-party saas/cloud platforms used by anthropic. this includes unintended public exposure of documents, data, source code, credentials or other sensitive information
 vwcm.visa.com
 vznkul.be
 vœux.vinci.com
@@ -4738,6 +4802,7 @@ whatnot.com
 whois.eu
 whoop 4.0 strap
 whoop 5.0/mg strap
+whyisend.com
 widget.rentalcars.com
 wien.at
 wien.gv.at
@@ -5176,6 +5241,7 @@ www.tomorrowland.com
 www.topperpay.com
 www.torfs.be
 www.torfs.nl
+www.tradepmr.com
 www.trajeoh.com
 www.transsicura.ch
 www.travel-brilliantly.marriott.com

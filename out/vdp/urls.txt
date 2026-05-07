@@ -1693,7 +1693,6 @@ https://cis-epm.caci.com
 https://cis-epohdlr-02a.caci.com
 https://cis-tpm.caci.com
 https://cisasmartaccess.allegion.com/login
-https://claude.ai/download
 https://clientesab-inbev.com
 https://clients.mintel.com
 https://cloud157-pri.ms-010.versanow.net
@@ -3047,8 +3046,6 @@ https://www.ampmhotels.com
 https://www.answerfinancial.com/
 https://www.antarescapital.com.au
 https://www.anz.co.nz
-https://www.anz.com
-https://www.anz.com.au
 https://www.aon.com
 https://www.aphis.usda.gov/aphis/home
 https://www.appdynamics.com/
