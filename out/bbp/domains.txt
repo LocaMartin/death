@@ -808,7 +808,6 @@ app.kruidvat.nl
 app.lansweeper.com
 app.lansweeper.com/trial
 app.larksuite.com
-app.launchdarkly.com
 app.link.com
 app.marionnaud.at
 app.marionnaud.ch
@@ -2073,7 +2072,6 @@ doccleservices.eu
 docs.anthropic.com
 docs.gitlab.com
 docs.lansweeper.com
-docs.launchdarkly.com
 docs.redoxengine.com
 docsend.com
 docswallet.com
@@ -2107,6 +2105,7 @@ dropboxer.net
 dropboxforum.com
 dropboxpartners.com
 dropmix.com
+dropxl.com
 duokan.com
 dwy.visa.com
 dx-demo.deriv.com
@@ -2243,7 +2242,6 @@ europolitan.se
 eventhub.au01.miro.com
 eventhub.eu01.miro.com
 eventhub.us01.miro.com
-events.launchdarkly.com
 evisa.gov.mz
 ews-fusion.my.site.com
 exact.com
@@ -2519,6 +2517,7 @@ grofer.io
 grofers.com
 grok.com
 grokipedia.com
+grwtrading.com
 gs-mosaic.gs.com
 gs-mosaic.qa.gs.com
 gs.com
@@ -3105,6 +3104,7 @@ mcdalerts-qa.nba.com
 mcdalerts-uat.nba.com
 mcdalerts.nba.com
 mcp.miro.com
+mcp.stripe.com
 mds.marriott.com
 mds.voiapp.io
 media.drogas.lt
@@ -4334,7 +4334,6 @@ story.snapchat.com
 stradivarius.cn
 stradivarius.com
 strapi.reddit.com
-stream.launchdarkly.com
 streaming-api.iris.acceptance.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
