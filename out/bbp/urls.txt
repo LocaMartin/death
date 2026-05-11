@@ -99,6 +99,7 @@ http://www.bybit.com/en/alpha/overview
 http://www.bybit.com/trade/tradfi
 http://www.byreal.io
 http://www.kiwi.com/stories
+http://www.lululemon.co.kr
 http://www.myvisacardportal.com/welcome/enbd/product
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
@@ -194,7 +195,6 @@ https://api.gx.games/session
 https://api.ibops.net
 https://api.ibops.net/ad-management
 https://api.ibotta.com
-https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
 https://api.intercom.com
@@ -250,7 +250,6 @@ https://api.vistarmedia.eu
 https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
-https://api.x.immutable.com/
 https://api.yeswehack.com
 https://api3.pentest.clicsante.ca/
 https://apis.indeed.com/graphql
@@ -326,7 +325,6 @@ https://aus.api.just-eat.io/
 https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.datadome.co
-https://auth.immutable.com
 https://auth.lastpass.com
 https://auth.myopenpass.com
 https://auth.opera.com
@@ -575,7 +573,6 @@ https://docker-staging.adstruc.com
 https://docs.api.enterprise.uphold.com
 https://docs.bugcrowd.com/
 https://docs.eazybi.com/
-https://docs.immutable.com/
 https://docs.keeper.io/en/keeperpam
 https://docs.keeper.io/en/keeperpam/commander-cli/overview
 https://docs.keeper.io/en/keeperpam/privileged-access-manager/getting-started/gateways
@@ -818,7 +815,6 @@ https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
 https://github.com/hacker0x01/react-datepicker
-https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport
 https://github.com/innocraft
 https://github.com/iqlusioninc/crates/tree/main/signatory
 https://github.com/iqlusioninc/tmkms
@@ -1017,7 +1013,6 @@ https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2
 https://hr.neogov.com
 https://hr.prosus.com
 https://hstconboarding.peoplecert.org/
-https://hub.immutable.com/
 https://hug.personio.com
 https://humo.be/registreren
 https://i18n.api.just-eat.io
@@ -1103,7 +1098,6 @@ https://life.pulsepoint.com/EngagementAudience#/dashboard
 https://life.pulsepoint.com/MediaPlanner#/dashboard/targetview
 https://lifeapi.pulsepoint.com
 https://link.uma.me
-https://link.x.immutable.com/
 https://linktr.ee
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
 https://linktree.com
@@ -1137,7 +1131,6 @@ https://mapi.usaa.com/
 https://maps.bykea.net
 https://maps.vistarmedia.com
 https://market.android.com/details?id=com.myfitnesspal.android&rdid=com.myfitnesspal.android
-https://market.immutable.com/
 https://marketplace.atlassian.com
 https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
 https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
@@ -1708,7 +1701,6 @@ https://partnerhelp.viator.com
 https://partners.etoro.com
 https://partners.usaa.com
 https://partners.viator.com
-https://passport.immutable.com/
 https://passport.peoplecert.org/
 https://pay.payzippy.com
 https://pay.unity.com
@@ -1745,7 +1737,6 @@ https://platform.infiniteathlete.ai
 https://platform.openai.com/playground
 https://platform.rc.blis.com
 https://play.fga.dev/
-https://play.immutable.com
 https://playlist.link
 https://plmcixt.pinelabs.com
 https://plugins.jetbrains.com/plugin/24377-mongodb
@@ -1880,6 +1871,7 @@ https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
 https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
+https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
 https://sign.originzero.com.au
@@ -2265,6 +2257,7 @@ https://www.etoro.com
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
+https://www.eu.lululemon.com
 https://www.exoscale.com/
 https://www.figma.com
 https://www.files.com/docs/client-apps/command-line-interface-cli-app
@@ -2321,6 +2314,14 @@ https://www.logitech.com/blog
 https://www.lookfantastic.com/
 https://www.loom.com/
 https://www.loom.com/download
+https://www.lululemon.co.jp
+https://www.lululemon.co.nz
+https://www.lululemon.co.uk
+https://www.lululemon.com.au
+https://www.lululemon.com.hk
+https://www.lululemon.de
+https://www.lululemon.es
+https://www.lululemon.fr
 https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
@@ -2384,7 +2385,9 @@ https://www.ooredoo.qa
 https://www.opensincera.com
 https://www.opera.com
 https://www.opera.com/computer/thanks?ni=eapgx&os=windows
+https://www.opera.com/computer/thanks?ni=opera_air&os=windows
 https://www.opera.com/computer/thanks?ni=stable&os=windows
+https://www.operaneon.com
 https://www.oppo.com/id/store
 https://www.oppo.com/in/store
 https://www.oppo.com/my/store

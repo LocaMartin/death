@@ -409,7 +409,6 @@ ai.x.grok
 ai.x.grokapp
 aips-internal.com
 aiq-prod.codebig2.net
-air.com.bitrhymes.bingo
 air.com.buffalo_studios.newflashbingo
 air.com.playtika.cvs
 air.com.playtika.slotomania
@@ -1412,7 +1411,6 @@ com.anker.charging
 com.application.zomato
 com.application.zomato.district
 com.application.zomatomerchant
-com.aqupepgames.projectpepe
 com.asw.moneyback
 com.atebits.tweetie2
 com.audible.application
@@ -1481,7 +1479,6 @@ com.fanduel.sportsbook
 com.finshell.finance
 com.finshell.wallet
 com.fintech.life
-com.foxnextgames.m3
 com.frame.frameio
 com.freshchat.agent.android
 com.freshdesk.helpdesk
@@ -1507,9 +1504,6 @@ com.gs.mobile.trader
 com.gs.pfmg.wellness
 com.gs.pwmdigital.external
 com.gs.pwmdigital.external.android
-com.gsn.android.casino
-com.gsn.android.tripeaks
-com.gsn.grandcasino
 com.hcom.android
 com.here.app.maps
 com.hey.app.ios
@@ -1557,7 +1551,6 @@ com.katanlabs.matchballgame
 com.katanlabs.worm.ioeatemall
 com.kayak.android
 com.kayak.travel
-com.kitkagames.fallbuddies
 com.konylabs.capitalone
 com.larksuite.suite
 com.linkedin.android
@@ -1656,7 +1649,6 @@ com.pacificinteractive.houseoffun
 com.paypal.android.p2pmobile
 com.paypal.merchant
 com.paypal.merchant.client
-com.pieyel.scrabble
 com.playtika.caesarscasino
 com.playtika.wsop.gp
 com.priceline.android.negotiator
@@ -1679,9 +1671,6 @@ com.robinhood.global
 com.robinhood.money
 com.romwe
 com.saily.android
-com.scopely.monopolygo
-com.scopely.startrek
-com.scopely.yux
 com.security.batterycam
 com.security.care
 com.seriously.bestfiends
@@ -1752,7 +1741,6 @@ com.whoop.android
 com.whoop.iphone
 com.wikibuy.prod.main
 com.wisdomtree.wtprime
-com.withbuddies.dice.free
 com.wooga.pearlsperil
 com.wotif.android
 com.xiaomi.account
@@ -2686,10 +2674,7 @@ ikarem.io
 images.demand.cybersource.com
 img.swapcard.com
 immedia-semi.com
-immutable.com
 imperva.com
-imtbl.com
-imx.community
 in-scope products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 in.amazon.mshop.android.business.shopping
 in.amazon.mshop.android.shopping
@@ -2985,6 +2970,7 @@ luckydays.ca
 luckydays.com
 lucra.live
 lukwerks.com
+lululemon.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
 luxfilmfesttickets.megatix.be
@@ -4014,8 +4000,6 @@ scan.snapchat.com
 scapegoat.hyatt.com
 scatec.io
 scbe.api.here.com
-scopely.com
-scopely.io
 scp.watsons.com.tr
 scpapi.watsons.com.tr
 screenshot-proxy.netlify.app
@@ -4447,7 +4431,6 @@ testapp.redoxengine.com
 testbank.xs2a.com
 testing.maventa.com
 testnet.bitmex.com
-testnet.immutable.com
 teststs.uzleuven.be
 th.employer.staging.seek.com
 th.staging.jobsdb.com
@@ -4828,7 +4811,6 @@ winter.tomorrowland.com
 wise.com
 wissen-sie-mehr.de
 withairbnb.com
-withbuddies.com
 withspotify.com
 wlo.link
 wolt.com

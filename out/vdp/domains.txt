@@ -17774,6 +17774,7 @@ mcmfcu-dn.financial-net.com
 mcmfcu.originate.fiservapps.com
 mcnative-uat.cardconnect.com
 mcnative.cardconnect.com
+mcp.lovable.dev
 mcpl.edu.au
 mcrkmonitor.com
 mcsbank-admin.originate.fiservapps.com
@@ -30641,6 +30642,7 @@ workforcegps.org
 workforstu.com
 workingpress.com
 worklondon.cbre.co.uk
+worklytics.co
 workorder.cbre.com
 workorder.trammellcrow.com
 workpackage-collaboration.abb.com

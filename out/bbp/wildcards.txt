@@ -491,9 +491,7 @@ iciparisxl.nl
 igpayment.com
 ikarem.io
 immedia-semi.com
-immutable.com
 imperva.com
-imtbl.com
 in2tel.ie
 incapsula.com
 indeed.net
@@ -595,6 +593,7 @@ luckydays.ca
 luckydays.com
 lucra.live
 lukwerks.com
+lululemon.com
 luxuryretreats.com
 lyst.co
 lyst.com
@@ -902,8 +901,6 @@ sbgtest.net
 sc-core.net
 sc-corp.net
 scatec.io
-scopely.com
-scopely.io
 sec-tunnel.com
 securecircle.com
 securegatewayaccess.com
@@ -1163,7 +1160,6 @@ wimpmusic.com
 wise.com
 wissen-sie-mehr.de
 withairbnb.com
-withbuddies.com
 withspotify.com
 wlo.link
 wmconnect.com
