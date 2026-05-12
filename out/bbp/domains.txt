@@ -546,7 +546,6 @@ api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
 api.cx.metamask.io
-api.dailymotion.com
 api.deriv.com
 api.dev.lando.nonprod.cloudops.mozgcp.net
 api.developer.monespacesante.fr
@@ -1930,8 +1929,6 @@ cyrus-security.com
 cz.skodaauto.myskoda
 daily.blablacar.fr
 dailyadvent.com
-dailymotion.com
-dailymotionadvertising.com
 dancecentral.com
 das.eu
 dash.ai
@@ -2046,10 +2043,6 @@ directverify.in
 discover.23andme.com
 distribution-xml.booking.com
 district.in
-dm-event.net
-dm.gg
-dmcdn.net
-dmxleo.com
 dns.eu
 dns0.optus.net.au
 dns1.optus.net.au
@@ -2841,7 +2834,6 @@ krisp.ai
 kruidvat.be
 kruidvat.nl
 kruidvatkids.nl
-kube.dm.gg
 kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be

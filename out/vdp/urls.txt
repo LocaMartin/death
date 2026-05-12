@@ -2028,13 +2028,6 @@ https://gist.github.com/redbullsecurity/3eb88debcb01759eccf65ec2b799b340
 https://gist.github.com/unilevervdp/0e6b65bec8d00f881f48a732433563ba
 https://github.com/amazon-research
 https://github.com/amazonlinux/amazon-linux-2023
-https://github.com/arkadiyt/aws_public_ips
-https://github.com/arkadiyt/bounty-targets
-https://github.com/arkadiyt/ddexport
-https://github.com/arkadiyt/free-ft
-https://github.com/arkadiyt/protodump
-https://github.com/arkadiyt/ssrf_filter
-https://github.com/arkadiyt/zoom-redirector
 https://github.com/aws-samples
 https://github.com/aws/amazon-ecs-agent
 https://github.com/aws/amazon-ecs-cli

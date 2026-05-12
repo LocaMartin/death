@@ -1368,8 +1368,10 @@ ahsapi.flybuys.com.au
 ahwetzeitounakuwait.com
 ai-lab-code-interpreter-api.ae-machine-learning-operations-devl-vpn.us.e18.c01.johndeerecloud.com
 ai-lab.ae-machine-learning-operations-prod-vpn.us.e18.c01.johndeerecloud.com
+ai-u.spaziodati.eu
 ai.deere.com
 ai.picsart.com
+ai.spaziodati.eu
 aia-award.com
 aia-dev.witos.wirtgen-group.com
 aia.ability.pki.abb.com
@@ -1435,6 +1437,7 @@ aleriglobalbanking.net
 aleriglobalbanking.us
 alert.smsservicesnow.com
 alertinfo.link
+alerts.spaziodati.eu
 alertus-east.northropgrumman.com
 alertus-west.northropgrumman.com
 alertus.eeoc.gov
@@ -1457,6 +1460,7 @@ alexanderstreetpress.com
 alfam.nl
 algorithmapi.maintenancedata.motion.abb.com
 algosys.com
+algowealthreport.spaziodati.eu
 alhambracu-dc.cert.fec-dc.fiservapps.com
 alhambracu-dn.financial-net.com
 alhportfolio.com.au
@@ -1736,6 +1740,7 @@ annualreport2015.e.abb.com
 annualreport2016.e.abb.com
 annualreport2017.e.abb.com
 annualreport2018.abb.com
+anonimo.spaziodati.eu
 anservice-cit.fiservapp.com
 ansoniacreditdata.com
 answers-avaamoz.dev.chatbot.cbre.com
@@ -2019,6 +2024,7 @@ api-tgm-uat.green.cbre.com
 api-tgm-uat2.green.cbre.com
 api-tgm.green.cbre.com
 api-tops2.cbre.com
+api-u.spaziodati.eu
 api-uat-nalx.elcompanies.com
 api-uat.cardconnect.com
 api-uat.cbre.com
@@ -2231,6 +2237,7 @@ api.zone.cbre.es
 api1.smsservicesnow.com
 api7.thepayplace.com
 api8.thepayplace.com
+apiadmin-u.spaziodati.eu
 apiapac-test.cbre.com
 apiapac.cbre.com
 apiausy-test.cbre.com
@@ -2522,6 +2529,7 @@ aredia.ca
 arganzuela.cbre.es
 argentina.preview.cbre.com
 argo-qa-perf-west-idp-nlb.dev.ccid.neustar.biz
+argo.spaziodati.eu
 argo01-opencheck.fiservapps.com
 argusweb.cbre.com
 arguswebgi-test.cbre.com
@@ -2531,7 +2539,6 @@ arivercu.com
 arivercu.net
 arivercu.org
 arivercu.vbwebservices.com
-arkadiyt.com
 arkmonitor.com
 armor.onlinebank.com
 armorsafe-corpoint.fiservapps.com
@@ -2606,6 +2613,7 @@ asicprofile.deere.com
 asignia.com
 ask-alia.com
 ask-is.abb.com
+ask.spaziodati.eu
 askearn.org
 askjan.org
 askproquest.com
@@ -2712,6 +2720,10 @@ atlantis.spark.ai
 atmospeer.net
 atmospeer.org
 ato.ca.essd.northgrum.com
+atoka-mcp-extended.spaziodati.eu
+atoka-mcp-limited.spaziodati.eu
+atoka-metrics-db.spaziodati.eu
+atokaquery.spaziodati.eu
 atolls.com
 atouchofcare.ca
 atozdomainsmarket.com
@@ -2750,6 +2762,8 @@ au.inside.abb.com
 au.smartapply.com
 auditforit.com
 auditing.core.fleetboard.com
+augustus-u.spaziodati.eu
+augustus.spaziodati.eu
 aulaformacionamd.com
 aum.cbreglobalinvestors.com
 aumtest.cbreinvestors.com
@@ -2822,6 +2836,7 @@ authbridge-uat.cbreapps.com
 authbridge.cbreapps.com
 authbridge.serviceinsightlocal.cbre.eu
 authenticate1.navient.com
+authentik.spaziodati.eu
 authgtwy-saml-btat2.fiservapps.com
 authgtwy-saml-cert.fiservapps.com
 authgtwy-saml-dr.fiservapps.com
@@ -3099,6 +3114,7 @@ azcigw.services.wirtgen-group.com
 azcopperfcu-dc.cert.fec-dc.fiservapps.com
 azcpggpc.ca
 azgm.genix.abb.com
+azkaban3.spaziodati.eu
 azopt.ca
 azqa-api.fmpilot2.com
 azqa-dat.fmpilot2.com
@@ -3516,6 +3532,8 @@ bcyearbook.com
 bd.abb.com
 bdc3d-dev.cbre.es
 bdc3d.cbre.es
+bdp-connectors-u.spaziodati.eu
+bdp-connectors.spaziodati.eu
 bdpm-prod.elcompanies.cn
 bdpm-uat.elcompanies.cn
 bdsas2003.cbre.ca
@@ -3607,6 +3625,7 @@ beringguides.com
 beringreports.com
 beringuide.com
 beringuides.com
+berita.spaziodati.eu
 berkcofcu-dc.cert.fec-dc.fiservapps.com
 berkcofcu-dn.financial-net.com
 berkcofcu.com
@@ -3720,6 +3739,9 @@ bigdatahc.com
 bigislandfcu-dc.cert.fec-dc.fiservapps.com
 bigislandfcu-dn.financial-net.com
 bigmoralis.com
+bignami-static.spaziodati.eu
+bignami-u.spaziodati.eu
+bignami.spaziodati.eu
 bigwinwin.cadbury.co.uk
 bill.com
 billelmore.name
@@ -3823,6 +3845,7 @@ bitdam.com
 bite-lt.staging.pms-ou.aon.com
 bitwarden.com
 biuroprasowe.cbre.pl
+biz-tldr.spaziodati.eu
 bizapi.vbonlineaon.com
 bizbuysell.com
 bizel.it.abb.com
@@ -3863,7 +3886,9 @@ blog.fleetboard.com
 blog.gallileo-frankfurt.com
 blog.greensoluce.com
 blog.romonet.com
+blog.spaziodati.eu
 blog.spoonflower.com
+blogator.spaziodati.eu
 blogdechollos.es
 bloo.com
 bloominbrands.wgiftcard.com
@@ -3994,10 +4019,13 @@ boonebank.apps-uat.ilendx.tech
 boonebank.apps.ilendx.tech
 bootcamp.nutanix.com
 boqfquote.com.au
+bora2.spaziodati.eu
 bordeaux-pp.cbre.fr
 bordeaux-prod.cbre.fr
 bordeaux-uat.cbre.fr
 bordeaux.cbre.fr
+bore-es.spaziodati.eu
+bore.spaziodati.eu
 borrowerportal.dev.cbre.com
 borrowerportal.qa.cbre.com
 borrowerportal.uat.cbre.com
@@ -4289,7 +4317,6 @@ build3dpes.cbre.com
 build3dstaging.cbre.com
 build3dtest.cbre.com
 build3duat.cbre.com
-buildbot.mariadb.org
 builder-cert-intws.mybills.com
 builder-intws.mybills.com
 builder-pod1-beta.fiservapps.com
@@ -4736,6 +4763,7 @@ cashmanagement.bofifederalbank.com
 cashreserve.truist.com
 cashtechiq-corpoint.fiservapps.com
 casino.gallileo-frankfurt.com
+casolin.spaziodati.eu
 casso.cbre.com
 cassofte.cbre.com
 cassouat.cbre.com
@@ -5745,6 +5773,7 @@ charterhallaccess.cbre.com.au
 charts-data-handler.dev.e2ctechnology.com
 charts.cbreesi.com
 chat.gallileo-frankfurt.com
+chatbob.spaziodati.eu
 chatbot.cbre.com
 chatbotdatacon.wechat-henkel-adhesives.cn
 chatelfcu-dc.cert.fec-dc.fiservapps.com
@@ -6527,6 +6556,8 @@ cloudconxdev.myngc.com
 clouddrive.abb.com.cn
 clouddrives.abb.com.cn
 cloudendure.com
+cloudera-flowgen-u.spaziodati.eu
+cloudera-flowgen.spaziodati.eu
 cloudops-atlantis.cbre.com
 cloudops.cbre.com
 cloudops.team
@@ -6932,6 +6963,7 @@ com.ukcapitalone.creditwise
 com.vs.mena
 com.wavin.sentio
 com.x8bit.bitwarden
+comare.spaziodati.eu
 combatbugs.com
 combiners.abb.com
 comcast.wfg-baweb.com
@@ -7244,6 +7276,8 @@ console.gallileo-frankfurt.com
 console.liferay.cloud
 console.picsart.io
 constructionriskportal.aon.com
+consul-ui.spaziodati.eu
+consul.spaziodati.eu
 consultingdrg.com
 consultingdrgroup.com
 consultingservicesdocuments.cbre.com
@@ -7932,6 +7966,8 @@ crackerjill.com
 craftedforhome.com
 craigslist.fr
 crandon.com.au
+crawler-injection-u.spaziodati.eu
+crawler-injection.spaziodati.eu
 cray.com
 crb-admin.originate.fiservapps.com
 crb.originate.fiservapps.com
@@ -7969,6 +8005,7 @@ creditreference.net.au
 creditriskmonitoring-nab-au-cat.fiservapp.com
 creditriskmonitoring-nab-au.fiservapp.com
 creditrubric.com
+credits-u.spaziodati.eu
 creditshare.com.au
 creditunionmo-dc.cert.fec-dc.fiservapps.com
 creditunionmo-dn.financial-net.com
@@ -8314,12 +8351,16 @@ cwsb40.checkfreeweb.com
 cxtmatters.com
 cy.abb.com
 cyber.gov
+cybercheck-u.spaziodati.eu
 cybercitizenhealth.com
 cyberfinancial.deere.com
 cyberlawreport.com
 cyberliteracy.com
 cybernamefactory.biz
 cybernamefactory.jp
+cyberrisk-api-u.spaziodati.eu
+cyberrisk-api.spaziodati.eu
+cyberscore.spaziodati.eu
 cyberscout-idprotection.com
 cyberscout-idtheft.com
 cyberscout.ca
@@ -8434,6 +8475,7 @@ damai.cn
 damato.ca.essd.northgrum.com
 damc.fiservapp.com
 dan.gallileo-frankfurt.com
+dandelion-u.spaziodati.eu
 danversmfcu-dc.cert.fec-dc.fiservapps.com
 danversmfcu-dn.financial-net.com
 darden.wgiftcard.com
@@ -8487,6 +8529,7 @@ data.gallileo-frankfurt.com
 data.gov
 data.intelliearthmaritime.l3harris.com
 data.sentera.com
+data.spaziodati.eu
 database.dev
 datacenter.motion.abb.com.cn
 datacenters.abb.com
@@ -8500,6 +8543,7 @@ datacredito3.com
 dataengine.cbre.com
 dataenhancement.com.au
 dataentry.gl.cbre.com
+datahub.spaziodati.eu
 datalake-sync.apps.mendix.com
 datalyser-cems.qe.genix.abb.com
 datalyzer.measurement.service.genix.abb.com
@@ -8522,8 +8566,10 @@ datastar.hk
 datastar.org.cn
 datastar.tw
 datastarweb.com
+datastatus.spaziodati.eu
 datasulpro.unimil.com.br
 datatimes.com
+datatxt.spaziodati.eu
 datavenues.com
 dataviz3d.cbre.es
 dateplanner.cbre.nl
@@ -8800,6 +8846,7 @@ demodomain789.info
 demoruchida.info
 demoruchida.net
 demoruchida.org
+demotxt.spaziodati.eu
 demoui.cbreesi.com
 demouidatacenter.cbreesi.com
 demouidistribution.cbreesi.com
@@ -8879,6 +8926,7 @@ derwentsurveyor.com
 derwentwda.com
 derwentworldpatentsindex.com
 derwentwpi.com
+descriptio.spaziodati.eu
 dese.com
 design-pp.project.cbre.fr
 design-system.alpha.canada.ca
@@ -9211,6 +9259,7 @@ dev3.dev.clover.com
 dev3final.cbre.com
 dev3test.cbre.com
 dev3test2.cbre.com
+dev4.spaziodati.eu
 dev5.dev.clover.com
 dev6.dev.clover.com
 dev6.eu.dev.clover.com
@@ -9421,6 +9470,8 @@ die-wirtgen-group-auf-der-bauma.de
 dierbergs.wgiftcard.com
 diewirtgengroupaufderbauma.com
 diewirtgengroupaufderbauma.de
+differ-unstable.spaziodati.eu
+differ.spaziodati.eu
 dig.deere.com
 digecenter.com
 digi-belgium.be
@@ -9440,6 +9491,7 @@ digital.firstdata.eu
 digital.gov
 digital.motion.abb.com.cn
 digitaladvances.com
+digitalbrain-trial-configurator.spaziodati.eu
 digitalcard.cbre.es
 digitalcensus.com
 digitaldining.com
@@ -9453,6 +9505,7 @@ digitally-driven-ei-technologies.com
 digitalpartners.mtn.co.za
 digitalparts.deere.com
 digitalpayouts.com
+digitalplatform.qr-henkel-a.cn
 digitalupdates.industriousoffice.com
 dima.abb.com
 dime.architect-cert.fiservapps.com
@@ -9475,6 +9528,7 @@ diners-3ds-test.polcard.com.pl
 diners-3ds.polcard.com.pl
 dinerware.com
 dingtalk.com
+dino.spaziodati.eu
 diovan.ca
 dipacta.ca
 direct-to-consumer-marketing.com
@@ -9776,7 +9830,6 @@ download.myim.cbre.com
 download.nextcloud.com
 download.seleritycorp.com
 download2.fleetboard.com
-downloads.mariadb.org
 downrivercommfcu-dc.cert.fec-dc.fiservapps.com
 downrivercommfcu-dn.financial-net.com
 downrivercu-admin.originate.fiservapps.com
@@ -10114,6 +10167,7 @@ ebrary.xxx
 ebs.mtn.com
 ebugs.cbreinvestors.com
 ec.abb.com
+ec2-metrics.spaziodati.eu
 ecap.mtn.com
 ecash.wallstreetsystems.com
 ecashtest.wallstreetsystems.com
@@ -10883,18 +10937,25 @@ eroom7.aon.com
 erp.amr.robotics.abb.com
 erp.gallileo-frankfurt.com
 erpbinotification.cbre.com
+es-atoka-eu.spaziodati.eu
+es-atoka-staging.spaziodati.eu
+es-atoka-unstable.spaziodati.eu
+es-atoka.spaziodati.eu
+es-foretag.spaziodati.eu
 es-qa.nonprod.cbre.com
 es-sbc1.cbre.com
 es-sbc2.cbre.com
 es-tops2-nonprod.cbre.com
 es-tops2.cbre.com
 es-uat.nonprod.cbre.com
+es-xbrl.spaziodati.eu
 es.gallileo-frankfurt.com
 es.inside.abb.com
 es.shop.abb.com
 es.smartapply.com
 es.vas-core-platform-uat.cbre.com
 es.vas-core-platform.cbre.com
+es8-atuin.spaziodati.eu
 esalon.com
 esam-dev.it.hpe.com
 esb-advasta-cons.services.wirtgen-group.com
@@ -11313,6 +11374,7 @@ facadatabase.gov
 facebookiq.fr
 facilitysource.com
 factory-tour-stotz-kontakt.abb.com
+factory.qr-henkel-a.cn
 factory.qualitycontrol.motion.abb.com
 facultyonline.com
 fadelli.com
@@ -11323,6 +11385,7 @@ faithcommcu-admin.originate.fiservapps.com
 faithcommcu-dc.cert.fec-dc.fiservapps.com
 faithcommcu-dn.financial-net.com
 faithcommcu.originate.fiservapps.com
+falcon-db.spaziodati.eu
 falcon.gitlab.drs.com
 falconbank-admin.originate.fiservapps.com
 falconbank.architect-cert.fiservapps.com
@@ -11554,6 +11617,8 @@ ferzanrobbins.net
 fester.com.mx
 fetchcore-cloud.com
 fewo-direkt.de
+ff-u.spaziodati.eu
+ff.spaziodati.eu
 ffastconnect.com
 ffastfill-mis.com
 ffastfill-mis.net
@@ -12017,6 +12082,7 @@ fldmyarvb01.mtn.co.za
 fldmyarvb02.mtn.co.za
 fldotcu-dc.cert.fec-dc.fiservapps.com
 fldotcu-dn.financial-net.com
+fleet.spaziodati.eu
 fleetboard.com
 fleetboard.de
 fleetview-dev.witos.wirtgen-group.com
@@ -12498,6 +12564,7 @@ ftp.realestate.kz
 ftp.romonet.com
 ftp.siteready.com
 ftp.sitereadyllc.com
+ftp.spaziodati.eu
 ftp.thewatergarden-la.com
 ftp.thinkesi.com
 ftp.trammellcrow.com
@@ -12505,6 +12572,8 @@ ftp.unimil.com.br
 ftp.uniongaming.com
 ftp.wirtgenankara.com.tr
 ftp1.de.abb.com
+ftp1.spaziodati.eu
+ftp2.spaziodati.eu
 ftps01-web.evault.ws
 ftps01.evault.ws
 ftrandallfcu-dc.cert.fec-dc.fiservapps.com
@@ -13066,10 +13135,12 @@ gracofcu.vbwebservices.com
 gradanswers.com
 gradshare.com
 graetersstore.wgiftcard.com
+grafana-ion.spaziodati.eu
 grafana.arthur.deere.com
 grafana.avv-prod-vpn.us.e20.c01.johndeerecloud.com
 grafana.cbrehost.com
 grafana.gallileo-frankfurt.com
+grafana.spaziodati.eu
 grancofcu-dc.cert.fec-dc.fiservapps.com
 grancofcu-dn.financial-net.com
 grand-admin.originate.fiservapps.com
@@ -14882,6 +14953,7 @@ interstatecu.apps.ilendx.tech
 interstatecu.originate.fiservapps.com
 interstudydata.com
 interstudypublications.com
+interwikirecon.spaziodati.eu
 intlmktg.elcompanies.com
 intqa.ft.cashedge.com
 intqaarvest.fta.popmoney.com
@@ -14975,6 +15047,7 @@ iongroup.dev
 iongroup.site
 ioniagara01.cbreesi.com
 ioniagara02.cbreesi.com
+ionlogs.spaziodati.eu
 ionp.cl.fonterra.com
 ionp.cl.suncor.com
 ionprod.ugcna.com
@@ -15601,6 +15674,7 @@ jenkins.alshaya.com
 jenkins.fmpilot2.com
 jenkins.gallileo-frankfurt.com
 jenkins.pclender.com
+jenkins.spaziodati.eu
 jenkinsspain.cbre.es
 jenkinszone.cbre.es
 jerrestead.ceo
@@ -15768,6 +15842,11 @@ kacfcu-dc.cert.fec-dc.fiservapps.com
 kacfcu-dn.financial-net.com
 kacfcu.org
 kacfcu.vbwebservices.com
+kafka-connect-ada-u.spaziodati.eu
+kafka-connect-ada.spaziodati.eu
+kafka-connect-u.spaziodati.eu
+kafka-connect.spaziodati.eu
+kafkahq.spaziodati.eu
 kahukufcu-dc.cert.fec-dc.fiservapps.com
 kahukufcu-dn.financial-net.com
 kahuluifcu-dn.financial-net.com
@@ -16030,6 +16109,7 @@ kz.abb.com
 kz.inside.abb.com
 kzn-turntown.co.za
 l.gallileo-frankfurt.com
+l.spaziodati.eu
 la.clover.com
 lab.gallileo-frankfurt.com
 lab49.com
@@ -16154,6 +16234,7 @@ landx.uat.cbre.co.uk
 lanebryant.wgiftcard.com
 lanfairfcu.com
 lanfairfcu.vbwebservices.com
+langfuse.spaziodati.eu
 languagesinview.com
 lanierfcu-cs.apps-uat.ilendx.tech
 lanierfcu-cs.apps.ilendx.tech
@@ -16297,6 +16378,7 @@ legcu-dc.cert.fec-dc.fiservapps.com
 legcu-dn.financial-net.com
 legiant.jjwws.com
 legislink.com
+lego.spaziodati.eu
 lejiaconejo.es
 lendeavor.com
 lendingclub.caaweb.com
@@ -16403,6 +16485,7 @@ lifree.com
 liga.nl
 ligamaissabor.pt
 lightbox.cbre.com
+lighthouse.spaziodati.eu
 lightning.icare.abb.com.cn
 lightstep.com
 lilac.ca.essd.northgrum.com
@@ -16473,6 +16556,7 @@ lists.thorntontomasetti.com
 lists.wirtgenankara.com.tr
 listspa.com
 listspa.it
+litellm.spaziodati.eu
 littlebrowniebakers.com
 littlechalk.com
 littlechalk.net
@@ -16488,6 +16572,7 @@ livingloving.cbre.es
 lizardskin.com
 llcu-admin.originate.fiservapps.com
 llcu.originate.fiservapps.com
+llm-webui.spaziodati.eu
 lloydsbankcardnetmerchantportal.fiservapp.com
 lm-apacretail-otm.elcompanies.com
 lm-arh.elcompanies.com
@@ -16950,6 +17035,9 @@ lufkinfcu.originate.fiservapps.com
 lukoil.wgiftcard.com
 lululemon.fr
 luma.co.uk
+lume-api.spaziodati.eu
+lume-mcp.spaziodati.eu
+lume-ui.spaziodati.eu
 lumen.com
 luminor.ee
 luminor.lt
@@ -17195,6 +17283,7 @@ mail.realestate.kz
 mail.sequentra.com
 mail.sequentra.net
 mail.sitereadyllc.com
+mail.spaziodati.eu
 mail.thewatergarden-la.com
 mail.thinkesi.com
 mail.toolbox.mbs-navigator.com
@@ -17232,6 +17321,7 @@ mailgate.gallileo-frankfurt.com
 mailgw.intego.dk
 mailhost.gallileo-frankfurt.com
 mailing.greensoluce.com
+mailpit.spaziodati.eu
 mailpoc1.ngc.com
 mailpoc2.ngc.com
 mailrelay01.wirtgen-group.com
@@ -17405,7 +17495,6 @@ margintrac.com
 mariadb-analytics-pa-db-1-a.oportun.com
 mariadb-data-db-1-a.oportun.com
 mariadb-data-db-2-a.oportun.com
-mariadb.org
 marimonitor.com
 marine.equipmentmanagement.abb.com
 marine.uat.genix.abb.com
@@ -17993,6 +18082,10 @@ mergermarkets.com
 mergerscan.com
 meritsoft.com
 merkmonitor.com
+merlin-admin-u.spaziodati.eu
+merlin-admin.spaziodati.eu
+merlin-api-u.spaziodati.eu
+merlin-api.spaziodati.eu
 messagetrack-dev.services.wirtgen-group.com
 messagetrack.services.wirtgen-group.com
 mesu.fleetboard.com
@@ -18007,6 +18100,7 @@ metabank.streamlendvelocity.net
 metabase-test.devl.myvirtualsuper.com
 metabase.dealiq.cbre.com
 metabase.harvestprofit.com
+metabase.spaziodati.eu
 metaclarivate.com
 metaclarivate.net
 metadata-devl.deere.com
@@ -19074,6 +19168,9 @@ mycredithistory.com.au
 mycreditmanager.com.au
 mycreditmonitor.com.au
 mycreditunion.gov
+mycroft-creditvue-u.spaziodati.eu
+mycroft-creditvue.spaziodati.eu
+mycroft.spaziodati.eu
 mycslink.org
 mycybercentre.com
 mydashboard.cbre.com
@@ -25922,6 +26019,7 @@ spark.ai
 sparkai.co
 sparkspread.com
 spawish.wgiftcard.com
+spaziodati.eu
 spc.estee-lauder.co.uk
 spc.esteelauder.co.nz
 spc.esteelauder.com.au
@@ -27053,6 +27151,7 @@ test-costco.wgiftcard.com
 test-costlab.cbre.com
 test-db.luna.cbre.de
 test-deananddeluca.wgiftcard.com
+test-digitalplatform.qr-henkel-a.cn
 test-edge-ause1.ns1.fiservapis.com
 test-edge-euw1.ns1.fiservapis.com
 test-edge-euw3.ns1.fiservapis.com
@@ -27060,6 +27159,7 @@ test-edge-sae1.ns1.fiservapis.com
 test-edge-usc1.ns1.fiservapis.com
 test-edge-use4.ns1.fiservapis.com
 test-emea-api-fiservapps-euw3.ns1.fiservapis.com
+test-factory.qr-henkel-a.cn
 test-gfender.wgiftcard.com
 test-gordmans.wgiftcard.com
 test-gordmansstore.wgiftcard.com

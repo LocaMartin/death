@@ -227,7 +227,6 @@ cyberghost.com
 cyberghostvpn.com
 cyrus-security.com
 dailyadvent.com
-dailymotion.com
 dancecentral.com
 das.eu
 dash.ai
@@ -247,10 +246,6 @@ dh-commerce.com
 dibz.co.uk
 directverify.in
 district.in
-dm-event.net
-dm.gg
-dmcdn.net
-dmxleo.com
 dns.eu
 doccle.be
 doccleservices.eu

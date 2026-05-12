@@ -181,7 +181,6 @@ apprissinsights.net
 apprissmobile.com
 appslatam.com
 aquafina.com
-arkadiyt.com
 arrow.cn
 arubanetworks.com
 asap.gov
@@ -2278,6 +2277,7 @@ spaceweather.gov
 spanning.com
 spanningbackup.com
 sparkspread.com
+spaziodati.eu
 spd15revision.gov
 speakap.com
 speakap.io

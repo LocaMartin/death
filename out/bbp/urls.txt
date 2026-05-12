@@ -140,7 +140,6 @@ https://aemdam.usaa360.com/
 https://afterpay.com
 https://agent.apps.monash.edu/
 https://aggregator.etoro.com
-https://airflow-mcp.data.dailymotion.com/
 https://aiven.io
 https://aiven.io/clickhouse
 https://aiven.io/docs/products/metrics/concepts/metrics-overview
@@ -223,7 +222,6 @@ https://api.recordedfuture.com
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
-https://api.sandbox.agora.incubateur.net
 https://api.sandbox.topperpay.com
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
@@ -282,7 +280,6 @@ https://app.optimizely.com/
 https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.saltlabs.com/
-https://app.sandbox.agora.incubateur.net
 https://app.sandbox.topperpay.com
 https://app.staging.luno.com/
 https://app.staging.saltlabs.com/
@@ -348,7 +345,6 @@ https://bb1.simplisafe.com
 https://bb2.simplisafe.com
 https://bestball.fantasysports.yahoo.com/
 https://beta.arlo.com
-https://bigquery-mcp.data.dailymotion.com/
 https://billing-pci.etoro.com
 https://billing.etoro.com
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
@@ -392,7 +388,6 @@ https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
-https://business.dailymotion.com/
 https://business.rivian.com/api
 https://businessportal.doccleservices.eu/
 https://businessportal.origin.com.au
@@ -512,7 +507,6 @@ https://customers.us1.fga.dev/
 https://cw-api.takeaway.com
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
-https://dailymotion.webflow.io/
 https://dash.zoop.com.br
 https://dashboard-101.moengage.com
 https://dashboard.fga.dev/
@@ -770,6 +764,7 @@ https://github.com/circlefin/stablecoin-starknet
 https://github.com/circlefin/stablecoin-sui
 https://github.com/circlefin/stablecoin-xlm
 https://github.com/circlefin/starknet-cctp
+https://github.com/circlefin/stellar-cctp
 https://github.com/circlefin/sui-cctp
 https://github.com/clickhouse/clickhouse
 https://github.com/cloudflare
@@ -786,7 +781,6 @@ https://github.com/cosmos/ibc-apps/tree/main/middleware/packet-forward-middlewar
 https://github.com/cosmos/ibc-go/tree/main
 https://github.com/cosmos/ics23
 https://github.com/cosmos/ledger-cosmos
-https://github.com/cosmos/relayer
 https://github.com/cosmos/solidity-ibc-eureka
 https://github.com/digitalocean/do-agent
 https://github.com/digitalocean/doctl
@@ -816,9 +810,6 @@ https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
 https://github.com/hacker0x01/react-datepicker
 https://github.com/innocraft
-https://github.com/iqlusioninc/crates/tree/main/signatory
-https://github.com/iqlusioninc/tmkms
-https://github.com/iqlusioninc/yubihsm.rs
 https://github.com/jitsi
 https://github.com/justeattakeaway
 https://github.com/kiwicom/*
@@ -1022,7 +1013,6 @@ https://id.atlassian.com/login
 https://id.recordedfuture.com
 https://id.superhuman.com
 https://id.unity.com
-https://identite-sandbox.proconnect.gouv.fr
 https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
@@ -1610,8 +1600,6 @@ https://myopenpass.com
 https://myopenpassdemo.com/
 https://myplutus.pinelabs.my
 https://myvpn.usaa.com
-https://n8n-staging.k8s.dm.gg/
-https://n8n.pub.k8s.dm.gg/
 https://namestudio.com
 https://namestudioforsocial.com
 https://napoleoncasino.be
@@ -1770,7 +1758,6 @@ https://preprod-xam.xelians.fr/
 https://priceless.com/golf
 https://privacy.blismedia.com
 https://privateinternetaccess.com/api/client/v5
-https://pro.dailymotion.com/
 https://pro.onedoc.ch
 https://prod.euid.eu
 https://prod.uidapi.com
@@ -1798,7 +1785,6 @@ https://pyszne.pl
 https://quantum-events.onecloud.harman.com
 https://r.etoro.com
 https://rankings.etoro.com
-https://ray.dailymotion.com/
 https://rc.fstr.rocks
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
