@@ -1141,6 +1141,7 @@ business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
+buy.faraday.ai
 buy.logitech.com
 buy.moonpay.com
 byairbnb.com
@@ -3941,6 +3942,7 @@ roonlabs.com
 roonlabs.net
 router.geneva-staging.com
 router.hereapi.com
+row.pro
 rpc.blockdaemon.testnet.arc.network
 rpc.drpc.testnet.arc.network
 rpc.quicknode.testnet.arc.network

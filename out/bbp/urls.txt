@@ -947,7 +947,6 @@ https://github.com/vercel/swr
 https://github.com/vercel/turborepo
 https://github.com/vercel/vercel
 https://github.com/vercel/workflow
-https://github.com/web3auth/web3auth-web
 https://github.com/worldcoin
 https://github.com/worldcoin/orb-core
 https://github.com/worldcoin/orb-firmware
