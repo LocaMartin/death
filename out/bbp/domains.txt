@@ -1244,8 +1244,6 @@ cdna.lystit.com
 cds.vrt.radio
 central.arubanetworks.com
 certinia.com
-certsy.com
-certsynonprod.com
 cewe.kruidvat.be
 cewe.kruidvat.nl
 cewetest.kruidvat.be
@@ -2488,7 +2486,6 @@ grammarly.com
 grammarly.io
 grammarlyaws.com
 graphql.accounts.firefox.com
-grateful.me
 gravatar.com
 greenhouse.io
 grindr.com
@@ -2566,8 +2563,6 @@ hilton.com
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-hk.employer.staging.seek.com
-hk.staging.jobsdb.com
 hln.be
 hmxservices.com
 hmxwebservices.com
@@ -2628,7 +2623,6 @@ iciparisxl.lu
 iciparisxl.nl
 id.doccle.be
 id.embark.games
-id.employer.staging.seek.com
 id.heytap.com
 id.logi.com
 id.nba.com
@@ -2774,10 +2768,7 @@ jobs.kiwi.com
 jobs.marriott.com
 jobs.vinci.com
 jobsdb.com
-jobstreet.co.id
 jobstreet.com
-jobstreet.com.my
-jobstreet.com.sg
 join.marriott.com
 join.whoop.com
 joinmarriottbonvoy.com
@@ -3275,7 +3266,6 @@ my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.clearme.com
-my.employer.staging.seek.com
 my.eurid.eu
 my.exness.com
 my.loanbuilder.com
@@ -3310,6 +3300,7 @@ myinsights.io
 mynexuz.be
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
+myseek.xyz
 myself.tw.coupang.com
 myservices-api.stage.vismaonline.com
 mysqueezebox.com
@@ -3610,7 +3601,6 @@ personio.tools
 personiowhistleblowing.com
 petbook-magazine.com
 petbook.de
-ph.employer.staging.seek.com
 phabricator-dev.allizom.org
 phabricator.allizom.org
 phlonline.vfsevisa.cn
@@ -3844,6 +3834,7 @@ registry.gitlab.com
 rei.com
 relay.firefox.com
 relay.playcanvas.com
+releasor.payworks.com
 remilty.net
 remilty.org
 remitir.com
@@ -4016,9 +4007,7 @@ securegatewayaccess.com
 secureui.starbucks.com
 securite.monespacesante.fr
 securityservices.io
-seek.com.au
-seekasia.com
-seekpass-staging.com
+seek.com
 seekpass.co
 select open source projects are now eligible for bounties.  the [rest of our open source projects](https://developer.yahoo.com/opensource/projectindex/) are technically in scope, but at a reduced rate for the time being
 select.logitech.com
@@ -4426,8 +4415,6 @@ testbank.xs2a.com
 testing.maventa.com
 testnet.bitmex.com
 teststs.uzleuven.be
-th.employer.staging.seek.com
-th.staging.jobsdb.com
 thebrowser.company
 theelasticast.com
 theperfumeshop.com
@@ -5181,10 +5168,6 @@ www.sokos.fi
 www.soundonw.us
 www.soundtrackyourbrand.com
 www.springfield.moz.works
-www.staging.jobstreet.co.id
-www.staging.jobstreet.com.my
-www.staging.jobstreet.com.ph
-www.staging.jobstreet.com.sg
 www.starbucks.ca
 www.starbucks.co.jp
 www.starbucks.com

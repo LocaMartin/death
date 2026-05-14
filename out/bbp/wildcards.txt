@@ -185,8 +185,6 @@ cashstaging.app
 cb.dev
 cbhq.net
 certinia.com
-certsy.com
-certsynonprod.com
 cheaptickets.com
 cheaptickets.nl
 chime.com
@@ -414,7 +412,6 @@ grabtaxi.com
 grammarly.com
 grammarly.io
 grammarlyaws.com
-grateful.me
 grindr.com
 grindr.io
 grindr.mobi
@@ -524,10 +521,7 @@ jit.si
 jitsi.net
 jobapi.net
 jobsdb.com
-jobstreet.co.id
 jobstreet.com
-jobstreet.com.my
-jobstreet.com.sg
 jora.com
 jora.xyz
 karwei.nl
@@ -685,6 +679,7 @@ myfitnesspal.com
 myharmony.com
 myhomebook.de
 myinsights.io
+myseek.xyz
 mysqueezebox.com
 myteksi.com
 myteksi.net
@@ -901,9 +896,6 @@ securecircle.com
 securegatewayaccess.com
 securityservices.io
 seek.com
-seek.com.au
-seekasia.com
-seekpass-staging.com
 seekpass.co
 sellzone.com
 semrush.com
