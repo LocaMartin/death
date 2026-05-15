@@ -265,7 +265,7 @@ https://app.chime.com
 https://app.datadome.co
 https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3
-https://app.fin.ai/
+https://app.fin.ai
 https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.grammarly.com
@@ -512,7 +512,6 @@ https://dashboard-101.moengage.com
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
-https://dashboard.sendbird.com/
 https://data.limeinternal.com
 https://data.prosus.com
 https://datadome.co
@@ -680,7 +679,7 @@ https://fcu.eu-west-2.outscale.com
 https://features.opera-api.com
 https://figma.slack.com/apps/a01n2qysa81-figma-and-figjam?tab=more_info
 https://fileshare.ze.monash.edu
-https://fin.ai/
+https://fin.ai
 https://financeiro.hostgator.com.br
 https://financialforce.com
 https://firefox.settings.services.allizom.org/v1
@@ -703,7 +702,6 @@ https://gaadmin.vfsglobal.com/GAR1Ph1ApptAdmin
 https://gaadmin.vfsglobal.com/Global-Admin
 https://gaadmin.vfsglobal.com/GlobalAdmin
 https://gap.citizenportal-test.bugbounty.akinox.dev/
-https://gate.sendbird.com
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gateway.superhuman.com
 https://gcsm.oppoit.com/
@@ -1858,8 +1856,6 @@ https://segment.com/docs/connections/sources
 https://selector.viator.com
 https://selfcare.ooredoo.qa
 https://send2.co/
-https://sendbird.com
-https://sendbird.com/docs
 https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web
 https://service.post.ch/ele-klp/ele

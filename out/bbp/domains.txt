@@ -1786,6 +1786,7 @@ community.watsons.com.my
 community.watsons.com.ph
 company.thebrowser.arc
 compass.fareharbor.com
+compete.playstation.com
 competitive.fortnite.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
@@ -2481,7 +2482,6 @@ grab.com
 grabpay.com
 grabtaxi.com
 grae.nba.com
-grafana labs developed [plugins](https://grafana.com/grafana/plugins/all-plugins/?signature=grafana) not installed by default are accepted, but not eligible for a bounty
 grammarly.com
 grammarly.io
 grammarlyaws.com
@@ -3636,6 +3636,7 @@ playcanvas.com
 player-login.unity.com
 player.vimeo.com
 player.vrt.be
+playstation.com
 playstation.net
 playticorp.com
 playtika.com
@@ -3739,6 +3740,7 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.accounts.firefox.com
+profile.playstation.com
 profiler.firefox.com
 profiles-api.datacamp.com
 profiles.wordpress.org
@@ -4019,7 +4021,6 @@ sellzone.com
 selt.languagecert.org
 semrush.com
 semrush.net
-sendbird.com
 sendgrid.com
 sensei.pixiv.net
 seoab.io
@@ -4046,6 +4047,7 @@ services.addons.allizom.org
 services.netlify.com
 services.repostnetwork.com
 services.shop-apotheke.com
+session-share.playstation.com
 sftp.reports.truelayer.com
 sg.louisvuitton.com
 sh.reddit.com
@@ -4731,6 +4733,7 @@ web.crypto.com
 web.geneva-staging.com
 web.grindr.com
 web.koho.ca
+web.np.playstation.com
 web.ryadom.kz
 web.snapchat.com
 web.truecaller.com
@@ -5130,6 +5133,7 @@ www.parool.nl
 www.parool.nl/abonnementen
 www.peoplecert.org
 www.pixiv.net
+www.playstation.com
 www.pns.hk
 www.pornbox.com
 www.pornworld.com

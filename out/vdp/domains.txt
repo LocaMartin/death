@@ -1236,7 +1236,6 @@ admin.montgomerybankoriginate.com
 admin.mybbu.com
 admin.newmember.servicefirstfcu.org
 admin.originate.firstfedcu.com
-admin.particlehealth.com
 admin.pes.dealstream.cbre.com
 admin.prd-idfapi.aws3.ezshield.ws
 admin.sentera.com
@@ -11116,7 +11115,6 @@ euleioparaumacrianca.com.br
 eumotionchannelpartnerconference2023.events.abb.com
 euroconverts.com
 euroconverts.net
-eurocreditreview.com
 euroextract.com
 eurogamer.de
 eurogamer.es
@@ -21426,6 +21424,7 @@ patientemotionaljourney.com
 patientfinder.com
 patientreach.com
 patientregistries.co.uk
+patients.particlehealth.com
 patradomain.com
 patradomain.eu
 patradomain.se
@@ -22224,7 +22223,6 @@ portal.kleemann.info
 portal.l3harris.com
 portal.nextcloud.com
 portal.ngc-mfa.cc2.myngc.com
-portal.particlehealth.com
 portal.partner.l3harris.com
 portal.romonet.com
 portal.services.wirtgen-group.com
@@ -23633,6 +23631,7 @@ raisingcanes.wgiftcard.com
 raisingcanesme.com
 rakuten-bank.co.jp
 rakuten-card.jp
+rakuten-sonpo.co.jp
 rakutencheck.com
 rakutentrade.my
 raleighcountyefcu-admin.originate.fiservapps.com
@@ -32510,7 +32509,6 @@ www.wirtgen-group-auf-der-bauma.com
 www.wirtgen-group-auf-der-bauma.de
 www.wirtgen-group-bauma.com
 www.wirtgen-group-bauma.de
-www.wirtgen-group-jobs.de
 www.wirtgen-group.com
 www.wirtgen-group.de
 www.wirtgen-group.hu
