@@ -1537,7 +1537,6 @@ https://marketplace.visualstudio.com/items?itemname=aikidosecurity.aikido
 https://marketplace.visualstudio.com/items?itemname=mongodb.mongodb-vscode
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com
 https://master.servicecentre.digitalservicing-np.lfscnp.com
-https://masterpassteststore.com/
 https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
