@@ -2292,6 +2292,7 @@ https://www.justeattakeaway.com
 https://www.kaleido.ai
 https://www.kayak.com/global
 https://www.keepersecurity.com/download.html
+https://www.keepersecurity.com/download.html?t=db
 https://www.kohls.com
 https://www.kohls.com/feature/app.jsp
 https://www.kuleuven.be/sapredir/admissions_50000050
