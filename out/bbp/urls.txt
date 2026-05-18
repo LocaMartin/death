@@ -426,6 +426,7 @@ https://cdn.unicdn.net/apk/unibetcasino.apk
 https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com
+https://challenge-0526.intigriti.io
 https://charts.etoro.com
 https://chat.openai.com
 https://checkout.finance.yahoo.com/checkout/v1
@@ -593,6 +594,7 @@ https://download.krisp.ai/win
 https://download.opera.com
 https://drp.myoppo.com/
 https://dxc.episerver.net/
+https://e-global.heytap.com/marketing/login
 https://e.oppo.com/
 https://ebctest.cybersource.com/CGK2
 https://ebctest.cybersource.com/bin
@@ -1699,7 +1701,6 @@ https://partnerhelp.viator.com
 https://partners.etoro.com
 https://partners.usaa.com
 https://partners.viator.com
-https://passport.peoplecert.org/
 https://pay.payzippy.com
 https://pay.unity.com
 https://paymayabiller-prod.paymaya.com
@@ -2099,6 +2100,7 @@ https://wibi.wien.gv.at
 https://widget.thefork.com
 https://wien.at
 https://wiki.atom-lens.com
+https://wise-sandbox.com/
 https://wise.com
 https://wmaudience.com
 https://world.planethoster.net

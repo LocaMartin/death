@@ -2999,9 +2999,6 @@ m.tw.coupang.com
 magazine.kruidvat.be
 magento.com
 magic.veriff.me
-magiceden.dev
-magiceden.io
-magiceden.workers.dev
 magisto.com
 magwien.gv.at
 mail.hostinger.com/v2
