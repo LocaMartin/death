@@ -2,18 +2,11 @@ http://accountoffers.wellsfargo.com
 http://activitylog.io/
 http://analytics.prosus.com
 http://api.faraday.ai
-http://api.gx.games/gms
-http://api.gx.games/gx
-http://api.gx.games/pub
-http://api.gx.me/me
 http://api.insightly.com/v3.1
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
 http://api.lightspark.com
 http://api.na1.insightly.com/v3.1
-http://api.neon.opera.com/neon/pub
-http://api.neon.opera.com/neon/store
-http://api.neon.opera.com/pub
 http://app-qa.chime.com/users/sign_in
 http://app.faraday.ai
 http://app.fing.com/app
@@ -186,11 +179,6 @@ https://api.enc.kape.com
 https://api.etoro.com
 https://api.expressvpn.com
 https://api.fstr.rocks
-https://api.gx.games/dc
-https://api.gx.games/dev
-https://api.gx.games/gxc
-https://api.gx.games/profile
-https://api.gx.games/session
 https://api.ibops.net
 https://api.ibops.net/ad-management
 https://api.ibotta.com
@@ -238,6 +226,7 @@ https://api.thefork.io
 https://api.thesecurityteam.rocks
 https://api.thetradedesk.com
 https://api.thousandeyes.com/
+https://api.toom.de
 https://api.tripadvisor.com
 https://api.unity.com
 https://api.upwork.com/graphql
@@ -383,7 +372,7 @@ https://bugcrowd-pam-#%23%23.workflows.oktapreview.com
 https://bugcrowd.charm.felixforus.ca/home
 https://bugcrowd.com/programs
 https://bugcrowd.lucky.felixforus.ca
-https://bugs.opera.com
+https://bugs.opera.com/
 https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
@@ -408,7 +397,7 @@ https://careers.etsy.com
 https://careers.thetradedesk.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
 https://cash.app
-https://cashback.opera.com
+https://cashback.opera.com/
 https://cashier-src.etoro.com
 https://cashier.etoro.com
 https://casino.bwin.com
@@ -1981,6 +1970,7 @@ https://tidal.com/
 https://tms.onecloud.harman.com
 https://tomoe.bykea.net
 https://tools-api.cryptocompare.com/
+https://toom.de
 https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com

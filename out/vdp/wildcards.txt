@@ -566,6 +566,7 @@ cortexica.com
 costar.com
 costargroup.com
 costarmanager.com
+costarremanager.com
 costco.ca
 costco.com
 costcobusinesscentre.ca
@@ -1595,6 +1596,8 @@ mshastanddown.gov
 mtb.com
 mtbs.gov
 mturk.com
+mufg.jp
+mufgamericas.com
 muji.ae
 muji.bh
 muji.com.kw
@@ -2402,6 +2405,7 @@ testko.com
 tftc-istehdaf.org
 thefixedincomegroup.com
 themergermarketgroup.com
+thenorthface.com
 theossteam.com
 thescore.com
 thetriple-point.com
@@ -2419,6 +2423,7 @@ tigta.gov
 tigtanet.gov
 tikkie.me
 tim-acuris.com
+timberland.com
 time.gov
 timequities.com
 timeseries.com
@@ -2624,6 +2629,7 @@ usvisascheduling.com
 usz.ch
 va.gov
 valic.com
+vans.com
 vantagetowers.com
 vaultverify.com
 vcahospitals.com
@@ -2641,6 +2647,8 @@ vestolit.com
 veterans.gov
 vetschoice.co.za
 vetsource.com
+vfc-int.com
+vfc.com
 vfpt.pt
 vg247.com
 victoriassecret.ae
