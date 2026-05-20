@@ -4373,7 +4373,6 @@ tax.audible.com
 tax.crypto.com
 taxi.booking.com
 taxis.booking.com
-tchap.gouv.fr
 tdl.sh
 team.swapcard.com
 teamdirectory.nba.com

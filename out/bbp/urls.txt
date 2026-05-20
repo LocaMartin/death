@@ -226,7 +226,6 @@ https://api.thefork.io
 https://api.thesecurityteam.rocks
 https://api.thetradedesk.com
 https://api.thousandeyes.com/
-https://api.toom.de
 https://api.tripadvisor.com
 https://api.unity.com
 https://api.upwork.com/graphql
@@ -917,7 +916,6 @@ https://github.com/square/okio
 https://github.com/square/wire
 https://github.com/strangelove-ventures/horcrux
 https://github.com/sveltejs/svelte
-https://github.com/tchapgouv
 https://github.com/tempus-ex
 https://github.com/transferwise
 https://github.com/tronprotocol/java-tron
@@ -1528,9 +1526,6 @@ https://marketplace.visualstudio.com/items?itemname=aikidosecurity.aikido
 https://marketplace.visualstudio.com/items?itemname=mongodb.mongodb-vscode
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com
 https://master.servicecentre.digitalservicing-np.lfscnp.com
-https://matrix.agent.tchap.gouv.fr
-https://matrix.e.tchap.gouv.fr
-https://matrix.i.tchap.gouv.fr
 https://mattermost.com/apps
 https://mcp-server.zomato.com/mcp
 https://mcp.atlassian.com
@@ -1970,7 +1965,6 @@ https://tidal.com/
 https://tms.onecloud.harman.com
 https://tomoe.bykea.net
 https://tools-api.cryptocompare.com/
-https://toom.de
 https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
@@ -2136,7 +2130,6 @@ https://www.barracuda.com/products/emailsecuritygateway
 https://www.barracuda.com/products/messagearchiver
 https://www.barracuda.com/products/webapplicationfirewall
 https://www.barracuda.com/products/websecuritygateway
-https://www.beta.tchap.gouv.fr
 https://www.binance.com/
 https://www.binance.us/
 https://www.binisoft.org/pdf/guides/malwarebytes-wfc-user-guide.pdf
@@ -2430,7 +2423,6 @@ https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
 https://www.sourcetreeapp.com/
 https://www.tagesanzeiger.ch
-https://www.tchap.gouv.fr
 https://www.teamviewer.com/en/products/teamviewer
 https://www.thecurrent.com
 https://www.thefork.com

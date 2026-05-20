@@ -483,7 +483,6 @@ http://firstpalmetto.onlinebank.com
 http://fisac.us.baesystems.com
 http://fiserv-apidemo.fiservapps.com
 http://fiserv-apisb1.fiservapps.com
-http://fiserv-apisb2.fiservapps.com
 http://fiserv-webdemo1.fiservapps.com
 http://fiserv-webtrain.fiservapps.com
 http://flaeblrvd09:15002/ebilling-qa-ui/-1
@@ -525,7 +524,6 @@ http://gnpd.ph
 http://gpag.softwareexpress.com.br
 http://gpagpreprod.softwareexpress.com.br
 http://gpvpn.ballaerospace.com
-http://harris-achex.onefiserv.com
 http://hdscasxfer.us.baesystems.com
 http://heartland.hepsiian.com
 http://hendrickscountybank.onlinebank.com
@@ -537,7 +535,6 @@ http://home24bank.onlinebank.com
 http://homol.antecipacaotodasmaquinas.firstdata.com
 http://homol.gestao.afinz.fiserv.com.br
 http://homol.gestao.bin.fiserv.com.br
-http://homol.gestao.caixa.fiserv.com.br
 http://homol.gestao.sicredi.fiserv.com.br
 http://homol.static.fiserv.com.br
 http://honeycomb.fedhive.com
@@ -583,7 +580,6 @@ http://intelligentworkplace.app.fiserv.com
 http://internal.mtnzambia.co.zm
 http://intracoastal.onlinebank.com
 http://invite.ayoba.me
-http://ipabcprod.fiservsco.com
 http://ipg-online.com
 http://irad-mr35-zero-thrust-blockchain.us.baesystems.com
 http://irad-mr35-zero-thrust-broker.us.baesystems.com
@@ -593,7 +589,6 @@ http://irsaadm.softwareexpress.com
 http://irsp.com
 http://isc-jira-tst.us.baesystems.com
 http://isc-jira-uat.us.baesystems.com
-http://isnap.firstdata.eu
 http://issctime.us.baesystems.com
 http://issctimetest.us.baesystems.com
 http://issctimeupg.us.baesystems.com
@@ -618,7 +613,6 @@ http://kinderkarnawal.pl/admin_bn5cz9k4/login
 http://koawa.co.nz/
 http://kpcu.architect-cert.fiservapps.com
 http://lamesanb.onlinebank.com
-http://lb.dev.pclender.org
 http://lbandt.onlinebank.com
 http://lc1-srdap-stage.ext.us.baesystems.com
 http://lc1-stage.ext.us.baesystems.com
@@ -726,7 +720,6 @@ http://offlinebanking.truenergyfcu.org
 http://ofsl.architect-cert.fiservapps.com
 http://ofx.architect-cert.fiservapps.com
 http://ofx.onlinebank.com
-http://olpss.firstdata.com.au
 http://olvidemicontrasena.softwareexpress.com
 http://oma-fdc-fedsso-cat.firstdata.com
 http://oma-fdc-fedsso.firstdata.com
@@ -762,7 +755,6 @@ http://online.cadencebank.com
 http://online.dollar.bank
 http://online.firstdata.com
 http://online.gatecity.bank
-http://online.lsfcu.org
 http://online.mesquitecu.org
 http://online.sunflowerbank.com
 http://online.telecash.de
@@ -796,12 +788,9 @@ http://p3.captcha-billpay.com
 http://p4-cert.captcha-billpay.com
 http://p4.captcha-billpay.com
 http://p5-cert.captcha-billpay.com
-http://pagos.e-posnet.com
-http://pagosv2.e-posnet.com
 http://parkbank.onlinebank.com
 http://parknational.architect-cert.fiservapps.com
 http://parknational.onlinebank.com
-http://partnercare-saml-prod.checkfree.com
 http://partnercare.checkfree.com
 http://partnercare2-saml-btat2.checkfree.com
 http://partnercare2-saml-cert.checkfree.com
@@ -809,10 +798,8 @@ http://partnercare2-saml-prod.checkfree.com
 http://patron.oyorooms.com/in
 http://payments-exchange-services.fiservapps.com
 http://payments-exchange.fiservapps.com
-http://paypage.e-posnet.com.uy
 http://paystubportal.com
 http://pctfcu-dn.financial-net.com
-http://pdx8fcu.vbwebservices.com
 http://pfcu.architect-cert.fiservapps.com
 http://pfcu.onlinebank.com
 http://pip-azu2-sec-paf-001-mgmt.ukwest.cloudapp.azure.com
@@ -830,7 +817,6 @@ http://poda.secureinternetbank.com
 http://polcard.oneportal24.com
 http://portal-staging.storman.com
 http://portal.fiserv.dev
-http://portalclientebin.com.br
 http://posh.pitch.se
 http://pport4.hedcor.com
 http://premieraccesscard.com
@@ -838,7 +824,6 @@ http://premiercommunity.onlinebank.com
 http://prepaid.firstdata.com
 http://prepaidaccess.com
 http://prepaidcard.moneynetwork.com
-http://prescottfcu-dc.cert.fec-dc.fiservapps.com
 http://preverifyexternalaccount.santanderbank.com
 http://prod.apac.api.fiservapps.com
 http://prod.api.firstdata.com
