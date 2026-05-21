@@ -842,8 +842,6 @@ http://pyramid.cfree.com
 http://q1webbanking.comerica.com
 http://q2webbanking.comerica.com
 http://qa-myfiserv.fiservapps.com
-http://qa-r1-cardvalet-api-b2c-s.fiservmobileapps.com
-http://qa-r2-cardvalet-api-b2c-s.fiservmobileapps.com
 http://qa-r2.client-central.com
 http://qa.apac.api.fiservapps.com
 http://qa.api.firstdata.com
@@ -902,8 +900,6 @@ http://safelnkb2e.us.baesystems.com
 http://safelnkb2w.us.baesystems.com
 http://safelnke.us.baesystems.com
 http://salliemae.architect-cert.fiservapps.com
-http://sba-cat.fdcbusinessservices.com
-http://sba.fdcbusinessservices.com
 http://sbizbillpay.amegybank.com
 http://sbizbillpay.calbanktrust.com
 http://sbizbillpay.nbarizona.com
@@ -920,14 +916,12 @@ http://sdk-api-stage.gyft.com
 http://seattlecu.architect-cert.fiservapps.com
 http://seattlecu.onlinebank.com
 http://secure.bankofhope.com
-http://secure.coastal24.com
 http://secure.montecito.bank
 http://secured-carat-uat.fiserv.com
 http://secured-carat.fiserv.com
 http://securevdi.balldayton.com
 http://selectaportal.firstdata.com
 http://services.usdirectexpress.com
-http://serviciosv2.e-posnet.com
 http://sftp1.comerica.com
 http://sfts-test-allen.us.baesystems.com
 http://sfts.us.baesystems.com
@@ -936,7 +930,6 @@ http://sip.oneportal24.com
 http://sitef.softwareexpress.com.br
 http://sitef1.softwareexpress.com.br
 http://sitef2.softwareexpress.com.br
-http://sitefconciliacao.softwareexpress.com.br
 http://sitefexpress-mx.softwareexpress.com
 http://sitefexpress.softwareexpress.com.br
 http://sitefexpress1.softwareexpress.com.br
@@ -967,8 +960,6 @@ http://spendtrack.fiservapp.com
 http://spotlight.thorntontomasetti.com
 http://srdap.ext.us.baesystems.com
 http://sroui-prod.businesstrack.com
-http://sso-3.fiservsco.com
-http://sso-ceqa.bankofamerica.com
 http://sso-fi.bankofamerica.com
 http://sso-sco2.fiservsco.com
 http://sso-stage.us.baesystems.com
@@ -1014,19 +1005,14 @@ http://test.apac.api.fiservapps.com
 http://test.api.firstdata.com
 http://test.api.fiservapps.com
 http://test.baldorconfig.abb.com
-http://test.consolav2.e-posnet.com
 http://test.emea.api.fiservapps.com
 http://test.fdconnect.com
 http://test.ipg-online.com
-http://test.kembafcu.org
 http://test.latam.api.fiservapps.com
 http://test.nucleussec.com
-http://test.pagosv2.e-posnet.com
-http://test.serviciosv2.e-posnet.com
 http://test2.3ds.firstdata.com
 http://test3.3ds.firstdata.com
 http://test3.ipg-online.com
-http://testbillpay.coastal24.com
 http://testbillpay.suntrust.com
 http://testitd.firstdata.com
 http://testitdviewer.firstdata.com
@@ -1054,7 +1040,6 @@ http://uat-prepaid.firstdata.com
 http://uat-web-essentials-ecm.fiservapps.com
 http://uat-www.startpeople.be/
 http://uat.authenticare.com
-http://uat.thepayplace.com
 http://uat1.merchantportal.firstdata.eu
 http://uat1b.merchantportal.firstdata.eu
 http://ubankonline.onlinebank.com
@@ -1074,7 +1059,6 @@ http://upx24-lims.usgcns.net
 http://us-east-1.dev.jetbridge.aws.fiserv.com
 http://us-east-1.jetbridge.aws.fiserv.com
 http://us-east-1.staging.jetbridge.aws.fiserv.com
-http://us-west-2.dev.jetbridge.aws.fiserv.com
 http://us-west-2.jetbridge.aws.fiserv.com
 http://us-west-2.staging.jetbridge.aws.fiserv.com
 http://usc-bitbucket.us.baesystems.com
@@ -1089,7 +1073,6 @@ http://vdi.balldayton.com
 http://vdp.kahootz.com
 http://verifyexternalaccount.openbank.us
 http://verifyexternalaccount.santanderbank.com
-http://verifynow.fta.cashedge.com
 http://vip4.baldorvip.com
 http://visa.test.3ds.firstdata.com
 http://visa.test2.3ds.firstdata.com
@@ -1157,10 +1140,8 @@ http://wingsfinancial.onlinebank.com
 http://wip-swap.thorntontomasetti.com
 http://wip.encounter.thorntontomasetti.com
 http://wip.skipper.thorntontomasetti.com
-http://wirexchange-qa.goxroads.com
 http://wirexchange.goxroads.com
 http://wirexchangeservices-qa.goxroads.com
-http://wirexchangeservices.goxroads.com
 http://wise.gnpd.ph
 http://womss.us.baesystems.com
 http://workspace-ap1.ballaerospace.com
@@ -1169,7 +1150,6 @@ http://workspace-ap3.ballaerospace.com
 http://workspace.ballaerospace.com
 http://wrenthamcoop.onlinebank.com
 http://ws.firstdataclients.com
-http://wsconsultatrn.softwareexpress.com.br
 http://wsconsultatrnla.softwareexpress.com
 http://www-btat2-accessadvantage.fiservapps.com
 http://www-btat2-loancierge.fiservapps.com
@@ -1232,10 +1212,8 @@ http://www104.ipg-online.com
 http://www2.ipg-online.com
 http://www2.pitch.se
 http://www2.prepaidaccess.com
-http://www2.thepayplace.com
 http://www3.thepayplace.com
 http://www4.firstdatamerchantservices.com
-http://www4.thepayplace.com
 http://www5.thepayplace.com
 http://zeusapps.usgcns.net
 http://zeusfts.usgcns.net
@@ -1567,7 +1545,6 @@ https://busch.com
 https://business.gov
 https://businessdeposits.digitalcommerce.truist.com
 https://businessonboardinguat.momo.africa/
-https://buy.matterport.com/
 https://ca-roa.medeco.com
 https://cabmanager.citymesh.com/
 https://cadabotellacuenta.com
@@ -1786,6 +1763,8 @@ https://demo-uk.spatialbuzz.net
 https://dep.mtn.co.za/
 https://deposits.digitalcommerce.truist.com
 https://dev-api.matterport.com/graphiql
+https://dev-app.matterport.com/
+https://dev-buy.matterport.com/
 https://dev.gusto.com/
 https://devadmin.beessmart.co.kr
 https://developer.domain.com.au/
@@ -2281,7 +2260,6 @@ https://martechmatch.com
 https://martyawards.com
 https://mashable.com
 https://masterlifecrm.com
-https://matterport.com
 https://maxroll.gg/
 https://maxroll.shop
 https://maz-bsd.com
