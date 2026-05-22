@@ -1469,7 +1469,6 @@ com.enjin.mobile.wallet
 com.eufylife.eufyhome
 com.evernote
 com.exness.android.pa
-com.exness.investments
 com.expedia.bookings
 com.expediapartnercentral
 com.fanduel.android.self
@@ -2401,8 +2400,6 @@ github.com/anthropics
 github.com/anthropics/anthropic-sdk-python
 github.com/anthropics/anthropic-sdk-typescript
 github.com/binary-com
-github.com/brave
-github.com/brave-intl
 github.com/deriv-com
 github.com/kubernetes-csi/csi-lib-utils
 github.com/kubernetes-csi/csi-release-tools
@@ -3389,7 +3386,6 @@ obs-sensors.iris.production.forescoutcloud.net
 observability.embark.net
 ociadmin.cloud.8x8.com
 ocijlbex1prd.marriott.com
-octopus.com
 odcdn.com.au
 odoo14.notebleue.pro
 odul.watsons.com.tr
@@ -3582,7 +3578,6 @@ pcrstudioruzb.uzleuven.be
 pdst.fm
 perforce.embark.net
 personal.shop-apotheke.com
-personal.trexcloud.com
 personio-internal.de
 personio.de
 personio.tools
@@ -4143,7 +4138,6 @@ snaps.metamask.io
 snapshooter.com
 snooguts.net
 soaext.oft.hyatt.com
-social-trading.exness.com
 social.geneva-staging.chat
 social.geneva-staging.com
 social.playstation.com
