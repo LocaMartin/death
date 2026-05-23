@@ -721,8 +721,6 @@ https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
-https://github.com/brave
-https://github.com/brave-intl
 https://github.com/buildonspark/spark
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
@@ -890,6 +888,7 @@ https://github.com/netflix/zuul
 https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
+https://github.com/octopusdeploy
 https://github.com/okx/wallet-core
 https://github.com/pinterest
 https://github.com/plaid/plaid-link-android
@@ -1641,6 +1640,7 @@ https://nvio.ar/
 https://nvio.mx/
 https://nvoice.usaa.com/
 https://ob-sandbox.gocardless.io
+https://octopus.com
 https://octopus.com/downloads
 https://odesli.co
 https://odesli.com

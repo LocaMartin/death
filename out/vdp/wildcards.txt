@@ -676,6 +676,8 @@ deliciousbrains.com
 delphibank.com.au
 delphifonder.se
 delphifunds.com
+demert.com
+demertbrands.com
 dentolo.de
 dese.com
 deskjs.com
@@ -1735,6 +1737,7 @@ norma-mobil.de
 northhanm.com
 northstarrxllc.com
 notify.gov
+notyourmothers.com
 nova-mobil.de
 npac.com
 nps.gov
@@ -1755,6 +1758,11 @@ nutanix.com
 nutella.com
 nwgpeople.com
 nwirp.gov
+nymbrands.co.uk
+nymbrands.uk
+nymhair.co.uk
+nymhair.com
+nymhair.uk
 o2.com
 o2.de
 o2business.de

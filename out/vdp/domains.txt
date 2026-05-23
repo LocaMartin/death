@@ -8721,6 +8721,8 @@ demdomainmm2.org
 demdomainmm3.info
 demdomainmm3.net
 demdomainmm3.org
+demert.com
+demertbrands.com
 demo-admin.openmage.com
 demo-admin.originate.fiservapps.com
 demo-api.fmpilot2.com
@@ -19806,6 +19808,7 @@ notification.icare.abb.com.cn
 notifications.deere.com
 notify.gov
 notizie.cbre.it
+notyourmothers.com
 notyournormalbank-admin.originate.fiservapps.com
 notyournormalbank.originate.fiservapps.com
 nova-mobil.de
@@ -19939,10 +19942,15 @@ nyheder.cbre.dk
 nyl.wc3.com
 nylaarpfeds-uat.hepsiian.com
 nymarketing.cbre.com
+nymbrands.co.uk
+nymbrands.uk
 nymeo-admin.originate.fiservapps.com
 nymeo.originate.fiservapps.com
 nymfcu-dc.cert.fec-dc.fiservapps.com
 nymfcu-dn.financial-net.com
+nymhair.co.uk
+nymhair.com
+nymhair.uk
 nytimescu-dc.cert.fec-dc.fiservapps.com
 nytimescu-dn.financial-net.com
 nz-qa.nonprod.cbre.com

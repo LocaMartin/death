@@ -1428,8 +1428,6 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -3386,6 +3384,7 @@ obs-sensors.iris.production.forescoutcloud.net
 observability.embark.net
 ociadmin.cloud.8x8.com
 ocijlbex1prd.marriott.com
+octopus.com
 odcdn.com.au
 odoo14.notebleue.pro
 odul.watsons.com.tr
