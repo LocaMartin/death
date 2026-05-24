@@ -1428,6 +1428,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
