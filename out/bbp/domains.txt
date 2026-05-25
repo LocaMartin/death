@@ -2144,7 +2144,6 @@ eidhelp.marriott.com
 ein-herz-fuer-kinder.de
 ela.st
 elastic.co
-elastic.co credentials
 elastic.dev
 elastic.wtf
 elasticacademy.com
@@ -2439,8 +2438,6 @@ gobiz.co.id
 gocardless-banking.io
 gocardless-cicd.io
 gocardless-lab.io
-gocardless-staging.io
-gocardless.com
 gocardless.dev
 gocardless.io
 gofin.io

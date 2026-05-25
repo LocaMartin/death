@@ -384,8 +384,6 @@ gobiz.co.id
 gocardless-banking.io
 gocardless-cicd.io
 gocardless-lab.io
-gocardless-staging.io
-gocardless.com
 gocardless.dev
 gocardless.io
 gofin.io
