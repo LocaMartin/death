@@ -6715,6 +6715,7 @@ coffeecallsforbelvita.com
 coffeecobank.onlinebank.com
 cofs.fdecs.com
 cogencysoft.com
+cognition.ai
 cognizant-mobility.com
 cognizant.cc
 cognizant.com
@@ -8681,6 +8682,7 @@ deepwaterind-admin.originate.fiservapps.com
 deepwaterind-dc.cert.fec-dc.fiservapps.com
 deepwaterind-dn.financial-net.com
 deepwaterind.originate.fiservapps.com
+deepwiki.com
 deere.africa
 deere.asia
 deere.ch
@@ -9241,6 +9243,7 @@ devicemanager-uat.fiservapps.com
 devicemanager.fiservapps.com
 devicetracker-released-internal-demo.firebaseapp.com
 devimages.alshaya.com
+devin.ai
 devintranet.greensoluce.com
 devl-api-financeconnect.jdf-alfa2-devl-vpn2.eu.e10.c01.johndeerecloud.com
 devl-api.agrisync.com
@@ -23952,6 +23955,7 @@ rxcreate.com
 rxcrossroads.com
 rxdev.com
 rxjoin.com
+rxlightning-demo.com
 rxownership.com
 rxp-pod2-cert.checkfreeweb.com
 rxp-ui-az-rc1.checkfreeweb.com

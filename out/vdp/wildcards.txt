@@ -689,6 +689,7 @@ deutschepost.de
 deutscheunquote.com
 devacurl.com
 devacurlpro.com
+devin.ai
 devtestfan1.gov
 dfc.gov
 dhatec.nl
@@ -2144,6 +2145,7 @@ ruffles.com
 ruralfinance.com.au
 rwbaird.com
 rxcrossroads.com
+rxlightning-demo.com
 rxownership.com
 rxsavingssolutions.com
 rxss.com
