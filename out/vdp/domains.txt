@@ -7308,6 +7308,7 @@ cooporiental-dn.financial-net.com
 coordinatorspresentation.events.abb.com
 coosapines-uat.streamlendvelocity.net
 coosapines.streamlendvelocity.net
+copaamarela.com
 copilot-api-uat.cardconnect.com
 copilot-api-uat.cardpointe.com
 copilot-uat.cardconnect.com
@@ -12884,6 +12885,7 @@ gofirstclass-dc.cert.fec-dc.fiservapps.com
 gogego.com
 gogmfcu-admin.originate.fiservapps.com
 gogmfcu.originate.fiservapps.com
+gogo.com
 gokinetic.com
 golden1.fta.popmoney.com
 goldencirclecu-dc.cert.fec-dc.fiservapps.com
@@ -30310,6 +30312,7 @@ www.accessmyiq.com
 www.adfs.mainstreamsasp.com
 www.adfs4.mainstreamsasp.com
 www.admin.bjresidential.cbre.com.cn
+www.aeroxr.com
 www.agile.cbre.com
 www.agribusiness.cbre.com
 www.agrisync.com
@@ -30907,6 +30910,7 @@ www.go-test-cbreglobalinvestors.cbre.com
 www.go-test.cbre.com
 www.go.cbre.com
 www.go.cbreim.com
+www.gogoair.com
 www.gopulse-evolve.cbre.com
 www.gps-selfservice.cbre.com
 www.greenroom-qa.cbre.com
@@ -30965,7 +30969,6 @@ www.hoteltrends.cbre.ca
 www.hpso.com
 www.hqportfolio.cbre.eu
 www.hubble.cbre.com
-www.iafcf.org
 www.iars.cbrevietnam.com
 www.ibsgwsweb.cbre.com
 www.icg.cbre.com
