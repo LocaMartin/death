@@ -414,7 +414,6 @@ https://cdn.unicdn.net/apk/unibetcasino.apk
 https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com
-https://challenge-0526.intigriti.io
 https://charts.etoro.com
 https://chat.openai.com
 https://checkout.finance.yahoo.com/checkout/v1
@@ -1859,6 +1858,7 @@ https://service.post.ch/ekp-web
 https://service.post.ch/ele-klp/ele
 https://service.post.ch/zopa/app
 https://services.chipotle.com
+https://services.unity.com
 https://settings.superhuman.com
 https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com

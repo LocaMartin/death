@@ -1656,8 +1656,6 @@ com.qpon.merchant
 com.qpon.platform
 com.quora.android
 com.quora.app.mobile
-com.realme.storecn
-com.realmestore.app
 com.realtimeboard
 com.remitly.androidapp
 com.ring.neighborhoods
@@ -1998,6 +1996,7 @@ developer.authorize.net
 developer.crypto.com
 developer.currencycloud.com
 developer.cybersource.com
+developer.gocardless.com
 developer.gs.com
 developer.konghq.com
 developer.mozilla.org
@@ -4005,6 +4004,7 @@ sendgrid.com
 sensei.pixiv.net
 seoab.io
 seoquake.com
+seraphicsecurity.com
 serious.li
 seriously.com
 serveur12.notebleue.com
