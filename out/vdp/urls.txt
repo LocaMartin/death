@@ -1161,6 +1161,7 @@ http://www-btat2-accessadvantage.fiservapps.com
 http://www-btat2-loancierge.fiservapps.com
 http://www-btat2-portico.fiservapps.com
 http://www-btat2-porticousers.fiservapps.com
+http://www-btat2-reportinganalytics.portico.fiservapps.com
 http://www-btat2-svc-portico.fiservapps.com
 http://www-prod-loancierge.fiservapps.com
 http://www-prod-portico.fiservapps.com
@@ -2069,7 +2070,6 @@ https://gn-sekiro.com/
 https://go.xero.com
 https://goaeis.com
 https://goconcourse.com
-https://gogo.to
 https://goldenexperience.ferrero-campaigns.com/bg/bg/xp/goldenexperience
 https://goodfood.com.au
 https://gooseisland.ca

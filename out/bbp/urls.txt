@@ -127,7 +127,6 @@ https://admin.lastpass.com
 https://admin.moneyboxapp.org
 https://admin.sqills-bugbounty-test.cloud.sqills.com/api/v3/intelligence
 https://admin.sqills-bugbounty-test.cloud.sqills.com/en-GB/intelligence
-https://admin3.pentest.clicsante.ca/
 https://admintool.lime.bike
 https://aemdam.usaa360.com/
 https://afterpay.com
@@ -237,7 +236,6 @@ https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
 https://api.yeswehack.com
-https://api3.pentest.clicsante.ca/
 https://apis.indeed.com/graphql
 https://apis.onecloud.harman.com
 https://app-staging.getmoneytree.com
@@ -313,7 +311,6 @@ https://auth.datadome.co
 https://auth.lastpass.com
 https://auth.myopenpass.com
 https://auth.opera.com
-https://auth.pentest.clicsante.ca/
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
@@ -426,7 +423,6 @@ https://cli.github.com
 https://clickhou.se/bugcrowd
 https://clients.adstruc.com
 https://clients.multiplayer.classdojo.com/launcher/prod/latest
-https://clients3.pentest.clicsante.ca/
 https://cloud.elastic.co
 https://cloud.mongodb.com/ecosystem
 https://cloud.oppo.com/
@@ -691,7 +687,6 @@ https://gaadmin.vfsglobal.com/DHAAppointmentAdmin
 https://gaadmin.vfsglobal.com/GAR1Ph1ApptAdmin
 https://gaadmin.vfsglobal.com/Global-Admin
 https://gaadmin.vfsglobal.com/GlobalAdmin
-https://gap.citizenportal-test.bugbounty.akinox.dev/
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gateway.superhuman.com
 https://gcsm.oppoit.com/
@@ -1707,12 +1702,6 @@ https://payment.lafourchette.com
 https://payments.myntra.com
 https://payments.wpengine.com
 https://payoutapi.maya.ph
-https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info
-https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-revision
-https://pbgq-pes.deontologie-policiere.gouv.qc.ca/reponses-questions
-https://pbgq-pes.upac.gouv.qc.ca/denonciation
-https://pbgq-pes.upac.gouv.qc.ca/nous-joindre
-https://pbgq.upac.gouv.qc.ca/
 https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
@@ -1754,7 +1743,6 @@ https://portal.ifoodpago.com.br
 https://portal.originzero.com.au
 https://portal.pdq.com/
 https://portal.unifiedid.com
-https://portal3.pentest.clicsante.ca/
 https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
 https://portalv2.lh360.com
@@ -1773,7 +1761,6 @@ https://production-delivery-metrics-svc.vistarmedia.com
 https://production-dynam-creative.vistarmedia.com
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2
-https://profile.pentest.clicsante.ca/
 https://profiles.sports.yahoo.com/
 https://profreg.medscape.com
 https://projects.epam.com
@@ -1800,7 +1787,6 @@ https://refinedsites.refinedwiki.com
 https://regatta.aiven.io
 https://rentals.tripadvisor.com
 https://repair.voiweb.net
-https://reptox.cnesst.gouv.qc.ca/
 https://res.cloudinary.com
 https://research.monash.edu/
 https://researchmgt.monash.edu/
@@ -1967,7 +1953,6 @@ https://teleoptiprd.otto.de
 https://templates.etoro.com
 https://tempus-ex.com
 https://tess.service-now.com
-https://test.m4sv.bugbounty.akinox.dev/
 https://testnet-blockexplorer.electroneum.com
 https://tfb.t-mobile.com
 https://thatconceptstore.com
@@ -2187,7 +2172,6 @@ https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
-https://www.cyber.gouv.qc.ca/
 https://www.cyberghostvpn.com/download
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
