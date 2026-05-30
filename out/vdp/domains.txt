@@ -13190,7 +13190,6 @@ goes-r.gov
 goessentialsnow.com
 goezshield.com
 gofirstclass-dc.cert.fec-dc.fiservapps.com
-gogego.com
 gogmfcu-admin.originate.fiservapps.com
 gogmfcu.originate.fiservapps.com
 gogo.com
@@ -21582,7 +21581,6 @@ payframe.fiservapps.com
 payfs-qa.dtbsa.co.za
 payfs.dtbsa.co.za
 paygateway.com
-paylease.com
 payless.com.kw
 paylessshoes.ae
 payload.deere.com
