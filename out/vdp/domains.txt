@@ -45,6 +45,7 @@
 104.155.11.146
 104.249.144.8
 104.249.145.8
+1040.com
 10thmagnitude.com
 1101greenwood.com
 115.146.80.0/20
@@ -1070,7 +1071,6 @@ account.buildingplus.abb.com.cn
 account.bupa.com.au
 account.deere.com
 account.gallileo-frankfurt.com
-account.n45ht.or.id
 account.pdp-vertex-connect-devl-vpn.us.e20.c01.johndeerecloud.com
 account.resmed.com
 accounting.gallileo-frankfurt.com
@@ -1397,6 +1397,7 @@ aida-mdlz.com
 aidermoncoeur.ca
 aig.co.jp
 aig.com
+aig.com.br
 aig.ie
 aigc.henkel.cn
 aigc.magic-mirror.cn
@@ -4380,7 +4381,6 @@ build3dpes.cbre.com
 build3dstaging.cbre.com
 build3dtest.cbre.com
 build3duat.cbre.com
-buildbot.mariadb.org
 builder-cert-intws.mybills.com
 builder-intws.mybills.com
 builder-pod1-cert.fiservapps.com
@@ -8545,7 +8545,6 @@ dairyqueen.wgiftcard.com
 dairystatebank-admin.originate.fiservapps.com
 dairystatebank.originate.fiservapps.com
 daisy.ca.essd.northgrum.com
-daisysafety.n45ht.or.id
 dakotalandfcu-dn.financial-net.com
 dakotastar-admin.originate.fiservapps.com
 dakotastar-dc.cert.fec-dc.fiservapps.com
@@ -9942,7 +9941,6 @@ download.myim.cbre.com
 download.nextcloud.com
 download.seleritycorp.com
 download2.fleetboard.com
-downloads.mariadb.org
 downrivercommfcu-dc.cert.fec-dc.fiservapps.com
 downrivercommfcu-dn.financial-net.com
 downrivercu-admin.originate.fiservapps.com
@@ -13069,6 +13067,7 @@ gl.cbre.com
 glacierhills-dc.cert.fec-dc.fiservapps.com
 glacierhills-dn.financial-net.com
 glassdoor.fr
+glatfelters.com
 glb2.cbre.com
 gleevec.ca
 glemvital.at
@@ -17593,7 +17592,6 @@ margintrac.com
 mariadb-analytics-pa-db-1-a.oportun.com
 mariadb-data-db-1-a.oportun.com
 mariadb-data-db-2-a.oportun.com
-mariadb.org
 marimonitor.com
 marine.equipmentmanagement.abb.com
 marine.uat.genix.abb.com
@@ -18667,6 +18665,7 @@ monosem.asia
 monosem.cn
 monosem.com
 monosem.eu
+monosem.fr
 monosem.in
 monosem.it
 monosem.us
@@ -19612,7 +19611,6 @@ mywsfcu-admin.originate.fiservapps.com
 mywsfcu.originate.fiservapps.com
 n-uat.nonprod.cbre.com
 n.gallileo-frankfurt.com
-n45ht.or.id
 na-fimu-x-usc1.ns1.fiservapis.com
 na-fimu-x-use4.ns1.fiservapis.com
 na-secureauth-cat.fiservapps.com
@@ -25712,7 +25710,6 @@ skylinefinancialfcu-dn.financial-net.com
 skylinefinancialfcu.originate.fiservapps.com
 skynet.bearflagrobotics.com
 skype2019-se-accesswest.ngc.com
-skyscope.n45ht.or.id
 slbank-p2.onlinebank.com
 slbank.onlinebank.com
 slc-vpn-1.l3harris.com
@@ -25767,6 +25764,7 @@ smb-cert.solspark.com
 smb-stage.gyft.com
 smb-test.gyft.com
 smc-analyzer.henkel-consumer-brands.cn
+smcloud.appslatam.com
 smefcu-dc.cert.fec-dc.fiservapps.com
 smefcu-dn.financial-net.com
 smetrics.trammellcrow.com
@@ -32771,7 +32769,6 @@ xperience.cbre.com
 xposeprogram.ca
 xpresstemplate.cbre.es
 xrservice-fileexchange.fiservapps.com
-xssr.n45ht.or.id
 xstore-ru-prod.eu.elcompanies.com
 xstore-ru-sit.eu.elcompanies.com
 xstr-ru-inventory-dev.eu.elcompanies.com

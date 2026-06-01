@@ -130,6 +130,7 @@ https://admin.sqills-bugbounty-test.cloud.sqills.com/en-GB/intelligence
 https://admintool.lime.bike
 https://aemdam.usaa360.com/
 https://afterpay.com
+https://agent-contact.realestate.com.au/lead-capture-page/campaign-id/8e50c3d0-0d2b-44d1-9df6-f4e02b9a690e
 https://agent.apps.monash.edu/
 https://aggregator.etoro.com
 https://aiven.io
@@ -715,6 +716,8 @@ https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
+https://github.com/brave
+https://github.com/brave-intl
 https://github.com/buildonspark/spark
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
@@ -2178,6 +2181,8 @@ https://www.definitivetechnology.com
 https://www.demandforced3.com
 https://www.denon.com
 https://www.designify.com
+https://www.developersites.com.au/testing-2505-houston
+https://www.developersites.com.au/testing-2505-lms
 https://www.dmp.fr
 https://www.dmp.gouv.fr
 https://www.docker.elastic.co/r/apm/apm-server

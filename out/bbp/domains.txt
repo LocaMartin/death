@@ -1429,6 +1429,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -1966,6 +1968,7 @@ dell.com
 delltechnologies.com
 delphidisplay.com
 demo.arkoselabs.com
+demo.bp.mortgagechoice.com.au
 demo.dynamic.xyz
 demo.fareharbor.com
 demo.globalticket.com
@@ -2343,6 +2346,7 @@ foundrygov.com
 fp-sg.tiktokv.com
 fr.louisvuitton.com
 fromspotify.com
+ftp.developersites.com.au:45875
 fulfillment.23andme.com
 funding-webhooks.remitly.io
 furycloud.io
@@ -3052,6 +3056,7 @@ mcdalerts-perf.nba.com
 mcdalerts-qa.nba.com
 mcdalerts-uat.nba.com
 mcdalerts.nba.com
+mclead.com.au
 mcp.miro.com
 mcp.stripe.com
 mds.marriott.com
@@ -3222,6 +3227,7 @@ monopoly-poker.com
 monzo.com
 moonpay.com
 moonpaycloud.com
+mortgagechoice.com.au
 movie.indrive.com
 movieapi.kinepolis.megatix.be
 movilepay.com
@@ -3969,6 +3975,7 @@ scbe.api.here.com
 scp.watsons.com.tr
 scpapi.watsons.com.tr
 screenshot-proxy.netlify.app
+scripts.developersites.com.au
 scrutiny.swiftfinancial.com
 se.bingo.com
 sec-tunnel.com
@@ -4128,6 +4135,7 @@ slimdevices.com
 slotomania.com
 smartcontract.com
 smartinet.xfinity.com
+smartline.com.au
 smarttrader.deriv.com
 smetrics.marriott.com
 sms.8x8.com
