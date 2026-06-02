@@ -4381,6 +4381,7 @@ build3dpes.cbre.com
 build3dstaging.cbre.com
 build3dtest.cbre.com
 build3duat.cbre.com
+buildbot.mariadb.org
 builder-cert-intws.mybills.com
 builder-intws.mybills.com
 builder-pod1-cert.fiservapps.com
@@ -9941,6 +9942,7 @@ download.myim.cbre.com
 download.nextcloud.com
 download.seleritycorp.com
 download2.fleetboard.com
+downloads.mariadb.org
 downrivercommfcu-dc.cert.fec-dc.fiservapps.com
 downrivercommfcu-dn.financial-net.com
 downrivercu-admin.originate.fiservapps.com
@@ -10678,6 +10680,7 @@ em.abb.com
 em.drives.abb.com
 em5260.careeralerts.thorntontomasetti.com
 em793.jobalerts.thorntontomasetti.com
+ema.appslatam.com
 email.100congressbuilding.com
 email.100williamstreetny.com
 email.1340treat.com
@@ -13191,7 +13194,7 @@ goezshield.com
 gofirstclass-dc.cert.fec-dc.fiservapps.com
 gogmfcu-admin.originate.fiservapps.com
 gogmfcu.originate.fiservapps.com
-gogo.com
+gogoair.com
 gokinetic.com
 golden1.fta.popmoney.com
 goldencirclecu-dc.cert.fec-dc.fiservapps.com
@@ -17592,6 +17595,7 @@ margintrac.com
 mariadb-analytics-pa-db-1-a.oportun.com
 mariadb-data-db-1-a.oportun.com
 mariadb-data-db-2-a.oportun.com
+mariadb.org
 marimonitor.com
 marine.equipmentmanagement.abb.com
 marine.uat.genix.abb.com
@@ -18255,6 +18259,7 @@ mfbonline.originate.fiservapps.com
 mfe-sc.expertconnect.deere.com
 mffcu-dc.cert.fec-dc.fiservapps.com
 mffcu-dn.financial-net.com
+mfg-devl-beta.deere.com
 mfgusa.com
 mfiletransfer.abb.com
 mfirstcu-dc.cert.fec-dc.fiservapps.com
@@ -21163,6 +21168,7 @@ ottovillebank.originate.fiservapps.com
 ouachitavalleyfcu-admin.originate.fiservapps.com
 ouachitavalleyfcu.originate.fiservapps.com
 ouipop.fr
+ouraring.com
 ourcloud.cbre.eu
 ourfirstfed.caaweb.com
 ourheritage-admin.originate.fiservapps.com
@@ -26646,6 +26652,7 @@ stp2-web.personix.com
 stp2.personix.com
 str.com
 strasbourg.cbre.fr
+stratos.deere.com
 stratus.abb.com
 streaklinks.com
 stream.gallileo-frankfurt.com

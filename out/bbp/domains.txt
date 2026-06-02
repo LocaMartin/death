@@ -271,6 +271,7 @@
 52.86.17.52
 54.175.255.192/27
 54.83.32.16
+5k8vrbdyje.infomaniak.site
 5nine.com
 61.88.222.56
 61.88.222.57
@@ -318,6 +319,7 @@ ablink.info.remitly.com
 about.gitlab.com
 academy-outbound-ads.tiktok.com
 academy.deriv.com
+academy.infomaniak.com
 acc-pub.mobilevikings.be
 acc.mobilevikings.be
 acceptance.cloud.8x8.com
@@ -330,6 +332,8 @@ account.adobe.com
 account.api.here.com
 account.booking.com
 account.here.com
+account.kaufland.com
+account.kaufland.de
 account.krisp.ai
 account.magento.com
 account.mongodb.com
@@ -374,6 +378,7 @@ admin.ring.com
 admin.shopify.com
 admin.sqills-bugbounty-test.cloud.sqills.com
 admin.wickr.com
+admin2.infomaniak.com
 admincms.developer.monespacesante.fr
 admincms.monespacesante.fr
 adminml.com
@@ -403,6 +408,7 @@ affiliate-id.tokopedia.com
 affiliate.meesho.com
 agents.hostinger.com
 agents.tasheer.com
+ai-tools.infomaniak.com
 ai.8x8.vc
 ai.kanghealth
 ai.portswigger.net
@@ -537,6 +543,7 @@ api.blablalines.com
 api.blockchain.info
 api.chainabuse-staging.com
 api.circle.com
+api.cloud.kaufland.de
 api.cloudflare.com
 api.cloudways.com
 api.cm.com
@@ -605,6 +612,7 @@ api.hackerone.com
 api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
+api.infomaniak.com
 api.instacart.com
 api.khealth.com
 api.klarna.com
@@ -1164,6 +1172,7 @@ cadastro.uat.unico.app
 caesarsgames.com
 caldav.calendar.yahoo.com
 caldav.larksuite.com
+calendar.infomaniak.com
 calendar.notion.so
 calendar.yahoo.com
 call-control.ie
@@ -1239,6 +1248,7 @@ cceng.8x8.com
 ccloud.yoti.com
 cdn-bal.nba.com
 cdn.arkoselabs.com
+cdn.kaufland.de
 cdn.moderntreasury.com
 cdn.nba.com
 cdn.pdst.fm
@@ -1278,6 +1288,7 @@ chime.com
 chimebank.com
 chimecard.com
 chimepayments.com
+chk.infomaniak.com
 chmfin.com
 chromewebstore.google.com
 ci-propertyconversionportal.marriott.com
@@ -1303,6 +1314,7 @@ cloud.comcast.net
 cloud.digitalocean.com
 cloud.elastic.co
 cloud.forescout.com
+cloud.kaufland.de
 cloud.malwarebytes.com
 cloud.mattermost.com
 cloud.staging-enviso.io
@@ -1814,6 +1826,7 @@ console.truelayer.com
 consumer.worldcoin.org
 contactallergie.uzleuven.be
 contactallergy.uzleuven.be
+contacts.infomaniak.com
 content-api-dev.nba.com
 content-api-nextgen-dev.nba.com
 content-api-nextgen-prod.nba.com
@@ -2000,6 +2013,7 @@ developer.currencycloud.com
 developer.cybersource.com
 developer.gocardless.com
 developer.gs.com
+developer.infomaniak.com
 developer.konghq.com
 developer.mozilla.org
 developer.playcanvas.com
@@ -2104,6 +2118,7 @@ ecom-data.theperfumeshop.com
 ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
+ecommerceday.de
 ecrf.uzleuven.be
 edge.blablacar.be
 edge.blablacar.co.uk
@@ -2200,6 +2215,7 @@ estccdn.com
 estratex.com
 esupplier.marriott.com
 eternal.com
+etickets.infomaniak.com
 etsy.com
 eu-east-1.indriverapp.com
 eu.cloud.com
@@ -2208,6 +2224,7 @@ eu.floqast.app
 eu.remix.com
 eu01.miro.com
 eu1.badoo.com
+euria.infomaniak.com
 eurid.eu
 europolitan.se
 eventhub.au01.miro.com
@@ -2355,6 +2372,7 @@ fusion.tradepmr.com
 fuze.com
 fuze.me
 fuze.site
+fv3lfbdyjh.infomaniak.site
 fw-update.ubnt.com
 fw.ring.com
 gamenotes.nba.com
@@ -2563,6 +2581,7 @@ horizonchase.com
 horizonchase.com.br
 horizonchaseturbo.com
 horizons.hostinger.com
+hosting-ik.com
 hotel-deals.marriott.com
 hotel-development.marriott.com
 hoteltonight-test.com
@@ -2671,6 +2690,7 @@ influencers.tw.coupang.com
 info.authorize.net
 info.cybersource.com
 info.shop-apotheke.com
+infomaniak.events
 infra-prod.nsvcs.net
 ingest.clairvoyance.indrive.tech
 innersloth.kidswebservices.com
@@ -2711,6 +2731,7 @@ intigriti.me
 investor.meesho.com
 investors.semrush.com
 invisionu.education
+invitation.infomaniak.com
 invoices.razorpay.com
 io.coda
 io.coda.codaapp
@@ -2737,6 +2758,7 @@ itprojects.talent-community.com
 itscope.com
 itscope.de
 itv7.itv.com
+ix2smbdyjt.infomaniak.site
 j.root-servers.net
 jbl.com
 jbl.com.br
@@ -2780,8 +2802,13 @@ kassa.gamma.be
 kassa.gamma.nl
 kassa.karwei.nl
 katalog.watsons.com.tr
+kaufland-ecommerce.com
+kaufland.de
+kauflandglobalmarketplace.com
 kayak.ai
 kayak.com
+kchat.infomaniak.com
+kdrive.infomaniak.com
 khealth.com
 khealth.io
 kibana.wtf
@@ -2801,6 +2828,7 @@ klarna.com
 klarna.net
 klarnacdn.net
 klubcinema.fr
+kmeet.infomaniak.com
 knowage.developer.monespacesante.fr
 knowage.monespacesante.fr
 knox.beta.blendlabs.com
@@ -2808,15 +2836,18 @@ konfigurator.bmw-motorrad.de
 konghq.com
 korta.is
 kortathjonustan.is
+kpaste.infomaniak.com
 krisp.ai
 kruidvat.be
 kruidvat.nl
 kruidvatkids.nl
+ksuite.infomaniak.com
 kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be
 kwsdose.be
 kyc-onboarding.booking.com
+l75pvbdyjo.infomaniak.site
 lab.epam.com
 label-studio-public.sonantic.io
 landing.ryadom.kz
@@ -2898,6 +2929,7 @@ login.cm.com
 login.delen.be
 login.delen.ch
 login.delen.lu
+login.infomaniak.com
 login.innogames.de
 login.insightly.com
 login.lansweeper.com
@@ -2986,7 +3018,9 @@ magento.com
 magic.veriff.me
 magisto.com
 magwien.gv.at
+mail-builder.infomaniak.com
 mail.hostinger.com/v2
+mail.infomaniak.com
 mail.notion.so
 mailpoet.com
 maintenance.logitech.com
@@ -3000,6 +3034,7 @@ manage-teams.nba.com
 manage-uat.nba.com
 manage.grab.co
 manage.nba.com
+manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.snapchat.com
 mapi.moneyback.com.hk
@@ -3022,6 +3057,7 @@ marketing.fareharbor.com
 marketing.na1.insightly.com
 marketplace.gamemaker.io
 marketplace.tw.coupangcorp.com
+marketplaceworld.de
 marquee.gs.com
 marriott.com
 marriottfranchisetransactions.marriott.com
@@ -3329,6 +3365,7 @@ news.remitly.com
 news.yahoo.com
 newsletter-feedback.iciparisxl.nl
 newsletter.iciparisxl.nl
+newsletter.infomaniak.com
 newsroom.images.hyatt.com
 next.airbnb.com
 nexuzhealth.com
@@ -3618,6 +3655,7 @@ playartifact.com
 playcanv.as
 playcanvas.com
 player-login.unity.com
+player-radio.infomaniak.com
 player.vimeo.com
 player.vrt.be
 playstation.com
@@ -3661,6 +3699,7 @@ portofantwerpbruges.com
 portswigger.net
 post.ch
 pourvous.nl
+ppb.com
 ppbdev.com
 practice.datacamp.com
 prd-pub.mobilevikings.be
@@ -3983,6 +4022,7 @@ secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
 secure.booking.com
 secure.chaturbate.com
+secure.cloud.kaufland.de
 secure.doccle.be
 secure.netflix.com
 secure.newegg.ca
@@ -4002,6 +4042,8 @@ select.logitech.com
 sell.moonpay.com
 seller-id.tokopedia.com
 seller.temu.com
+sellerapi.kaufland.com
+sellerportal.kaufland.de
 sellerportal.newegg.com
 sellzone.com
 selt.languagecert.org
@@ -4064,6 +4106,7 @@ shop.demorgen.be
 shop.dyson.co.za
 shop.dyson.tw
 shop.humo.be
+shop.infomaniak.com
 shop.judge.me
 shop.parool.nl
 shop.shop_apotheke.com.shopapotheke
@@ -4139,6 +4182,8 @@ smartline.com.au
 smarttrader.deriv.com
 smetrics.marriott.com
 sms.8x8.com
+sms.infomaniak.com
+sms.kaufland.de
 smtp.sendgrid.net
 smtp2go.com
 snappublisher.snapchat.com
@@ -4275,6 +4320,7 @@ statuspage.io
 steamcommunity.com
 steamstatic.com
 stock.adobe.com
+storage.infomaniak.com
 store-display.tw.coupang.com
 store.23andme.com
 store.playcanvas.com
@@ -4363,7 +4409,9 @@ swarm.embark.net
 swiftcapital.com
 swiftfinancial.com
 swiftype.com
+swiss-backup.infomaniak.com
 swisspass.ch
+sync.infomaniak.com
 sync.logitech.com
 sync.services.mozilla.com
 syndication.nba.com
@@ -4659,6 +4707,8 @@ visaonchainanalytics.com
 visasgic.api-xperience.com
 vliegwinkel.nl
 voapi.8x8.com
+vod.infomaniak.com
+vod2.infomaniak.com
 voi.com
 voiscooters.com
 volans.tech
@@ -4746,6 +4796,7 @@ webwinkel.volkskrant.nl
 webwsp.aps.kuleuven.be
 wechat.api.marriott.com
 weclapp.com
+welcome.infomaniak.com
 wellsfargo.com
 wellsfargoadvisors.com
 welt.de
@@ -5021,6 +5072,7 @@ www.iciparisxl.lu
 www.iciparisxl.nl
 www.inditex.cn
 www.inditex.com
+www.infomaniak.com
 www.instacart.com
 www.intigriti.com
 www.itscope.com
@@ -5159,7 +5211,6 @@ www.six-group.com
 www.socialdeal.nl
 www.sokos.fi
 www.soundonw.us
-www.soundtrackyourbrand.com
 www.springfield.moz.works
 www.starbucks.ca
 www.starbucks.co.jp
@@ -5177,6 +5228,7 @@ www.superdrugmobile.com
 www.supernovas.indrive.com
 www.swiftcapital.com
 www.swiftfinancial.com
+www.swisstransfer.com
 www.swoodoo.com
 www.syfe.com
 www.tabac-info-service.fr

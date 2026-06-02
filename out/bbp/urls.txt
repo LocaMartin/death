@@ -792,6 +792,7 @@ https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
 https://github.com/hacker0x01/react-datepicker
+https://github.com/infomaniak/desktop-kdrive
 https://github.com/innocraft
 https://github.com/jitsi
 https://github.com/justeattakeaway
@@ -1876,6 +1877,7 @@ https://song.link
 https://songlink.io
 https://soundcloud.com
 https://soundcloud.org
+https://soundtrack.io
 https://speeddials.opera.com
 https://sports.yahoo.com/
 https://sports.yahoo.com/dailyfantasy

@@ -1039,7 +1039,7 @@ go.gov
 gobiernousa.gov
 godirect.gov
 goes-r.gov
-gogo.com
+gogoair.com
 goodjobs.gov
 got2b.com
 govloans.gov
@@ -1839,6 +1839,7 @@ osha.gov
 osiatlowes.com
 osmre.gov
 ots.gov
+ouraring.com
 ourtesco.com
 outsidexbox.com
 outsidextra.com
