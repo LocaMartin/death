@@ -855,6 +855,7 @@ http://qa1-web.usdirectexpress.com
 http://qa1.secureinternetbank.com
 http://qa2.secureinternetbank.com
 http://qrcodeelo-mtls.softwareexpress.com.br
+http://quality-songsmitherz-de-2026.ipaasferrero.com/de/de/xp/songsmitherz
 http://rbfcustatements-uat.hepsiian.com
 http://rbfcustatements.hepsiian.com
 http://readitquik.com
@@ -1332,6 +1333,10 @@ https://aoe-ext-itg.it.hpe.com
 https://aoe-ext-itg.wip.it.hpe.com
 https://aoe-ext1-itg-vip.it.hpe.com
 https://aoe-ext1-itg.it.hpe.com
+https://apd-talking-ap-southeast-1.applaydu.com/bff
+https://apd-talking-eu-west-1.applaydu.com/bff
+https://apd-talking-staging-ap-southeast-1.applaydu.com/bff
+https://apd-talking-staging-eu-west-1.applaydu.com/bff
 https://api-cip-sgw-dc01-vip.it.hpe.com
 https://api-cip-sgw-dc01.it.hpe.com
 https://api-gateway.citymesh.com/
@@ -1452,6 +1457,7 @@ https://baltic.kinder.com/lv/lv/xp/karnevals
 https://baltic.kinder.com/lv/lv/xp/loterija
 https://baltic.kinder.com/regs
 https://baltic.nutella.com/bc/lv/edit
+https://baltic.nutella.com/bc/lv/xp/labrit
 https://baltic.nutella.com/bc/lv/xp/loterija
 https://bankaccounts.xero.com
 https://bantotal-ar-cert.deere.com/bantotal/servlet/com.dlya.bantotal.hwelcome
@@ -1642,6 +1648,7 @@ https://clientesab-inbev.com
 https://clients.mintel.com
 https://cloud157-pri.ms-010.versanow.net
 https://club.co.ug
+https://clubferreropro.com
 https://clublager.com
 https://clubpremium.com.ec
 https://clubtada.com
@@ -1661,6 +1668,7 @@ https://cms-ne.momo.africa/v2_2_0/user/login
 https://cms-ne.momo.africa/v2_3_0/user/login
 https://cms-nutella-academy-fr-2025.ferreropromo.com/fr/fr/xp/academy-event
 https://cms-personalised-nutella-jar-int-2025.ipaasferrero.com/uk/en/xp/personalised-nutella-jar
+https://cms-wonka-com-2026.ipaasferrero.com
 https://cms.mintel.com
 https://cms.momo.africa/v1_1
 https://cms.momo.africa/v2_0_0/user/login
@@ -1669,6 +1677,7 @@ https://cms.momo.africa/v2_2_0/user/login
 https://cms.momo.africa/v2_3_0/user/login
 https://cms.tennistrophy.com/
 https://cms.tennistrophy.it/
+https://cmsquality-wonka-com-2026.ipaasferrero.com
 https://cmts.gov
 https://cnd.com.do
 https://cnet.com
@@ -1865,6 +1874,7 @@ https://ereceptionist.co.uk
 https://erequester.signaturescience.com
 https://es.consumerfinance.gov/
 https://espanol.babycenter.com
+https://estathecanoa26.estathe.it
 https://estathefornopizza26.estathe.it/
 https://estore.aerlingus.com/en-ie/retailers
 https://esupport.fcc.gov
@@ -1969,6 +1979,7 @@ https://getstartedwithlabatt.ca
 https://getstartedwithlabatt.com
 https://gettozero.com
 https://gewinnspiel.mein-ferrero.de/loyalty-gewinnspiel
+https://gewinnspiel.mein-ferrero.de/nutella-donut
 https://gewinnspiel.mein-ferrero.de/rocher-winterhighlights
 https://giotto.couponinghouse.de/xp/potluck
 https://gist.github.com/redbullsecurity/3eb88debcb01759eccf65ec2b799b340
@@ -2415,6 +2426,7 @@ https://nutellapancake2026.nutella.com/admin_na8qnm4hfa/login
 https://nutellapancake2026.nutella.com/pl/pl/xp/pancake
 https://nutellapromo.es/es/es/xp/nutella-pan/dashboard
 https://nutellastacksforgivingback.com/us/en/xp/stacksforgivingback/berlin-beta
+https://nutellasummer.nutella.com/pl/pl/xp/nutelladziendobry2026
 https://nutellasuperfan.com/us/en/xp/world-nutella-day/berlin-beta
 https://nutrl.jp
 https://nysdtf.govone.com
@@ -2536,6 +2548,8 @@ https://portals-preprod.mtn.co.za
 https://portalsso.mtn.co.za
 https://posthog.com
 https://powerandsignal.com/
+https://ppd.clubferreropro.com
+https://ppd.clubferreropro.com/admin
 https://prebiz.momo.africa/content
 https://preprod.api.mtn.com
 https://preprod.clubferreropro.com/
@@ -2560,6 +2574,7 @@ https://productscdnprodb5fc14.blob.core.windows.net
 https://professionalstandards.fns.usda.gov/
 https://promaxcloud.com.br
 https://prombck.com
+https://promo.nutella.ro/ro/ro/xp/buna-dimineata
 https://promo.nutella.ro/ro/ro/xp/craciunul-cu-nutella
 https://promo.nutella.ro/ro/ro/xp/dimineata-incepe-cu-nutella
 https://promo.nutella.ro/ro/ro/xp/dimineata-mai-buna
@@ -2587,15 +2602,18 @@ https://quality-chocofresh-gratistesten-de-2025.ipaasferrero.com/de/de/xp/kinder
 https://quality-dinos-de-2025.ipaasferrero.com/de/de/xp/dinos
 https://quality-doppelte-freude-rewe-de-2025.ipaasferrero.com/
 https://quality-eatnatural-promo-2025-de-2025.ipaasferrero.com/de/de/xp/eatnatural-promo
+https://quality-edeka-herzen-de-2026.ipaasferrero.com
 https://quality-edeka-herzenswuensche-de-2025.ipaasferrero.com/
 https://quality-estathefornopizza26.estathe.it/
 https://quality-ferrero-feinschlecker-de-2026.ipaasferrero.com/xp/feinschlecker
 https://quality-ferrero-genussmomente-de-2025.ipaasferrero.com/
 https://quality-ferrero-globus-gewinnspiel-de-2025.ipaasferrero.com/
+https://quality-ferrero-globus-gewinnspiel-de-2026.ipaasferrero.com
 https://quality-ferrero-knusperliebe-de-2025.ipaasferrero.com/
 https://quality-ferrero-pralinen-de-2025.ipaasferrero.com/
 https://quality-ferrero-snacknstyle-de-2025.ipaasferrero.com
 https://quality-ferrero-superkuesschen-de-2025.ipaasferrero.com/xp/superkuesschen
+https://quality-gemeinsam-jubeln-rewe-de-2026.ipaasferrero.com
 https://quality-goodmorning26-nl-2026.ipaasferrero.com/nl/nl/xp/goodmorning26
 https://quality-goodmorning26-nl-2026.ipaasferrero.com/nl/nl/xp/goodmorning26/user/login
 https://quality-kinderriegel-love-de-2025.ipaasferrero.com/de/de/xp/kinderriegel-love
@@ -2839,6 +2857,7 @@ https://test-bittings.medeco.com
 https://test-jours-a-croquer.ferrero.fr/status/_id/uid
 https://test-keycontrol.medeco.com
 https://test-roa.medeco.com
+https://test.jammiedodgers.co.uk
 https://test.nucleussec.com
 https://test.odswiezlatomuzyka.com/pl/pl/xp/odswiezlatomuzyka2026
 https://test.odswiezlatomuzyka.com/pl/pl/xp/odswiezlatomuzyka2026/admin_p3n1lkm541
@@ -3333,9 +3352,12 @@ https://www.nineforbrands.com.au/brands
 https://www.ninenbn.com.au/
 https://www.npmjs.com/package/@bitwarden/mcp-server
 https://www.nucleussec.com
+https://www.nutella.com/bc/lv/xp/labrit
 https://www.nutella.com/bc/lv/xp/loterija
 https://www.nutella.com/bg/bg/xp/xmas
+https://www.nutella.com/de/de/xp/brotbeutel
 https://www.nutella.com/de/de/xp/nutella-minis
+https://www.nutella.com/de/de/xp/songsmitherz
 https://www.nutella.com/fr/fr/xp/nutella-academy-event-noel
 https://www.nutella.com/fr/fr/xp/nutella_noel_2025
 https://www.nutella.com/it/it/xp/nataleconnutella2025
@@ -3344,6 +3366,7 @@ https://www.nutella.com/nl/nl/xp/goodmorning26
 https://www.nutella.com/pl/pl/xp/ciastkanutellaikinder
 https://www.nutella.com/pl/pl/xp/dzielsiemiloscianaswieta2025
 https://www.nutella.com/pl/pl/xp/nutelladodajeusmiechu2026
+https://www.nutella.com/pl/pl/xp/nutelladziendobry2026
 https://www.nutella.com/sg/en/xp/nutellasgs#home
 https://www.nutella.com/uk/en/personalised-nutella-jar
 https://www.nutella.com/uk/en/xp/nutella-christmas
@@ -3438,6 +3461,7 @@ https://www.theskimm.com
 https://www.thomas-daily.de/
 https://www.thousandeyes.com/
 https://www.tictac.com/be/fr/xp/findyourmatch
+https://www.tictac.com/de/de/xp/lollapalooza-berlin
 https://www.tictac.com/ph/en/xp/promotion
 https://www.tictacmy.com/my/en/xp/promotion
 https://www.tictacph.com/ph/en/xp/promotion/mf2026
@@ -3477,6 +3501,7 @@ https://www.westsiderentals.com
 https://www.whitegatepower.ie
 https://www.windstream.com/gokinetic
 https://www.winwiththorntons.co.uk
+https://www.wonka.com
 https://www.xero.com/%7Bregion%7D/advisors
 https://www.yourcause.com/
 https://www.yourlease.com.au

@@ -818,6 +818,7 @@ app.kruidvat.nl
 app.lansweeper.com
 app.lansweeper.com/trial
 app.larksuite.com
+app.launchdarkly.com
 app.link.com
 app.marionnaud.at
 app.marionnaud.ch
@@ -2058,6 +2059,7 @@ doccleservices.eu
 docs.anthropic.com
 docs.gitlab.com
 docs.lansweeper.com
+docs.launchdarkly.com
 docs.redoxengine.com
 docsend.com
 docswallet.com
@@ -2230,6 +2232,7 @@ europolitan.se
 eventhub.au01.miro.com
 eventhub.eu01.miro.com
 eventhub.us01.miro.com
+events.launchdarkly.com
 evisa.gov.mz
 ews-fusion.my.site.com
 exact.com
@@ -4288,6 +4291,7 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-airtableblocks.com
 staging-app.bany.dev
 staging.airtable.com
+staging.api.danalock.com
 staging.cloud.8x8.com
 staging.kidswebservices.com
 staging.magisto.com
@@ -4339,6 +4343,7 @@ story.snapchat.com
 stradivarius.cn
 stradivarius.com
 strapi.reddit.com
+stream.launchdarkly.com
 streaming-api.iris.acceptance.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
