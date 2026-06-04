@@ -410,7 +410,6 @@ agents.hostinger.com
 agents.tasheer.com
 ai-tools.infomaniak.com
 ai.8x8.vc
-ai.kanghealth
 ai.portswigger.net
 ai.x.grok
 ai.x.grokapp
@@ -809,7 +808,6 @@ app.greenhouse.io
 app.iciparisxl.be
 app.iciparisxl.lu
 app.iciparisxl.nl
-app.khealth.com
 app.klarna.com
 app.koho.ca
 app.krisp.ai
@@ -912,7 +910,6 @@ atlassian.net
 atlastunnel.com
 atspotify.com
 atv.peoplecert.org
-au01.miro.com
 auction-service.whatnot.com
 audible.ca
 audible.co.jp
@@ -1670,7 +1667,6 @@ com.qpon.merchant
 com.qpon.platform
 com.quora.android
 com.quora.app.mobile
-com.realtimeboard
 com.remitly.androidapp
 com.ring.neighborhoods
 com.ringapp
@@ -2224,14 +2220,10 @@ eu.cloud.com
 eu.coolblue.shop
 eu.floqast.app
 eu.remix.com
-eu01.miro.com
 eu1.badoo.com
 euria.infomaniak.com
 eurid.eu
 europolitan.se
-eventhub.au01.miro.com
-eventhub.eu01.miro.com
-eventhub.us01.miro.com
 events.launchdarkly.com
 evisa.gov.mz
 ews-fusion.my.site.com
@@ -2711,9 +2703,6 @@ instacart.tools
 institutional.coinbase.com
 insuritly.com
 int.32red.com
-integrations.au01.miro.com
-integrations.eu01.miro.com
-integrations.us01.miro.com
 intensedebate.com
 intercity.indrive.com
 intercomassets.com
@@ -3096,7 +3085,6 @@ mcdalerts-qa.nba.com
 mcdalerts-uat.nba.com
 mcdalerts.nba.com
 mclead.com.au
-mcp.miro.com
 mcp.stripe.com
 mds.marriott.com
 mds.voiapp.io
@@ -3227,8 +3215,6 @@ mipay.com
 mipay.net
 mir.uzleuven.be
 mirc.uzleuven.be
-miro.com
-mirostatic.com
 miui is xiaomi phone operation system (os), custimized on stock android.  the scope inculdes the pre-installed apps with xiaomi certification signed
 miui.cn
 miui.com
@@ -3562,7 +3548,6 @@ pay.truelayer-sandbox.com
 pay.truelayer.com
 pay.tw.coupang.com
 pay.wallet.tg
-pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
 paydiant.com
 paydirect.truelayer-sandbox.com
@@ -3802,15 +3787,6 @@ quixel.com
 quizlet.com
 quora.com
 qwantjunior.com
-r.au01.miro.com
-r.eu01.miro.com
-r.us01.miro.com
-r01.a01.miro.com
-r01.eu01.miro.com
-r01.us01.miro.com
-r02.au01.miro.com
-r02.eu01.miro.com
-r02.us01.miro.com
 ra.roblox.com
 radio.api.soundtrackyourbrand.com
 rafflee.co.uk
@@ -3982,7 +3958,6 @@ s3p.cloud
 sa-tech.de
 safe.tumblr.com
 sales.staging-enviso.io
-salesforce.khealth.com
 salesportal.hyatt.com
 saltlabs.com
 samltool.io
@@ -4299,8 +4274,6 @@ staging.travix.com
 staking-api.polygon.technology
 staking.polygon.technology
 starling-ttp.lemon8-app.us
-start.khealth.com
-static-website.miro.com
 station.veriff.com
 stationapi.veriff.com
 stats-dev.nba.com
@@ -4401,12 +4374,6 @@ supportal.netlify.app
 survey.vinci.com
 survey.visa.com
 sustentabilidadmercadolibre.com
-svc.au01.miro.com
-svc.eu01.miro.com
-svc.us01.miro.com
-svg-convert.au01.miro.com
-svg-convert.eu01.miro.com
-svg-convert.us01.miro.com
 svn.notebleue.pro
 svn.wordpress.org
 svtselb.tasheer.com
@@ -4610,7 +4577,6 @@ us.cloud.com
 us.forescout.cloud
 us.identity.konghq.com
 us.louisvuitton.com
-us01.miro.com
 us1.badoo.com
 usa.visa.com
 uscc.com
@@ -5098,7 +5064,6 @@ www.kinepolis.nl
 www.kiwi.com
 www.koho.ca
 www.kolikkopelit.com
-www.kpharmacyllc.com
 www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl

@@ -649,7 +649,6 @@ mios.cn
 miot-spec.org
 mipay.com
 mipay.net
-miro.com
 miui.cn
 miui.com
 miwifi.com

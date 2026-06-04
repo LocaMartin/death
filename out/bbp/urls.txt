@@ -148,7 +148,6 @@ https://api-businessportal.origin.com.au
 https://api-iam.intercom.io
 https://api-js.datadome.co
 https://api-next.flatmates.com.au
-https://api-payments-secure-prod.skippayments.com
 https://api-portal.etoro.com
 https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
@@ -156,7 +155,6 @@ https://api-prod.thatconceptstore.com/
 https://api-sandbox.uphold.com
 https://api-sandbox.uphold.com/graphql
 https://api-secure.sports.yahoo.com
-https://api-skipthedishes.skipthedishes.com
 https://api.20min.ch
 https://api.aiven.io/login
 https://api.bitpanda.com
@@ -306,7 +304,6 @@ https://atlantis-ext.myopenpass.com
 https://audience-builder.vistarmedia.com
 https://audiencelogos.blis.com
 https://audio.20min.ch
-https://aus.api.just-eat.io/
 https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.datadome.co
@@ -490,7 +487,6 @@ https://customer-api.datadome.co
 https://customer-portal.paddle.com
 https://customerportal.winconnect.com.au/login
 https://customers.us1.fga.dev/
-https://cw-api.takeaway.com
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
 https://danalock.com/
@@ -512,8 +508,6 @@ https://demo.adstruc.com
 https://demo.priceless.com/
 https://desk.thetradedesk.com
 https://desktop.github.com
-https://desktop.miro.com/platforms/darwin-arm64/Install-Miro.dmg
-https://desktop.miro.com/platforms/win32/Miro.exe
 https://desktop.water-link.be
 https://dev.fxprivaterelay.nonprod.cloudops.mozgcp.net/api/v1/docs
 https://dev.tutoring.classdojo.com
@@ -887,7 +881,6 @@ https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
 https://github.com/octopusdeploy
-https://github.com/okx/wallet-core
 https://github.com/pinterest
 https://github.com/plaid/plaid-link-android
 https://github.com/plaid/plaid-link-ios
@@ -946,7 +939,6 @@ https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://gitlab.torproject.org/tpo/applications/tor-browser
 https://gitlab.torproject.org/tpo/core/tor
-https://global-payments-web.payments.pmt-1.eu-west-1.production.jet-external.com
 https://glow.imoulife.com
 https://go.elementor.com/
 https://gomastercard.com.au
@@ -965,9 +957,6 @@ https://gx.opera-api.com
 https://hatching.io
 https://healthmate.withings.com
 https://help.etsy.com
-https://help.miro.com/hc/en-us/articles/360017572414-Jira-Add-on
-https://help.miro.com/hc/en-us/articles/360017572434-Jira-Cards
-https://help.miro.com/hc/en-us/articles/360020712594-Confluence-Cloud-Plugin
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
@@ -987,7 +976,6 @@ https://hr.prosus.com
 https://hstconboarding.peoplecert.org/
 https://hug.personio.com
 https://humo.be/registreren
-https://i18n.api.just-eat.io
 https://ibconnect.internetbrands.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
@@ -1032,8 +1020,8 @@ https://jp-api-staging.getmoneytree.com
 https://judge.me/reviews
 https://just-data.io
 https://just-eat.ch
+https://just-eat.co.il
 https://just-eat.com
-https://just-eat.dk
 https://just-eat.es
 https://just-eat.io
 https://keepersecurity.com
@@ -1582,11 +1570,6 @@ https://microsoftedge.microsoft.com/addons/detail/okx-wallet/pbpjkcldjiffchgbbnd
 https://microsoftedge.microsoft.com/addons/detail/pinterest-save-button/bkgoflemacdadndiohhdnphcmdhacabg
 https://mids.monash.edu/
 https://mintmobile.com
-https://miro.com/
-https://miro.com/app
-https://miro.com/blog
-https://miro.com/insights/app
-https://mirosite.com/
 https://mlife.mo
 https://mlivetickets.monash.edu
 https://mmp.otto.de
@@ -1817,7 +1800,6 @@ https://repair.voiweb.net
 https://res.cloudinary.com
 https://research.monash.edu/
 https://researchmgt.monash.edu/
-https://rest.api.eu-central-1.production.jet-external.com
 https://resume.com
 https://retail-api.otto.de
 https://rivian.com/api/gql/content/graphql
@@ -1968,8 +1950,6 @@ https://supportportal.thalesgroup.com
 https://sycamore.moneyboxapp.org
 https://t-mobile.com
 https://takeaway.com
-https://takeaway.pay-creditcard.takeaway.com/
-https://takeawaypay.azurefd.net/en/takeawaypay
 https://tapi-demo.etoro.com
 https://tapi-real.etoro.com
 https://taxify.eu
@@ -2048,7 +2028,6 @@ https://ui.com/distributors
 https://ui.com/training/partners
 https://ui.com/uid
 https://uiscoop.payzippy.com
-https://uk.api.just-eat.io
 https://ultramobile.com
 https://umiloans.com.au
 https://underarmour.co.kr

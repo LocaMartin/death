@@ -4466,6 +4466,7 @@ business-process-automation.abb.com
 business-stg-e.optumbank.com
 business.gyft.com
 business.optumbank.com
+business.phonepe.com
 businessanalytics-cert.fiservapps.com
 businessanalytics.fiservapps.com
 businessanalytics2.cbre.com
@@ -22901,6 +22902,7 @@ proptech-qa.cbre.com
 proptech.cbre.com
 proptech.cbre.es
 proptech.cbre.eu
+proptechintel.org
 proptrack.tops.cbre.com.au
 proque.st
 proquest-company.com
@@ -25286,6 +25288,7 @@ shanghaidisneyresort.com.cn
 share.cbre.com
 share.gallileo-frankfurt.com
 share.jjwws.com
+share.market
 shareadvantage-dc.cert.fec-dc.fiservapps.com
 shareadvantage-dn.financial-net.com
 sharecadbury.ca
@@ -26802,6 +26805,7 @@ support.liferay.com
 support.myvirtualsuper.com
 support.nextcloud.com
 support.nutanix.com
+support.phonepe.com
 support.romonet.com
 support.sentera.com
 support.senterasensors.com
@@ -27699,6 +27703,7 @@ ticreditunion-dc.cert.fec-dc.fiservapps.com
 ticreditunion-dn.financial-net.com
 tictac.com
 tienda.gallileo-frankfurt.com
+tiendajd.jdiberica.deere.com
 tiendamondelez.com.co
 tiendamondelez.com.ec
 tiendamondelez.com.pe
@@ -28023,6 +28028,7 @@ tracking.clienteitau.co
 tracking.gallileo-frankfurt.com
 tracking.notification.cbre.com.hk
 tracking.pkfc.com
+tractorfinance-api.deere.com
 tradair.com
 trade.gov
 tradeideamonitor.com
@@ -29279,7 +29285,6 @@ upbnet-admin.originate.fiservapps.com
 upbnet.originate.fiservapps.com
 upc.cz
 upc.hu
-upcity.com
 update.gallileo-frankfurt.com
 update2.vectranetworks.com
 updates.nextcloud.com
