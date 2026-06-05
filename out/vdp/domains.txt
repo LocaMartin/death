@@ -2116,6 +2116,7 @@ api.ciam-na.daimlertruck.com
 api.clover.com
 api.contest.deere.com
 api.creditagricole.elavon.pl
+api.creditapplication-prod-floating.us.e10.c01.johndeerecloud.com
 api.dailypay.com
 api.daimlertruck.com
 api.data.rokt.com
@@ -7039,6 +7040,7 @@ com.smule.sing
 com.smule.singandroid
 com.snapfish-llc.snapfishexpress
 com.snapfish.mobile
+com.starbucks.tr
 com.starlingbank.android
 com.tastemade.app
 com.tesco.grocery.view
@@ -23467,7 +23469,6 @@ qa.reports.marketiq.cbre.com
 qa.rewards.deere.com
 qa.smartfm.cbre.com
 qa.spaces.cbre.com
-qa.superacionjd.com
 qa.supplierportal.elcompanies.com
 qa.surveycreator.brokerhub.cbre.com
 qa.vantage-analytics.cbre.com
@@ -24174,6 +24175,7 @@ retail-pi.usps.com
 retail-rent.cbre.es
 retail.cbre.com
 retailelectricity.com.ph
+retailinsights-cbrekorea.com
 retailinvestments.com.au
 retailproperties.cbre.us
 retailtxok.cbre.us
@@ -26763,7 +26765,6 @@ supamac.au
 supamac.com.au
 supamacmarketing.com.au
 supamlapi.cbre.com
-superacionjd.com
 superamerica.fdecs.com
 superinstall.com
 superiorcu-dc.cert.fec-dc.fiservapps.com

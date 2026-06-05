@@ -345,7 +345,6 @@ accounts.creditkarma.com
 accounts.evernote.com
 accounts.firefox.com
 accounts.insightly.com
-accounts.khealth.com
 accounts.logi.com
 accounts.pixiv.net
 accounts.realestate.com.au
@@ -613,7 +612,6 @@ api.iciparisxl.lu
 api.iciparisxl.nl
 api.infomaniak.com
 api.instacart.com
-api.khealth.com
 api.klarna.com
 api.krisp.ai
 api.kruidvat.be
@@ -891,7 +889,6 @@ as2.portofantwerp.com
 as2.portofantwerpbruges.com
 asadcdn.com
 asana.biz
-ask.khealth.com
 askpeopleteam.visa.com
 assessment-api.datacamp.com
 assessment-v2.datacamp.com
@@ -960,7 +957,6 @@ auth.digital.delen.be
 auth.digital.delen.lu
 auth.dmp.gouv.fr
 auth.embark.net
-auth.hhc247.org
 auth.magic.link
 auth.metronome.com
 auth.monespacesante.fr
@@ -1885,6 +1881,7 @@ crypto.com exchange apis that require an account
 crypto.com mobile app apis that require an account
 crypto.com wallet extension
 cs.money
+csconnect.org
 csp-pci.prod.codebig2.net
 css-tricks.com
 ct.deriv.com
@@ -2177,7 +2174,6 @@ elasticsearch.fr
 elasticsearch.jp
 elasticsearch.org
 elasticsearch.wtf
-eligibility.khealth.com
 elm.nba.com
 elstc.co
 emag.vinci.com
@@ -2214,6 +2210,7 @@ estratex.com
 esupplier.marriott.com
 eternal.com
 etickets.infomaniak.com
+etoro.com
 etsy.com
 eu-east-1.indriverapp.com
 eu.cloud.com
@@ -2556,6 +2553,7 @@ hey.bild.de
 hey.com
 hey.exe
 hg.mozilla.org
+hhc247.org
 hicloudcam.com
 highwebmedia.com
 hikops.com
@@ -2564,6 +2562,7 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 hln.be
+hmh247.org
 hmxservices.com
 hmxwebservices.com
 holidaylettings.com
@@ -2785,7 +2784,6 @@ juicer.lime.bike
 jwt.io
 k8s.gcr.io
 k8s.io
-kaccount.khealth.com
 kartaview.org
 karwei-promotiepunt.nl
 karwei.nl
@@ -2801,8 +2799,8 @@ kayak.ai
 kayak.com
 kchat.infomaniak.com
 kdrive.infomaniak.com
+khealth-test.com
 khealth.com
-khealth.io
 kibana.wtf
 kidswebservices.com
 kiln.it
@@ -3187,6 +3185,7 @@ metrics.int.remitly.com
 meu1.badoo.com
 mevo.com
 mfa.simplisafe.com
+mgbcareconnect.org
 mgm.mobilevikings.be
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 mgmt-sensors.iris.production.forescoutcloud.net
@@ -3380,12 +3379,14 @@ nml.com
 nmtracking.netflix.com
 nnip.com
 node.js/typescript
+northwellprimarycarenow.com
 note that any vulnerabilities discovered in software developed by third parties (whether or not they are included in anthropic's connectors directory) are not in scope for anthropic’s hackerone program and should be reported directly to those third-party developers. for details on reporting, see the extension page in claude desktop. we ask that vulnerability reports regarding third-party connectors are only shared with anthropic if a satisfactory response is not received from the responsible developer
 notification-front-web.tw.coupang.com
 notion.id
 notion.so
 notion.so/api/v3
 notula-accpt.portofantwerpbruges.com
+novanthealthvirtualprimarycare.org
 novel.pixiv.net
 now.shop-apotheke.com
 npmjs.com
@@ -3602,6 +3603,7 @@ pb.deribit.com
 pci.shopifyinc.com
 pcrstudioruzb.uzleuven.be
 pdst.fm
+pennmedicine.connect-visit.com
 perforce.embark.net
 personal.shop-apotheke.com
 personio-internal.de
@@ -3724,6 +3726,7 @@ preview.8x8.vc
 priceline.com
 pricerunner.com
 prijsmepper.nl
+primarycareondemand.mayoclinic.org
 prime.coinbase.com
 primevideo.com
 priority.eu-east-1.indriverapp.com
@@ -4487,7 +4490,6 @@ travelocity.ca
 travelocity.com
 travix.com
 travix.io
-treatments.khealth.com
 treeherder.mozilla.org
 trekpleister.nl
 trello.com

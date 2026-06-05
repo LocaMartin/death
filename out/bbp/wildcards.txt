@@ -213,6 +213,7 @@ comcast.com
 comcast.net
 compuserve.com
 computerbild.de
+connect-visit.com
 contentsquare.com
 creditkarma.ca
 creditkarma.co.uk
@@ -220,6 +221,7 @@ creditkarma.com
 crossclip.com
 crowdstrike.com
 crypto.com
+csconnect.org
 cubicmotion.com
 cyberghost.com
 cyberghostvpn.com
@@ -314,6 +316,7 @@ epicgames.dev
 estccdn.com
 estratex.com
 eternal.com
+etoro.com
 etsy.com
 eurid.eu
 europolitan.se
@@ -443,6 +446,7 @@ helloworks.com
 here.com
 hereapi.com
 hey.com
+hhc247.org
 hicloudcam.com
 highwebmedia.com
 hikops.com
@@ -451,6 +455,7 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 hln.be
+hmh247.org
 hmxservices.com
 hmxwebservices.com
 holidaylettings.com
@@ -527,8 +532,8 @@ karwei.nl
 karweioutletstore.nl
 kaufland.de
 kayak.com
+khealth-test.com
 khealth.com
-khealth.io
 kibana.wtf
 kiln.it
 kinepolis.be
@@ -611,6 +616,7 @@ massimodutti.com
 mastercard.com
 masterpassteststore.com
 mattermost.com
+mayoclinic.org
 mb-cosmos.com
 mbamupdates.com
 mclead.com.au
@@ -637,6 +643,7 @@ mercadopago.com.uy
 metamask.io
 metronome.com
 mevo.com
+mgbcareconnect.org
 mi.cn
 mifile.cn
 migames.com
@@ -706,6 +713,8 @@ nkstatic.com
 nmfn.com
 nml.com
 nnip.com
+northwellprimarycarenow.com
+novanthealthvirtualprimarycare.org
 nr-data.net
 nr-ops.net
 nsvcs.net

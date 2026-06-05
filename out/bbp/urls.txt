@@ -14,13 +14,9 @@ http://app.lightspark.com
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
 http://artists.soundcloud.com
-http://auth.khealth.com/cedars/sign-up
-http://auth.khealth.com/khealth/sign-up
-http://auth.khealth.com/mayo-la-crosse/sign-up
 http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bumba.global
-http://clinical-quality.khealth.com/api/v1
 http://cloud.konghq.com
 http://collaboration.rei.com
 http://data-api.coindesk.com/
@@ -132,7 +128,6 @@ https://aemdam.usaa360.com/
 https://afterpay.com
 https://agent-contact.realestate.com.au/lead-capture-page/campaign-id/8e50c3d0-0d2b-44d1-9df6-f4e02b9a690e
 https://agent.apps.monash.edu/
-https://aggregator.etoro.com
 https://aiven.io
 https://aiven.io/clickhouse
 https://aiven.io/docs/products/metrics/concepts/metrics-overview
@@ -148,7 +143,6 @@ https://api-businessportal.origin.com.au
 https://api-iam.intercom.io
 https://api-js.datadome.co
 https://api-next.flatmates.com.au
-https://api-portal.etoro.com
 https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
@@ -175,7 +169,6 @@ https://api.dextf.com/dd
 https://api.dts.kape.com
 https://api.electroneum.com
 https://api.enc.kape.com
-https://api.etoro.com
 https://api.expressvpn.com
 https://api.fstr.rocks
 https://api.ibops.net
@@ -329,8 +322,6 @@ https://bb1.simplisafe.com
 https://bb2.simplisafe.com
 https://bestball.fantasysports.yahoo.com/
 https://beta.arlo.com
-https://billing-pci.etoro.com
-https://billing.etoro.com
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com
 https://binance.tr
@@ -385,16 +376,12 @@ https://c.realme.com/ru
 https://caldav.calendar.yahoo.com/dav/%2A/calendar
 https://caldav.calendar.yahoo.com/principals/users
 https://calendar.yahoo.com/ws/v3/users
-https://candle-src.etoro.com
-https://candle.etoro.com
 https://carecredit.com.au
 https://careers.etsy.com
 https://careers.thetradedesk.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
 https://cash.app
 https://cashback.opera.com/
-https://cashier-src.etoro.com
-https://cashier.etoro.com
 https://casino.bwin.com
 https://casino.partycasino.com
 https://casino.sportingbet.com
@@ -410,7 +397,6 @@ https://cdn.unicdn.net/apk/unibetcasino.apk
 https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com
-https://charts.etoro.com
 https://chat.openai.com
 https://checkout.finance.yahoo.com/checkout/v1
 https://cicforms.mioot.com/forms/ps
@@ -641,7 +627,6 @@ https://etherscan.io/address/0xd168cfbbe260d48cd119497a9a2ee8482080c5e7
 https://etherscan.io/address/0xd76f5faf6888e24d9f04bf92a0c8b921fe4390e0
 https://etherscan.io/address/0xdcc340132740ad57e9fc90c9bd08b00dbbc87986
 https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
-https://etorologsapi.etoro.com
 https://etoropartners.com
 https://etorox.com
 https://etsypayments.com
@@ -1033,8 +1018,6 @@ https://knowledge.newrelic.com/
 https://kronor.io/cde/gql
 https://kronor.io/v1/graphql
 https://kucoin.com
-https://kyc-src.etoro.com
-https://kyc.etoro.com
 https://kyc.ripio.com/
 https://l.usaa.com/
 https://lab.epam.com
@@ -1676,6 +1659,7 @@ https://opendata.test-socrata.com/admin/gateway
 https://opensea.io
 https://opensource.epam.com
 https://operaneon.com
+https://ops-portal.sandbox.meraki.com/
 https://ops-sso.adsrvr.org
 https://optimizely-edge.com
 https://optout-prod.uidapi.com
@@ -1700,7 +1684,6 @@ https://partnerapi.tapayments.com
 https://partnerapi1.tapayments.com
 https://partnerapi2.tapayments.com
 https://partnerhelp.viator.com
-https://partners.etoro.com
 https://partners.usaa.com
 https://partners.viator.com
 https://pay.payzippy.com
@@ -1738,7 +1721,6 @@ https://plugins.jetbrains.com/plugin/24377-mongodb
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
 https://pluralcheckout.pinepg.in
-https://poc-op-ywh.it.authentification.si.gouv.qc.ca/
 https://pods.link
 https://portal-api.anz.kinergysolutions.com
 https://portal.3cx.com
@@ -1777,19 +1759,8 @@ https://projects.epam.com
 https://property.com.au
 https://pt-runner.app.ridewithvia.com
 https://pub-api-ro.fantasysports.yahoo.com/
-https://push-d-gw.cloud.etoro.com
-https://push-d-hap.cloud.etoro.com
-https://push-demo-hk-lightstreamer.cloud.etoro.com
-https://push-demo-lightstreamer.cloud.etoro.com
-https://push-dn-hap.cloud.etoro.com
-https://push-hap.cloud.etoro.com
-https://push-lightstreamer.cloud.etoro.com
-https://push-n-hap.cloud.etoro.com
-https://push-real-hk-lightstreamer.cloud.etoro.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
-https://r.etoro.com
-https://rankings.etoro.com
 https://rc.fstr.rocks
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
@@ -1923,9 +1894,7 @@ https://store.retail.lightspeed.app
 https://store.unity.com
 https://storybook.vistarmedia.com
 https://stp.wien.gv.at
-https://streams.etoro.com
 https://stripe.com/terminal/tap-to-pay
-https://sts.etoro.com
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
@@ -1950,8 +1919,6 @@ https://supportportal.thalesgroup.com
 https://sycamore.moneyboxapp.org
 https://t-mobile.com
 https://takeaway.com
-https://tapi-demo.etoro.com
-https://tapi-real.etoro.com
 https://taxify.eu
 https://teach.classdojo.com
 https://telehealth.onedoc.ch
@@ -1959,7 +1926,6 @@ https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
 https://teleoptiprd.otto.de
-https://templates.etoro.com
 https://tempus-ex.com
 https://tess.service-now.com
 https://testnet-blockexplorer.electroneum.com
@@ -2022,7 +1988,6 @@ https://tw.mapi.shp.yahoo.com
 https://tw.news.yahoo.com
 https://u.oppomobile.com/
 https://uae.voxcinemas.com/
-https://uapi-front.etoro.com
 https://uatcms.optimuscards.com
 https://ui.com/distributors
 https://ui.com/training/partners
@@ -2070,11 +2035,9 @@ https://vtxapp9p.underarmour.com/
 https://vtxapp9q.underarmour.com/
 https://vtxappd.underarmour.com/
 https://wallet-sandbox.uphold.com
-https://wallet.etoro.com
 https://walletproxy.tapayments.com
 https://walletproxy1.tapayments.com
 https://walletproxy2.tapayments.com
-https://watchlistapi.etoro.com
 https://wbsapi.withings.net
 https://wbtc.network
 https://web-retailer-portal.ultramobile.com
@@ -2180,6 +2143,7 @@ https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
+https://www.cyber.gouv.qc.ca/
 https://www.cyberghostvpn.com/download
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
@@ -2239,7 +2203,6 @@ https://www.elastic.co/guide/en/fleet/8.8/fleet-server.html
 https://www.elastic.co/guide/en/fleet/current/fleet-elastic-agent-quick-start.html
 https://www.enjoyselfish.com
 https://www.epam.com
-https://www.etoro.com
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
