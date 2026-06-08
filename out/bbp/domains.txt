@@ -729,6 +729,7 @@ api.staging-enviso.io/eloxxapi/v1/maintenanceauthorizationgroups/{maintenanceaut
 api.staging-enviso.io/eventcenterapi
 api.staging-enviso.io/guidecenterapi
 api.staging-enviso.io/integrationapi
+api.staging-enviso.io/lockerreportingapi/graphql
 api.staging-enviso.io/ordercenterapi
 api.staging-enviso.io/paymentcenterapi
 api.staging-enviso.io/pricingcenterapi
@@ -1435,6 +1436,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -2409,6 +2412,8 @@ github.com/anthropics
 github.com/anthropics/anthropic-sdk-python
 github.com/anthropics/anthropic-sdk-typescript
 github.com/binary-com
+github.com/brave
+github.com/brave-intl
 github.com/deriv-com
 github.com/kubernetes-csi/csi-lib-utils
 github.com/kubernetes-csi/csi-release-tools
@@ -4186,6 +4191,7 @@ sophos.com
 sorare.com
 soundcloud.com
 soundcloud.org
+soundon.global
 soyoustart.com
 sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 spaces.pm
@@ -5180,6 +5186,7 @@ www.shop-apotheke.com
 www.six-group.com
 www.socialdeal.nl
 www.sokos.fi
+www.soundon.global
 www.soundonw.us
 www.springfield.moz.works
 www.starbucks.ca

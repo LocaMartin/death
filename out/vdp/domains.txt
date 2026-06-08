@@ -6975,6 +6975,8 @@ com.ford.fordplay
 com.ford.performance.android.experience
 com.ford.remoteaccess
 com.ford.therightway
+com.getyourguide.android
+com.getyourguide.mobile.getyourguide
 com.grubhub.android
 com.gymshark.fitness
 com.gymshark.store
