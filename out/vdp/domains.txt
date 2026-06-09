@@ -7639,6 +7639,7 @@ cosdenfcu-dn.financial-net.com
 cosimg.com
 cosmicteacher.com
 cosmos-stage.onepeloton.com
+cosmos-vision.appslatam.com
 cosmos.onepeloton.com
 cospivot.com
 costar.com
@@ -10389,7 +10390,6 @@ ecommerce.industrialsolutions.abb.com
 econfigure.abb.com.cn
 econfigure.de.abb.com
 econfigure.xe.abb.com
-ecorend.co.uk
 ecorrelations.com
 ecorrelations.net
 ecorrelations.org
@@ -15376,6 +15376,7 @@ iqassovn.ft1.cashedge.com
 iqatdbank2.fta.popmoney.com
 iqavn.ft1.cashedge.com
 iqcentral.cengage.com.au
+iqoption.com
 ir.abb.com
 ir.aon.com
 ir.cbre.com
@@ -23566,6 +23567,7 @@ qrp.elcompanies.com
 qt.boots.com
 qt.fdecs.com
 qtcat.fdecs.com
+quadcode.com
 quadratic-voting.cbre.es
 quakeroats.com
 qual-api-financeconnect.jdf-alfa2-qual-vpn.eu.e10.c01.johndeerecloud.com
@@ -23909,10 +23911,8 @@ regions.com
 regions.icm-uat.fiservapps.com
 regions.icm.fiservapps.com
 regions.us
-regions6x.com
 regionsapps.com
 regionsdev.com
-regionsmortgage.com
 regionsqa.com
 regionsretirement.com
 regionssource.com
@@ -24564,7 +24564,6 @@ sa.shopjustice.me
 sa.smartapply.com
 saasalerts.com
 sabadellproteccion.com
-sabal.com
 sabalo.ca.essd.northgrum.com
 sabinefcu-admin.originate.fiservapps.com
 sabinefcu.originate.fiservapps.com
@@ -27535,8 +27534,6 @@ the-great-room-australia.officernd.com
 the-great-room-hong-kong.officernd
 the-great-room-singapore.officernd.com
 the-great-room-thailand.officernd.com
-theaap.au
-theaap.com.au
 theatrecommons.tv
 thebankhere-p2.onlinebank.com
 thebankhere.onlinebank.com
@@ -30522,7 +30519,6 @@ westtexascu-admin.originate.fiservapps.com
 westtexascu.originate.fiservapps.com
 westville-frankfurt.com
 wetamd.ca
-wethertex.co.uk
 wettbewerbsvergleich-qs-voegele.applications.wirtgen-group.com
 wettbewerbsvergleich-qs-wirtgen.applications.wirtgen-group.com
 wettbewerbsvergleich-voegele.applications.wirtgen-group.com
