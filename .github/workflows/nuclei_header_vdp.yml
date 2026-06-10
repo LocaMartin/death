@@ -50,7 +50,7 @@ jobs:
           nuclei \
             -l out/vdp/domains.txt \
             -t http/vulnerabilities/generic/oob-header-based-interaction.yaml,http/vulnerabilities/generic/host-header-injection.yaml \
-            -nh -silent -nc | tee header.log | while read -r line; do
+            -nh -silent -nc | tee log/header.log | while read -r line; do
               curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
                 -H "Content-Type: application/json" \
                 -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[vdp]$line\"}" -o /dev/null
@@ -60,6 +60,6 @@ jobs:
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "github-actions"
-          git add header.log
+          git add log/header.log
           git commit -m "Auto update: Nuclei header scan results" || echo "No changes"
           git push
