@@ -8,6 +8,7 @@
 2go.com
 365command.com
 3ce.com
+3lateral.com
 53.com
 86400.com.au
 9apps.com
@@ -154,6 +155,7 @@ americathebeautifulquarters.gov
 amitinoura.com
 aml-kyc.com
 amlab7.com
+amplitude-game.com
 ansoniacreditdata.com
 anti-corruption.com
 antuit.ai
@@ -183,6 +185,7 @@ apprissmobile.com
 appslatam.com
 aquafina.com
 arrow.cn
+artstation.com
 arubanetworks.com
 asap.gov
 ascgov.com
@@ -195,6 +198,7 @@ askjan.org
 aspectdsc.com
 aspectenterprise.com
 aspencore.com
+audicagame.com
 auditforit.com
 aura-mena.com
 autotask.net
@@ -258,6 +262,7 @@ backup.net
 backupify.com
 baldor.com
 bancointer.com.br
+bandcamp.com
 banfield.com
 banfieldassets.com
 bankanswers.gov
@@ -285,6 +290,7 @@ bathandbodyworks.com.tr
 bathandbodyworks.jo
 bathandbodyworks.pl
 bathandbodyworks.ro
+bcbits.com
 bea.gov
 bebabelkuwait.com
 bedbathandbeyond.com
@@ -610,6 +616,7 @@ csosa.gov
 ctmsh.co
 cubera.no
 cubera.se
+cubicmotion.com
 cwc.gov
 cyber.gov
 cyberlawreport.com
@@ -627,6 +634,7 @@ dachpecongress.com
 dachpeforum.com
 daimlertruck.com
 damai.cn
+dancecentral.com
 dash-trade.com
 dashbrokers.com
 dashexecution.com
@@ -731,6 +739,7 @@ dpdhl.com
 driessen.nl
 drinkbrisk.com
 drinkevolve.com
+dropmix.com
 drought.gov
 dshrp.com
 duckduckgo.com
@@ -747,6 +756,7 @@ earthquake.gov
 eashaw.co.uk
 eashaw.com
 easy-qote.com
+easy.ac
 easyqote.com
 eatnatural.com
 ebookers.com
@@ -788,6 +798,8 @@ envassetsvcs.com
 enviouchegou.com
 epa.gov
 epic-care.com
+epicgames.com
+epicgames.dev
 epsilon-inc.com
 epsilon-inc.dev
 equifax.ca
@@ -868,6 +880,7 @@ faca.gov
 facadatabase.gov
 facilitysource.com
 fai.gov
+fallguys.com
 fameco.com
 famecoretail.com
 famousamos.com
@@ -969,6 +982,7 @@ foremoststar.com
 forms.gov
 forrent.com
 forrentuniversity.com
+fortnite.com
 forumanalytics.com
 fosterandthrive.com
 foundedbyher.org
@@ -1064,6 +1078,7 @@ hairshop.hr
 hanaspaces.com
 hanaworkplaces.com
 hanuta.de
+harmonixmusic.com
 hartsystems.com
 hasmyidentitybeenstolen.com
 hccb.in
@@ -1123,6 +1138,8 @@ hmhrx.com
 hmhrx.net
 hmhrx.org
 hmtest.org
+hmxservices.com
+hmxwebservices.com
 hnlp.jp
 holtsmilitarybank.co.uk
 homeaway.com
@@ -1264,6 +1281,7 @@ jcstudentsurveys.com
 jcsuccess.org
 jctalentworks.com
 jelly.deals
+jellychat.com
 jem.gov
 jetblue.com
 jll.com
@@ -1511,6 +1529,7 @@ mckessonpharmacysystems.com
 mcpl.edu.au
 md.gov
 medfin.com.au
+mediatonic.co.uk
 medicineshoppe.ca
 meetmynewpet.com
 mendix.com
@@ -1801,6 +1820,7 @@ omniplus.com
 on-running.com
 on.aws
 on.com
+oncatapult.com
 onestop.co.uk
 onetcenter.org
 onetcodeconnector.org
@@ -1942,6 +1962,7 @@ pontualmt.com
 pontualmt.net
 pontualreports.net
 popcorners.com
+popjam.com
 portalehenkel.it
 portalgranito.com.br
 porttoplant.com
@@ -1993,6 +2014,8 @@ ps-radiocom.com
 psa.gov
 pscr.gov
 pssd.com
+psynet.gg
+psyonix.com
 ptxbac.be
 pubg.com
 pubgesports.com
@@ -2016,6 +2039,7 @@ quantlab.it
 quantlab.org
 quickbooks.com
 quicklane.com
+quixel.com
 radiosawa.com
 radiotelevisionmarti.com
 raffaello.com
@@ -2072,8 +2096,10 @@ rmittraining.com
 ro.co
 robinhood.com
 robinhood.net
+rockbandvr.com
 rocketball.com
 rocketcyber.com
+rocketleague.com
 rockpapershotgun.com
 rockstarenergy.com
 roke.co.uk
@@ -2133,6 +2159,7 @@ royalrands.co.za
 rrb.gov
 rubson.com
 ruffles.com
+rukkaz.com
 ruralfinance.com.au
 rwbaird.com
 rxcrossroads.com
@@ -2228,6 +2255,7 @@ simplivity.com
 simplybits.com
 simplyfritolay.com
 singlestore.com
+singspacegame.com
 sista-selladores.com
 siteready.com
 sitereadyllc.com
@@ -2247,6 +2275,7 @@ skagenfunds.is
 skagenfunds.it
 skagenfunds.lu
 skagenfunds.nl
+sketchfab.com
 skittles.com
 skyhighsecurity.com
 slgs.gov
@@ -2338,6 +2367,9 @@ sublimic.jp
 sunchips.com
 suncor.com
 sunlightcanada.ca
+superawesome.com
+superawesome.tv
+superbeatsports.com
 supplieroasis.com
 supplylogix.com
 supportfan.gov
@@ -2544,6 +2576,7 @@ tva.com
 tva.gov
 tvaenergyrightsolutions.com
 twai.gov
+twinmotion.com
 twix.com
 ual.com
 ubank.com.au
@@ -2581,6 +2614,8 @@ unquoteintelligence.com
 unquotenews.com
 unquotenordicpeawards.com
 unquoteprivateequitysummit.com
+unrealengine.com
+unrealtournament.com
 up.com.au
 upc.cz
 upc.hu

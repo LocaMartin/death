@@ -533,6 +533,7 @@
 3dscat.softwareexpress.com.br
 3dviewer.daimlertruck.com
 3dvis.mendixcloud.com
+3lateral.com
 3riversfcu.fdecs.com
 3riversfcucat.fdecs.com
 3s.mendixcloud.com
@@ -1211,6 +1212,7 @@ admin-card-sil-dev.tsac-staging.daimlertruck.com
 admin-card-sil-int.tsac-staging.daimlertruck.com
 admin-card-sil-preprod.tsac-staging.daimlertruck.com
 admin-card-sil.tsac.daimlertruck.com
+admin-dev.harmonixmusic.com
 admin-edge01.orl01.cymycloud.io
 admin-hrp.cbre.eu
 admin-integration.bypassmobile.com
@@ -1235,6 +1237,7 @@ admin.dev.dealstream.cbre.com
 admin.fiserv.com
 admin.gallileo-frankfurt.com
 admin.gyft.com
+admin.harmonixmusic.com
 admin.monosem.com
 admin.monosemusa.com
 admin.montgomerybankoriginate.com
@@ -1672,6 +1675,7 @@ amlab7.com
 amlapi.cbre.com
 amnuscriptcentral.com
 amoryfirstbank.onlinebank.com
+amplitude-game.com
 amr-data.com
 amr-europe.com
 amretailactivesync02.elcompanies.com
@@ -1758,6 +1762,7 @@ ansoniacreditdata.com
 answers-avaamoz.dev.chatbot.cbre.com
 answers.chatbot.cbre.com
 answers.dev.chatbot.cbre.com
+answers.unrealengine.com
 antarestls-sit.fiservapp.com
 anthealanguages.be
 anthealanguages.com
@@ -2143,6 +2148,7 @@ api.dpfriday.com
 api.e-valuation.cbre.com
 api.ea.login.cbre.com
 api.elcacademy.com
+api.epicgames.dev
 api.eu.clover.com
 api.experience.cbre.com
 api.expertconnect.deere.com
@@ -2396,6 +2402,7 @@ app.moldmonitoring.it.abb.com
 app.mon.luna.cbre.de
 app.monarchmoney.com
 app.overloop.com
+app.playwonderbox.com
 app.redislabs.com
 app.response.cbre.com.au
 app.riteaid.fmpilot.com
@@ -2422,6 +2429,7 @@ appgt-dev.cbre.fr
 appgt-qa.cbre.fr
 appgt-uat.cbre.fr
 appgt.cbre.fr
+apple.co/-horizonchase2
 applebees.wgiftcard.com
 applebeescanadastore.wgiftcard.com
 applebeesstore.wgiftcard.com
@@ -2499,7 +2507,11 @@ apspatents.com
 aptoramobile.cbre.com
 apuacmysupplier.cbre.com
 aqbeerfest.com
+aqtooling.com
 aquafina.com
+aquiris.com.br
+aquiris.studio
+aquiristech.com
 aqwine.com
 ar-qa.nonprod.cbre.com
 ar-tm.nonprod.cbre.com
@@ -2594,6 +2606,8 @@ artifactory.internal.ondotsystems.com
 artifactory.pnonprod.gcso.cbre.com
 artificialtears.ca
 artinst.net
+artportal.epicgames.com
+artstation.com
 arubanetworks.com
 arzerra.ca
 as-dev.elc.academy
@@ -2801,6 +2815,10 @@ au.eip-webhook.cbre.com
 au.host-building.com
 au.inside.abb.com
 au.smartapply.com
+audica-live-admin.hmxwebservices.com
+audica-prod-admin.hmxwebservices.com
+audica-prod-api.hmxwebservices.com
+audicagame.com
 auditforit.com
 auditing.core.fleetboard.com
 augustus-u.spaziodati.eu
@@ -2975,6 +2993,7 @@ autodiscover.gallileo-frankfurt.com
 autodiscover.h2m.se
 autodiscover.hamm-external.eu
 autodiscover.hamm.eu
+autodiscover.harmonixmusic.com
 autodiscover.intego.dk
 autodiscover.jandjgcs.com
 autodiscover.jjwws.com
@@ -3329,6 +3348,7 @@ bancoitau.com.br
 bancojohndeere.com.br
 bancorpsouth-temp.olbanking.com
 bancorpsouth.olbanking.com
+bandcamp.com
 banfield.com
 banfield.us
 banfieldassets.com
@@ -3581,6 +3601,7 @@ bbva.fta.popmoney.com
 bbw.fdecs.com
 bbwcat.fdecs.com
 bcadirect.net.au
+bcbits.com
 bccb.caaweb.com
 bccpayments-uat.prinpay.com
 bcdpjm-dev.cbre.de
@@ -6987,7 +7008,6 @@ com.instalsoft.wavinsmartinstalsystem
 com.insulet.myblue.pdm
 com.interflex.key
 com.invoice2go.invoice2goplus
-com.jnj.mocospace.android
 com.johndeere.jdo.android
 com.key.android
 com.key.community.tablet
@@ -7529,6 +7549,7 @@ coroapremiada.com.br
 corp-dev.wirtgen-group.com
 corp-efile.com
 corp-fileshare.oportun.com
+corp.bandcamp.com
 corp.jjwws.com
 corp1.jjwws.com
 corp2.jjwws.com
@@ -8280,6 +8301,7 @@ cuadvantage-dn.financial-net.com
 cub.wgiftcard.com
 cubera.no
 cubera.se
+cubicmotion.com
 cubstore.wgiftcard.com
 cubv-dn.financial-net.com
 cucc.fdecs.com
@@ -8565,6 +8587,7 @@ damai.cn
 damato.ca.essd.northgrum.com
 damc.fiservapp.com
 dan.gallileo-frankfurt.com
+dancecentral.com
 dandelion-u.spaziodati.eu
 danversmfcu-dc.cert.fec-dc.fiservapps.com
 danversmfcu-dn.financial-net.com
@@ -10077,6 +10100,7 @@ drivetime-ui-prod.cbre.com
 drmyapps.cbre.com
 drolpss.fiservclients.com
 droneci.deere.com
+dropmix.com
 drought.gov
 drperseus.fiservclients.com
 drpharmaview.com
@@ -10247,6 +10271,7 @@ eastwestcert.olbanking.com
 eastwestuat-temp.olbanking.com
 eastwestuat.olbanking.com
 easy-qote.com
+easy.ac
 easyadjust.monosem.com
 easycustoms.abb.com.cn
 easyopen.andover.bank
@@ -11023,6 +11048,10 @@ epgene.org
 epharmaconsumer.com
 epharmaphysician.com
 epic-care.com
+epicgames.com
+epicgames.dev
+epicgames/unrealengine_v5.2
+epicgameslauncher.exe
 epluat-cc.olbanking.com
 epluat-temp.olbanking.com
 epluat.olbanking.com
@@ -11545,6 +11574,7 @@ falconbank-admin.originate.fiservapps.com
 falconbank.architect-cert.fiservapps.com
 falconbank.originate.fiservapps.com
 falcontechserv.com
+fallguys.com
 fam1st-admin.originate.fiservapps.com
 fam1st-dc.cert.fec-dc.fiservapps.com
 fam1st-dn.financial-net.com
@@ -12367,6 +12397,16 @@ fortmcclellancu-admin.originate.fiservapps.com
 fortmcclellancu-dc.cert.fec-dc.fiservapps.com
 fortmcclellancu-dn.financial-net.com
 fortmcclellancu.originate.fiservapps.com
+fortnite.com
+fortniteclient-android-shipping-arm64-es2.apk
+fortniteclient-mac-shipping.app
+fortniteclient-win64-shipping.exe
+fortniteclient-win64-shipping_be.exe
+fortniteclient-win64-shipping_eac.exe
+fortnitelauncher-win64-shipping.exe
+fortnitelauncher-win64-shipping_be.exe
+fortnitelauncher-win64-shipping_eac.exe
+fortnitelauncher.exe
 fortress.jjwws.com
 fortunabank-admin.originate.fiservapps.com
 fortunabank.onlinebank.com
@@ -13631,6 +13671,7 @@ hardrockatlanticcity.wgiftcard.com
 hardrockatlanticcitystore.wgiftcard.com
 harkeyreport.com
 harmonicestimator.motion.abb.com
+harmonixmusic.com
 harmony.info
 harris-achex-btat2.onefiserv.com
 harris-achex-dr.onefiserv.com
@@ -14000,6 +14041,8 @@ hmhrx.net
 hmhrx.org
 hmodata.com
 hmtest.org
+hmxservices.com
+hmxwebservices.com
 hnbank-admin.originate.fiservapps.com
 hnbank.caaweb.com
 hnbank.originate.fiservapps.com
@@ -14097,6 +14140,7 @@ hosteyportal-blue.cbrehost.com
 hosteyportal.cbrehost.com
 hosteyportalhelp.cbrehost.com
 hosting.gallileo-frankfurt.com
+hostman.prod.adad.live.use1a.on.epicgames.com
 hostmaster.gallileo-frankfurt.com
 hostmaster.telfordhomes.london
 hostportal-blue.cbrehost.com
@@ -15720,6 +15764,7 @@ jdisonline.com
 jdisonsite.com
 jdisv.dpn.deere.com
 jdlink.deere.com
+jdmsofomcobranza.com.mx
 jdonline.deere.com
 jdparts.deere.com
 jdpo-devl.deere.com
@@ -15748,6 +15793,7 @@ jeff-admin.originate.fiservapps.com
 jeff.originate.fiservapps.com
 jeffbank-p2.onlinebank.com
 jelly.deals
+jellychat.com
 jem.gov
 jenkins-nonprod.cdo.cbre.com
 jenkins-poc.cdo.cbre.com
@@ -18051,6 +18097,7 @@ mediaseek.com
 mediaseek.org
 mediaseek.ws
 mediaserver.fiservapp.com
+mediatonic.co.uk
 medical.aon.co.za
 medicalcentercu-dc.cert.fec-dc.fiservapps.com
 medicalcentercu-dn.financial-net.com
@@ -20692,6 +20739,7 @@ onboarding-production-radware.getbento.com
 onboarding-staging-radware.bentosandbox.com
 onboardingtest.firstdata.com.ar
 onbrez.ca
+oncatapult.com
 oncologytalks.com
 ondemand-api-prod.cbre.com
 ondemand-web.fiserv.com
@@ -22265,6 +22313,7 @@ pop3.pla.com.br
 pop3.unimil.com.br
 popcorners.com
 popeyes.wgiftcard.com
+popjam.com
 popmoney-test.arvest.com
 popmoney.americafirst.com
 popmoney.arvest.com
@@ -23172,6 +23221,8 @@ psrp.clienteitau.co
 pssd.com
 pstcfcu-dc.cert.fec-dc.fiservapps.com
 pstcfcu-dn.financial-net.com
+psynet.gg
+psyonix.com
 pt-qa.nonprod.cbre.com
 pt-sbc1.cbre.com
 pt-sbc2.cbre.com
@@ -23623,6 +23674,7 @@ quiktrip.fdecs.com
 quincycu-uat.streamlendvelocity.net
 quincycu.streamlendvelocity.net
 quisit.com
+quixel.com
 quiz.gallileo-frankfurt.com
 quotations.abb.com
 quote.aon.ca
@@ -24324,6 +24376,7 @@ rochellebank-admin.originate.fiservapps.com
 rochellebank.architect-cert.fiservapps.com
 rochellebank.onlinebank.com
 rochellebank.originate.fiservapps.com
+rockbandvr.com
 rockcommfcu.com
 rockcommfcu.vbwebservices.com
 rockdalefcu.org
@@ -24338,6 +24391,7 @@ rocketcityfcu.org
 rocketcityfcu.originate.fiservapps.com
 rocketcityfcu.vbwebservices.com
 rocketcyber.com
+rocketleague.com
 rockpapershotgun.com
 rockstarenergy.com
 rogersandhollands.fdecs.com
@@ -24477,6 +24531,7 @@ rubygems.org
 rubyhouse.cbresi.com.au
 ruffles.com
 rugby.cbre.co.uk
+rukkaz.com
 rulescatm.fiservapp.com
 rulesdrb.fiservapp.com
 rulesdrc.fiservapp.com
@@ -25474,6 +25529,7 @@ simulador-uat.portalfd.com.br
 simulador.portalfd.com.br
 sinclairoil.wgiftcard.com
 singlestore.com
+singspacegame.com
 siouxvalleyccu-dc.cert.fec-dc.fiservapps.com
 siouxvalleyccu-dn.financial-net.com
 sip.acemaint.com
@@ -25708,6 +25764,8 @@ skagenfunds.nl
 skanska-secure-partner.co.uk
 skaperglede.freia.no
 sketchanitch.ca
+sketchfab ripping" 3d model / mesh / texture / etc. content out of the 3d web viewer
+sketchfab.com
 skillsoft.northropgrumman.com
 skittles.com
 skladbratislavanapredaj.sk
@@ -26767,6 +26825,9 @@ supamac.com.au
 supamacmarketing.com.au
 supamlapi.cbre.com
 superamerica.fdecs.com
+superawesome.com
+superawesome.tv
+superbeatsports.com
 superinstall.com
 superiorcu-dc.cert.fec-dc.fiservapps.com
 superiorcu-dn.financial-net.com
@@ -28505,6 +28566,7 @@ twai.gov
 tweb.cbre.eu
 twincedars-admin.originate.fiservapps.com
 twincedars.originate.fiservapps.com
+twinmotion.com
 twinriversfcu-dc.cert.fec-dc.fiservapps.com
 twinriversfcu-dn.financial-net.com
 twinriversfcu.org
@@ -29257,6 +29319,10 @@ unquoteintelligence.com
 unquotenews.com
 unquotenordicpeawards.com
 unquoteprivateequitysummit.com
+unrealeditorfortnite-win64-shipping.exe
+unrealeditorfortnite.exe
+unrealengine.com
+unrealtournament.com
 unsubscribe-elc.elcompanies.com
 unsubscribe.elcompanies.com
 unterweisung.services.wirtgen-group.com
