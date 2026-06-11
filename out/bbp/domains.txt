@@ -320,6 +320,7 @@ about.gitlab.com
 academy-outbound-ads.tiktok.com
 academy.deriv.com
 academy.infomaniak.com
+academy.mercadoads.com
 acc-pub.mobilevikings.be
 acc.mobilevikings.be
 acceptance.cloud.8x8.com
@@ -1330,7 +1331,6 @@ cms.nba.com
 cmtelecom.com
 co.mona.android
 co.uk.getmondo
-coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.io
 code.playcanvas.com
@@ -2702,6 +2702,7 @@ insider.in
 insight.io
 insight2.tradepmr.com
 insights.deribit.com
+insights.judgeme.dev
 instacart.com
 instacart.tools
 institutional.coinbase.com
@@ -3141,6 +3142,8 @@ melonapp.com
 member.tw.coupang.com
 member.watsons.com.tw
 meraki.com
+mercadobackoffice.com
+mercadoenvios.com.ve
 mercadolibre.cl
 mercadolibre.com
 mercadolibre.com.ar
@@ -3159,6 +3162,7 @@ mercadopago.com.co
 mercadopago.com.mx
 mercadopago.com.pe
 mercadopago.com.uy
+mercadopago.com.ve
 mercadoplay.co
 mercadoplay.com.pe
 mercadoplay.com.uy
@@ -3264,6 +3268,8 @@ movilepay.com.br
 mpa.ekyc.backoffice.m-pesa.com
 mpa.ekyc.selfregister.m-pesa.com
 mpa.qr.web.m-pesa.com
+mpago.la
+mpago.li
 msg.playcanvas.com
 msgsvc.io
 mta-sts.wearehackerone.com
@@ -5203,7 +5209,6 @@ www.stradivarius.com
 www.stripe.partners
 www.superdrug.com
 www.superdrugmobile.com
-www.supernovas.indrive.com
 www.swiftcapital.com
 www.swiftfinancial.com
 www.swisstransfer.com

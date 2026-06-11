@@ -3348,7 +3348,6 @@ bancoitau.com.br
 bancojohndeere.com.br
 bancorpsouth-temp.olbanking.com
 bancorpsouth.olbanking.com
-bandcamp.com
 banfield.com
 banfield.us
 banfieldassets.com
@@ -7549,7 +7548,6 @@ coroapremiada.com.br
 corp-dev.wirtgen-group.com
 corp-efile.com
 corp-fileshare.oportun.com
-corp.bandcamp.com
 corp.jjwws.com
 corp1.jjwws.com
 corp2.jjwws.com
@@ -22313,7 +22311,6 @@ pop3.pla.com.br
 pop3.unimil.com.br
 popcorners.com
 popeyes.wgiftcard.com
-popjam.com
 popmoney-test.arvest.com
 popmoney.americafirst.com
 popmoney.arvest.com
@@ -24531,7 +24528,6 @@ rubygems.org
 rubyhouse.cbresi.com.au
 ruffles.com
 rugby.cbre.co.uk
-rukkaz.com
 rulescatm.fiservapp.com
 rulesdrb.fiservapp.com
 rulesdrc.fiservapp.com
@@ -26825,8 +26821,6 @@ supamac.com.au
 supamacmarketing.com.au
 supamlapi.cbre.com
 superamerica.fdecs.com
-superawesome.com
-superawesome.tv
 superbeatsports.com
 superinstall.com
 superiorcu-dc.cert.fec-dc.fiservapps.com

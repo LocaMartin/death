@@ -262,7 +262,6 @@ backup.net
 backupify.com
 baldor.com
 bancointer.com.br
-bandcamp.com
 banfield.com
 banfieldassets.com
 bankanswers.gov
@@ -1962,7 +1961,6 @@ pontualmt.com
 pontualmt.net
 pontualreports.net
 popcorners.com
-popjam.com
 portalehenkel.it
 portalgranito.com.br
 porttoplant.com
@@ -2159,7 +2157,6 @@ royalrands.co.za
 rrb.gov
 rubson.com
 ruffles.com
-rukkaz.com
 ruralfinance.com.au
 rwbaird.com
 rxcrossroads.com
@@ -2367,8 +2364,6 @@ sublimic.jp
 sunchips.com
 suncor.com
 sunlightcanada.ca
-superawesome.com
-superawesome.tv
 superbeatsports.com
 supplieroasis.com
 supplylogix.com
