@@ -5711,6 +5711,8 @@ certican.ca
 certificadoboavista.com.br
 certification-pay.digitalpaymentnetwork.com
 certifiedanalytics.deere.com
+certifieddigital-staging.deere.com
+certifieddigital.deere.com
 certinlaneservice.checkfreepay.com
 certnavigator.cashedge.com
 certs-test-ssl-basic.com
@@ -11907,6 +11909,7 @@ filebox.kreiselelectric.com
 fileexchange.fiservapps.com
 filefirst.org
 filemaker.jjwws.com
+files-upload-beta-qual.deere.com
 files-upload-beta.deere.com
 files-web.fiservatlanta.net
 files.clover.com
@@ -13876,10 +13879,14 @@ henkel-researchers-world.cn
 henkel-researchers-world.kr
 henkel.cn
 henkel.com
+henkeldev.service-now.com
 henkelgroup.cloud
 henkelgroup.net
 henkelhomecare.co.kr
 henkelna.com
+henkelprod.service-now.com
+henkelsand.service-now.com
+henkeltest.service-now.com
 heritage-quest.com
 heritage-quest.mobi
 heritage-quest.net
@@ -30606,6 +30613,7 @@ wgsonline.services.wirtgen-group.com
 wgsp-lite-cons.services.wirtgen-group.com
 wgsp-lite.services.wirtgen-group.com
 wgwebservices.snapfish.com
+whatcanyoudocampaign.gov
 whatcanyoudocampaign.org
 whatsappsim.de
 wheatlandcu-dc.cert.fec-dc.fiservapps.com

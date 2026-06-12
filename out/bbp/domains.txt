@@ -320,7 +320,6 @@ about.gitlab.com
 academy-outbound-ads.tiktok.com
 academy.deriv.com
 academy.infomaniak.com
-academy.mercadoads.com
 acc-pub.mobilevikings.be
 acc.mobilevikings.be
 acceptance.cloud.8x8.com

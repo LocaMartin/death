@@ -939,6 +939,7 @@ https://gwapi2.tripadvisor.com
 https://gx.games
 https://gx.me
 https://gx.opera-api.com
+https://hackerone-m1rtuq8orz.hbstaging.website/
 https://hatching.io
 https://healthmate.withings.com
 https://help.etsy.com
@@ -2007,6 +2008,7 @@ https://ui.com/distributors
 https://ui.com/training/partners
 https://ui.com/uid
 https://uiscoop.payzippy.com
+https://uketa.vfsglobal.com/forms/uketa
 https://ultramobile.com
 https://umiloans.com.au
 https://underarmour.co.kr
