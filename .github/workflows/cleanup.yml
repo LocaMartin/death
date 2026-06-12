@@ -5,11 +5,21 @@ on:
     - cron: '0 0 * * 0'
   workflow_dispatch:
 
+env:
+  BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+  CHAT_ID: ${{ secrets.CHAT_ID }}
+
 jobs:
   delete-runs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Notify — Cleanup Started
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[cleanup] Weekly workflow run cleanup started at $(date +'%Y-%m-%d %H:%M UTC')\nRun: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\nPolicy: delete runs older than 2 days, keep minimum 3 runs per workflow\"}"
+
       - name: Delete old workflow runs
         uses: Mattraks/delete-workflow-runs@v2
         with:
@@ -17,3 +27,23 @@ jobs:
           repository: ${{ github.repository }}
           retain_days: 2
           keep_minimum_runs: 3
+
+      - name: Notify — Cleanup Complete
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[cleanup] Cleanup complete at $(date +'%Y-%m-%d %H:%M UTC')\nOld runs deleted. Next cleanup: next Sunday at 00:00 UTC\"}"
+
+      - name: Notify on Failure
+        if: failure()
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[cleanup] FAILED\nWorkflow: ${{ github.workflow }}\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"
+
+      - name: Notify on Cancellation
+        if: cancelled()
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[cleanup] CANCELLED\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"

@@ -2,68 +2,142 @@ name: Scope Fetcher and Notifier
 
 on:
   schedule:
-    # Runs at 22:00 UTC (10:00 PM) every day
     - cron: '0 22 * * *'
-  workflow_dispatch: # Allows you to run it manually for testing
+  workflow_dispatch:
+
+env:
+  BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+  CHAT_ID: ${{ secrets.CHAT_ID }}
 
 jobs:
   fetch-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Needed to push changes back to the repo
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create output directory
-        run: | 
-          mkdir -p out
-          mkdir -p out/bbp
-          mkdir -p out/vdp
-
-
-      - name: Fetch API data
+      - name: Notify — Workflow Started
         run: |
-          curl -s "https://bbscope.com/api/v1/targets/wildcards?scope=in&type=bbp" -o out/bbp/wildcards.txt
-          curl -s "https://bbscope.com/api/v1/targets/domains?scope=in&type=bbp" -o out/bbp/domains.txt
-          curl -s "https://bbscope.com/api/v1/targets/ips?scope=in&type=bbp" -o out/bbp/ips.txt
-          curl -s "https://bbscope.com/api/v1/targets/cidrs?scope=in&type=bbp" -o out/bbp/cidrs.txt
-          curl -s "https://bbscope.com/api/v1/targets/urls?scope=in&type=bbp" | grep -Evi 'google|apple' > out/bbp/urls.txt
-          curl -s "https://bbscope.com/api/v1/targets/wildcards?scope=in&type=vdp" -o out/vdp/wildcards.txt
-          curl -s "https://bbscope.com/api/v1/targets/domains?scope=in&type=vdp" -o out/vdp/domains.txt
-          curl -s "https://bbscope.com/api/v1/targets/ips?scope=in&type=vdp" -o out/vdp/ips.txt
-          curl -s "https://bbscope.com/api/v1/targets/cidrs?scope=in&type=vdp" -o out/vdp/cidrs.txt
-          curl -s "https://bbscope.com/api/v1/targets/urls?scope=in&type=vdp" | grep -Evi 'google|apple' > out/vdp/urls.txt
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] Scope fetch started at $(date +'%Y-%m-%d %H:%M UTC')\nRun: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"
+
+      - name: Create output directories
+        run: |
+          mkdir -p out/bbp out/vdp
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] Output directories ready\"}"
+
+      - name: Fetch BBP scope data
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] Fetching BBP scope from bbscope API...\"}"
+
+          curl -sf "https://bbscope.com/api/v1/targets/wildcards?scope=in&type=bbp" -o out/bbp/wildcards.txt || { \
+            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+              -H "Content-Type: application/json" \
+              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch BBP wildcards\"}"; exit 1; }
+
+          curl -sf "https://bbscope.com/api/v1/targets/domains?scope=in&type=bbp" -o out/bbp/domains.txt || { \
+            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+              -H "Content-Type: application/json" \
+              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch BBP domains\"}"; exit 1; }
+
+          curl -sf "https://bbscope.com/api/v1/targets/ips?scope=in&type=bbp" -o out/bbp/ips.txt || { \
+            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+              -H "Content-Type: application/json" \
+              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch BBP IPs\"}"; exit 1; }
+
+          curl -sf "https://bbscope.com/api/v1/targets/cidrs?scope=in&type=bbp" -o out/bbp/cidrs.txt || { \
+            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+              -H "Content-Type: application/json" \
+              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch BBP CIDRs\"}"; exit 1; }
+
+          curl -sf "https://bbscope.com/api/v1/targets/urls?scope=in&type=bbp" \
+            | grep -Evi 'google|apple' > out/bbp/urls.txt || { \
+            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+              -H "Content-Type: application/json" \
+              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch BBP URLs\"}"; exit 1; }
+
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] BBP fetch complete\nWildcards: $(wc -l < out/bbp/wildcards.txt)\nDomains: $(wc -l < out/bbp/domains.txt)\nIPs: $(wc -l < out/bbp/ips.txt)\nCIDRs: $(wc -l < out/bbp/cidrs.txt)\nURLs: $(wc -l < out/bbp/urls.txt)\"}"
+
+      - name: Fetch VDP scope data
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] Fetching VDP scope from bbscope API...\"}"
+
+          curl -sf "https://bbscope.com/api/v1/targets/wildcards?scope=in&type=vdp" -o out/vdp/wildcards.txt || { \
+            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+              -H "Content-Type: application/json" \
+              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch VDP wildcards\"}"; exit 1; }
+
+          curl -sf "https://bbscope.com/api/v1/targets/domains?scope=in&type=vdp" -o out/vdp/domains.txt || { \
+            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+              -H "Content-Type: application/json" \
+              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch VDP domains\"}"; exit 1; }
+
+          curl -sf "https://bbscope.com/api/v1/targets/ips?scope=in&type=vdp" -o out/vdp/ips.txt || { \
+            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+              -H "Content-Type: application/json" \
+              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch VDP IPs\"}"; exit 1; }
+
+          curl -sf "https://bbscope.com/api/v1/targets/cidrs?scope=in&type=vdp" -o out/vdp/cidrs.txt || { \
+            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+              -H "Content-Type: application/json" \
+              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch VDP CIDRs\"}"; exit 1; }
+
+          curl -sf "https://bbscope.com/api/v1/targets/urls?scope=in&type=vdp" \
+            | grep -Evi 'google|apple' > out/vdp/urls.txt || { \
+            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+              -H "Content-Type: application/json" \
+              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch VDP URLs\"}"; exit 1; }
+
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] VDP fetch complete\nWildcards: $(wc -l < out/vdp/wildcards.txt)\nDomains: $(wc -l < out/vdp/domains.txt)\nIPs: $(wc -l < out/vdp/ips.txt)\nCIDRs: $(wc -l < out/vdp/cidrs.txt)\nURLs: $(wc -l < out/vdp/urls.txt)\"}"
+
       - name: Commit and Push changes
         run: |
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] Committing scope files to repo...\"}"
+
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add out/
-          # Only commit if the file actually changed to avoid empty commits
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated update: wildcards.txt" && git push)
+          git diff --quiet && git diff --staged --quiet || \
+            (git commit -m "Automated update: scope data $(date +'%Y-%m-%d')" && \
+             git pull --rebase origin main && \
+             git push)
 
-      - name: Send notifications to Telegram
-        env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] Scope files committed and pushed successfully\"}"
+
+      - name: Notify — Workflow Complete
         run: |
-          # Loop through each .txt file in the out directory
-          # Using 'find' ensures we catch files in both bbp/ and vdp/
-          for file in $(find out -name "*.txt"); do
-            # Get the number of lines (targets) in the file
-            count=$(wc -l < "$file")
-            
-            # Get the filename (e.g., wildcards.txt)
-            filename=$(basename "$file")
-            
-            # Get the parent folder (e.g., bbp or vdp)
-            folder=$(basename $(dirname "$file"))
-            
-            # Construct and send the message
-            message=" $count $filename found and saved to $folder/$filename"
-            
-            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
-              -H "Content-Type: application/json" \
-              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"$message\"}" -o /dev/null
-          done
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] All done at $(date +'%Y-%m-%d %H:%M UTC')\"}"
+
+      - name: Notify on Failure
+        if: failure()
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] FAILED\nWorkflow: ${{ github.workflow }}\nJob: ${{ github.job }}\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"
+
+      - name: Notify on Cancellation
+        if: cancelled()
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] CANCELLED (timeout or manual stop)\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"
