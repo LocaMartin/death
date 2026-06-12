@@ -1,0 +1,10 @@
+## notes  only use this asset when nothing else can be reasonably selected.    bugs with yahoo! that are not listed in scope of our other yahoo-related assets can still be submitted to this asset and **_*might*_** be eligible for award, at the sole discretion of the yahoo bug bounty team
+*.admanager.yahoo.com
+*.compuserve.com
+*.gemini.yahoo.com
+*.isp.netscape.com
+*.lite.aol.com
+*.oath.cloud
+*.tw.news.yahoo.com
+*.yahoo.cloud
+- www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
