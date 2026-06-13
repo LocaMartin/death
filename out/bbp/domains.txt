@@ -1435,8 +1435,6 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -2412,8 +2410,6 @@ github.com/anthropics
 github.com/anthropics/anthropic-sdk-python
 github.com/anthropics/anthropic-sdk-typescript
 github.com/binary-com
-github.com/brave
-github.com/brave-intl
 github.com/deriv-com
 github.com/kubernetes-csi/csi-lib-utils
 github.com/kubernetes-csi/csi-release-tools
