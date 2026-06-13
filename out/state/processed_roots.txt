@@ -8,3 +8,13 @@
 *.tw.news.yahoo.com
 *.yahoo.cloud
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
+--your-own-1password-account--.1password.com
+102.23.96.0/22
+103.83.120.0/22
+107.167.96.0/19
+109.70.61.0/24
+10x.redoxengine.com
+121.200.237.36/29
+140.95.0.0/16
+141.0.8.0/21
+146.109.1.0/24
