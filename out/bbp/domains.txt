@@ -296,6 +296,7 @@
 8x8.com
 8x8.id
 8x8.my.site.com
+8x8.studio
 8x8.uk
 8x8.vc
 8x8cloud.net
@@ -3779,6 +3780,7 @@ psynet.gg
 psyonix.com
 public.hyatt.com
 publicsafety.ring.com
+pubtools.private.8x8cloud.net
 pullandbear.cn
 pullandbear.com
 push.opera.com
