@@ -1436,6 +1436,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -4578,7 +4580,6 @@ unrealengine.com
 unrealtournament.com
 updates.forescout.com
 updates.push.services.mozilla.com
-uphodl.com
 uphold.com
 upld.krisp.ai
 upsell.hyatt.com
@@ -5257,7 +5258,6 @@ www.unibet.nl
 www.unibet.ro
 www.unibet.se
 www.universalorlandovacations.com
-www.uphodl.com
 www.uphold.com
 www.urbanclap.com
 www.urbancompany.com

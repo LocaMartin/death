@@ -397,6 +397,7 @@ https://cdn.unicdn.net/apk/unibetcasino.apk
 https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com
+https://challenge-0626.intigriti.io
 https://chat.openai.com
 https://checkout.finance.yahoo.com/checkout/v1
 https://cicforms.mioot.com/forms/ps
@@ -521,7 +522,7 @@ https://developers.elementor.com/
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.oppomobile.com/
-https://developers.vendhq.com
+https://developers.retail.lightspeed.app
 https://development.wmaudience.com
 https://digits.t-mobile.com
 https://digits.t-mobile.com/
@@ -699,6 +700,8 @@ https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
+https://github.com/brave
+https://github.com/brave-intl
 https://github.com/buildonspark/spark
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
@@ -1497,8 +1500,11 @@ https://marketplace.atlassian.com/apps/1237512/latex-math-for-confluence?hosting
 https://marketplace.atlassian.com/apps/1237517/captionizer-ai-image-analyzer
 https://marketplace.atlassian.com/apps/1237729/checklist-for-jira-cloud-smart-todo-lists?hosting=cloud
 https://marketplace.atlassian.com/apps/1238203/self-service-portal-report?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/133/custom-space-user-management-csum-for-dc-and-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/133/custom-space-user-management-csum-for-dc-and-cloud?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/14896/review-creator-for-fisheye?hosting=server
 https://marketplace.atlassian.com/apps/1899492230/live-tables-from-csv-json-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/207/latex-and-mathjax?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/2121739236/kantega-user-management-license-optimizer-for-bitbucket?hosting=datacenter
 https://marketplace.atlassian.com/apps/23337/elements-connect-external-data-fields?hosting=cloud
@@ -1527,8 +1533,9 @@ https://marketplace.atlassian.com/apps/3747688267/simple-gantt-roadmap-timeline-
 https://marketplace.atlassian.com/apps/37658/column-order-gadget-plugin?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/420604/scroll-html-exporter-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/420604/scroll-html-exporter-for-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-cloud-jemhc-and-dc?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/5043/switch-user-su-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/5142/toolkit-plugin-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/5142/toolkit-plugin-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/5161/balsamiq-wireframes-for-jira?hosting=datacenter&tab=overview
@@ -1543,6 +1550,7 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.atlassian.com/apps/924938813/agile-wip-charts-for-scrum-kanban-safe-gadgets-reports?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/9475/switch-user-su-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
 https://marketplace.visualstudio.com/items?itemname=aikidosecurity.aikido
@@ -1608,6 +1616,7 @@ https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
+https://mylightspeed.app
 https://mylink.page
 https://myopenpass.com
 https://myopenpassdemo.com/
@@ -1823,7 +1832,6 @@ https://secure-test.six-swiss-exchange.com
 https://secure.cuehit.net
 https://secure.neogov.com
 https://secure.thefork.com
-https://secure.vendhq.com
 https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com
@@ -1922,8 +1930,6 @@ https://superhuman.com
 https://supplier-connect.otto.de
 https://supplier.underarmour.com/
 https://supplier.viator.com
-https://support-sandbox.uphold.com
-https://support-staging.topperpay.com
 https://support.atlassian.com/rovo/docs/use-rovo-dev-cli
 https://support.lastpass.com
 https://support.moovitapp.com/hc/en-us/articles/11389054527122-wayfinder-augmented-reality-helper-to-find-your-stop-iphone-only
@@ -2439,7 +2445,6 @@ https://www.upwork.com/api
 https://www.upwork.com/downloads
 https://www.usaa.com
 https://www.usaainsurance.com/
-https://www.vendhq.com
 https://www.venturatvos.com
 https://www.verisign.com
 https://www.vfsglobalservices-germany.com/global-appointment

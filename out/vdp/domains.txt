@@ -1990,6 +1990,7 @@ api-jobarchitecture.cbre.eu
 api-licensing.bypassmobile.com
 api-manufacturing-center.deere.com
 api-merchant-gtm.grubhub.com
+api-met-kg-genai.tal.deere.com
 api-meubanco.deere.com
 api-mtls-itg-vip.it.hpe.com
 api-mtls-itg.it.hpe.com
@@ -2309,6 +2310,8 @@ apiey.cbrehost.com
 apigateway-services.weu.prd-eu.fb.csg.daimlertruck.com
 apigateway.channel-dss-r1-anubhuti-devl-vpn.ap.e06.c01.johndeerecloud.com
 apigateway.co
+apigateway.fihre-autonomous-business-devl-floating.use1.e16.c01.johndeerecloud.com
+apigw.dev.alshaya.com
 apigw.flybuys.com.au
 apikey-dev.cbre.com
 apikey-green.cbre.com
@@ -2578,6 +2581,7 @@ argusweb.cbre.com
 arguswebgi-test.cbre.com
 arguswebgi.cbre.com
 arh.elcompanies.com
+arkadiyt.com
 arkansassuperiorfcu-dn.financial-net.com
 arkmonitor.com
 armor-p2.onlinebank.com
@@ -18087,12 +18091,14 @@ media.aonverzekeringen.nl
 media.automate.events.abb.com
 media.automatica.events.abb.com
 media.automotive-summit.events.abb.com
+media.bathandbodyworks.ro
 media.cbre.no
 media.cbreglobalinvestors.com
 media.cbreim.com
 media.facilitysource.com
 media.gallileo-frankfurt.com
 media.h2m.se
+media.victoriassecret.cz
 media1.h2m.se
 mediaassets-qa.nonprod.cbre.com
 mediaassets-uat.nonprod.cbre.com
@@ -18326,6 +18332,7 @@ mfmmobservice-sit-eu.cbreapps.com
 mfmmobservice-trn-eu.cbreapps.com
 mfmmobservice-uat-eu.cbreapps.com
 mft-stg.myngc.com
+mft.dev.alshaya.com
 mft.myngc.com
 mg.abb.com
 mgi.gov
@@ -18878,6 +18885,7 @@ msa-admin.originate.fiservapps.com
 msa.businesstrack.com
 msa.originate.fiservapps.com
 msb.gov
+msc-parser-host.ghns-web-platform-prod-standalone4.us.e00.c01.johndeerecloud.com
 msclinicaltrials.ca
 msd.com
 msds.suppliernet-hotfix.elcompanies.com
@@ -20597,6 +20605,7 @@ oda.myngc.com
 odadev.myngc.com
 odaplte.myngc.com
 oddc.mtn.com
+odi.dev.alshaya.com
 odwebi08.clienttestmatrix.com
 oem.drives.abb.com.cn
 ofccu-admin.originate.fiservapps.com
@@ -26005,6 +26014,7 @@ snyk-broker.gcsonp.cbre.com
 snyk-broker.pnonprod.gcso.cbre.com
 snyk-broker.pprod.gcso.cbre.com
 snyk.gcso.cbre.com
+soa.dev.alshaya.com
 soa.mtn.com
 soap.hagie.com
 sobc.cbre.com
@@ -28090,6 +28100,7 @@ tracking.clienteitau.co
 tracking.gallileo-frankfurt.com
 tracking.notification.cbre.com.hk
 tracking.pkfc.com
+tracking.victoriassecret.cz
 tractorfinance-api.deere.com
 tradair.com
 trade.gov
@@ -30188,6 +30199,7 @@ wapa.gallileo-frankfurt.com
 ward.aon.com
 wardinc.com
 warmhomesdp.co.uk
+warrantysystemdevl.deere.com
 warrenmunicipalfcu-dn.financial-net.com
 warrenweiss.name
 wartsila.com
@@ -31204,6 +31216,7 @@ www.back2thefuture.cbre.es
 www.bammaplogoapi.cbre.com
 www.bampilot.cbre.com
 www.bankunited.com
+www.bathandbodyworks.ro
 www.bearflagrobotics.com
 www.beautyqr.com
 www.bedbathandbeyond.com
@@ -31458,6 +31471,7 @@ www.csg.cbre.com
 www.csgdr.cbre.com
 www.cshs.org
 www.ctx.mainstreamsasp.com
+www.customercare.alshaya.com
 www.customerexperience.wirtgen-group.com
 www.cybersecuritycoalition.be
 www.cyprus-uat.cbre.com
@@ -31516,6 +31530,7 @@ www.dev-lightbox.cbre.com
 www.dev-mriasia.cbre.com
 www.dev-mripacific.cbre.com.au
 www.dev-registration.elcompanies.com
+www.dev.alshaya.com
 www.dev.authapi.cbre.com.au
 www.dev.cbre.com.kh
 www.dev.cbreesi.com
@@ -32352,6 +32367,7 @@ www.staging-performanceiq.cbre.com
 www.staging.fmpilot2.com
 www.staging.vantageanalytics.cbre.com
 www.stagingcalc.cbre.com
+www.starbucks.az
 www.starlingbank.com
 www.stg.mainstreamsasp.com
 www.stgicrs.mainstreamsasp.com
@@ -32582,6 +32598,7 @@ www.vdsext.cbre.com
 www.vfis.com
 www.vfisal.com
 www.vfisu.com
+www.victoriassecretbeauty.ro
 www.viewpoint.cbre.com
 www.viewpointuat.cbre.com
 www.virtualterminal.com
