@@ -238,8 +238,6 @@
 185.69.116.0/22
 185.76.92.0/24
 185.76.95.0/24
-1882energyventures.com
-1882energyventures.net
 1889-admin.originate.fiservapps.com
 1889-p2.onlinebank.com
 1889.onlinebank.com
@@ -299,9 +297,6 @@
 198.231.22.0/24
 198.231.23.0/24
 199.165.146.42/32
-1ap.aboitizpower.com
-1apeip-gmis-uat.aboitizpower.com
-1apeip-gmis.aboitizpower.com
 1ct.es
 1edcu-admin.originate.fiservapps.com
 1edcu-dn.financial-net.com
@@ -498,3 +493,8 @@
 31.31.158.0/24
 31.31.159.0/24
 33cf3452-c7f8-4507-8691-8ae16b52b738.prod.reverse.svc.fleetboard.com
+34.95.93.220
+35.244.102.213
+3501-jamboree.com
+3501bayviewcorporatecenter.com
+360control.fdecs.com
