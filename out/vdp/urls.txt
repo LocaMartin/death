@@ -66,7 +66,6 @@ http://apitest2.gyft.com
 http://apitest3.gyft.com
 http://apiuat.thepayplace.com
 http://apps.deere.com/bjdweb
-http://apps.hedcor.com
 http://arborfcu.onlinebank.com
 http://ascu-dn.financial-net.com
 http://aspirefcu-dn.financial-net.com
@@ -419,15 +418,12 @@ http://egateway.us.baesystems.com
 http://elo-mtls.softwareexpress.com.br
 http://elo.softwareexpress.com.br
 http://emeraldmerchant.com
-http://emsc.aboitizpower.com
 http://encounter.thorntontomasetti.com
-http://energytrading.aboitizpower.com
 http://engineering-ch-qa-web.fiservapps.com
 http://engineering-ch-qa.fiservmobileapps.com
 http://entdesktop.safelnk.net
 http://enterprise.safelnk.net
 http://enterpriseregistration.thorntontomasetti.com
-http://entrypass1ap.web.app
 http://epdm.lna.us.baesystems.com
 http://epremierbank.onlinebank.com
 http://ermportal.us.baesystems.com
@@ -520,7 +516,6 @@ http://gdsdownloadscert.firstdata.com
 http://gdsdownloadstest.firstdata.com
 http://genesisfeds.hepsiian.com
 http://gitlab.balldayton.com
-http://gnpd.ph
 http://gogo.aero
 http://gosatcom.net
 http://gpag.softwareexpress.com.br
@@ -630,7 +625,6 @@ http://lpl-uat2.hepsiian.com
 http://lpl2.hepsiian.com
 http://lplev-uat.hepsiian.com
 http://lplev.hepsiian.com
-http://lrms.hedcor.com
 http://madonotcall.govconnect.com
 http://mail.pitch.se
 http://malaysiawarrants.com.my
@@ -655,7 +649,6 @@ http://merchantsbank.architect-cert.fiservapps.com
 http://merchantsbank.onlinebank.com
 http://merchantsecure-cat.firstdata.com
 http://merchantsecureapp.com
-http://metering-services.aboitizpower.com
 http://microapps.ayoba.me
 http://midambk.onlinebank.com
 http://middlefieldbank.onlinebank.com
@@ -820,7 +813,6 @@ http://polcard.oneportal24.com
 http://portal-staging.storman.com
 http://portal.fiserv.dev
 http://posh.pitch.se
-http://pport4.hedcor.com
 http://premieraccesscard.com
 http://premiercommunity.onlinebank.com
 http://prepaid.firstdata.com
@@ -1090,8 +1082,6 @@ http://vpn.thorntontomasetti.us/
 http://wadenastatebank.onlinebank.com
 http://wageworks.hepsiian.com
 http://warrants.com.sg
-http://watchapp-test.aboitizpower.com
-http://watchapp.aboitizpower.com
 http://watertownsavings-admin.originate.fiservapps.com
 http://watertownsavings.originate.fiservapps.com
 http://wawa-cat.prepaidaccess.com
@@ -1149,7 +1139,6 @@ http://wip.encounter.thorntontomasetti.com
 http://wip.skipper.thorntontomasetti.com
 http://wirexchange.goxroads.com
 http://wirexchangeservices-qa.goxroads.com
-http://wise.gnpd.ph
 http://womss.us.baesystems.com
 http://workspace-ap1.ballaerospace.com
 http://workspace-ap2.ballaerospace.com
@@ -1166,24 +1155,17 @@ http://www-btat2-reportinganalytics.portico.fiservapps.com
 http://www-btat2-svc-portico.fiservapps.com
 http://www-prod-loancierge.fiservapps.com
 http://www-prod-portico.fiservapps.com
-http://www.aboitizpower.com
-http://www.adventenergy.com.ph
 http://www.aeromexico-delta.com
-http://www.aesi.com.ph
 http://www.anchorit.gov
-http://www.aprenewablesres.ph
 http://www.baldorvip.com/
 http://www.blueapron.com/api
 http://www.blueapron.com/graphql
 http://www.britishairways.com/nx
 http://www.clover.com
-http://www.cotabatolight.com
 http://www.cruiseshipcenters.com/api/searchcenter
-http://www.davaolight.com
 http://www.delta-aeromexico.com
 http://www.eatnatural.com/de/de/xp/gratistesten
 http://www.elevi.net
-http://www.enerzones.com
 http://www.ferrero-cashback.de
 http://www.gateway.baldor.abb.com
 http://www.inzpire.com
@@ -1206,8 +1188,6 @@ http://www.mtn.zm
 http://www.nucleussec.com
 http://www.pafco.ca/
 http://www.poolsafety.gov
-http://www.prismenergy.com.ph
-http://www.project-renaissance-prod.aboitizdatainnovation.io
 http://www.recalls.gov
 http://www.saferproducts.gov
 http://www.sdgov.gogoair.com
@@ -1215,7 +1195,6 @@ http://www.test.api.ipg-online.com
 http://www.thepayplace.com
 http://www.transactiontracking.com
 http://www.usdirectexpress.com
-http://www.visayanelectric.com
 http://www.vuela.aeromexico.com
 http://www104.ipg-online.com
 http://www2.ipg-online.com
@@ -2530,6 +2509,7 @@ https://piqplus.propertyiq.com.au
 https://pitstopoficial.com.br
 https://pk.mashable.com/
 https://plantuml.csde.caci.com
+https://platform.ledn.io
 https://platform.rokt.com
 https://plm.dothill.com
 https://pmolcards.com

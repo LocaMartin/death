@@ -238,8 +238,6 @@
 185.69.116.0/22
 185.76.92.0/24
 185.76.95.0/24
-1882energyventures.com
-1882energyventures.net
 1889-admin.originate.fiservapps.com
 1889-p2.onlinebank.com
 1889.onlinebank.com
@@ -299,9 +297,6 @@
 198.231.22.0/24
 198.231.23.0/24
 199.165.146.42/32
-1ap.aboitizpower.com
-1apeip-gmis-uat.aboitizpower.com
-1apeip-gmis.aboitizpower.com
 1ct.es
 1edcu-admin.originate.fiservapps.com
 1edcu-dn.financial-net.com
@@ -969,17 +964,6 @@ abnamrocomfin.com
 abnamroinvestmentsolutions.com
 abnamrolease.com
 abnamroprivatebanking.be
-aboitizenergysolutions.com
-aboitizpower.cas-oprs.com
-aboitizpower.com
-aboitizpower.com.ph
-aboitizpower.info
-aboitizpower.net
-aboitizpower.org
-aboitizpower.ph
-aboitizpowercorporation.com.ph
-aboitizpowercorporation.ph
-aboitiztrading.com
 about-cm-uat.deere.com
 about.deere.com
 about.thescore.bet
@@ -1036,6 +1020,7 @@ acc.gallileo-frankfurt.com
 acc.kreiselelectric.com
 accelanation.com
 acceleratingthepaceofinnovation.com
+access-control.deere.com
 access-health.com
 access-management.drives.abb.com
 access.acml.ca
@@ -1283,7 +1268,6 @@ advancefcu-uat.streamlendvelocity.net
 advancefcu.originate.fiservapps.com
 advancefcu.streamlendvelocity.net
 advantedge.com.au
-adventenergy.com.ph
 advertising.deere.com
 advfinfcu-admin.originate.fiservapps.com
 advfinfcu-dc.cert.fec-dc.fiservapps.com
@@ -1297,6 +1281,7 @@ advisoryworld.com
 adyen-uk-dev-report-notifications.elcompanies.com
 adyen-uk-prod-report-notifications.elcompanies.com
 adzone.deere.com
+adzonetest.deere.com
 ae-qa.nonprod.cbre.com
 ae-tm.nonprod.cbre.com
 ae-uat.nonprod.cbre.com
@@ -1314,7 +1299,6 @@ aedbed19-501a-432a-a630-a7f7322723b6.ops.reverse.svc.fleetboard.com
 aedxb-zgw0.ae.abb.com
 aedxb2zgw0.ae.abb.com
 aeromexico.com
-aesi.com.ph
 af.abb.com
 afab-dev.tsac-staging.daimlertruck.com
 afab-int.tsac-staging.daimlertruck.com
@@ -2466,7 +2450,6 @@ applynow-admin.enorthfield.com
 applynow.enorthfield.com
 appnexus.fr
 appofchoice.huntingtonhospital.com
-apportal.aboitizpower.com
 apprenticeship.gov
 apprenticeships.gov
 appriss.com
@@ -2491,7 +2474,6 @@ apps.huntingtonhospital.com
 apps.nextcloud.com
 apps.norlandmanagedservices.com
 apps.rokt.com
-apps.sofa.csg.aboitizpower.org
 apps.thelobby.cbre.com
 apps.uat.thelobby.cbre.com
 apps1.seagate.com
@@ -2505,7 +2487,6 @@ apptc.itau.co
 apptest.gyft.com
 apriori-alb-1722286097.us-east-1.elb.amazonaws.com
 aprms.insulet.com
-apsiph.com
 apspatents.com
 aptoramobile.cbre.com
 apuacmysupplier.cbre.com
@@ -3297,7 +3278,6 @@ bakerdomains.com
 bakerssquare.wgiftcard.com
 bakerssquarestore.wgiftcard.com
 bakimonarim.shaya.com.tr
-balambanenerzone.com
 baldor.com
 baldorconfig.abb.com
 baldoreurope.com
@@ -3746,7 +3726,6 @@ betoptic.ca
 betteripprotectionthroughdeeperwebmining.biz
 betteripprotectionthroughdeeperwebmining.info
 bettersearchreplace.com
-bettersolutions.com.ph
 beverlycreditunion-admin.originate.fiservapps.com
 beverlycreditunion.originate.fiservapps.com
 beverlycu-dc.cert.fec-dc.fiservapps.com
@@ -6577,8 +6556,6 @@ cld-stage.ignitepayments.co.uk
 cld-stage.talent.fiserv.com
 cld-stage.trsrecoveryservices.com
 cld-stg-isvpartner.fiserv.com
-cleanergy.com.ph
-cleanergy.ph
 clearavate.com
 clearboundary.com
 clearevate.com
@@ -7688,7 +7665,6 @@ costeffectivenessmodels.co.uk
 costeffectivenessmodels.com
 costlab.cbre.com
 costlibrary.cbre.com
-cotabatolight.com
 cotedor.com
 cottonbeltfcu-dn.financial-net.com
 councillfcu-dc.cert.fec-dc.fiservapps.com
@@ -8693,7 +8669,6 @@ dateplanner.cbre.nl
 dator.cbre.se
 datto.com
 dattobackup.com
-davaolight.com
 davcoe-tableau-naexternal-dr.fiservapps.com
 davcoe-tableau-naexternal-prod.fiservapps.com
 davcoe-tableau-naexternal-qa.fiservapps.com
@@ -10917,7 +10892,6 @@ energyright.efficientchoice.com
 energystar.gov
 enerzair.ca
 enerzare.ca
-enerzone.com.ph
 enetmonitor.com
 enezair.ca
 eng-manual.spark.ai
@@ -13244,6 +13218,7 @@ gofirstclass-dc.cert.fec-dc.fiservapps.com
 gogmfcu-admin.originate.fiservapps.com
 gogmfcu.originate.fiservapps.com
 gogoair.com
+gogogenius.stage.gogoair.cloud
 gokinetic.com
 golden1.fta.popmoney.com
 goldencirclecu-dc.cert.fec-dc.fiservapps.com
@@ -13822,7 +13797,6 @@ heberlehelmferguson.com
 hec.esm.abb.com
 hecoefcu-dc.cert.fec-dc.fiservapps.com
 hecoefcu-dn.financial-net.com
-hedcor.com
 heerytt.com
 hefcu-admin.originate.fiservapps.com
 hefcu-dc.cert.fec-dc.fiservapps.com
@@ -14524,6 +14498,7 @@ iii.com
 iiivega.com
 iiot.automation.abb.com
 iis-ff-service.gsec-iam-ii-devl-vpn.us.e21.c01.johndeerecloud.com
+iis-pwdoss-devl.gsec-iam-ii-devl-vpn.us.e21.c01.johndeerecloud.com
 ikoma-cs.net
 il-qa.nonprod.cbre.com
 il-tm.nonprod.cbre.com
@@ -15787,6 +15762,7 @@ jdscms.deere.com
 jdset.deere.com
 jdsn-cart-qual.deere.com
 jdsn-creditmemo.deere.com
+jdsn-crs.deere.com
 jdsn-tcs.deere.com
 jdsn.deere.com
 jdsports.wgiftcard.com
@@ -16644,7 +16620,6 @@ lille-uat.cbre.fr
 lille.cbre.fr
 lilliesasiancuisine.com
 lily.ca.essd.northgrum.com
-limaenerzone.com
 lime.gallileo-frankfurt.com
 lincoln.com
 lincolnandthecivilwar.com
@@ -17313,7 +17288,6 @@ machines.services.wirtgen-group.com
 machsense.abb.com
 macrohelix.com
 mactag.com
-mactanenerzone.com
 maculardegeneration.ca
 madeinamerica.gov
 madetoshare.cadbury.co.uk
@@ -20646,7 +20620,6 @@ ohiosos.gov
 ohleg.org
 ohsusouthwaterfront.com
 oi-grafana.bluerivertech.com
-oilbu.com
 oilspace.net
 oitsimcontrol.safaricom.co.ke
 ojond.ca
@@ -22707,7 +22680,6 @@ prism-galaxy-cert.fiservapps.com
 prism-galaxy.fiservapps.com
 prism-portico-cert.fiservapps.com
 prism-portico.fiservapps.com
-prismenergy.com.ph
 prittworld.com.mx
 prittworld.es
 privacy-toolkit.cbre.com
@@ -24241,7 +24213,6 @@ resupply.resmed.com
 retail-pi.usps.com
 retail-rent.cbre.es
 retail.cbre.com
-retailelectricity.com.ph
 retailinsights-cbrekorea.com
 retailinvestments.com.au
 retailproperties.cbre.us
@@ -25045,6 +25016,7 @@ securedadvantagefcu-dc.cert.fec-dc.fiservapps.com
 securedadvantagefcu-dn.financial-net.com
 securedelivery-uat.online.e-gulfbank.com
 securedelivery.online.e-gulfbank.com
+securefilepro.com
 secureidentity.com.au
 securenet.vodafone.com
 securenet.vodafone.de
@@ -25928,8 +25900,6 @@ sn01-auth-test.fiservapps.com
 sn01-cp-cert.fiservapps.com
 sn01-cp-prod.fiservapps.com
 sn02-auth-test.fiservapps.com
-snaboitiz.com
-snaboitizpower.com
 snackdisplay.co.uk
 snackfest.ro
 snackfutures.com
@@ -25940,7 +25910,6 @@ snacks.com
 snackworks.ca
 snackworks.com
 snackworks.th12ty.com
-snap-res.com
 snapcomm-test.cbre.com
 snapcomm.cbre.com
 snapfish.co.nz
@@ -26774,7 +26743,6 @@ sturgisbank.caaweb.com
 sub.gallileo-frankfurt.com
 subiacofcu-dc.cert.fec-dc.fiservapps.com
 subiacofcu-dn.financial-net.com
-subicenerzone.com
 subito.it
 sublimic.jp
 submission.apnic.net
@@ -26927,7 +26895,6 @@ surveys.eeoc.gov
 surveyserver.nextcloud.com
 sustainability-programs.deere.com
 sustainability.gov
-sustainablephilippines.com
 sutaz-opavia.sk
 suwanneeriverfcu-admin.originate.fiservapps.com
 suwanneeriverfcu-dc.cert.fec-dc.fiservapps.com
@@ -29767,7 +29734,6 @@ vctx.mainstreamsasp.com
 vdi.l3harris.com
 vdp.deere.com
 vdsext.cbre.com
-veco.com.ph
 vector.sentera.com
 vectordev.sentera.com
 vectorstaging.sentera.com
@@ -29928,7 +29894,6 @@ visa.na.3ds.firstdata.com
 visa.test3.3ds.firstdata.com
 visa.tf
 visablack.fr
-visayanelectric.com
 vision-devl.deere.com
 vision-staging.johndeere.com
 vision.cbre.com.au

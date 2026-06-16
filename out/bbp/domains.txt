@@ -982,12 +982,10 @@ authz.workbox.dk
 autobild.de
 autocomplete.booking.com
 autodiscover.uzleuven.be
-autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
 avecspotify.com
 aw.visa.com
 aws.indriverapp.com
-ax-stage.maventa.com
 ayco.com
 b5s.hackerone-ext-content.com
 backblazeb2.com
@@ -4437,7 +4435,6 @@ test.payworks.io
 testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
-testing.maventa.com
 testnet.bitmex.com
 teststs.uzleuven.be
 thebrowser.company
