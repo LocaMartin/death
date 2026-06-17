@@ -96,7 +96,6 @@ atairbnb.com
 atg.se
 atl-paas.net
 atlassian.com
-atlassian.net
 atlastunnel.com
 atspotify.com
 audible.ca
@@ -616,7 +615,6 @@ marriott.com
 massimodutti.cn
 massimodutti.com
 mastercard.com
-masterpassteststore.com
 mattermost.com
 mayoclinic.org
 mb-cosmos.com

@@ -506,7 +506,6 @@ antom.com
 any applications under https://www.expressvpn.com/latest
 any host verified to be owned by tesla motors inc. (domains/ip space/etc.)
 any issue affecting the wp cloud hosting environment allowing cross-site access/impact, the wp cloud api or the wp.cloud website
-any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 any other applications found here: https://security-en.alipay.com/home
 any verified dell-controlled endpoint (domains/ip space/etc.)
 ap-s.cloud.com
@@ -514,6 +513,7 @@ apcgateway.marriott.com
 apex-football.com
 apexnews.com
 apexscores.io
+api calls going to disco-api from https://www.tagesanzeiger.ch
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
@@ -598,19 +598,11 @@ api.gojek.co.id
 api.grabpay.com
 api.greenhouse.io
 api.grofers.com
-api.gx.games/dc
-api.gx.games/dev
-api.gx.games/gms
-api.gx.games/gx
-api.gx.games/gxc
-api.gx.games/profile
-api.gx.games/pub
-api.gx.games/session
-api.gx.me/me
 api.hackerone.com
 api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
+api.id.realestate.com.au
 api.infomaniak.com
 api.instacart.com
 api.klarna.com
@@ -680,12 +672,10 @@ api.s-kaupat.fi
 api.savers.co.uk
 api.segment.io
 api.sendgrid.com
-api.services.simplisafe.com (app endpoints)
-api.services.simplisafe.com (hsp endpoints)
+api.services.simplisafe.com
 api.shop-apotheke.at
 api.shop-apotheke.com
-api.simplisafe.com (app endpoints)
-api.simplisafe.com (hsp endpoints)
+api.simplisafe.com
 api.slack.com
 api.smtp2go.com
 api.sokos.fi
@@ -905,7 +895,6 @@ atairbnb.com
 atg.se
 atl-paas.net
 atlassian.com
-atlassian.net
 atlastunnel.com
 atspotify.com
 atv.peoplecert.org
@@ -1472,6 +1461,8 @@ com.ebookers
 com.eero.android
 com.einnovation.temu
 com.enjin.mobile.wallet
+com.etoro.openbook
+com.etoro.wallet
 com.eufylife.eufyhome
 com.evernote
 com.exness.android.pa
@@ -1776,6 +1767,7 @@ com.zhiliao.musically.livewallpaper
 com.zhiliaoapp.musically
 com.zzkko
 comcast.com
+comcast.net
 comic-indies.pixiv.net
 comic.pixiv.net
 commerce.coinbase.com
@@ -2383,7 +2375,6 @@ gateway.geneva-staging.chat
 gateway.geneva-staging.com
 gateway.marriott.com
 gateway.reddit.com
-gateway.skyscanner.net
 gatewaydsapdev2.marriott.com
 gatewaydsaptst1.marriott.com
 gatewaydsaptst2.marriott.com
@@ -2728,6 +2719,8 @@ invitation.infomaniak.com
 invoices.razorpay.com
 io.coda
 io.coda.codaapp
+io.getdelta.android
+io.getdelta.ios
 io.metamask
 io.metamask.metamask
 ios: app store	(905953485) nordvpn - [apple app store](https://apps.apple.com/us/app/id905953485?mt=8)  please make sure you are testing the latest version.     ios: app store (1486322860) nordpass - [apple app store](https://apps.apple.com/us/app/nordpass-password-manager/id1486322860?ls=1&referrer=client_id=eba15f5b-e4a3-42ca-ba68-e16c170f39e0)  please make sure you are testing the latest version.    android .apk: com.nordvpn.android nordvpn - [android sideload download](https://nordvpn.com/download/android/)  please make sure you are testing the latest version.    android play store: com.nordvpn.android nordvpn - [google play store](https://play.google.com/store/apps/details?id=com.nordvpn.android)  please make sure you are testing the latest version.    android play store: com.nordpass.android.app.password.manager nordpass - [google play store](https://play.google.com/store/apps/details?id=com.nordpass.android.app.password.manager&launch=true&referrer=client_id=eba15f5b-e4a3-42ca-ba68-e16c170f39e0)    please make sure you are testing the latest version
@@ -3059,7 +3052,6 @@ mars.stage.ads.nonprod.webservices.mozgcp.net
 mas.mobilevikings.be
 massimodutti.cn
 massimodutti.com
-masterpassteststore.com
 matomo.cloud
 matrix.redditspace.com
 mauth.tw.coupang.com
@@ -3537,7 +3529,6 @@ partner.steampowered.com
 partner.swiftfinancial.com
 partner.tiktokshop.com
 partner.urbancompany.com
-partnerportal.skyscanner.net/*
 partners.deriv.com
 partners.shopify.com
 partners.tw.coupang.com
@@ -4117,7 +4108,6 @@ shoppingapp.decathlon.com
 sidefx.com
 sign.dropbox.com
 signalpath.com
-signalservice.comcast.net
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
 signup.sendgrid.com
@@ -4153,8 +4143,6 @@ skygamingcontent.com
 skypicker.com
 skypoker.com
 skyscanner.net
-skyscanner.net/*
-skyscanner.net/hotels/book/*
 skyvegas.com
 slack-imgs.com
 slack-redir.net
@@ -4580,6 +4568,7 @@ updates.push.services.mozilla.com
 uphold.com
 upld.krisp.ai
 upsell.hyatt.com
+upwork dash messenger desktop version (www.upwork.com/downloads)
 url-checker.indrive.com
 us.cloud.com
 us.forescout.cloud
@@ -5144,7 +5133,6 @@ www.optimuscards.com
 www.orbitz.com
 www.ottocasino.se
 www.ottokasino.com
-www.oursustainableport.com
 www.ovh.com
 www.oysho.cn
 www.oysho.com

@@ -383,7 +383,7 @@ http://dmzsmtprelay.us.baesystems.com
 http://dobotapp.org
 http://docs-uat.georgiasown.org
 http://docs.georgiasown.org
-http://doioig.gov/
+http://doioig.gov
 http://dqbc.firstdataclients.com
 http://dqen.firstdataclients.com
 http://dr-payments-exchange-services.fiservapps.com
@@ -484,7 +484,7 @@ http://fiserv-webtrain.fiservapps.com
 http://flaeblrvd09:15002/ebilling-qa-ui/-1
 http://flagstar.onlinebank.com
 http://flagstaraci.hepsiian.com
-http://fleete.com
+http://fleete.com/
 http://fmbanksylvania.onlinebank.com
 http://fms.firstdata.com
 http://fnbava.onlinebank.com
@@ -951,7 +951,7 @@ http://sp.ballaerospace.com
 http://sp2016-ext-preprod.us.baesystems.com
 http://sp2016-ext-prod.us.baesystems.com
 http://spectacles.thorntontomasetti.com
-http://speedtestcustom.com
+http://speedtestcustom.com/
 http://spendtrack-qa.fiservapp.com
 http://spendtrack-stage.fiservapp.com
 http://spendtrack.fiservapp.com
@@ -1081,7 +1081,7 @@ http://vpn.elevi.net
 http://vpn.thorntontomasetti.us/
 http://wadenastatebank.onlinebank.com
 http://wageworks.hepsiian.com
-http://warrants.com.sg
+http://warrants.com.sg/
 http://watertownsavings-admin.originate.fiservapps.com
 http://watertownsavings.originate.fiservapps.com
 http://wawa-cat.prepaidaccess.com
@@ -1270,7 +1270,6 @@ https://admin.cellmaps.com
 https://admin.ectosense.com/login
 https://admin.five9.net/
 https://admin.loteria.ferrerorocher.pl
-https://admin.offcampuspartners.com
 https://admin.offcampuspartners.com/
 https://admin.t.blask.ferrerorocher.pl
 https://admin.tictacph.com
@@ -1346,10 +1345,6 @@ https://api.stability.ai/
 https://api.thousandeyes.com/
 https://api.us7.studioportal.io
 https://api.us7.studioportal.io/login
-https://api.virtru.com/accounts
-https://api.virtru.com/auth
-https://api.virtru.com/encrypted-storage
-https://api.virtru.com/kas
 https://api.vitacost.com
 https://apidoc.fax.plus/v3
 https://apiportal.chenosis.io/
@@ -1408,7 +1403,6 @@ https://auctiondata.fcc.gov
 https://auctionfiling.fcc.gov
 https://auctionsignon.fcc.gov
 https://auctionsignon2.fcc.gov
-https://audit.virtru.com
 https://aus-gp.signaturescience.com
 https://auth.apartments.com
 https://auth.chenosis.io/
@@ -1421,6 +1415,7 @@ https://autoemb.appslatam.com/
 https://availcarsharing.com/
 https://avertas.com.au
 https://aws.amazon.com/cloudfront
+https://b2bideas.com
 https://b2btechhub.com
 https://babycenter.ca/
 https://babycenter.com
@@ -1530,7 +1525,6 @@ https://budweiserfootballpredictor.com
 https://budweiserpl.com
 https://budweisertours.com
 https://budxtour.com
-https://bugcrowd.test.marklogic.cloud/
 https://bugcrowdninja.yourcauseuat.com/
 https://bullion.rakuten.com.hk
 https://burgerprofiel.beta-vlaanderen.be
@@ -1548,6 +1542,7 @@ https://canchita.com.py
 https://candidates.sos.mn.gov
 https://candidates.sos.state.mn.us
 https://canjeapromo.com.ar
+https://card.rakuten.com.tw
 https://carlingblacklabel.co.za
 https://carlingblacklabelcup.co.za
 https://carlingpredictor.co.zm
@@ -1659,16 +1654,15 @@ https://cms.tennistrophy.it/
 https://cmsquality-wonka-com-2026.ipaasferrero.com
 https://cmts.gov
 https://cnd.com.do
-https://cnet.com
+https://cnet.com/
 https://codeguardian-veeam.caci.com
 https://codereview.seagate.com
 https://cokeplay.cocacola.co.kr/main
 https://colaypola.com.co
 https://collective.lacie.com
-https://colomovers.com
+https://colomovers.com/
 https://commercial.keurig.com/
 https://commercialcard.53.com/
-https://commercialview.com.au
 https://commissionsandappointments.sos.mn.gov
 https://commissionsandappointments.sos.state.mn.us
 https://commoncontent.sos.mn.gov
@@ -1759,10 +1753,10 @@ https://demo-uk.spatialbuzz.net
 https://dep.mtn.co.za/
 https://deposits.digitalcommerce.truist.com
 https://dev-api.matterport.com/graphiql
-https://dev-app.matterport.com/
+https://dev-app.matterport.com
 https://dev-buy.matterport.com/
 https://dev.gusto.com/
-https://devadmin.beessmart.co.kr
+https://devadmin.beesmart.co.kr
 https://developer.domain.com.au/
 https://developer.iagloyalty.com/
 https://developer.truist.com
@@ -1798,7 +1792,7 @@ https://donorbox.org/org_admin
 https://donorbox.org/potato
 https://dot.gov
 https://downdetector.com
-https://downdetectorapi.com
+https://downdetectorapi.com/
 https://dpm.53.com/identityservice/identityservice.asmx
 https://dr-payments-exchange-rtp.fiservapps.com
 https://draco.caci.com
@@ -1823,6 +1817,7 @@ https://econnect-preprod.mtn.co.za/business/employee-connect
 https://edge.supplieroasis.com
 https://eetimes.com/
 https://efiling.saferproducts.gov/efiling
+https://efilingportal.pbgc.gov
 https://ehg-pp.com
 https://einfochips.com/
 https://ekahau.cloud
@@ -1911,7 +1906,7 @@ https://fibramacquarie.com
 https://fieldresearch-bff.costargroup.com/
 https://figment.io
 https://files.consumerfinance.gov/
-https://files.wl-livedrive.com
+https://files.wl-livedrive.com/
 https://filgoodofficial.com
 https://findyourmatch25.strategie.agency/be/fr/xp/findyourmatch
 https://fitnowinc.com/
@@ -1933,7 +1928,7 @@ https://frightnights.com.au
 https://fritesartois.com
 https://ftp.signaturescience.com
 https://fulfilborsoni.ferreropromo.it/
-https://fullcontact.com
+https://fullcontact.com/
 https://fusemail.com
 https://fusionenergy.com.co
 https://fusiontitans.gg
@@ -1952,7 +1947,7 @@ https://gbvdi.fcc.gov
 https://gc.com/
 https://geek.com
 https://genius.com/signup
-https://getinternet.gov/apply?id=nv_home&ln=rw5nbglzaa%3d%3d
+https://getinternet.gov/apply?id=nv_home&ln=rw5nbglzaa==
 https://getopenaccess.com
 https://getstartedwithlabatt.ca
 https://getstartedwithlabatt.com
@@ -2112,7 +2107,7 @@ https://iapp.com.br
 https://ibd.care
 https://ica.live.web.corebridgefinancial.com/distribution/ica/public/login#/
 https://icont.ac
-https://icontact-archive.com
+https://icontact-archive.com/
 https://icontact.com
 https://identity.sproutsocial.com
 https://identity.sproutsocial.eu
@@ -2124,7 +2119,7 @@ https://il.askmen.com/
 https://il.pcmag.com/
 https://immixgroup.com/
 https://in.askmen.com/
-https://in.mashable.com
+https://in.mashable.com/
 https://inboxexpo.com/
 https://inclusivity.consumerfinance.gov/
 https://influencer.sproutsocial.com
@@ -2138,17 +2133,19 @@ https://intelligent.media.seagate.com
 https://intencity.com.au
 https://internal-auth.mintel.com
 https://internal.getstat.com
+https://internal.getstat.com/
 https://invado.pl
 https://ipa.ai.sunrun.com/
 https://ipvanish.com
 https://irmai.caci.com
 https://is.seagate.com
 https://iscsihost.org
-https://it.mashable.com
+https://it.mashable.com/
 https://ites3h.telos.com
 https://itmanagement.com
-https://japan.cnet.com
-https://japan.zdnet.com
+https://itresearchonline.com
+https://japan.cnet.com/
+https://japan.zdnet.com/
 https://jarpecarpromo.theofferclub.in/administrator/auth
 https://jarpecarpromo.tictac.com
 https://jd2025admindemo.ferrero.com.cn/default/login.html
@@ -2235,7 +2232,7 @@ https://lon-dc-pdf.mintel.com
 https://lon-dc-ppt.mintel.com
 https://loseit.com
 https://lqm.53.com/
-https://lsapi.seomoz.com
+https://lsapi.seomoz.com/
 https://luxerone.com
 https://lyvedogfood.seagate.com
 https://lyveint.seagate.com
@@ -2255,7 +2252,7 @@ https://maltamorena.com.do
 https://manage.openingsstudio.com
 https://managedcare.network
 https://mapelements.com
-https://mapgenie.io
+https://mapgenie.io/
 https://market.land.com/
 https://marketing.matterport.com/
 https://marketing.us.baesystems.com
@@ -2266,7 +2263,7 @@ https://martyawards.com
 https://mashable.com
 https://masterlifecrm.com
 https://maxroll.gg/
-https://maxroll.shop
+https://maxroll.shop/
 https://maz-bsd.com
 https://maz-coolers.com
 https://mazpeople.com
@@ -2359,7 +2356,7 @@ https://mydesktopdr.caci.com
 https://myid.telstra.com
 https://mymedicare.gov/
 https://myms.care
-https://mypaa.pbgc.gov/
+https://mypaa.pbgc.gov
 https://myplan.myretirementmanager.com/participant/public/login#/
 https://mysites.caci.com
 https://myvipre.com
@@ -2488,7 +2485,7 @@ https://pcmag.com
 https://pcpostage.uspspostalone.com
 https://pdc.abb.com/
 https://pedestrian.tv
-https://peps.encryptme.com
+https://peps.encryptme.com/
 https://perfectdraft.com
 https://pgt.estore.aerlingus.com
 https://phyn.com/
@@ -2653,7 +2650,7 @@ https://reference-data.deere.com/reference
 https://reference-data.deere.com/syncsort
 https://referralportal.bridges.com.au
 https://registry.csde.caci.com
-https://reliablehosting.com
+https://reliablehosting.com/
 https://remote.cfpb.gov/
 https://report.us.five9.net/
 https://reporting.xero.com
@@ -2673,7 +2670,7 @@ https://roa.assaabloy.net
 https://roa.medeco.com
 https://roadshow.com.au
 https://roadshowroughdiamond.com
-https://roobet.com/
+https://roobet.com
 https://rootmetrics.com
 https://roteirizador.app
 https://rpc.hemi.network/noderpc
@@ -2706,7 +2703,7 @@ https://scanandwinpromo.theofferclub.in/
 https://scanandwinpromo.theofferclub.in/administrator/auth
 https://scanandwinpromo.tictac.com/
 https://sccmextmp01a.caci.com
-https://sea.mashable.com
+https://sea.mashable.com/
 https://seagate.com
 https://seagategov.seagate.com
 https://search.consumerfinance.gov/
@@ -2715,6 +2712,7 @@ https://seatgeek.com/silver-snakes-tickets/soccer/2026-01-02-7-pm/5684987?previe
 https://seaworld.com.au
 https://seaworldcarnivale.com.au
 https://seaworldresort.com.au
+https://sec.rakuten.com.hk
 https://secure-form.sproutsocial.com
 https://secure-form.sproutsocial.eu
 https://secure-www.gap.com
@@ -2743,7 +2741,7 @@ https://sikkermail.dk
 https://siliconexpert.com/
 https://simivalleyvpn.ddns.net
 https://skills-manager.dev.appslatam.com
-https://skimmplus.com
+https://skimmplus.com/
 https://skol.com.br
 https://skol.com.py
 https://skylight.domain.com.au/
@@ -2880,6 +2878,7 @@ https://toolbox.com
 https://tools.valic.com/agilenet5
 https://topgolf.com.au
 https://torneoaguila.co
+https://towersource.com
 https://trackandtrace.com.br
 https://tracking2nd.com.br
 https://trade.digitalcommerce.truist.com
@@ -3011,7 +3010,7 @@ https://www-snackestate2026-ferreropromo-be-it-2026.ipaasferrero.com/admin
 https://www-terzoannokindersorpresa2025-be-it-2025.ipaasferrero.com/admin
 https://www-tst.vlerick.com/en
 https://www-xmas2025-com-2025.ipaasferrero.com/uk/en/xp/nutella-christmas
-https://www.1elizabeth.com.au
+https://www.1elizabeth.com.au/
 https://www.8451.com
 https://www.ab-inbev.com
 https://www.abinbev-israel.com
@@ -3032,7 +3031,6 @@ https://www.allstate.jobs/
 https://www.allstateidentityprotection.com/
 https://www.allstateindia.com/
 https://www.allstateni.com/
-https://www.ampmhotels.com
 https://www.ampmhotels.com/
 https://www.answerfinancial.com/
 https://www.antarescapital.com.au
@@ -3055,7 +3053,6 @@ https://www.avios.com/manage-avios/move-and-combine-avios/partner
 https://www.avios.com/sign-up
 https://www.avios.com/vertis
 https://www.ayoba.me
-https://www.b2bideas.com
 https://www.bakersplus.com/
 https://www.bathandbodyworks.ca/
 https://www.bathandbodyworks.com/
@@ -3074,7 +3071,6 @@ https://www.bugcrowd.com
 https://www.bureauxlocaux.com
 https://www.businessimmo.com
 https://www.calia.com
-https://www.card.rakuten.com.tw
 https://www.cellrebel.com/
 https://www.cengageasiaestore.com
 https://www.centralparkgroup.com
@@ -3086,7 +3082,7 @@ https://www.citymarket.com/
 https://www.citysnap.com/
 https://www.clubferreropro.com/
 https://www.cms.gov/
-https://www.cnetfrance.fr
+https://www.cnetfrance.fr/
 https://www.coles.com.au
 https://www.colesliquorcorporate.com.au
 https://www.commonlanguage.com/
@@ -3098,9 +3094,10 @@ https://www.consumersentinel.gov
 https://www.coopersquarefund.com
 https://www.corebridgefinancial.com/rs/dropsolutions
 https://www.corianconfluence.caci.com
-https://www.cornerstoneportfolioservice.com.au/
+https://www.cornerstoneportfolioservice.com.au
 https://www.corporatehousing.com
 https://www.costarpowerbrokers.com
+https://www.costarpowerbrokers.com/
 https://www.costco.ca
 https://www.costco.com
 https://www.costcobusinesscentre.ca
@@ -3131,7 +3128,6 @@ https://www.donotcall.gov
 https://www.dontserveteens.gov
 https://www.drsrada.com
 https://www.econsumer.gov
-https://www.efilingportal.pbgc.gov
 https://www.ehr.gov
 https://www.emag.bg/
 https://www.emailindustries.com/
@@ -3163,7 +3159,7 @@ https://www.ferrerorocherph.com
 https://www.ferrerorocherph.com/valentine
 https://www.ferrerorochersg.com/
 https://www.ferrerorochersg.com/lunar_new_year
-https://www.fibramacquarie.com
+https://www.fibramacquarie.com/
 https://www.findafranchise.com/
 https://www.firmasacuerdos.com
 https://www.firstchoiceliquor.com.au
@@ -3188,7 +3184,7 @@ https://www.gnpd.com
 https://www.gocd.org/download
 https://www.goinggoinggone.com/
 https://www.golfgalaxy.com/
-https://www.greeninvestmentgroup.com
+https://www.greeninvestmentgroup.com/
 https://www.grupomodelo.com
 https://www.harristeeter.com/
 https://www.hcltech.com/software#innovation
@@ -3229,7 +3225,6 @@ https://www.interwellhealth.com/
 https://www.interwellhealth.com/what-we-offer/acumen-epic-connect
 https://www.ioof.com.au
 https://www.itau.com.br/empresas
-https://www.itresearchonline.com
 https://www.ivantageinsurance.ca/
 https://www.jarpecarpromo-qa.tictac.com
 https://www.jaycfoods.com
@@ -3282,19 +3277,19 @@ https://www.loopnet.com
 https://www.loteria2025.ferrero.test.pov.net.pl
 https://www.lowes.co.in/
 https://www.lucidmotors.com
-https://www.macquarie.aero
-https://www.macquarie.com
-https://www.macquarieim.com
+https://www.macquarie.aero/
+https://www.macquarie.com/
+https://www.macquarieim.com/
 https://www.mantech.com
 https://www.marianos.com/
 https://www.marlocoil.com
 https://www.martinplacemetro.com
 https://www.mcc.gov/
 https://www.medicaid.gov/
-https://www.medicalstudentloantrust.com
+https://www.medicalstudentloantrust.com/
 https://www.medicare.gov/
 https://www.metromarket.net
-https://www.metromartinplace.com
+https://www.metromartinplace.com/
 https://www.micnic.com
 https://www.militaryconsumer.gov
 https://www.mimm.gov/
@@ -3366,7 +3361,7 @@ https://www.nwbc.gov
 https://www.oem.usda.gov/
 https://www.ofia.gov/
 https://www.olx.pl
-https://www.onebox.com
+https://www.onebox.com/
 https://www.onguardonline.gov
 https://www.onhir.gov/
 https://www.onrr.gov/
@@ -3405,7 +3400,7 @@ https://www.rakuten-life.co.jp
 https://www.ralphs.com/
 https://www.reach.gov/
 https://www.rei.com/mobile
-https://www.reversemortgageservices.com.au
+https://www.reversemortgageservices.com.au/
 https://www.richardsonrfpd.com/
 https://www.riwealthreport.com
 https://www.rma.usda.gov/
@@ -3420,11 +3415,10 @@ https://www.saphotonics.com
 https://www.sba.gov
 https://www.sbir.gov
 https://www.seagate.com
-https://www.sec.rakuten.com.hk
 https://www.sentinel.gov
 https://www.sfg.com.au
 https://www.signaturescience.com
-https://www.skimmbassadors.com
+https://www.skimmbassadors.com/
 https://www.skimmth.is
 https://www.smithsfoodanddrug.com
 https://www.sociosmodelo.com
@@ -3444,7 +3438,7 @@ https://www.tennistrophy.it
 https://www.thekrogerco.com
 https://www.thekrogercozerohungerzerowastefoundation.com
 https://www.thelittleclinic.com
-https://www.theskimm.com
+https://www.theskimm.com/
 https://www.thomas-daily.de/
 https://www.thousandeyes.com/
 https://www.tictac.com/be/fr/xp/findyourmatch
@@ -3452,7 +3446,6 @@ https://www.tictac.com/de/de/xp/lollapalooza-berlin
 https://www.tictac.com/ph/en/xp/promotion
 https://www.tictacmy.com/my/en/xp/promotion
 https://www.tictacph.com/ph/en/xp/promotion/mf2026
-https://www.towersource.com
 https://www.tqiinc.com
 https://www.transim.com/
 https://www.ttwiin.com/
@@ -3491,10 +3484,10 @@ https://www.winwiththorntons.co.uk
 https://www.wonka.com
 https://www.xero.com/%7Bregion%7D/advisors
 https://www.yourcause.com/
-https://www.yourlease.com.au
-https://www.zdnet.com
-https://www.zdnet.de
-https://www.zdnet.fr
+https://www.yourlease.com.au/
+https://www.zdnet.com/
+https://www.zdnet.de/
+https://www.zdnet.fr/
 https://www.zoopla.co.uk/
 https://www3.fcc.gov
 https://xero.com
@@ -3509,7 +3502,7 @@ https://zabkagroup.com
 https://zapdragon.com/
 https://zavtrak-s-nutella.mnbvcx.ru
 https://zaxbys.com/
-https://zdnet.co.kr
+https://zdnet.co.kr/
 https://ze.express
 https://zedelivery.in
 https://ziffdavis.com

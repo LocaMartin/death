@@ -2250,6 +2250,10 @@ api.tops.cbre.com.au
 api.uat.ccid.neustar.biz
 api.vectranetworks.com
 api.virtru.com
+api.virtru.com/accounts
+api.virtru.com/auth
+api.virtru.com/encrypted-storage
+api.virtru.com/kas
 api.webflow.com
 api.xero.com
 api.yacare.com
@@ -2804,6 +2808,7 @@ audica-live-admin.hmxwebservices.com
 audica-prod-admin.hmxwebservices.com
 audica-prod-api.hmxwebservices.com
 audicagame.com
+audit.virtru.com
 auditforit.com
 auditing.core.fleetboard.com
 augustus-u.spaziodati.eu
@@ -5266,6 +5271,7 @@ ccilcusyscat.fdecs.com
 cciqa.ft.cashedge.com
 ccms.deere.com
 ccmscert.deere.com
+ccmssearch-mfe-ext.apps-prod-vpn.us.e06.c01.johndeerecloud.com
 ccmssearchspa.apps-prod-vpn.us.e06.c01.johndeerecloud.com
 ccncu-admin.originate.fiservapps.com
 ccncu-dc.cert.fec-dc.fiservapps.com
@@ -6625,6 +6631,7 @@ cloud.havelockone.com
 cloud.marketing.cbre.com.br
 cloud.pomapps01.it.abb.com
 cloud.sequentra.net
+cloud.singlestore.com
 cloud.uat.ch.cbre.eu
 cloudapps01.abb.com
 cloudapps02.abb.com.cn
@@ -7108,6 +7115,7 @@ commercialloanservices.dev.cbre.com
 commercialloanservices.qa.cbre.com
 commercialloanservices.uat.cbre.com
 commercialrealestate.com.au
+commercialview.com.au
 commercialwechat.cbre.com.au
 commfocusfcu-dc.cert.fec-dc.fiservapps.com
 commfocusfcu-dn.financial-net.com
@@ -15761,6 +15769,7 @@ jdquote2.deere.com
 jdscms.deere.com
 jdset.deere.com
 jdsn-cart-qual.deere.com
+jdsn-contactus-api-v2.deere.com
 jdsn-creditmemo.deere.com
 jdsn-crs.deere.com
 jdsn-tcs.deere.com
@@ -18002,6 +18011,7 @@ mcnative.cardconnect.com
 mcnbbanks-p2.onlinebank.com
 mcnbbanks.onlinebank.com
 mcp.lovable.dev
+mcp.singlestore.com
 mcpl.edu.au
 mcrkmonitor.com
 mcsbank-admin.originate.fiservapps.com
@@ -21440,6 +21450,7 @@ partnerships.aon.com
 partrelease.deere.com
 parts-auth.services.wirtgen-group.com
 parts-dev.wirtgen-group.com
+parts-partsapienablem-zforge-devl.ghns-web-platform-prod-standalone4.us.e00.c01.johndeerecloud.com
 parts-shop-cons-colas.services.wirtgen-group.com
 parts-shop-cons-peab.services.wirtgen-group.com
 parts-shop-cons-strabag.services.wirtgen-group.com
