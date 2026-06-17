@@ -117,8 +117,13 @@ jobs:
           git config --global user.name "github-actions"
           git add out/state/
           git commit -m "Sub: prepare incremental batch $(date +'%Y-%m-%d')" || echo "No changes"
-          git pull --rebase origin main
-          git push
+
+          # Retry push up to 5 times with backoff to handle concurrent prepare jobs from bbp/vdp/sub
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed, retrying in ${i}s..."
+            sleep $i
+          done
 
           curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
             -H "Content-Type: application/json" \
@@ -150,6 +155,16 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+
+      - name: Pull latest state (ensure chunks exist)
+        run: |
+          git pull origin main
+          if [ ! -f "out/state/chunks/${{ matrix.chunk }}" ]; then
+            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+              -H "Content-Type: application/json" \
+              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[sub] ERROR: chunk file out/state/chunks/${{ matrix.chunk }} not found after pull. Prepare job may have failed to push.\"}"
+            exit 1
+          fi
 
       - name: Notify — Scan Runner Started
         run: |
