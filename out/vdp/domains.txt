@@ -1268,7 +1268,6 @@ advancefcu-uat.streamlendvelocity.net
 advancefcu.originate.fiservapps.com
 advancefcu.streamlendvelocity.net
 advantedge.com.au
-advertising.deere.com
 advfinfcu-admin.originate.fiservapps.com
 advfinfcu-dc.cert.fec-dc.fiservapps.com
 advfinfcu-dn.financial-net.com
@@ -1280,8 +1279,6 @@ advisoryexplorer.com
 advisoryworld.com
 adyen-uk-dev-report-notifications.elcompanies.com
 adyen-uk-prod-report-notifications.elcompanies.com
-adzone.deere.com
-adzonetest.deere.com
 ae-qa.nonprod.cbre.com
 ae-tm.nonprod.cbre.com
 ae-uat.nonprod.cbre.com

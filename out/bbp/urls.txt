@@ -697,6 +697,18 @@ https://get.geo.opera.com
 https://getflywheel.com
 https://github.com/afterpay/sdk-android
 https://github.com/afterpay/sdk-ios
+https://github.com/aikidosec/firewall-node#Detection%20Bypass
+https://github.com/aikidosec/firewall-node#False%20Positive
+https://github.com/aikidosec/firewall-node#Vulnerability
+https://github.com/aikidosec/firewall-php#Detection%20Bypass
+https://github.com/aikidosec/firewall-php#False%20Positive
+https://github.com/aikidosec/firewall-php#Vulnerability
+https://github.com/aikidosec/firewall-python#Detection%20Bypass
+https://github.com/aikidosec/firewall-python#False%20Positive
+https://github.com/aikidosec/firewall-python#Vulnerability
+https://github.com/aikidosec/firewall-ruby#Detection%20Bypass
+https://github.com/aikidosec/firewall-ruby#False%20Positive
+https://github.com/aikidosec/firewall-ruby#Vulnerability
 https://github.com/aiven
 https://github.com/aiven-open
 https://github.com/anthropics/claude-code
@@ -712,8 +724,6 @@ https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
-https://github.com/brave
-https://github.com/brave-intl
 https://github.com/buildonspark/spark
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
@@ -1142,7 +1152,6 @@ https://marketplace.atlassian.com/apps/1211738/file-tagging-plugin-for-crucible?
 https://marketplace.atlassian.com/apps/1211836/automation-for-jira-server-lite?hosting=server
 https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-user-management-for-jira
 https://marketplace.atlassian.com/apps/1212078/easy-agile-user-story-maps-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1212078/easy-agile-user-story-maps-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212100/repository-quickadd-for-fisheye-crucible?hosting=server
 https://marketplace.atlassian.com/apps/1212120/agile-reports-and-gadgets?hosting=cloud&tab=overview
@@ -1205,7 +1214,6 @@ https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-a
 https://marketplace.atlassian.com/apps/1215460/automation-for-jira-server?hosting=cloud
 https://marketplace.atlassian.com/apps/1215624/copy-source-for-fisheye-and-crucible?hosting=server
 https://marketplace.atlassian.com/apps/1215695/easy-agile-roadmaps-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1215695/easy-agile-roadmaps-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1215704/workflow-screenshot-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1215768/agile-velocity-chart-gadget?hosting=cloud
 https://marketplace.atlassian.com/apps/1215795/analytics-for-confluence?hosting=cloud
@@ -1306,7 +1314,6 @@ https://marketplace.atlassian.com/apps/1219472/mandatory-reviewers-for-crucible?
 https://marketplace.atlassian.com/apps/1219476/comment-custom-fields-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1219487/simple-timesheet-worklog-dashboard-gadget-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1219498/confluence-cloud-for-slack?hosting=cloud
 https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=server
@@ -1365,7 +1372,6 @@ https://marketplace.atlassian.com/apps/1221301/jira-cloud-for-excel-official?hos
 https://marketplace.atlassian.com/apps/1221312/opsgenie-incident-timeline-eu?hosting=cloud
 https://marketplace.atlassian.com/apps/1221322/refined-for-confluence-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1221392/easy-agile-personas-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1221392/easy-agile-personas-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1221399/security-for-bitbucket-enhanced-secret-scanner-by-soteri?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1221430/troubleshooting-and-support-crowd?hosting=server
 https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
@@ -1695,7 +1701,6 @@ https://nubank.com.mx
 https://nvio.ar/
 https://nvio.mx/
 https://nvoice.usaa.com/
-https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
 https://odesli.co
@@ -2431,6 +2436,7 @@ https://www.oppo.com/th/store
 https://www.opposhop.cn/
 https://www.opposhop.cn/m
 https://www.optus.com.au/osp-ecare
+https://www.optus.com.au/prepaid/activate
 https://www.originenergy.com.au/
 https://www.osl.com/en
 https://www.osl.com/hk-en
@@ -2508,6 +2514,7 @@ https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.venturatvos.com
 https://www.verisign.com
+https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index
 https://www.vfsglobalservices-germany.com/global-appointment
 https://www.vfsvisaservice.com/
 https://www.vfsvisaservice.com/ihc-southkorea-appointment
