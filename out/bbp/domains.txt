@@ -785,8 +785,6 @@ app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
-app.dynamic-preprod.xyz
-app.dynamic.xyz
 app.expressmailguard.com
 app.files.com
 app.fing.com
@@ -1235,7 +1233,6 @@ cdn.pdst.fm
 cdn.plaid.com
 cdn.shop-apotheke.com
 cdna.lystit.com
-cds.vrt.radio
 central.arubanetworks.com
 certinia.com
 cewe.kruidvat.be
@@ -1420,6 +1417,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -1962,7 +1961,6 @@ delltechnologies.com
 delphidisplay.com
 demo.arkoselabs.com
 demo.bp.mortgagechoice.com.au
-demo.dynamic.xyz
 demo.fareharbor.com
 demo.globalticket.com
 demo.plaid.com
@@ -2395,6 +2393,8 @@ github.com/anthropics
 github.com/anthropics/anthropic-sdk-python
 github.com/anthropics/anthropic-sdk-typescript
 github.com/binary-com
+github.com/brave
+github.com/brave-intl
 github.com/deriv-com
 github.com/kubernetes-csi/csi-lib-utils
 github.com/kubernetes-csi/csi-release-tools
@@ -4671,6 +4671,7 @@ vpn.mozilla.org
 vpn01.syd.optusnet.com.au
 vrbo.com
 vroid.com
+vrt.be/interactie/121-chat
 vrt.be/vrtmax
 vrt.be/vrtnu-api/graphql/public/v1
 vrt.be/vrtnu-api/graphql/v1
@@ -4818,6 +4819,7 @@ wpscan.com
 ws.blockchain.info
 ws.sorare.com
 wss://autopush.stage.mozaws.net
+wss://messaging.vrt.be/
 wss://socket.bitpanda.com
 www-dev.nba.com
 www-dev.wnba.com
@@ -5334,6 +5336,7 @@ xiaomi.com
 xiaomi.net
 xiaomi.org
 xiaomiev.com
+xiaomimimo.com
 xiaomimobile.com
 xiaomiprint.com
 xiaomiwear.com

@@ -1393,6 +1393,7 @@ aimco.co.ke
 aimovig-pro.ca
 aimovigdirect.ca
 aimovigtraining.ca
+aiops.deere.com
 aipmanagement.dk
 aiproducts.com
 airaffairs.com.au
@@ -2323,6 +2324,7 @@ apiprod-smoke.deere.com
 apiqa.ciam-na.daimlertruck.com
 apisandbox.dev.clover.com
 apisandboxprod.dev.clover.com
+apisecurity.deere.com
 apistaging.sentera.com
 apistaging2.sentera.com
 apistg2.dev.clover.com
@@ -5360,7 +5362,6 @@ cdp-uk-consumption-layer-uat.elcompanies.com
 cdp-uk-consumption-layer.elcompanies.com
 cdp.services.wirtgen-group.com
 cds-snc.ca
-cdssandbox.xyz
 ce-reportwriter.cbre.eu
 ce-reportwriterdev.cbre.eu
 ce-reportwriteruat.cbre.eu
@@ -13223,8 +13224,6 @@ goezshield.com
 gofirstclass-dc.cert.fec-dc.fiservapps.com
 gogmfcu-admin.originate.fiservapps.com
 gogmfcu.originate.fiservapps.com
-gogoair.com
-gogogenius.stage.gogoair.cloud
 gokinetic.com
 golden1.fta.popmoney.com
 goldencirclecu-dc.cert.fec-dc.fiservapps.com
@@ -20412,6 +20411,7 @@ nuf-webquote.cbreapps.com
 nuf-webquote.uat.cbre.eu
 nuf-webquoteprd.cbreapps.com
 nuf-webquoteuat.cbreapps.com
+nui.channel-warranty-systems-devl-vpn2.use1.e06.c01.johndeerecloud.com
 null-leasing.com
 numerique.canada.ca
 nummus.robinhood.com
@@ -31094,7 +31094,6 @@ www.accessmyiq.com
 www.adfs.mainstreamsasp.com
 www.adfs4.mainstreamsasp.com
 www.admin.bjresidential.cbre.com.cn
-www.aeroxr.com
 www.agile.cbre.com
 www.agribusiness.cbre.com
 www.agrisync.com
@@ -31695,7 +31694,6 @@ www.go-test-cbreglobalinvestors.cbre.com
 www.go-test.cbre.com
 www.go.cbre.com
 www.go.cbreim.com
-www.gogoair.com
 www.gopulse-evolve.cbre.com
 www.gps-selfservice.cbre.com
 www.greenroom-qa.cbre.com

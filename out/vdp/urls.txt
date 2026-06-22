@@ -516,8 +516,6 @@ http://gdsdownloadscert.firstdata.com
 http://gdsdownloadstest.firstdata.com
 http://genesisfeds.hepsiian.com
 http://gitlab.balldayton.com
-http://gogo.aero
-http://gosatcom.net
 http://gpag.softwareexpress.com.br
 http://gpagpreprod.softwareexpress.com.br
 http://gpvpn.ballaerospace.com
@@ -895,9 +893,6 @@ http://safelnkb2e.us.baesystems.com
 http://safelnkb2w.us.baesystems.com
 http://safelnke.us.baesystems.com
 http://salliemae.architect-cert.fiservapps.com
-http://satcomdirect.com.br
-http://satcomsimple.com
-http://satcomtest.com
 http://sbizbillpay.amegybank.com
 http://sbizbillpay.calbanktrust.com
 http://sbizbillpay.nbarizona.com
@@ -1190,7 +1185,6 @@ http://www.pafco.ca/
 http://www.poolsafety.gov
 http://www.recalls.gov
 http://www.saferproducts.gov
-http://www.sdgov.gogoair.com
 http://www.test.api.ipg-online.com
 http://www.thepayplace.com
 http://www.transactiontracking.com

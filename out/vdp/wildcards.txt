@@ -450,7 +450,6 @@ cdcorpltd.com
 cdfifund.gov
 cdo.gov
 cds-snc.ca
-cdssandbox.xyz
 cedacri.com
 cedacri.it
 cedacri.mobi
@@ -1041,7 +1040,6 @@ go.gov
 gobiernousa.gov
 godirect.gov
 goes-r.gov
-gogoair.com
 goodjobs.gov
 got2b.com
 govloans.gov
