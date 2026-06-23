@@ -27,7 +27,7 @@ jobs:
 
       - name: Create output directories
         run: |
-          mkdir -p out/bbp out/vdp
+          mkdir -p out/bbp
           curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
             -H "Content-Type: application/json" \
             -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] Output directories ready\"}"
@@ -67,42 +67,6 @@ jobs:
           curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
             -H "Content-Type: application/json" \
             -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] BBP fetch complete\nWildcards: $(wc -l < out/bbp/wildcards.txt)\nDomains: $(wc -l < out/bbp/domains.txt)\nIPs: $(wc -l < out/bbp/ips.txt)\nCIDRs: $(wc -l < out/bbp/cidrs.txt)\nURLs: $(wc -l < out/bbp/urls.txt)\"}"
-
-      - name: Fetch VDP scope data
-        run: |
-          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
-            -H "Content-Type: application/json" \
-            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] Fetching VDP scope from bbscope API...\"}"
-
-          curl -sf "https://bbscope.com/api/v1/targets/wildcards?scope=in&type=vdp" -o out/vdp/wildcards.txt || { \
-            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
-              -H "Content-Type: application/json" \
-              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch VDP wildcards\"}"; exit 1; }
-
-          curl -sf "https://bbscope.com/api/v1/targets/domains?scope=in&type=vdp" -o out/vdp/domains.txt || { \
-            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
-              -H "Content-Type: application/json" \
-              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch VDP domains\"}"; exit 1; }
-
-          curl -sf "https://bbscope.com/api/v1/targets/ips?scope=in&type=vdp" -o out/vdp/ips.txt || { \
-            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
-              -H "Content-Type: application/json" \
-              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch VDP IPs\"}"; exit 1; }
-
-          curl -sf "https://bbscope.com/api/v1/targets/cidrs?scope=in&type=vdp" -o out/vdp/cidrs.txt || { \
-            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
-              -H "Content-Type: application/json" \
-              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch VDP CIDRs\"}"; exit 1; }
-
-          curl -sf "https://bbscope.com/api/v1/targets/urls?scope=in&type=vdp" \
-            | grep -Evi 'google|apple' > out/vdp/urls.txt || { \
-            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
-              -H "Content-Type: application/json" \
-              -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch VDP URLs\"}"; exit 1; }
-
-          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
-            -H "Content-Type: application/json" \
-            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] VDP fetch complete\nWildcards: $(wc -l < out/vdp/wildcards.txt)\nDomains: $(wc -l < out/vdp/domains.txt)\nIPs: $(wc -l < out/vdp/ips.txt)\nCIDRs: $(wc -l < out/vdp/cidrs.txt)\nURLs: $(wc -l < out/vdp/urls.txt)\"}"
 
       - name: Commit and Push changes
         run: |

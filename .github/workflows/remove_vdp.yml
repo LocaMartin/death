@@ -1,0 +1,61 @@
+name: Remove VDP Files
+
+on:
+  workflow_dispatch:
+
+jobs:
+  cleanup-vdp:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    env:
+      BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+      CHAT_ID: ${{ secrets.CHAT_ID }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Notify — VDP cleanup started
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[cleanup] Removing all VDP files from repo...\"}"
+
+      - name: Remove VDP directories and state files
+        run: |
+          rm -rf out/vdp/
+          rm -f out/state/nuclei_vdp_processed.txt
+          rm -f out/state/nuclei_vdp_batch.txt
+          rm -f out/state/chunks/vdp_chunk_*
+          rm -f log/vdp_chunk_*.log
+          rm -f log/header_vdp.log
+          echo "Removed:"
+          echo "  out/vdp/"
+          echo "  out/state/nuclei_vdp_processed.txt"
+          echo "  out/state/nuclei_vdp_batch.txt"
+          echo "  out/state/chunks/vdp_chunk_*"
+          echo "  log/vdp_chunk_*.log"
+          echo "  log/header_vdp.log"
+
+      - name: Commit removal
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git add -A
+          git commit -m "Remove all VDP files — VDP does not pay" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push
+
+      - name: Notify — VDP cleanup complete
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[cleanup] All VDP files removed from repo. Delete nuclei_header_vdp.yml from .github/workflows/ manually or via git.\"}"
+
+      - name: Notify on Failure
+        if: failure()
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[cleanup] VDP removal FAILED\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"
