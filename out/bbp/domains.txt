@@ -667,7 +667,6 @@ api.remitly.io
 api.ring.com
 api.robinhood.com
 api.ryadom.kz
-api.s-kaupat.fi
 api.savers.co.uk
 api.segment.io
 api.sendgrid.com
@@ -677,7 +676,6 @@ api.shop-apotheke.com
 api.simplisafe.com
 api.slack.com
 api.smtp2go.com
-api.sokos.fi
 api.sonantic.io
 api.sorare.com
 api.soundtrackyourbrand.com
@@ -1091,6 +1089,7 @@ boost.vinci.com
 booth.pm
 boozt.com
 booztlet.com
+boredapeyachtclub.com
 bouw7.nl
 bpa2.marriott.com
 bq.visa.com
@@ -2829,7 +2828,6 @@ lando.services.mozilla.com
 lansweeper.com
 lark-frontier.byteoversea.com
 larksuite.com
-larksuite.us
 lastminute.co.nz
 lastminute.com.au
 latitudefinancial.co.nz
@@ -2845,7 +2843,6 @@ learningmanagerstage4.adobe.com
 lecstaticcontent.lansweeper.com
 lefties.com
 lego.me
-lemon8-api.tiktokv.us
 lemonsqueezy.com
 leonard.vinci.com
 lfscnp.com
@@ -3469,6 +3466,7 @@ ort-desktop.pingone.com
 osite99.com
 oslo.io
 osp.opera.software
+otherside.xyz
 outage.logitech.com
 outagehistory.logitech.com
 outfra.xyz
@@ -3501,7 +3499,6 @@ palantirfoundry.com.au
 palantirfoundry.de
 palantirfoundry.fr
 palantirgov.com
-pangle-mediation-ttp.tiktokpangle.us
 pangleglobal.com
 parknshop.com
 parool.nl
@@ -3617,7 +3614,6 @@ platform.8x8.com
 platform.8x8pilot.com
 platform.cloudways.com
 platform.remix.com
-platform.tiktokpangle.us
 platformservices.io
 play-portraits.com
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
@@ -4254,7 +4250,6 @@ staging.magisto.com
 staging.travix.com
 staking-api.polygon.technology
 staking.polygon.technology
-starling-ttp.lemon8-app.us
 station.veriff.com
 stationapi.veriff.com
 stats-dev.nba.com
@@ -4427,7 +4422,6 @@ tidalhi.fi
 tidalhifi.com
 tiktok.com
 tiktokcdn.com
-tiktokdata-us-open.tiktokw.us
 tiktokpublishers.com
 tiktokv.com
 timetoplayfair.com
@@ -4491,7 +4485,6 @@ tucarro.com
 tucarro.com.co
 tumblr.com
 tumoto.com
-tunnistus.s-ryhma.fi
 tvg.com
 tw.bid.yahoo.com
 tw.com.watsons.app
@@ -5137,14 +5130,12 @@ www.preprod1.monespacesante.fr
 www.preprod2.monespacesante.fr
 www.priceline.com
 www.prijsmepper.nl
-www.prisma.fi
 www.pullandbear.cn
 www.pullandbear.com
 www.qualified.com
 www.qwant.com
 www.redcare.it
 www.redoxengine.com
-www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
 www.samenfittorfs.be
@@ -5158,7 +5149,6 @@ www.shop-apotheke.at
 www.shop-apotheke.com
 www.six-group.com
 www.socialdeal.nl
-www.sokos.fi
 www.soundon.global
 www.soundonw.us
 www.springfield.moz.works
@@ -5382,6 +5372,8 @@ yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yoyogames.com
 ys7.com
+yuga.com
+yugalabs.io
 ywh.admin.zecible.fr
 ywh.api.zecible.fr
 ywh.comptage.zecible.fr

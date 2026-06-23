@@ -467,7 +467,6 @@ https://consumer.finicityreports.com
 https://contadigital.ifoodpago.com.br
 https://content-server.ibotta.com/graphql
 https://content.usaa.com
-https://contentcredentials.org/
 https://converse.8x8.com
 https://coral.20min.ch
 https://core-prod.uidapi.com
@@ -532,7 +531,6 @@ https://developers.cloudflare.com/kv
 https://developers.cloudflare.com/magic-wan
 https://developers.cloudflare.com/pages
 https://developers.cloudflare.com/ssl
-https://developers.cloudflare.com/turnstile
 https://developers.cloudflare.com/waiting-room
 https://developers.elementor.com/
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
@@ -544,6 +542,7 @@ https://digits.t-mobile.com
 https://digits.t-mobile.com/
 https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
+https://disclosure-test.six-exchange-regulation.com/
 https://doc.komoju.com/docs/fields-overview
 https://doccle.be
 https://docker-staging.adstruc.com
@@ -1199,6 +1198,7 @@ https://marketplace.atlassian.com/apps/1215192/image-paste-for-fisheye-crucible?
 https://marketplace.atlassian.com/apps/1215199/backbone-issue-sync-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1215199/backbone-issue-sync-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1215235/fail-build-trigger-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1215262/k-sso-saml-sso-oauth-kerberos-user-management-for-bamboo?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1215311/stagil-assets-advanced-links-data-model-matrix-structure?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1215414/pivot-report?hosting=cloud&tab=overview
@@ -1474,6 +1474,7 @@ https://marketplace.atlassian.com/apps/1229966/scrum-master-assistant-for-jira?h
 https://marketplace.atlassian.com/apps/1230032/databricks-visualization?hosting=cloud
 https://marketplace.atlassian.com/apps/1230311/app-usage-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1230311/app-usage-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1230671/extension-point-finder-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1230672/extension-point-finder-for-jira?hosting=cloud
@@ -1999,7 +2000,6 @@ https://support.lastpass.com
 https://support.moovitapp.com/hc/en-us/articles/11389054527122-wayfinder-augmented-reality-helper-to-find-your-stop-iphone-only
 https://support.newrelic.com/
 https://support.okta.com
-https://support.saltosystems.com
 https://support.threatdown.com/hc/en-us/articles/4413802501395-protection-policy-settings-in-nebula#browser_phishing_protection_10
 https://supportportal.thalesgroup.com
 https://sycamore.moneyboxapp.org

@@ -151,6 +151,7 @@ bokuntest.com
 booking.com
 boozt.com
 booztlet.com
+boredapeyachtclub.com
 bouw7.nl
 braintree-api.com
 braintree.tools
@@ -744,6 +745,7 @@ origindigital-pac.com.au
 originenergy.com.au
 osite99.com
 oslo.io
+otherside.xyz
 outfra.xyz
 ovofinansial.com
 ownit.se
@@ -1199,6 +1201,8 @@ yelpwifi.com
 youpin.cn
 yoyogames.com
 ys7.com
+yuga.com
+yugalabs.io
 zara.cn
 zara.com
 zarahome.cn
