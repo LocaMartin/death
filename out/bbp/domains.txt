@@ -1180,11 +1180,6 @@ campaign.watsons.com.tr
 campaigns.theperfumeshop.com
 campus.datacamp.com
 cancellation.prod.ps.welt.de
-canva-apps.cn
-canva-apps.com
-canva.cn
-canva.com
-canva.tech
 capability.prod.innovexperiments.com
 capital.com
 capitalone.ca
@@ -1524,6 +1519,7 @@ com.heytap.wearable.market
 com.heytap.wearable.research
 com.heytap.wearable.themestore
 com.heytap.xgame
+com.hilton.android.hhonors
 com.hotornot.app
 com.hotwire.hotels
 com.hyatt

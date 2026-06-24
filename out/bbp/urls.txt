@@ -157,7 +157,6 @@ https://api.blts.kape.com
 https://api.bookbeat.com
 https://api.bugcrowd.com
 https://api.bykea.net
-https://api.canva.com
 https://api.classdojo.com
 https://api.clearpay.com
 https://api.cloudinary.com
@@ -411,7 +410,6 @@ https://cdn.unicdn.net/apk/unibetcasino.apk
 https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com
-https://challenge-0626.intigriti.io
 https://chat.openai.com
 https://checkout.finance.yahoo.com/checkout/v1
 https://cicforms.mioot.com/forms/ps
@@ -1047,6 +1045,7 @@ https://latitudeinfinity.com.au
 https://launchdarkly.com/docs
 https://lbu.eu-west-2.outscale.com
 https://leaflet-map.bykea.net
+https://leakyjar.intigriti.io
 https://learn.neogov.com
 https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
@@ -1358,7 +1357,6 @@ https://marketplace.atlassian.com/apps/1220820/bitbucket-pipelines-for-jira?host
 https://marketplace.atlassian.com/apps/1220964/snipe-it-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1221134/jenkins-integration-for-jira-lite?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1221227/project-transfer-for-crucible?hosting=server
 https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=server
@@ -2203,10 +2201,6 @@ https://www.bookbeat.com
 https://www.bostonacoustics.com
 https://www.bowerswilkins.com
 https://www.bwin.com
-https://www.canva.com
-https://www.canva.com/developers
-https://www.canva.com/en_au/help/chatgpt-templates
-https://www.canva.com/integrations/slack
 https://www.carrefouruae.com/
 https://www.carsdirect.com
 https://www.cb2.ae/en
