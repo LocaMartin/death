@@ -1180,6 +1180,11 @@ campaign.watsons.com.tr
 campaigns.theperfumeshop.com
 campus.datacamp.com
 cancellation.prod.ps.welt.de
+canva-apps.cn
+canva-apps.com
+canva.cn
+canva.com
+canva.tech
 capability.prod.innovexperiments.com
 capital.com
 capitalone.ca
