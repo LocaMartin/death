@@ -55,6 +55,12 @@
 198.142.231.45
 198.142.235.18
 198.142.65.253
+1debit.com
+1w.cash
+1w.run
+1win.com
+admin-dev1.1debit.com
+admin.1debit.com
 admin.isp.netscape.com
 amf-prod.advgovernance-aws-prod.aws.oath.cloud
 amf-qa.advgovernance-aws-dev.aws.oath.cloud
@@ -69,6 +75,7 @@ api.amt-aws-uat.aws.oath.cloud
 authproxy.use1.grid-aws-dev.aws.yahoo.cloud
 autoconfig.compuserve.com
 autodiscover.compuserve.com
+balancer.1debit.com
 beta.tw.news.yahoo.com
 bill.beta.compuserve.com
 bill.compuserve.com
@@ -82,6 +89,7 @@ brana-ui.aws-oath-fires-brana-prod.aws.oath.cloud
 cancel.compuserve.com
 changeplan.compuserve.com
 channels.isp.netscape.com
+chimelogs.ue1.1debit.com
 cleanroom-api.aolp-ds-dev.aws.oath.cloud
 cleanroom.aolp-ds-dev.aws.oath.cloud
 cleanroom.aolp-ds-prd.aws.oath.cloud
@@ -131,9 +139,11 @@ flurry-hbase-dev-hadoop-timelineserver.infra.svc.use1.grid-aws-dev.aws.yahoo.clo
 flurry-hbase-dev-hbase-master.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 flurry-hbase-dev-zookeeper-headless.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 forecasting-api.aws-oath-fires-brana-dev.aws.oath.cloud
+forum.1win.com
 free-qa.compuserve.com
 free.compuserve.com
 frontend.amt-aws-uat.aws.oath.cloud
+ftp.1debit.com
 func-zms-us-west-2.athenz.aws.oath.cloud
 func-zts-us-west-2.athenz.aws.oath.cloud
 getnetscape.isp.netscape.com
@@ -198,6 +208,7 @@ oidc.netscape.compuserve.com
 oidc.payments.compuserve.com
 oidc.publishing.compuserve.com
 oidc.wmconnect.compuserve.com
+oldadmin.1debit.com
 omni.prod.broker.aolp-ds-prd.aws.oath.cloud
 openziti-controller.athenz-experiments.aws.oath.cloud
 origin.www-qa.compuserve.com
@@ -209,9 +220,11 @@ payments.dev.compuserve.com
 payments.qa.compuserve.com
 payments.stage.compuserve.com
 pixel-api-qai.us-east-1.aolp-ds-dev.aws.oath.cloud
+processor.1debit.com
 prod.connectid-s2s.us-east-1.aolp-ds-prd.aws.oath.cloud
 prod.connectid-s2s.us-west-2.aolp-ds-prd.aws.oath.cloud
 prod.origin.help.compuserve.com
+proto.1debit.com
 publishing-qa.compuserve.com
 publishing.compuserve.com
 qa-connectid-s2s-analytics.aolp-ds-dev.aws.oath.cloud
@@ -220,6 +233,8 @@ qa.help.compuserve.com
 qa.myaccount.compuserve.com
 qa.origin.help.compuserve.com
 qa.payments.compuserve.com
+ra.1debit.com
+ra2.1debit.com
 recommendations.aws-oath-fires-brana-dev.aws.oath.cloud
 sabre-dev-use1-hadoop-hdfs-nn.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 sabre-dev-use1-hadoop-job-history-server.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
@@ -237,6 +252,7 @@ sherpa-hbase-dev-use1-hadoop-core.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 sherpa-hbase-dev-use1-hadoop-hdfs-nn-standby.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 sherpa-hbase-dev-use1-hadoop-hdfs-nn.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 smtp.compuserve.com
+stage-admin.1debit.com
 stage-certsignd-us-west-2.athenz.aws.oath.cloud
 stage-zms-us-east-1.athenz.aws.oath.cloud
 stage-zms-us-west-2.athenz.aws.oath.cloud
@@ -260,6 +276,15 @@ staging.compuserve.com
 staging.isp.netscape.com
 staging.lite.aol.com
 staging.member.compuserve.com
+test-admin.1debit.com
+test-processor.1debit.com
+test-wp.1debit.com
+test.1debit.com
+test1.1debit.com
+test2.1debit.com
+test3.1debit.com
+test4.1debit.com
+test5.1debit.com
 trunk.guce.compuserve.com
 trunk.guce.isp.netscape.com
 trunk.oidc.compuserve.com
@@ -269,6 +294,7 @@ trunk.oidc.netscape.compuserve.com
 trunk.oidc.payments.compuserve.com
 trunk.oidc.publishing.compuserve.com
 trunk.oidc.wmconnect.compuserve.com
+ua.1debit.com
 updatemybill.compuserve.com
 ups-ats-test.aolp-ds-dev.aws.oath.cloud
 ups-qai.aolp-ds-dev.aws.oath.cloud
@@ -291,6 +317,10 @@ www-preview.compuserve.com
 www-qa-preview.compuserve.com
 www-qa.compuserve.com
 www.10x.redoxengine.com
+www.1debit.com
+www.1w.cash
+www.1w.run
+www.1win.com
 www.compuserve.com
 www.isp.netscape.com
 www.lite.aol.com
