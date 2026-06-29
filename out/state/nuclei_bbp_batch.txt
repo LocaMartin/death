@@ -109,7 +109,6 @@
 3.121.138.33
 3.121.138.43
 3.124.248.208
-3.basecamp.com
 35.156.137.39
 38.140.238.56/29
 3d.cs.money
@@ -498,3 +497,4 @@ api.staging-enviso.io/basketcenterapi
 api.staging-enviso.io/bookingapi
 api.staging-enviso.io/capacitycenterapi
 api.staging-enviso.io/directsellingapi
+api.staging-enviso.io/eloxxapi/v1/authorizationgroups
