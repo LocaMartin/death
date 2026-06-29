@@ -342,6 +342,8 @@ https://github.com/anthropics/claude-code-action
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
+https://github.com/brave
+https://github.com/brave-intl
 https://github.com/buildonspark/spark
 https://github.com/chia-network/chia-blockchain
 https://github.com/chia-network/chia-blockchain-gui
@@ -404,6 +406,15 @@ https://github.com/elastic/fleet-server
 https://github.com/elastic/kibana
 https://github.com/elastic/logstash
 https://github.com/expressvpn/lightway
+https://github.com/grafana/alloy
+https://github.com/grafana/beyla
+https://github.com/grafana/faro-web-sdk
+https://github.com/grafana/grafana
+https://github.com/grafana/k6
+https://github.com/grafana/loki
+https://github.com/grafana/mimir
+https://github.com/grafana/pyroscope
+https://github.com/grafana/tempo
 https://github.com/hacker0x01/react-datepicker
 https://github.com/infomaniak/desktop-kdrive
 https://github.com/innocraft
@@ -573,7 +584,6 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lsagentrelay.lansweeper.com/
-https://m.csqtrk.net
 https://m.tw.buy.yahoo.com/
 https://mail.yahoo.com/
 https://makeshift.film
@@ -586,7 +596,6 @@ https://metamask.github.io/phishing-warning/%3Cvx.y.z%3E
 https://metroconnect.app.ridewithvia.com
 https://microsoftedge.microsoft.com/addons/detail/okx-wallet/pbpjkcldjiffchgbbndmhojiacbgflha
 https://mmp.otto.de
-https://mobile-production.content-square.net/
 https://mobile.ooredoo.qa
 https://mohesr.vfsglobal.com/forms/cvuae/admin
 https://monzo.com
@@ -672,7 +681,6 @@ https://rivian.com/api/gql/content/graphql
 https://rivian.com/api/gql/gateway/graphql
 https://rivian.com/api/gql/orders/graphql
 https://rusadminappt.vfsglobal.com/Global-Admin
-https://s.contentsquare.net
 https://safe.heytap.com/
 https://salesforce.quip.com/blog/desktop
 https://saltocloudworks.com

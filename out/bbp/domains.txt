@@ -109,7 +109,6 @@
 3.121.138.33
 3.121.138.43
 3.124.248.208
-3.basecamp.com
 35.156.137.39
 38.140.238.56/29
 3d.cs.money
@@ -578,6 +577,7 @@ apix.vodafone.om
 app-insiders.marriott.com
 app.aikido.dev
 app.alasco.de
+app.basecamp.com
 app.blueskytravelvietnam.com
 app.circle.com
 app.datacamp.com/certification
@@ -780,9 +780,9 @@ ballistic.com.br
 bancoplata.mx
 baoliyun.com
 base.org
+basecamp-setup.exe
 basecamp.app
 basecamp.rivian.com
-basecamp3.exe
 bastion.oath.cloud
 bastion.yahoo.cloud
 battles.tv
@@ -924,7 +924,6 @@ ca.account.sony.com
 ca.koho
 cache.judge.me
 cache.marriott.com
-cadastro.uat.unico.app
 caesarsgames.com
 caldav.calendar.yahoo.com
 caldav.larksuite.com
@@ -1173,6 +1172,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -1564,7 +1565,6 @@ content-service-live-testing.bfda.live.use1a.on.epicgames.com
 content-service.bfda.live.use1a.on.epicgames.com
 contentportal.marriott.com
 contentportalauth.marriott.com
-contentsquare.com
 contile.services.mozilla.com
 contributor.stock.adobe.com
 core-api-aws-dev.nba.com
@@ -2100,6 +2100,7 @@ github.com/anthropics/anthropic-sdk-python
 github.com/anthropics/anthropic-sdk-typescript
 github.com/binary-com
 github.com/deriv-com
+github.com/grafana
 github.com/kubernetes-csi/csi-lib-utils
 github.com/kubernetes-csi/csi-release-tools
 github.com/kubernetes-csi/docs
@@ -2635,6 +2636,7 @@ m.blablacar.ro
 m.blablacar.ru
 m.blablacar.tr
 m.chaturbate.com
+m.dana.id
 m.goodrx.com
 m.reddit.com
 m.tw.coupang.com
