@@ -75,9 +75,12 @@
 4njbets.com
 4njbets.us.betfair.com
 5k8vrbdyje.infomaniak.site
+5nine.com
+5nineservice.demo.5nine.com
 admin-dev1.1debit.com
 admin.1debit.com
 admin.isp.netscape.com
+alt.5nine.com
 amf-prod.advgovernance-aws-prod.aws.oath.cloud
 amf-qa.advgovernance-aws-dev.aws.oath.cloud
 analytics-tls.aws-oath-fires-brana-dev.aws.oath.cloud
@@ -85,9 +88,11 @@ analytics.aws-oath-fires-brana-dev.aws.oath.cloud
 analytics.aws-oath-fires-brana-prod.aws.oath.cloud
 api-adm.amt-amt-java.aws.oath.cloud
 api-pr.amt-aws-uat.aws.oath.cloud
+api.5nine.com
 api.admanager.yahoo.com
 api.amt-amt-java.aws.oath.cloud
 api.amt-aws-uat.aws.oath.cloud
+api2.5nine.com
 app.3.basecamp.com
 authproxy.use1.grid-aws-dev.aws.yahoo.cloud
 autoconfig.compuserve.com
@@ -100,6 +105,7 @@ bill.compuserve.com
 bill.qa.compuserve.com
 bill.qh.compuserve.com
 billupdate.compuserve.com
+blog.5nine.com
 brana-api.aws-oath-fires-brana-dev.aws.oath.cloud
 brana-api.aws-oath-fires-brana-prod.aws.oath.cloud
 brana-ui.aws-oath-fires-brana-dev.aws.oath.cloud
@@ -136,6 +142,7 @@ enhemail.ops.compuserve.com
 enterpriseregistration.3lateral.com
 event.amt-amt-java.aws.oath.cloud
 event.amt-aws-uat.aws.oath.cloud
+evolve.5nine.com
 fe.amt-amt-java.aws.oath.cloud
 finance-partners-api.aws.yahoo.cloud
 flurry-dev-hadoop-core.flurry.svc.use1.grid-aws-dev.aws.yahoo.cloud
@@ -171,6 +178,7 @@ func-zms-us-west-2.athenz.aws.oath.cloud
 func-zts-us-west-2.athenz.aws.oath.cloud
 getnetscape.isp.netscape.com
 go-qa.compuserve.com
+go.5nine.com
 go.compuserve.com
 guce.compuserve.com
 guce.isp.netscape.com
@@ -181,6 +189,7 @@ help.dev.compuserve.com
 help.isp.netscape.com
 help.qa.compuserve.com
 help.stage.compuserve.com
+ideas.5nine.com
 images-dev-preview.compuserve.com
 images-dev.compuserve.com
 images-preview.compuserve.com
@@ -188,10 +197,12 @@ images-qa-preview.compuserve.com
 images-qa.compuserve.com
 images.compuserve.com
 imap.compuserve.com
+info.5nine.com
 io.gemini.yahoo.com
 iws.admanager.yahoo.com
 jenkins.10x.redoxengine.com
 jenkins.aws-oath-fires-brana-dev.aws.oath.cloud
+kb.5nine.com
 ldap-east.corp-identity-ldap.aws.yahoo.cloud
 ldap-west.corp-identity-ldap.aws.yahoo.cloud
 ldap.corp-identity-ldap-qa.aws.yahoo.cloud
@@ -278,6 +289,7 @@ sabre-dev-use1-hadoop-job-history-server.infra.svc.use1.grid-aws-dev.aws.yahoo.c
 sabre-dev-use1-hadoop-timelineserver.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 sabre-dev-use1-hbase-master.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 sabre-dev-use1-zookeeper-headless.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
+salesloft.5nine.com
 sandbox-api.admanager.yahoo.com
 sandbox.api.admanager.yahoo.com
 search.isp.netscape.com
@@ -310,12 +322,14 @@ stage.payments.compuserve.com
 stage.zms.athenz.aws.oath.cloud
 stageui.us-east-1.athenz-k8s-nonprod.aws.oath.cloud
 staging.3.basecamp.com
+staging.5nine.com
 staging.compuserve.com
 staging.isp.netscape.com
 staging.lite.aol.com
 staging.member.compuserve.com
 static.3lateral.com
 storage.3.basecamp.com
+swagger.5nine.com
 test-admin.1debit.com
 test-processor.1debit.com
 test-wp.1debit.com
@@ -334,6 +348,7 @@ trunk.oidc.netscape.compuserve.com
 trunk.oidc.payments.compuserve.com
 trunk.oidc.publishing.compuserve.com
 trunk.oidc.wmconnect.compuserve.com
+try.5nine.com
 ua.1debit.com
 updatemybill.compuserve.com
 upload.3.basecamp.com
@@ -344,6 +359,7 @@ us-east-1.svc.use1.grid-aws-dev.aws.yahoo.cloud
 us-west-2.finance-partners-api.aws.yahoo.cloud
 vpc-dsp-ai-opensearch.advinsights-nonprod.aws.oath.cloud
 vpc-dsp-ai-opensearch.advinsights-prod.aws.oath.cloud
+wap-demo.5nine.com
 webcenters-dev-preview.netscape.compuserve.com
 webcenters-dev.netscape.compuserve.com
 webcenters-preview.netscape.compuserve.com
@@ -365,10 +381,13 @@ www.1win.com
 www.23andmeresearchinstitute.org
 www.3lateral.com
 www.4njbets.com
+www.5nine.com
 www.compuserve.com
+www.go.5nine.com
 www.isp.netscape.com
 www.lite.aol.com
 www.member.compuserve.com
+www.try.5nine.com
 yakl-server.us-east-1.athenz-k8s-nonprod.aws.oath.cloud
 yakl-server.us-east-1.athenz-k8s-prod.aws.yahoo.cloud
 yakl-server.us-west-2.athenz-k8s-prod.aws.yahoo.cloud
