@@ -3579,7 +3579,6 @@ seoab.io
 seoquake.com
 serious.li
 seriously.com
-serveur12.notebleue.com
 service.fing.com
 service.iciparisxl.nl
 service.kruidvat.be
@@ -4866,6 +4865,7 @@ ywh.mydata.zecible.fr
 ywh.routage.zecible.fr
 ywh.static.zecible.fr
 ywh.update.zecible.fr
+ywh.zcb.fr
 zara.cn
 zara.com
 zarahome.cn
