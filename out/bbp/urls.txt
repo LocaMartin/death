@@ -574,7 +574,6 @@ https://kyc.ripio.com/
 https://landrover.here.com
 https://lbu.eu-west-2.outscale.com
 https://leaflet-map.bykea.net
-https://leakyjar.intigriti.io
 https://lensstudio.snapchat.com/api
 https://library.pdq.com/
 https://link.uma.me

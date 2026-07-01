@@ -672,10 +672,6 @@ artifactory.marriott.com
 artstation.com
 as-nmt.de
 as.shop-apotheke.com
-as2-accpt.portofantwerp.com
-as2-accpt.portofantwerpbruges.com
-as2.portofantwerp.com
-as2.portofantwerpbruges.com
 asadcdn.com
 askpeopleteam.visa.com
 assessment-api.datacamp.com
@@ -2489,6 +2485,7 @@ kwsdose.be
 kyc-onboarding.booking.com
 l75pvbdyjo.infomaniak.site
 label-studio-public.sonantic.io
+labs.8x8.com
 landing.ryadom.kz
 landmarkcinemas.com
 lando.moz.tools
@@ -2715,6 +2712,7 @@ mcdalerts-perf.nba.com
 mcdalerts-qa.nba.com
 mcdalerts-uat.nba.com
 mcdalerts.nba.com
+mcp.8x8.com
 mcp.staging.airtable.com
 mcp.stripe.com
 mds.marriott.com
