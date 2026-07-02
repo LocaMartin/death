@@ -11,6 +11,7 @@ bergum.cord-19.vespa-team.aws-us-east-1c.staging.public.vespa.oath.cloud
 bergum.cord-19.vespa-team.aws-us-east-1c.test.public.vespa.oath.cloud
 bergum.cord-19.vespa-team.global.public.vespa.oath.cloud
 beta-consolidatedlogging.ads-supply-pe-dev.aws.oath.cloud
+beta.developer.10x.redoxengine.com
 beta.reporting-api.one-mobile-prod.aws.oath.cloud
 beta.tw.news.yahoo.com
 beta2.3.basecamp.com
@@ -122,4 +123,3 @@ canary-pipeline.vespa.us-east-3.vespa.oath.cloud
 canary-pipeline.vespa.us-west-1.vespa.oath.cloud
 cancel.compuserve.com
 canvass-search-qa.canvass-qa.ap-northeast-1.vespa.oath.cloud
-canvass-search-qa.canvass-qa.ap-northeast-2.vespa.oath.cloud
