@@ -386,6 +386,7 @@ bergum.cord-19.vespa-team.aws-us-east-1c.staging.public.vespa.oath.cloud
 bergum.cord-19.vespa-team.aws-us-east-1c.test.public.vespa.oath.cloud
 bergum.cord-19.vespa-team.global.public.vespa.oath.cloud
 beta-consolidatedlogging.ads-supply-pe-dev.aws.oath.cloud
+beta.developer.10x.redoxengine.com
 beta.reporting-api.one-mobile-prod.aws.oath.cloud
 beta.tw.news.yahoo.com
 beta2.3.basecamp.com
@@ -1311,6 +1312,7 @@ go.oath.cloud
 goanywhere.subscriptions-obi-batch-aws-prod.aws.oath.cloud
 gpu-nfsw-prod-east.tripod-cloud.aws.oath.cloud
 gpu-nfsw-prod-west.tripod-cloud.aws.oath.cloud
+grafana.10x.redoxengine.com
 groupon.external-feeds.aws-us-east-1a.vespa.oath.cloud
 groupon.external-feeds.aws-us-east-1b.vespa.oath.cloud
 groupon.external-feeds.aws-us-east-2a.dev.vespa.oath.cloud
@@ -1595,6 +1597,7 @@ keystone-api.jacobestelle-home.bf2.ows.oath.cloud
 keystone-api.jacobestelle-home.gq2.ows.oath.cloud
 keystone-api.prod-mec.bf2.ows.oath.cloud
 keystone-api.prod-mec.gq2.ows.oath.cloud
+kman.10x.redoxengine.com
 kraune.album-rec-java.vespa-team.aws-us-east-1c.dev.public.vespa.oath.cloud
 kraune.album-rec-java.vespa-team.aws-us-east-1c.public.vespa.oath.cloud
 kraune.album-rec-java.vespa-team.aws-us-east-1c.staging.public.vespa.oath.cloud
@@ -1749,6 +1752,7 @@ mh.mikkemus.scoober.aws-us-east-1c.public.vespa.oath.cloud
 mh.mikkemus.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 mh.mikkemus.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 mh.mikkemus.scoober.global.public.vespa.oath.cloud
+mimir.10x.redoxengine.com
 mock-gemini.vas-creative-service.one-mobile-dev.aws.oath.cloud
 mock-gemini.vnaps.one-mobile-dev.aws.oath.cloud
 mock-gemini.vnps.one-mobile-dev.aws.oath.cloud
