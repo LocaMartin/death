@@ -342,8 +342,6 @@ https://github.com/anthropics/claude-code-action
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
-https://github.com/brave
-https://github.com/brave-intl
 https://github.com/buildonspark/spark
 https://github.com/chia-network/chia-blockchain
 https://github.com/chia-network/chia-blockchain-gui
@@ -547,7 +545,6 @@ https://gitlab.torproject.org/tpo/applications/tor-browser
 https://gitlab.torproject.org/tpo/core/tor
 https://glow.imoulife.com
 https://graphql.sandbox.topperpay.com/graphql
-https://hackerone-m1rtuq8orz.hbstaging.website/
 https://healthmate.withings.com
 https://hg.easy4ipcloud.com
 https://hln.be/inloggen
@@ -703,7 +700,6 @@ https://service.post.ch/zopa/app
 https://settings.superhuman.com
 https://shop-acc.kinepolis.be/
 https://shop.post.ch/shop
-https://signin-hackerone.hbstaging.website/
 https://sip2.dmp.gouv.fr
 https://solutions.visaacceptance.com/subscription
 https://soundtrack.io

@@ -1169,8 +1169,6 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -2823,6 +2821,7 @@ mgmt-sensors.iris.production.forescoutcloud.net
 mgmt.fndlsb.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
+mgs.dana.id
 mgs.marriott.com
 mi.cn
 mi.com
@@ -4836,7 +4835,6 @@ xunkids.com
 xvservice.net
 xvtest.net
 yahoo.com/news
-yelp-support.com
 yelp.com
 yelptop100.com
 yelpwifi.com
