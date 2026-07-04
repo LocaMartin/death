@@ -1,4 +1,3 @@
-cd.yahoo-sl4.basic-test.vespa.cd-us-west-1.dev.vespa.oath.cloud
 cd.yahoo-sl4.basic-test.vespa.cd-us-west-1.vespa.oath.cloud
 cd.yahoo-sl4.basic-test.vespa.global.vespa.oath.cloud
 cd.yahoo.basic-test.vespa.cd-aws-us-east-1a.vespa.oath.cloud
@@ -123,3 +122,4 @@ contentindexing-stg.partner-publishing.us-east-3.perf.vespa.oath.cloud
 contentindexing-stg.partner-publishing.us-east-3.staging.vespa.oath.cloud
 contentindexing-stg.partner-publishing.us-east-3.vespa.oath.cloud
 contentindexing-stg.partner-publishing.us-west-1.vespa.oath.cloud
+control.prod-mec.bf2.ows.oath.cloud

@@ -1,4 +1,3 @@
-beta.developer.10x.redoxengine.com
 canvass-search-qa.canvass-qa.ap-southeast-1.vespa.oath.cloud
 canvass-search-qa.canvass-qa.aws-us-east-1a.vespa.oath.cloud
 canvass-search-qa.canvass-qa.aws-us-east-1b.vespa.oath.cloud
@@ -498,3 +497,4 @@ contentindexing-stg.partner-publishing.us-east-3.perf.vespa.oath.cloud
 contentindexing-stg.partner-publishing.us-east-3.staging.vespa.oath.cloud
 contentindexing-stg.partner-publishing.us-east-3.vespa.oath.cloud
 contentindexing-stg.partner-publishing.us-west-1.vespa.oath.cloud
+control.prod-mec.bf2.ows.oath.cloud

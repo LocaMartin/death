@@ -1,4 +1,3 @@
-beta.developer.10x.redoxengine.com
 canvass-search-qa.canvass-qa.ap-southeast-1.vespa.oath.cloud
 canvass-search-qa.canvass-qa.aws-us-east-1a.vespa.oath.cloud
 canvass-search-qa.canvass-qa.aws-us-east-1b.vespa.oath.cloud
@@ -123,3 +122,4 @@ cd.combined-cluster.vespa.cd-us-central-1.test.vespa.oath.cloud
 cd.combined-cluster.vespa.cd-us-central-1.vespa.oath.cloud
 cd.combined-cluster.vespa.cd-us-west-1.dev.vespa.oath.cloud
 cd.combined-cluster.vespa.cd-us-west-1.vespa.oath.cloud
+cd.combined-cluster.vespa.global.vespa.oath.cloud

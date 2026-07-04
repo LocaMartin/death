@@ -1,4 +1,3 @@
-cd.combined-cluster.vespa.global.vespa.oath.cloud
 cd.content-layer.vespa.cd-aws-us-east-1a.vespa.oath.cloud
 cd.content-layer.vespa.cd-us-central-1.dev.vespa.oath.cloud
 cd.content-layer.vespa.cd-us-central-1.staging.vespa.oath.cloud
@@ -123,3 +122,4 @@ cd.musum.streaming-search.vespa.cd-aws-us-east-1a.vespa.oath.cloud
 cd.musum.streaming-search.vespa.cd-us-central-1.dev.vespa.oath.cloud
 cd.musum.streaming-search.vespa.cd-us-central-1.staging.vespa.oath.cloud
 cd.musum.streaming-search.vespa.cd-us-central-1.test.vespa.oath.cloud
+cd.musum.streaming-search.vespa.cd-us-central-1.vespa.oath.cloud
