@@ -998,3 +998,4 @@ contentindexing-stg.partner-publishing.us-east-3.perf.vespa.oath.cloud
 contentindexing-stg.partner-publishing.us-east-3.staging.vespa.oath.cloud
 contentindexing-stg.partner-publishing.us-east-3.vespa.oath.cloud
 contentindexing-stg.partner-publishing.us-west-1.vespa.oath.cloud
+control.prod-mec.bf2.ows.oath.cloud
