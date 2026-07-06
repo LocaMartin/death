@@ -1,3 +1,4 @@
+api.deriv.com
 api.dev.lando.nonprod.cloudops.mozgcp.net
 api.developer.monespacesante.fr
 api.digili.s-cloud.fi
@@ -122,4 +123,3 @@ api.staging-enviso.io/basketcenterapi
 api.staging-enviso.io/bookingapi
 api.staging-enviso.io/capacitycenterapi
 api.staging-enviso.io/directsellingapi
-api.staging-enviso.io/eloxxapi/v1/authorizationgroups

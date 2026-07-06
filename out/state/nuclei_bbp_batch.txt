@@ -340,6 +340,7 @@ ap-s.cloud.com
 apcgateway.marriott.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
+api-app.telenor.se
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-js.datadome.co
@@ -497,4 +498,3 @@ api.staging-enviso.io/basketcenterapi
 api.staging-enviso.io/bookingapi
 api.staging-enviso.io/capacitycenterapi
 api.staging-enviso.io/directsellingapi
-api.staging-enviso.io/eloxxapi/v1/authorizationgroups
