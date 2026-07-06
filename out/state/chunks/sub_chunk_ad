@@ -1,4 +1,3 @@
-hotornot.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 hotornot.scoober.global.public.vespa.oath.cloud
 hp-app.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 hp-app.scoober.aws-us-east-1c.public.vespa.oath.cloud
@@ -123,3 +122,4 @@ id-us-w13.identityb2b.aws.oath.cloud
 id-us-w14.identityb2b.aws.oath.cloud
 id-us-w15.identityb2b.aws.oath.cloud
 id-us-w16.identityb2b.aws.oath.cloud
+id-us-w17.identityb2b.aws.oath.cloud

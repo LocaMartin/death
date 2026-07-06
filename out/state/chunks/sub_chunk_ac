@@ -1,4 +1,3 @@
-flurry-dev-hadoop-job-history-server.flurry.svc.use1.grid-aws-dev.aws.yahoo.cloud
 flurry-dev-hadoop-job-history-server.us-east-1.svc.use1.grid-aws-dev.aws.yahoo.cloud
 flurry-dev-hadoop-timelineserver.flurry.svc.use1.grid-aws-dev.aws.yahoo.cloud
 flurry-dev-hadoop-timelineserver.us-east-1.svc.use1.grid-aws-dev.aws.yahoo.cloud
@@ -123,3 +122,4 @@ home-rou-test1.aws.oath.cloud
 hotornot.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 hotornot.scoober.aws-us-east-1c.public.vespa.oath.cloud
 hotornot.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
+hotornot.scoober.aws-us-east-1c.test.public.vespa.oath.cloud

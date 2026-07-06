@@ -1,4 +1,3 @@
-control.prod-mec.bf2.ows.oath.cloud
 control.prod-mec.gq2.ows.oath.cloud
 cooordinator.aolp-ds-dev.aws.oath.cloud
 coordinator.aolp-ds-dev.aws.oath.cloud
@@ -123,3 +122,4 @@ dmp-off-ingest.aolp-ds-prd.aws.oath.cloud
 dmp-taxonomy-dev.aolp-ds-dev.aws.oath.cloud
 dmp-taxonomy-qai.aolp-ds-dev.aws.oath.cloud
 dmp-taxonomy.aolp-ds-dev.aws.oath.cloud
+docker.uplynk-inf.aws.oath.cloud
