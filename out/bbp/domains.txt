@@ -340,6 +340,7 @@ ap-s.cloud.com
 apcgateway.marriott.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
+api-app.telenor.se
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-js.datadome.co
@@ -552,6 +553,7 @@ api.vault.chiatest.net
 api.veriff.me
 api.vhx.tv
 api.vimeo.com
+api.vimla.se
 api.vrt.radio
 api.watsons.co.id
 api.watsons.co.th
@@ -573,6 +575,7 @@ apigatewayc.marriott.com
 apigw.foliofn.com
 apigwc.marriott.com
 apis.mail.yahoo.com
+apis.telenor.se
 apix.vodafone.om
 app-insiders.marriott.com
 app.aikido.dev
@@ -1169,6 +1172,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -2026,6 +2031,7 @@ folioinstitutional.com
 folioinvesting.com
 fonts.adobe.com
 forescout.com
+foretagsportalen.telenor.se
 forms.cybersource.com
 forms.mobilevikings.be
 forspotify.com
@@ -2844,6 +2850,8 @@ mipay.com
 mipay.net
 mir.uzleuven.be
 mirc.uzleuven.be
+mitt.vimla.se
+mittforetag.telenor.se
 miui is xiaomi phone operation system (os), custimized on stock android.  the scope inculdes the pre-installed apps with xiaomi certification signed
 miui.cn
 miui.com
@@ -3220,6 +3228,7 @@ platform.remix.com
 platformservices.io
 play-portraits.com
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
+play.ownit.se
 playartifact.com
 playcanv.as
 playcanvas.com
@@ -3321,6 +3330,7 @@ profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.accounts.firefox.com
 profile.playstation.com
+profile.telenor.se
 profiler.firefox.com
 profiles-api.datacamp.com
 profiles.wordpress.org
@@ -3651,6 +3661,7 @@ sign.dropbox.com
 signalpath.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
+signin.telenor.se
 signup.sendgrid.com
 siilo.com
 simperium.com
@@ -3825,6 +3836,7 @@ story.snapchat.com
 stradivarius.cn
 stradivarius.com
 strapi.reddit.com
+stream.telenor.se
 streaming-api.iris.acceptance.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
@@ -4000,6 +4012,7 @@ tucarro.com
 tucarro.com.co
 tumblr.com
 tumoto.com
+tv.telenor.se
 tvg.com
 tw.bid.yahoo.com
 tw.com.watsons.app
