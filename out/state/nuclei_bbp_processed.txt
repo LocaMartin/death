@@ -340,6 +340,7 @@ ap-s.cloud.com
 apcgateway.marriott.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
+api-app.telenor.se
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-js.datadome.co
