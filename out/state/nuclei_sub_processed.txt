@@ -1498,3 +1498,4 @@ id-us-w13.identityb2b.aws.oath.cloud
 id-us-w14.identityb2b.aws.oath.cloud
 id-us-w15.identityb2b.aws.oath.cloud
 id-us-w16.identityb2b.aws.oath.cloud
+id-us-w17.identityb2b.aws.oath.cloud
