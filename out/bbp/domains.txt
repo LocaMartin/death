@@ -938,9 +938,6 @@ cam.notebleue.pro
 campagne.iciparisxl.be
 campagne.iciparisxl.lu
 campagne.iciparisxl.nl
-campaign-uat.kruidvat.be
-campaign-uat.kruidvat.nl
-campaign-uat.trekpleister.nl
 campaign.drogas.lt
 campaign.drogas.lv
 campaign.kruidvat.be
@@ -950,6 +947,8 @@ campaign.marionnaud.ch
 campaign.marionnaud.cz
 campaign.marionnaud.hu
 campaign.marionnaud.it
+campaign.marionnaud.ro
+campaign.marionnaud.sk
 campaign.savers.co.uk
 campaign.superdrug.com
 campaign.theperfumeshop.com
@@ -1006,8 +1005,6 @@ cdn.shop-apotheke.com
 cdna.lystit.com
 cewe.kruidvat.be
 cewe.kruidvat.nl
-cewetest.kruidvat.be
-cewetest.kruidvat.nl
 ch.marionnaud.customer
 chain.link
 chalet.8x8.com
@@ -1069,6 +1066,7 @@ cms.nba.com
 cmtelecom.com
 co.mona.android
 co.uk.getmondo
+coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.io
 code.playcanvas.com
@@ -2416,6 +2414,7 @@ jbl.com
 jbl.com.br
 jbl.nl
 jbl.ru
+jeux-concours.marionnaud.fr
 jimmobile.be
 jira.hyattdev.com
 jira.logitech.com
@@ -4667,6 +4666,7 @@ www.stradivarius.com
 www.stripe.partners
 www.superdrug.com
 www.superdrugmobile.com
+www.supernovas.indrive.com
 www.swiftcapital.com
 www.swiftfinancial.com
 www.swisstransfer.com
