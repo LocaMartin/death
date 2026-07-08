@@ -368,6 +368,7 @@ api.cloudflare.com
 api.cloudways.com
 api.cm.com
 api.cmtelecom.com
+api.codacy.com
 api.coinbase.com
 api.coindcx.com
 api.creditkarma.com
@@ -583,6 +584,7 @@ app.alasco.de
 app.basecamp.com
 app.blueskytravelvietnam.com
 app.circle.com
+app.codacy.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
@@ -1667,6 +1669,7 @@ dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 dashboard.stripe.com
+dashlane.com
 data.mail.yahoo.com
 data.ninjakiwi.com
 databricks.com

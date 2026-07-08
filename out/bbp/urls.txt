@@ -547,6 +547,7 @@ https://gitlab.torproject.org/tpo/applications/tor-browser
 https://gitlab.torproject.org/tpo/core/tor
 https://glow.imoulife.com
 https://graphql.sandbox.topperpay.com/graphql
+https://hackerone-m1rtuq8orz.hbstaging.website/
 https://healthmate.withings.com
 https://hg.easy4ipcloud.com
 https://hln.be/inloggen
@@ -703,6 +704,7 @@ https://service.post.ch/zopa/app
 https://settings.superhuman.com
 https://shop-acc.kinepolis.be/
 https://shop.post.ch/shop
+https://signin-hackerone.hbstaging.website/
 https://sip2.dmp.gouv.fr
 https://solutions.visaacceptance.com/subscription
 https://soundtrack.io
