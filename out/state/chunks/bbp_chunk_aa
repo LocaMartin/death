@@ -1,4 +1,4 @@
-api-app.telenor.se
+api.codacy.com
 api.staging-enviso.io/eloxxapi/v1/authorizationgroups/{authorizationgroupid}
 api.staging-enviso.io/eloxxapi/v1/authorizationgroups/{authorizationgroupid}/lockergroups
 api.staging-enviso.io/eloxxapi/v1/authorizationgroups/{authorizationgroupid}/lockerusers
@@ -83,6 +83,7 @@ app.alasco.de
 app.basecamp.com
 app.blueskytravelvietnam.com
 app.circle.com
+app.codacy.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
@@ -122,4 +123,3 @@ app.marionnaud.ro
 app.marionnaud.sk
 app.metronome.com
 app.midtrans.com
-app.moderntreasury.com
