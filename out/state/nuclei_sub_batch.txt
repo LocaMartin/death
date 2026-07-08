@@ -1,4 +1,3 @@
-id-us-w17.identityb2b.aws.oath.cloud
 id-us-w18.identityb2b.aws.oath.cloud
 id.identityb2b.aws.oath.cloud
 ideas.5nine.com
@@ -498,3 +497,4 @@ oneapi-qa.mse-dev.aws.oath.cloud
 oneapi.mse-prd.aws.oath.cloud
 onecreative-qa.aws.oath.cloud
 onecreative.aws.oath.cloud
+online-data-ingestion-jenkins.aolp-ds-dev.aws.oath.cloud

@@ -1,4 +1,3 @@
-id-us-w17.identityb2b.aws.oath.cloud
 id-us-w18.identityb2b.aws.oath.cloud
 id.identityb2b.aws.oath.cloud
 ideas.5nine.com
@@ -123,3 +122,4 @@ kraune.myapp3.kkraunetenant1.aws-us-east-1c.public.vespa.oath.cloud
 kraune.myapp3.kkraunetenant1.aws-us-east-1c.staging.public.vespa.oath.cloud
 kraune.myapp3.kkraunetenant1.aws-us-east-1c.test.public.vespa.oath.cloud
 kraune.myapp3.kkraunetenant1.global.public.vespa.oath.cloud
+kraune.vespacloud-docsearch.vespa-team.aws-us-east-1c.dev.public.vespa.oath.cloud

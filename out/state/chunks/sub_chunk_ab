@@ -1,4 +1,3 @@
-kraune.vespacloud-docsearch.vespa-team.aws-us-east-1c.dev.public.vespa.oath.cloud
 kraune.vespacloud-docsearch.vespa-team.aws-us-east-1c.public.vespa.oath.cloud
 kraune.vespacloud-docsearch.vespa-team.aws-us-east-1c.staging.public.vespa.oath.cloud
 kraune.vespacloud-docsearch.vespa-team.aws-us-east-1c.test.public.vespa.oath.cloud
@@ -123,3 +122,4 @@ merchsearch-staging.ect-srch.us-east-3.staging.vespa.oath.cloud
 merchsearch-staging.ect-srch.us-east-3.vespa.oath.cloud
 merchsearch-staging.ect-srch.us-west-1.vespa.oath.cloud
 mh.mikkemus.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
+mh.mikkemus.scoober.aws-us-east-1c.public.vespa.oath.cloud
