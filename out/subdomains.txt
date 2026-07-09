@@ -932,6 +932,7 @@ comics.scoober.aws-us-east-1c.public.vespa.oath.cloud
 comics.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 comics.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 comics.scoober.global.public.vespa.oath.cloud
+common.1win.com
 comms-notifications-dev.aws.oath.cloud
 comms-notifications-prod.aws.oath.cloud
 comms-notifications-stg.aws.oath.cloud
@@ -3095,6 +3096,7 @@ www.23andmeresearchinstitute.org
 www.3lateral.com
 www.4njbets.com
 www.5nine.com
+www.common.1win.com
 www.compuserve.com
 www.go.5nine.com
 www.isp.netscape.com
