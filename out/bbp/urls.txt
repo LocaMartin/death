@@ -38,6 +38,7 @@ http://hub.vznkul.be/services/interhub/InterHubService
 http://hub.vznkul.be/services/intrahub/IntraHubService
 http://hubacc.vznkul.be/services/acceptance/interhub/InterHubService
 http://hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService
+http://ibt-test.six-group.com
 http://ims-na1.adobelogin.com
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
@@ -73,6 +74,12 @@ http://www.whynot.com/
 https://1.1.1.1/
 https://1win.com/betting
 https://1win.com/casino
+https://23andme.org/ancestry/last-names
+https://23andme.org/blog
+https://23andme.org/clinicians
+https://23andme.org/education
+https://23andme.org/media-center
+https://23andme.org/research
 https://8x8.vc/xmpp-websocket
 https://a.simplemdm.com/
 https://account.post.ch

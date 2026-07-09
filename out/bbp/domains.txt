@@ -229,6 +229,7 @@ ads.allizom.org
 ads.mozilla.org
 ads.reddit.com
 ads.snapchat.com
+ads.temu.com
 ads.tiktok.com
 adtechnology.axelspringer.com
 advancedcustomfields.com
@@ -843,7 +844,6 @@ bitstrips.com
 blablacardaily.com
 blinkforhome.com
 blinkit.com
-blog.23andme.com
 blog.creditkarma.com
 blog.indrive.com
 blog.playcanvas.com
@@ -1762,7 +1762,6 @@ digitalspecs.portofantwerpbruges.com
 direct-demo.currencycloud.com
 direct.playstation.com
 directverify.in
-discover.23andme.com
 distribution-xml.booking.com
 district.in
 dns.eu
@@ -1861,7 +1860,6 @@ edition.iciparisxl.nl
 edition.in
 editionhotels.com
 editorial.one
-education.23andme.com
 education.github.com
 eero.com
 efast.marriott.com
@@ -2347,6 +2345,7 @@ indriver.com
 indriver.io
 indriverapp.com
 inf.fndlsb.net
+inference.do-ai.run
 infinite.visa.fr
 influencers.tw.coupang.com
 info.authorize.net
@@ -2746,7 +2745,6 @@ media.savers.co.uk
 media.superdrug.com
 media.theperfumeshop.com
 media.watsons.com.tr
-mediacenter.23andme.com
 medias.fortress.com.hk
 medias.lookatme.com.ph
 medias.pns.hk
@@ -2759,7 +2757,6 @@ medias.watsons.com.sg
 medias.watsons.com.tw
 medias.watsons.vn
 mediatonic.co.uk
-medical.23andme.com
 meechum.netflix.com
 meesho.io
 meetings.hyatt.com
@@ -3457,7 +3454,6 @@ res.vacations.seaworld.com
 res.vacations.sesameplace.com
 res.vacations.united.com
 res.vacations.universalstudioshollywood.com
-research.23andme.com
 research.gs.com
 reservations.all-inclusive.marriott.com
 reservations.wynnvacations.com
@@ -3821,7 +3817,7 @@ steamstatic.com
 stock.adobe.com
 storage.infomaniak.com
 store-display.tw.coupang.com
-store.23andme.com
+store.23andme.org
 store.playcanvas.com
 store.playstation.com
 store.rockstargames.com
@@ -3854,7 +3850,7 @@ studio-api.swapcard.com
 studio.shop-apotheke.com
 studio.swapcard.com
 studiopress.com
-style.23andme.com
+style.23andme.org
 stylebook.de
 subdomain takeover - konghq.com
 subp-router.hereapi.com
@@ -4326,7 +4322,7 @@ www-qa.nba.com
 www-qa.wnba.com
 www-uat.nba.com
 www.1000-premiers-jours.fr
-www.23andme.com
+www.23andme.org
 www.4njbets.com
 www.ad.nl
 www.ad.nl/abonnementen
