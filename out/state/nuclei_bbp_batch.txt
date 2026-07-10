@@ -1,6 +1,4 @@
 ads.temu.com
-api.codacy.com
-app.codacy.com
 cdn.nba.com
 cdn.pdst.fm
 cdn.plaid.com
@@ -498,3 +496,5 @@ com.xiaomi.mipicks
 com.xiaomi.miplay_client
 com.xiaomi.payment
 com.xiaomi.scanner
+com.xiaomi.simactivate.service
+com.xiaomi.smarthome

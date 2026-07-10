@@ -1,5 +1,3 @@
-com.amazon.sft.rangoli.seller.app
-com.amazon.shopperpanel.android.mobile.app
 com.amazon.storm.lightning.client.aosp
 com.amazon.swa.mobileapp
 com.amazon.tahoe.freetime
@@ -123,3 +121,5 @@ com.gs.mobile.gsnow
 com.gs.mobile.trader
 com.gs.pfmg.wellness
 com.gs.pwmdigital.external
+com.gs.pwmdigital.external.android
+com.hcom.android
