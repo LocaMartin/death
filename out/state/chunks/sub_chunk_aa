@@ -1,5 +1,4 @@
 common.1win.com
-online-data-ingestion-jenkins.aolp-ds-dev.aws.oath.cloud
 openziti-controller.athenz-experiments.aws.oath.cloud
 operations.us-east-1.aolp-ds-prd.aws.oath.cloud
 orangecrush.one-mobile-dev.aws.oath.cloud
@@ -123,3 +122,4 @@ publiccd.abc.multi-instance.vespa.aws-us-east-1c.staging.public-cd.vespa.oath.cl
 publiccd.abc.multi-instance.vespa.aws-us-east-1c.test.public-cd.vespa.oath.cloud
 publiccd.album-recommendation.vespa.aws-us-east-1c.dev.public-cd.vespa.oath.cloud
 publiccd.album-recommendation.vespa.aws-us-east-1c.public-cd.vespa.oath.cloud
+publiccd.album-recommendation.vespa.aws-us-east-1c.staging.public-cd.vespa.oath.cloud

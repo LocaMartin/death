@@ -1,5 +1,4 @@
 common.1win.com
-online-data-ingestion-jenkins.aolp-ds-dev.aws.oath.cloud
 openziti-controller.athenz-experiments.aws.oath.cloud
 operations.us-east-1.aolp-ds-prd.aws.oath.cloud
 orangecrush.one-mobile-dev.aws.oath.cloud
@@ -498,3 +497,4 @@ splunk-srch-head.subscriptions-devops-obi-aws-dev.aws.oath.cloud
 splunk-srch.subscriptions-access-aws-dev.aws.oath.cloud
 splunk-srch.subscriptions-devops-access-aws-dev.aws.oath.cloud
 splunk-srch.subscriptions-lca-content-aws-prod.aws.oath.cloud
+splunk-srch.subscriptions-loki-aws-dev.aws.oath.cloud

@@ -1,4 +1,3 @@
-sibala-staging.sibala.us-east-3.perf.vespa.oath.cloud
 sibala-staging.sibala.us-east-3.staging.vespa.oath.cloud
 sibala-staging.sibala.us-east-3.vespa.oath.cloud
 sibala-staging.sibala.us-west-1.vespa.oath.cloud
@@ -123,3 +122,4 @@ splunk-srch-head.subscriptions-devops-obi-aws-dev.aws.oath.cloud
 splunk-srch.subscriptions-access-aws-dev.aws.oath.cloud
 splunk-srch.subscriptions-devops-access-aws-dev.aws.oath.cloud
 splunk-srch.subscriptions-lca-content-aws-prod.aws.oath.cloud
+splunk-srch.subscriptions-loki-aws-dev.aws.oath.cloud

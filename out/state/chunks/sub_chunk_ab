@@ -1,4 +1,3 @@
-publiccd.album-recommendation.vespa.aws-us-east-1c.staging.public-cd.vespa.oath.cloud
 publiccd.album-recommendation.vespa.aws-us-east-1c.test.public-cd.vespa.oath.cloud
 publiccd.album-recommendation.vespa.global.public-cd.vespa.oath.cloud
 publiccd.andreer.epsilon.andreer.aws-us-east-1c.dev.public-cd.vespa.oath.cloud
@@ -123,3 +122,4 @@ publiccd.tls-testing.andreer.aws-us-east-1c.dev.public-cd.vespa.oath.cloud
 publiccd.tls-testing.andreer.aws-us-east-1c.public-cd.vespa.oath.cloud
 publiccd.tls-testing.andreer.aws-us-east-1c.staging.public-cd.vespa.oath.cloud
 publiccd.tls-testing.andreer.aws-us-east-1c.test.public-cd.vespa.oath.cloud
+publiccd.tls-testing.andreer.global.public-cd.vespa.oath.cloud
