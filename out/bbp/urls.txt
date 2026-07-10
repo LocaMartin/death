@@ -172,7 +172,6 @@ https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-dfm.mementoblockchain.com/
 https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
-https://bugbounty-ctf.1password.com/
 https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://business.rivian.com/api
 https://businessportal.doccleservices.eu/
@@ -764,7 +763,6 @@ https://ui.com/uid
 https://uiscoop.payzippy.com
 https://uketa.vfsglobal.com/forms/uketa
 https://unreal-agents.8x8pilot.com
-https://updates-autopush.stage.mozaws.net
 https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/t88511d1

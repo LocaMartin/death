@@ -473,7 +473,6 @@ api.privateinternetaccess.com
 api.privy.io
 api.prod.innovexperiments.com
 api.prod.whoop.com
-api.profiler.firefox.com
 api.qualified.com/v1
 api.qwant.com
 api.razorpay.com
@@ -1515,7 +1514,6 @@ comic-indies.pixiv.net
 comic.pixiv.net
 commerce.coinbase.com
 commercemarketplace.adobe.com
-community-tc.services.mozilla.com
 community.8x8.com
 community.forescout.com
 community.logitech.com
@@ -3330,7 +3328,6 @@ profile-photos.hackerone-user-content.com
 profile.accounts.firefox.com
 profile.playstation.com
 profile.telenor.se
-profiler.firefox.com
 profiles-api.datacamp.com
 profiles.wordpress.org
 projectbaseline.com
@@ -3348,7 +3345,6 @@ publicsafety.ring.com
 pubtools.private.8x8cloud.net
 pullandbear.cn
 pullandbear.com
-push.services.mozilla.com
 pwapi.ex2b.com
 pwn.intigriti.rocks
 py.pl
@@ -3783,7 +3779,6 @@ stag.tomorrowland.com
 stag.uzleuven.be
 stag.weareone.world
 stage.landmarkcinemas.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-airtableblocks.com
 staging.airtable.com
 staging.api.danalock.com
@@ -4064,7 +4059,6 @@ unrealeditorfortnite-win64-shipping.exe
 unrealengine.com
 unrealtournament.com
 updates.forescout.com
-updates.push.services.mozilla.com
 uphold.com
 upld.krisp.ai
 upsell.hyatt.com
@@ -4313,7 +4307,6 @@ wps-cps.dmp.gouv.fr
 wps-cps.dmp.monespacesante.fr
 wpscan.com
 ws.sorare.com
-wss://autopush.stage.mozaws.net
 wss://messaging.vrt.be/
 www-dev.nba.com
 www-dev.wnba.com
