@@ -2498,3 +2498,4 @@ splunk-srch-head.subscriptions-devops-obi-aws-dev.aws.oath.cloud
 splunk-srch.subscriptions-access-aws-dev.aws.oath.cloud
 splunk-srch.subscriptions-devops-access-aws-dev.aws.oath.cloud
 splunk-srch.subscriptions-lca-content-aws-prod.aws.oath.cloud
+splunk-srch.subscriptions-loki-aws-dev.aws.oath.cloud
