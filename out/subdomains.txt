@@ -1680,6 +1680,7 @@ local-ssd.bjormel.aws-us-east-1c.staging.public.vespa.oath.cloud
 local-ssd.bjormel.aws-us-east-1c.test.public.vespa.oath.cloud
 local-ssd.bjormel.global.public.vespa.oath.cloud
 locust.uplynk-inf.aws.oath.cloud
+login-4njbets.us.betfair.com
 login.compuserve.com
 lsbe-hv.local-search-content.ap-northeast-1.vespa.oath.cloud
 lsbe-hv.local-search-content.ap-northeast-2.vespa.oath.cloud
