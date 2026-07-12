@@ -1,5 +1,3 @@
-com.xiaomi.simactivate.service
-com.xiaomi.smarthome
 com.xiaomi.xmsf
 com.xoom.android.app
 com.xoom.app
@@ -123,3 +121,5 @@ customer-sessions.arkoselabs.com
 customerevents.netflix.com
 cw.visa.com
 cweb-ott-aws-qa.nba.com
+cweb-ott-aws-uat-uw2.nba.com
+cweb-ott-aws-uat.nba.com
