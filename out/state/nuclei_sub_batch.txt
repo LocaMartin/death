@@ -1,4 +1,4 @@
-splunk-srch.subscriptions-loki-aws-dev.aws.oath.cloud
+login-4njbets.us.betfair.com
 splunk.customer-care-voc-aws-prod.aws.oath.cloud
 splunk.ec-horizontal-rewards-dev-tools.aws.oath.cloud
 splunk.payments-aws-tools-dev.aws.oath.cloud
