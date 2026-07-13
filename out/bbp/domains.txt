@@ -156,7 +156,6 @@ ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
 ablink.info.remitly.com
 about.gitlab.com
 academy-outbound-ads.tiktok.com
-academy.deriv.com
 academy.infomaniak.com
 acc-pub.mobilevikings.be
 acc.mobilevikings.be
@@ -1171,6 +1170,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -1801,8 +1802,6 @@ dropmix.com
 dropxl.com
 duokan.com
 dwy.visa.com
-dx-demo.deriv.com
-dx.deriv.com
 e2ro.com
 eaccountingprinting.stage.vismaonline.com
 earlywarning.com
@@ -2407,6 +2406,7 @@ itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
 itscope.com
 itscope.de
 itv7.itv.com
+ivo.ai
 ix2smbdyjt.infomaniak.site
 jbl.com
 jbl.com.br
@@ -2497,6 +2497,7 @@ lark-frontier.byteoversea.com
 larksuite.com
 lastminute.co.nz
 lastminute.com.au
+latchapp.com
 launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
