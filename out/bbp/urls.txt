@@ -49,6 +49,7 @@ http://open.oppomobile.com
 http://payments.hostinger.com
 http://secure-iphone-xml.booking.com/json
 http://socialdeal.nl/inspirations/bluemonday
+http://sso-demo.gocardless-staging.io
 http://streamer.finance.yahoo.com
 http://testnet.bybit.eu
 http://tsock.us1.twilio.com
@@ -623,6 +624,7 @@ https://ncp-gw-abu.media.yahoo.com/
 https://news-app.abumedia.yql.yahoo.com
 https://nexo.com/
 https://nominatim.bykea.net
+https://ob-sandbox.gocardless.io
 https://oneview.threatdownstage.com
 https://online.mustaqel.qa/qat/en/login
 https://online.srilankaevisa.lk/lka/en/login

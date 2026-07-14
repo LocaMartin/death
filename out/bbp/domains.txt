@@ -346,6 +346,7 @@ api-gateway.polygon.technology
 api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology
+api-sandbox.gocardless.com
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api-wallet-sandbox.venly.io
@@ -754,6 +755,7 @@ auth.services.adobe.com
 auth.skypicker.com
 auth.truelayer-sandbox.com
 auth.truelayer.com
+auth0.gocardless.com
 authentication.clearme.com
 authentication.wolt.com
 authz.workbox.dk
@@ -779,6 +781,7 @@ bal.nba.com
 ballistic.com
 ballistic.com.br
 bancoplata.mx
+bankaccountdata.gocardless.com
 baoliyun.com
 base.org
 basecamp-setup.exe
@@ -1532,6 +1535,7 @@ concierge.clearme.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
+connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network
 connect.secure.wellsfargo.com
@@ -1727,6 +1731,7 @@ developer.authorize.net
 developer.crypto.com
 developer.currencycloud.com
 developer.cybersource.com
+developer.gocardless.com
 developer.gs.com
 developer.infomaniak.com
 developer.konghq.com
@@ -2120,7 +2125,6 @@ gleague-qa.nba.com
 gleague.nba.com
 global-api.citymapper.com
 global-liquidity.gs.com
-globaldesign.marriott.com
 globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
@@ -2131,6 +2135,11 @@ go.geneva-staging.com
 go.stripchat.com
 go.welt.de
 gobiz.co.id
+gocardless-banking.io
+gocardless-cicd.io
+gocardless-lab.io
+gocardless.dev
+gocardless.io
 gofin.io
 gofood.co.id
 gofoodmerchant.co.id
@@ -2652,6 +2661,7 @@ mailpoet.com
 maintenance.logitech.com
 malwarebytes.com
 manage-dev.nba.com
+manage-sandbox.gocardless.com
 manage-teams-dev.nba.com
 manage-teams-qa.nba.com
 manage-teams-uat.nba.com
@@ -3016,9 +3026,11 @@ nummus.robinhood.com
 nw.ring.com
 nz.co.vista.android.movie.mjrtheatres
 oasisprod.marriott.com
+oauth-sandbox.gocardless.com
 oauth.accounts.firefox.com
 oauth.deriv.com
 oauth.ring.com
+ob.gocardless.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 observability.embark.net
@@ -3127,6 +3139,7 @@ passwordchallenge.marriott.com
 pastela.app
 pay-api.truelayer-sandbox.com
 pay-api.truelayer.com
+pay-sandbox.gocardless.com
 pay.8x8.com
 pay.doccle.be
 pay.ibex.exchange
@@ -3140,6 +3153,7 @@ paybridge.booking.com
 paydiant.com
 paydirect.truelayer-sandbox.com
 paydirect.truelayer.com
+payer-details-sandbox.gocardless.com
 paylution.com
 payment.backend-capital.com
 payment.bingo.com
@@ -4486,6 +4500,7 @@ www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
 www.giving.marriott.com
+www.gocardless.com
 www.goodrx.com
 www.gr.dyson.com
 www.gripp.com
