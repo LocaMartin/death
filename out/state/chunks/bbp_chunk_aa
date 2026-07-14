@@ -1,3 +1,8 @@
+api-sandbox.gocardless.com
+auth0.gocardless.com
+bankaccountdata.gocardless.com
+connect-sandbox.gocardless.com
+developer.gocardless.com
 fire-qa.wnba.com
 fire.wnba.com
 firefly.adobe.com
@@ -118,8 +123,3 @@ githubapp.com
 githubusercontent.com
 gitlab.com
 gitlab.net
-gitlab.org
-gitlap.com
-gleague-dev.nba.com
-gleague-qa.nba.com
-gleague.nba.com

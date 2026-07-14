@@ -1,3 +1,8 @@
+api-sandbox.gocardless.com
+auth0.gocardless.com
+bankaccountdata.gocardless.com
+connect-sandbox.gocardless.com
+developer.gocardless.com
 fire-qa.wnba.com
 fire.wnba.com
 firefly.adobe.com
@@ -125,7 +130,6 @@ gleague-qa.nba.com
 gleague.nba.com
 global-api.citymapper.com
 global-liquidity.gs.com
-globaldesign.marriott.com
 globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
@@ -136,6 +140,11 @@ go.geneva-staging.com
 go.stripchat.com
 go.welt.de
 gobiz.co.id
+gocardless-banking.io
+gocardless-cicd.io
+gocardless-lab.io
+gocardless.dev
+gocardless.io
 gofin.io
 gofood.co.id
 gofoodmerchant.co.id
@@ -489,12 +498,3 @@ kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be
 kwsdose.be
-kyc-onboarding.booking.com
-l75pvbdyjo.infomaniak.site
-label-studio-public.sonantic.io
-labs.8x8.com
-landing.ryadom.kz
-landmarkcinemas.com
-lando.moz.tools
-lando.services.mozilla.com
-lansweeper.com
