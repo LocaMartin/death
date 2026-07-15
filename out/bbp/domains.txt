@@ -369,7 +369,6 @@ api.cloudflare.com
 api.cloudways.com
 api.cm.com
 api.cmtelecom.com
-api.codacy.com
 api.coinbase.com
 api.coindcx.com
 api.creditkarma.com
@@ -584,7 +583,6 @@ app.alasco.de
 app.basecamp.com
 app.blueskytravelvietnam.com
 app.circle.com
-app.codacy.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
@@ -2657,6 +2655,7 @@ mail-builder.infomaniak.com
 mail.hostinger.com/v2
 mail.infomaniak.com
 mail.notion.so
+mail.superhuman.com
 mailpoet.com
 maintenance.logitech.com
 malwarebytes.com
@@ -4202,7 +4201,6 @@ vznkul.be
 vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
-waf.cumulusfire.net
 wali.com
 wallet.tg
 wallet.venly.io
