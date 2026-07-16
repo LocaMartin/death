@@ -148,3 +148,13 @@
 8x8testb.com
 94.107.237.192/26
 97.105.243.96/28
+a.exodus.io
+a4k.amazon.com
+a5s.hackerone-ext-content.com
+ab-platform-api.eu-east-1.indriverapp.com
+ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
+ablink.info.remitly.com
+about.gitlab.com
+academy-outbound-ads.tiktok.com
+academy.infomaniak.com
+acc-pub.mobilevikings.be
