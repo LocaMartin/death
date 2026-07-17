@@ -113,11 +113,19 @@
 8x8staging.com
 8x8testa.com
 a.cceng.8x8.com
+a.exodus.io
+a4k.amazon.com
+a5s.hackerone-ext-content.com
 aaa.8x8.com
 aaa.staging.sjc01.us-west.8x8cloud.net
+ab-platform-api.eu-east-1.indriverapp.com
+ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
+ablink.info.remitly.com
+about.gitlab.com
 abumedia-aws-nonprod.aws.oath.cloud
 abumedia-aws-partner.aws.oath.cloud
 abumedia.aws.oath.cloud
+academy-outbound-ads.tiktok.com
 academy.8x8.com
 accountmanager.8x8.com
 acd.8x8.com
@@ -1177,6 +1185,9 @@ crs-review-api.crs-prd.aws.oath.cloud
 crs-review-api.read-internal.crs-prd.aws.oath.cloud
 crs-review-api.read.crs-prd.aws.oath.cloud
 crs-review-api.write.crs-prd.aws.oath.cloud
+crypto-pill-playground-d.a.exodus.io
+crypto-pill-playground-main.a.exodus.io
+crypto-pill-playground.a.exodus.io
 csmail.compuserve.com
 cssvc.travelocity.compuserve.com
 cts-jenkins.rtb-dev.aws.oath.cloud
@@ -1239,6 +1250,7 @@ devjaegerquery.home-ccannell.aws.oath.cloud
 devjaegerquery.oath-publishing-non-prod.aws.oath.cloud
 devjaegerui.home-ccannell.aws.oath.cloud
 devjaegerui.oath-publishing-non-prod.aws.oath.cloud
+devops-handbook.a.exodus.io
 devrel.8x8cloud.net
 dictionary-vespa-app-stg.dictionary-search.ap-northeast-1.vespa.oath.cloud
 dictionary-vespa-app-stg.dictionary-search.ap-northeast-2.vespa.oath.cloud
@@ -1395,6 +1407,8 @@ event.amt-aws-uat.aws.oath.cloud
 everything.scoober.global.public.vespa.oath.cloud
 evolve.5nine.com
 exceptions.ycm-aws-devel.aws.oath.cloud
+exodus-javascript-sdk.a.exodus.io
+exokit.a.exodus.io
 express.8x8staging.com
 fantonald1000.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 fantonald1000.scoober.aws-us-east-1c.public.vespa.oath.cloud
@@ -1806,6 +1820,7 @@ jvenstad.albums.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 k8s.8x8cloud.net
 k8sfu.home-albertoc-aws.aws.oath.cloud
 kardamena-uncovered.8x8.vc
+kassa.acc-pub.mobilevikings.be
 kb.5nine.com
 kefalos-uncovered.8x8.vc
 keystone-api.jacobestelle-home.bf2.ows.oath.cloud
@@ -2633,6 +2648,7 @@ sabre-dev-use1-hadoop-timelineserver.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 sabre-dev-use1-hadoop-yarn-rm.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 sabre-dev-use1-hbase-master.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 sabre-dev-use1-zookeeper-headless.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
+safeguard.a.exodus.io
 salesloft.5nine.com
 sample-jtakagi.yj.aws-us-east-1c.dev.public.vespa.oath.cloud
 sample-jtakagi.yj.aws-us-east-1c.public.vespa.oath.cloud
@@ -2641,6 +2657,7 @@ sample-jtakagi.yj.aws-us-east-1c.test.public.vespa.oath.cloud
 sample-jtakagi.yj.global.public.vespa.oath.cloud
 sandbox-api.admanager.yahoo.com
 sandbox.api.admanager.yahoo.com
+scam-hitlist.a.exodus.io
 scheduler.ai.8x8.vc
 scooby-dooby-doo.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 scooby-dooby-doo.scoober.aws-us-east-1c.public.vespa.oath.cloud
@@ -3237,6 +3254,9 @@ vfiuflcgvbywz2ibybvn5f5eeriexm2et.vespa.oath.cloud
 vfj3ajosjie6ta64mwvnr4ezvcvazo6o6.public.vespa.oath.cloud
 vformkflfztsz2hk5ffi3oxcaovrujbva.public.vespa.oath.cloud
 vgisnc3x4ela6bosm5fetqgn5dsstjfso.vespa.oath.cloud
+vgs-fiat-d.a.exodus.io
+vgs.fiat-d.a.exodus.io
+vgs.fiat.a.exodus.io
 vgt3m7fgqd6mzzhvnourokq2eyckzlrry.public.vespa.oath.cloud
 vgxs5x7semprvop3xrzrclznjbeyvyx7w.public.vespa.oath.cloud
 vh2gluc5bstkjszgs6m56ksx62wfj3vua.public.vespa.oath.cloud
@@ -3443,6 +3463,9 @@ watchtower-prod.watchtower-prod.aws-us-east-2a.dev.vespa.oath.cloud
 watchtower-prod.watchtower-prod.aws-us-west-2a.vespa.oath.cloud
 watchtower-prod.watchtower-prod.global.vespa.oath.cloud
 wavefront-prometheus-ec2-dev.platformdevops.8x8cloud.net
+web-dapps-test.a.exodus.io
+web-dapps.a.exodus.io
+web3.a.exodus.io
 webapp.home-asoni04-dev-play.aws.oath.cloud
 webcenters-dev-preview.netscape.compuserve.com
 webcenters-dev.netscape.compuserve.com
@@ -3479,6 +3502,7 @@ www.8x8.co.uk
 www.8x8.com
 www.8x8staging.com
 www.8x8testa.com
+www.about.gitlab.com
 www.awesome.8x8testa.com
 www.bestantivirussoftware.8x8.vc
 www.common.1win.com
@@ -3488,6 +3512,8 @@ www.isp.netscape.com
 www.lite.aol.com
 www.member.compuserve.com
 www.try.5nine.com
+xo-docs-s.a.exodus.io
+xo-docs.a.exodus.io
 yakl-server.us-east-1.athenz-k8s-nonprod.aws.oath.cloud
 yakl-server.us-east-1.athenz-k8s-prod.aws.yahoo.cloud
 yakl-server.us-west-2.athenz-k8s-prod.aws.yahoo.cloud
