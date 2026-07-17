@@ -1171,8 +1171,6 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -1464,9 +1462,6 @@ com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.visma.blue
-com.vodafone.mpesa.drc
-com.vodafone.mpesa.ls
-com.vodafone.mpesa.mozambique
 com.vrbo.android
 com.wealthsimple
 com.wealthsimple.wealthsimple
@@ -2618,8 +2613,6 @@ lynx.wnba.com
 lyst.co
 lyst.com
 lystit.com
-m-pesa.africa
-m-pesa.com
 m.airbnb.com
 m.badoo.com
 m.bild.de
@@ -2892,9 +2885,6 @@ moonpay.com
 moonpaycloud.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
-mpa.ekyc.backoffice.m-pesa.com
-mpa.ekyc.selfregister.m-pesa.com
-mpa.qr.web.m-pesa.com
 mpago.la
 mpago.li
 msg.playcanvas.com
@@ -3061,9 +3051,7 @@ open.airbnb.com
 open.larksuite.com
 open.ys7.com
 openam-bug-bounty-stag.forgeblocks.com
-openapi.m-pesa.com
 openapi.starbucks.com
-openapiportal.m-pesa.com
 openfinance.unico.io
 openvela.com
 operationstechnology.io
@@ -3514,7 +3502,6 @@ rpc.quicknode.testnet.arc.network
 rpc.testnet.arc.network
 rs-open-api.tw.coupang.com
 rt.playcanvas.com
-ru-yandex-api-app.vfsevisa.com
 runnr.in
 rushbuy.buy.yahoo.com
 ryadom.kz
@@ -3900,7 +3887,6 @@ survey.visa.com
 sustentabilidadmercadolibre.com
 svn.notebleue.pro
 svn.wordpress.org
-svtselb.tasheer.com
 swarm.embark.net
 swiftcapital.com
 swiftfinancial.com
@@ -4105,7 +4091,6 @@ valkyries.wnba.com
 varonis.com
 varonis.io
 varonis.net
-vascoworldwide.net
 vasdemos.visa.com
 vayama.com
 vc.logitech.com
@@ -4432,7 +4417,6 @@ www.doordash.com
 www.dota2.com
 www.drogas.lt
 www.drogas.lv
-www.dvpc.net
 www.dyson.ae
 www.dyson.at
 www.dyson.be
@@ -4727,7 +4711,6 @@ www.valmo.in
 www.valvesoftware.com
 www.veriff.com
 www.vfsvisaonline.com
-www.vfsvisaservicesrussia.com
 www.vimeo.com
 www.vinci-vie.fr
 www.vinci.com
