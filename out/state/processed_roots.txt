@@ -158,3 +158,13 @@ about.gitlab.com
 academy-outbound-ads.tiktok.com
 academy.infomaniak.com
 acc-pub.mobilevikings.be
+acc.mobilevikings.be
+acceptance.cloud.8x8.com
+access-sandbox.remitly.com
+access.remitly.com
+accommodations.booking.com
+account-sprint.dynatracelabs.com
+account.acronis.com
+account.adobe.com
+account.api.here.com
+account.booking.com
