@@ -168,3 +168,13 @@ account.acronis.com
 account.adobe.com
 account.api.here.com
 account.booking.com
+account.here.com
+account.kaufland.com
+account.kaufland.de
+account.krisp.ai
+account.magento.com
+account.mongodb.com
+account.roon.app
+account.ui.com
+accounts.cloud.com
+accounts.cloud.databricks.com
