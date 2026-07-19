@@ -64,6 +64,22 @@ jobs:
               -H "Content-Type: application/json" \
               -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] ERROR: Failed to fetch BBP URLs\"}"; exit 1; }
 
+      - name: Strip IPs/CIDRs leaking into domains and wildcards
+        run: |
+          ip_cidr_regex='^([0-9]{1,3}\.){3}[0-9]{1,3}(/[0-9]{1,2})?$'
+
+          for f in out/bbp/domains.txt out/bbp/wildcards.txt; do
+            before=$(wc -l < "$f")
+            grep -vE "$ip_cidr_regex" "$f" > "${f}.clean" && mv "${f}.clean" "$f"
+            after=$(wc -l < "$f")
+            removed=$(( before - after ))
+            if [ "$removed" -gt 0 ]; then
+              curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+                -H "Content-Type: application/json" \
+                -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] Filtered $removed IP/CIDR entries out of $(basename $f)\"}"
+            fi
+          done
+
           curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
             -H "Content-Type: application/json" \
             -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbscope] BBP fetch complete\nWildcards: $(wc -l < out/bbp/wildcards.txt)\nDomains: $(wc -l < out/bbp/domains.txt)\nIPs: $(wc -l < out/bbp/ips.txt)\nCIDRs: $(wc -l < out/bbp/cidrs.txt)\nURLs: $(wc -l < out/bbp/urls.txt)\"}"

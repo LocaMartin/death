@@ -26,7 +26,7 @@ jobs:
         run: |
           curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
             -H "Content-Type: application/json" \
-            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] Prepare job started at $(date +'%Y-%m-%d %H:%M UTC')\nRun: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] Prepare job started at $(date +'%Y-%m-%d %H:%M UTC')\nRun: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\", \"disable_web_page_preview\": true}"
 
       - name: Monthly Reset
         run: |
@@ -122,14 +122,14 @@ jobs:
         run: |
           curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
             -H "Content-Type: application/json" \
-            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] PREPARE JOB FAILED\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] PREPARE JOB FAILED\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\", \"disable_web_page_preview\": true}"
 
       - name: Notify on Cancellation
         if: cancelled()
         run: |
           curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
             -H "Content-Type: application/json" \
-            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] PREPARE JOB CANCELLED\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] PREPARE JOB CANCELLED\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\", \"disable_web_page_preview\": true}"
 
   scan:
     needs: prepare
@@ -218,7 +218,7 @@ jobs:
             -nh -silent | tee log/bbp_${{ matrix.chunk }}.log | while read -r line; do
               curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
                 -H "Content-Type: application/json" \
-                -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] FINDING: $line\"}" -o /dev/null
+                -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] FINDING: $line\", \"disable_web_page_preview\": true}" -o /dev/null
           done
 
           finding_count=$(wc -l < log/bbp_${{ matrix.chunk }}.log 2>/dev/null || echo "0")
@@ -244,14 +244,14 @@ jobs:
         run: |
           curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
             -H "Content-Type: application/json" \
-            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] SCAN FAILED for chunk ${{ matrix.chunk }}\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] SCAN FAILED for chunk ${{ matrix.chunk }}\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\", \"disable_web_page_preview\": true}"
 
       - name: Notify on Cancellation
         if: cancelled()
         run: |
           curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
             -H "Content-Type: application/json" \
-            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] SCAN CANCELLED for chunk ${{ matrix.chunk }} (timeout or manual stop)\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] SCAN CANCELLED for chunk ${{ matrix.chunk }} (timeout or manual stop)\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\", \"disable_web_page_preview\": true}"
 
   mark-processed:
     needs: scan
@@ -301,11 +301,11 @@ jobs:
         run: |
           curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
             -H "Content-Type: application/json" \
-            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] MARK-PROCESSED JOB FAILED\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] MARK-PROCESSED JOB FAILED\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\", \"disable_web_page_preview\": true}"
 
       - name: Notify on Cancellation
         if: cancelled()
         run: |
           curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
             -H "Content-Type: application/json" \
-            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] MARK-PROCESSED JOB CANCELLED\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"
+            -d "{\"chat_id\": \"${CHAT_ID}\", \"text\": \"[bbp] MARK-PROCESSED JOB CANCELLED\nRun URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}\", \"disable_web_page_preview\": true}"
