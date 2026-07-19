@@ -178,3 +178,13 @@ account.roon.app
 account.ui.com
 accounts.cloud.com
 accounts.cloud.databricks.com
+accounts.creditkarma.com
+accounts.evernote.com
+accounts.firefox.com
+accounts.insightly.com
+accounts.logi.com
+accounts.pixiv.net
+accounts.reddit.com
+accounts.shopify.com
+accounts.snapchat.com
+accountshomolog.acesso.io

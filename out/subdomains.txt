@@ -75,6 +75,16 @@ account.ui.com
 accountmanager.8x8.com
 accounts.cloud.com
 accounts.cloud.databricks.com
+accounts.creditkarma.com
+accounts.evernote.com
+accounts.firefox.com
+accounts.insightly.com
+accounts.logi.com
+accounts.pixiv.net
+accounts.reddit.com
+accounts.shopify.com
+accounts.snapchat.com
+accountshomolog.acesso.io
 acd.8x8.com
 acookie-us-east-1.huffpost-life-production.aws.oath.cloud
 acookie-us-east-1.huffpost-life-staging.aws.oath.cloud
@@ -244,6 +254,7 @@ api-aol.mail-backend-schd-client.aws.oath.cloud
 api-aol.mail-backend-schd-dev.aws.oath.cloud
 api-aol.mail-backend-schd-prd.aws.oath.cloud
 api-cosmo.srs-dev.pcp.aws.oath.cloud
+api-documentation.accounts.firefox.com
 api-pr.amt-aws-uat.aws.oath.cloud
 api-staging.8x8.com
 api-yahoo-cep.mail-backend-schd-prd.aws.oath.cloud
@@ -255,6 +266,7 @@ api.5nine.com
 api.8x8.com
 api.access.remitly.com
 api.account.adobe.com
+api.accounts.firefox.com
 api.admanager.yahoo.com
 api.amt-amt-java.aws.oath.cloud
 api.amt-aws-uat.aws.oath.cloud
@@ -484,6 +496,7 @@ bjorncs.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 bjorncs.scoober.global.public.vespa.oath.cloud
 blog.5nine.com
 blog.8x8.com
+blue.accounts.logi.com
 blue.ai-labs-df-backend-prod.va-fulfillment.ai.8x8.com
 bounce.8x8.com
 brana-api.aws-oath-fires-brana-dev.aws.oath.cloud
@@ -986,6 +999,7 @@ cd.ylinux7.vespa.cd-us-west-1.dev.vespa.oath.cloud
 cd.ylinux7.vespa.cd-us-west-1.vespa.oath.cloud
 cd.ylinux7.vespa.global.vespa.oath.cloud
 cdn.8x8.com
+cdn.accounts.firefox.com
 cf2loki.8x8.vc
 chalet-acceptance.oci.infra8.8x8cloud.net
 chalet-production.oci.infra8.8x8cloud.net
@@ -1038,6 +1052,7 @@ clouddb.pcp-cmdb-dev.aws.oath.cloud
 clouddb.pcp-cmdb-prod.aws.oath.cloud
 cloudflare-test.8x8staging.com
 cloudmgmt-atlantis-aws-svc-roles.cloud-mgmt.8x8cloud.net
+cn.accounts.logi.com
 com.8x8.vc
 comics.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 comics.scoober.aws-us-east-1c.public.vespa.oath.cloud
@@ -1081,6 +1096,7 @@ community.abucommon.us-east-3.staging.vespa.oath.cloud
 community.abucommon.us-east-3.vespa.oath.cloud
 community.abucommon.us-west-1.vespa.oath.cloud
 compute.8x8cloud.net
+confirm.accounts.firefox.com
 console-cd.vespa.oath.cloud
 console.vespa-external-cd.aws.oath.cloud
 console.vespa-external.aws.oath.cloud
@@ -1294,6 +1310,7 @@ dooh-service.aws-oath-fires-brana-dev.aws.oath.cloud
 download.isp.netscape.com
 dppe-reports.ads-dataplatform-dev.aws.oath.cloud
 dppe-reports.ads-dataplatform-prd.aws.oath.cloud
+dr.accounts.logi.com
 drama.drama-search.ap-northeast-1.vespa.oath.cloud
 drama.drama-search.ap-northeast-2.vespa.oath.cloud
 drama.drama-search.ap-southeast-1.vespa.oath.cloud
@@ -1491,6 +1508,7 @@ gpu-nfsw-prod-west.tripod-cloud.aws.oath.cloud
 grafana-mcp.8x8.vc
 grafana.10x.redoxengine.com
 graylog.8x8pilot.com
+green.accounts.logi.com
 green.ai-labs-df-backend-prod.va-fulfillment.ai.8x8.com
 groupon.external-feeds.aws-us-east-1a.vespa.oath.cloud
 groupon.external-feeds.aws-us-east-1b.vespa.oath.cloud
@@ -2129,6 +2147,7 @@ nalle.comics.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 nalle.comics.scoober.aws-us-east-1c.public.vespa.oath.cloud
 nalle.comics.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 nalle.comics.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
+nap-accounts.evernote.com
 netscape-dev-preview.compuserve.com
 netscape-dev.compuserve.com
 netscape-preview.compuserve.com
@@ -2205,6 +2224,7 @@ oa-business-strategy.aws.oath.cloud
 oath-marketing-verizonmedia-development.aws.oath.cloud
 oath-marketing-verizonmedia-production.aws.oath.cloud
 oath-marketing-verizonmedia-testing.aws.oath.cloud
+oauth.accounts.firefox.com
 octavia-api.jacobestelle-home.bf2.ows.oath.cloud
 octavia-api.jacobestelle-home.gq2.ows.oath.cloud
 octavia-api.prod-mec.bf2.ows.oath.cloud
@@ -2275,6 +2295,7 @@ one4p-data-ingest-us-west-1.cross-platform-analytics-alephd.aws.oath.cloud
 one4p-data-ingest.cross-platform-analytics-alephd.aws.oath.cloud
 oneapi-qa.mse-dev.aws.oath.cloud
 oneapi.mse-prd.aws.oath.cloud
+oneclick.accounts.logi.com
 onecreative-qa.aws.oath.cloud
 onecreative.aws.oath.cloud
 online-data-ingestion-jenkins.aolp-ds-dev.aws.oath.cloud
@@ -2287,6 +2308,7 @@ ops-production.oci.infra8.8x8cloud.net
 ops-staging.oci.infra8.8x8cloud.net
 orangecrush.one-mobile-dev.aws.oath.cloud
 orangecrush.one-mobile-prod.aws.oath.cloud
+origin-accounts.evernote.com
 origin.www-qa.compuserve.com
 origin.www.compuserve.com
 overlord.aolp-ds-prd.aws.oath.cloud
@@ -2437,6 +2459,7 @@ production-elk-kibana.huffpost-utils.aws.oath.cloud
 production-elk-logstash.huffpost-utils.aws.oath.cloud
 profile-tee-service-dev.aolp-ds-dev.aws.oath.cloud
 profile-tee-service-qai.aolp-ds-dev.aws.oath.cloud
+profile.accounts.firefox.com
 proto.1debit.com
 pt.cmp-api.gdpr.us-east-1.aolp-ds-dev.aws.oath.cloud
 public.3.basecamp.com
@@ -2680,6 +2703,7 @@ sample-jtakagi.yj.aws-us-east-1c.staging.public.vespa.oath.cloud
 sample-jtakagi.yj.aws-us-east-1c.test.public.vespa.oath.cloud
 sample-jtakagi.yj.global.public.vespa.oath.cloud
 sandbox-api.admanager.yahoo.com
+sandbox.accounts.logi.com
 sandbox.api.admanager.yahoo.com
 scam-hitlist.a.exodus.io
 scheduler.ai.8x8.vc
@@ -3289,6 +3313,7 @@ vekterli.yolo-swag.scoober.aws-us-east-1c.public.vespa.oath.cloud
 vekterli.yolo-swag.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 vekterli.yolo-swag.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 veqq3aqsip2syb2dvonvmdepe52nt5oor.vespa.oath.cloud
+verifier.accounts.firefox.com
 verify.8x8.id
 verify.8x8.uk
 verizon-native-protocol-service.one-mobile-dev.aws.oath.cloud
