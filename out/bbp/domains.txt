@@ -1,11 +1,13 @@
-admanager.yahoo.com
-compuserve.com
-gemini.yahoo.com
-isp.netscape.com
-lite.aol.com
-oath.cloud
-tw.news.yahoo.com
-yahoo.cloud
+## notes  only use this asset when nothing else can be reasonably selected.    bugs with yahoo! that are not listed in scope of our other yahoo-related assets can still be submitted to this asset and **_*might*_** be eligible for award, at the sole discretion of the yahoo bug bounty team
+*.admanager.yahoo.com
+*.compuserve.com
+*.gemini.yahoo.com
+*.isp.netscape.com
+*.lite.aol.com
+*.oath.cloud
+*.tw.news.yahoo.com
+*.yahoo.cloud
+- www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
 --your-own-1password-account--.1password.com
 10x.redoxengine.com
 1pw-scim.prd.iat.it.xvservice.net
@@ -143,7 +145,7 @@ airbnbpayments.com
 airstar-finance.com
 airstar.com
 airstarfinance.net
-airtable.js
+airtable.js sdk (https://www.npmjs.com/package/airtable)
 akismet.com
 alasco.de
 alasco.rocks
@@ -158,8 +160,8 @@ alfred-uat-31.nonprod.syfe.com
 alfred.syfe.com
 alipayhk.com
 alipayplus.com
-www.vrt.be
-nvidia.com
+all brand sites owned by vrt. the main site www.vrt.be and www.vrt.be/* is also "no bounty" (except paths in the "in scope" section)
+all nvidia assets are in scope! including nvidia.com
 all-inclusive.marriott.com
 allegro.cz.allegrosandbox.pl
 allegro.pl.allegrosandbox.pl
@@ -185,6 +187,7 @@ amazon.com.co
 amazon.com.mx
 amazon.com.ng
 amazon.com.tr
+amazon.com/hz/mycd/*
 amazon.de
 amazon.eg
 amazon.es
@@ -218,6 +221,9 @@ anext.com.sg
 antbank.hk
 anthropic.atlassian.com
 antom.com
+any applications under https://www.expressvpn.com/latest
+any issue affecting the wp cloud hosting environment allowing cross-site access/impact, the wp cloud api or the wp.cloud website
+any other applications found here: https://security-en.alipay.com/home
 ap-s.cloud.com
 apcgateway.marriott.com
 api-accpt.portofantwerp.com
@@ -375,7 +381,48 @@ api.soundtrackyourbrand.com
 api.sporza.be
 api.sqills-bugbounty-test.cloud.sqills.com
 api.stage.lando.nonprod.cloudops.mozgcp.net
-api.staging-enviso.io
+api.staging-enviso.io/authenticationapi
+api.staging-enviso.io/basketcenterapi
+api.staging-enviso.io/bookingapi
+api.staging-enviso.io/capacitycenterapi
+api.staging-enviso.io/directsellingapi
+api.staging-enviso.io/eloxxapi/v1/authorizationgroups
+api.staging-enviso.io/eloxxapi/v1/authorizationgroups/{authorizationgroupid}
+api.staging-enviso.io/eloxxapi/v1/authorizationgroups/{authorizationgroupid}/lockergroups
+api.staging-enviso.io/eloxxapi/v1/authorizationgroups/{authorizationgroupid}/lockerusers
+api.staging-enviso.io/eloxxapi/v1/authorizationgroups/{authorizationgroupid}/lockerusers/{lockeruserid}
+api.staging-enviso.io/eloxxapi/v1/devices
+api.staging-enviso.io/eloxxapi/v1/devices/{deviceid}
+api.staging-enviso.io/eloxxapi/v1/devices/{deviceid}/accesstoken
+api.staging-enviso.io/eloxxapi/v1/devices/{deviceid}/subdevices/{subdeviceid}/open
+api.staging-enviso.io/eloxxapi/v1/lockerassignments
+api.staging-enviso.io/eloxxapi/v1/lockergroups
+api.staging-enviso.io/eloxxapi/v1/lockergroups/sortorder
+api.staging-enviso.io/eloxxapi/v1/lockergroups/{lockergroupid}
+api.staging-enviso.io/eloxxapi/v1/lockerusers/{lockeruserid}/authorizationgroups
+api.staging-enviso.io/eloxxapi/v1/lockerusers/{lockeruserid}/datacarriers/{datacarrierid}
+api.staging-enviso.io/eloxxapi/v1/lockerusers/{lockeruserid}/datacarriers/{datacarrierid}/status
+api.staging-enviso.io/eloxxapi/v1/lockerusers/{lockeruserid}/maintenanceauthorizationgroups
+api.staging-enviso.io/eloxxapi/v1/lockerusers/{lockeruserid}/maintenancedatacarriers/{maintenancedatacarrierid}
+api.staging-enviso.io/eloxxapi/v1/lockerusers/{lockeruserid}/maintenancedatacarriers/{maintenancedatacarrierid}/status
+api.staging-enviso.io/eloxxapi/v1/lockerusers/{lockeruserid}/status
+api.staging-enviso.io/eloxxapi/v1/locks/lockaction
+api.staging-enviso.io/eloxxapi/v1/locks/lockermode
+api.staging-enviso.io/eloxxapi/v1/maintenanceauthorizationgroups
+api.staging-enviso.io/eloxxapi/v1/maintenanceauthorizationgroups/{maintenanceauthorizationgroupid}
+api.staging-enviso.io/eloxxapi/v1/maintenanceauthorizationgroups/{maintenanceauthorizationgroupid}/lockergroups
+api.staging-enviso.io/eloxxapi/v1/maintenanceauthorizationgroups/{maintenanceauthorizationgroupid}/lockerusers
+api.staging-enviso.io/eloxxapi/v1/maintenanceauthorizationgroups/{maintenanceauthorizationgroupid}/lockerusers/{lockeruserid}
+api.staging-enviso.io/eventcenterapi
+api.staging-enviso.io/guidecenterapi
+api.staging-enviso.io/integrationapi
+api.staging-enviso.io/lockerreportingapi/graphql
+api.staging-enviso.io/ordercenterapi
+api.staging-enviso.io/paymentcenterapi
+api.staging-enviso.io/pricingcenterapi
+api.staging-enviso.io/resellingapi
+api.staging-enviso.io/systemcenterapi
+api.staging-enviso.io/ticketwidgetapi
 api.steampowered.com
 api.stg.inspectorio.com
 api.stripe.com
@@ -424,7 +471,9 @@ app.alasco.de
 app.basecamp.com
 app.blueskytravelvietnam.com
 app.circle.com
-app.datacamp.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be
 app.delen.ch
 app.delen.lu
@@ -448,6 +497,7 @@ app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
 app.lansweeper.com
+app.lansweeper.com/trial
 app.larksuite.com
 app.link.com
 app.marionnaud.at
@@ -496,6 +546,7 @@ applause1.magisto.com
 appmiral.com
 apps-accpt.portofantwerp.com
 apps-accpt.portofantwerpbruges.com
+apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 apps.ort-one-pingone.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
@@ -847,7 +898,7 @@ ch.marionnaud.customer
 chain.link
 chalet.8x8.com
 channel-portal.homes-and-villas.marriott.com
-channelstore.roku.com
+channelstore.roku.com/details/48061/vhx
 charts.mongodb.com
 chat-api.swapcard.com/graphql
 chat.booking.com
@@ -1370,6 +1421,7 @@ connect.8x8.com
 connect.arkane.network
 connect.secure.wellsfargo.com
 connect.venly.io
+connectors (e.g., desktop extensions, local mcp servers, and remote mcp servers) installable from the claude.ai & desktop connectors directory may be developed by anthropic or created independently by third-party developers. vulnerabilities discovered in anthropic developed software are in-scope for anthropic's hackerone program
 console-backend.truelayer-sandbox.com
 console-backend.truelayer.com
 console.anthropic.com
@@ -1438,6 +1490,9 @@ crossclip.com
 crowdstrike.com
 cruises.priceline.com
 crypto.com
+crypto.com exchange apis that require an account
+crypto.com mobile app apis that require an account
+crypto.com wallet extension
 cs.money
 csconnect.org
 css-tricks.com
@@ -1468,6 +1523,11 @@ cweb-ott-uc.nba.com
 cweb-ott.nba.com
 cweb-qa-aws-preview.nba.com
 cweb-slot1-ott-dev.nba.com
+cweb-slot2-ott-dev.nba.com
+cweb-slot3-ott-dev.nba.com
+cweb-slot4-ott-dev.nba.com
+cweb-slot5-ott-dev.nba.com
+cweb-slot6-ott-dev.nba.com
 cweb-slot6-preview-ott-dev.nba.com
 cyber.gouv.qc.ca
 cyberghost.app
@@ -1900,6 +1960,7 @@ gatewaydsapdev2.marriott.com
 gatewaydsaptst1.marriott.com
 gatewaydsaptst2.marriott.com
 gc.watsons.com.tr
+general issues with a saas platform should be reported to that vendor's bug bounty program if they have one. however, we may, at our discretion, decide to award a bounty if there is demonstrated impact to anthropic
 geneva-staging.chat
 geofilters.snapchat.com
 germany.politico.eu
@@ -2025,6 +2086,8 @@ hackerone.net
 hackers_chosendomain.larksuite.com
 hacktoberfest.com
 happening.dev
+hardware found on https://www.ezviz.com/category/security-wifi-cameras
+hardware found on https://www.ezviz.com/category/smart-home
 harmanaudio.com
 harmankardon.com
 harmonixmusic.com
@@ -2155,6 +2218,7 @@ ik.watsons.com.tr
 images.demand.cybersource.com
 img.swapcard.com
 immedia-semi.com
+in-scope products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 in.amazon.mshop.android.business.shopping
 in.amazon.mshop.android.shopping
 in.jbl.com
@@ -2327,7 +2391,7 @@ latchapp.com
 launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
-leaked/compromised employee accounts here.com
+leaked/compromised employee accounts *.here.com
 learningmanagerstage4.adobe.com
 lecstaticcontent.lansweeper.com
 lefties.com
@@ -2674,6 +2738,7 @@ mir.uzleuven.be
 mirc.uzleuven.be
 mitt.vimla.se
 mittforetag.telenor.se
+miui is xiaomi phone operation system (os), custimized on stock android.  the scope inculdes the pre-installed apps with xiaomi certification signed
 miui.cn
 miui.com
 miwifi.com
@@ -2823,6 +2888,7 @@ nmtracking.netflix.com
 nnip.com
 node.js/typescript
 northwellprimarycarenow.com
+note that any vulnerabilities discovered in software developed by third parties (whether or not they are included in anthropic's connectors directory) are not in scope for anthropic’s hackerone program and should be reported directly to those third-party developers. for details on reporting, see the extension page in claude desktop. we ask that vulnerability reports regarding third-party connectors are only shared with anthropic if a satisfactory response is not received from the responsible developer
 notification-front-web.tw.coupang.com
 notion.id
 notion.so
@@ -3002,7 +3068,7 @@ payments.geneva-staging.com
 paynotifications.booking.com
 payoneer.com
 payoneer.com.cn
-paypal-com
+paypal-*.com
 paypal.com
 paypal.me
 paypalcorp.com
@@ -3046,6 +3112,7 @@ platform.cloudways.com
 platform.remix.com
 platformservices.io
 play-portraits.com
+play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.ownit.se
 playartifact.com
 playcanv.as
@@ -3383,6 +3450,7 @@ securegatewayaccess.com
 secureui.starbucks.com
 securite.monespacesante.fr
 securityservices.io
+select open source projects are now eligible for bounties.  the [rest of our open source projects](https://developer.yahoo.com/opensource/projectindex/) are technically in scope, but at a reduced rate for the time being
 select.logitech.com
 sell.moonpay.com
 seller-id.tokopedia.com
@@ -3413,7 +3481,7 @@ servicefr.iciparisxl.be
 servicefr.iciparisxl.lu
 servicefr.kruidvat.be
 servicenl.iciparisxl.be
-services-acc22.shop-apotheke.com
+services-acc22.shop-apotheke.com/subse/backoffice/index
 services-prod.nsvcs.net
 services.addons.allizom.org
 services.netlify.com
@@ -3914,7 +3982,7 @@ varonis.net
 vasdemos.visa.com
 vayama.com
 vc.logitech.com
-vcc-8x8.com
+vcc-*.8x8.com
 vcc-ce.8x8.com
 vdam.visa.com
 vector.prd.iat.it.xvservice.net
@@ -3998,6 +4066,9 @@ vt.shop-apotheke.com
 vth.nba.com
 vtm.be
 vtmgo.be
+vulnerabilities in anthropic infrastructure that could lead to unauthorized access, data exposure, or service disruption. examples include server misconfigurations, exposed internal services, subdomain takeovers, etc
+vulnerabilities in internal anthropic web applications and services that are not intended for public access. this includes things like admin panels, support portals, build systems, monitoring tools, etc. issues could include authentication bypasses, privilege escalation, xss, etc
+vulnerabilities leading to unauthorized disclosure of confidential anthropic information through third-party saas/cloud platforms used by anthropic. this includes unintended public exposure of documents, data, source code, credentials or other sensitive information
 vwcm.visa.com
 vznkul.be
 vœux.vinci.com

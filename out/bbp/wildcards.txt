@@ -18,7 +18,6 @@ acronis.com
 acronis.work
 ad.nl
 adaptive-shield.com
-admanager.yahoo.com
 adminml.com
 adobe.com
 advancedcustomfields.com
@@ -311,7 +310,6 @@ fuze.com
 fuze.site
 gamma.be
 gamma.nl
-gemini.yahoo.com
 gethypr.com
 getsling.com
 github.com
@@ -442,7 +440,6 @@ intergamma.cloud
 intergamma.nl
 intigriti.me
 intigriti.rocks
-isp.netscape.com
 itcapital.io
 itscope.com
 itscope.de
@@ -485,7 +482,6 @@ lemonsqueezy.com
 libelle.nl
 link.co
 link.com
-lite.aol.com
 livestream.com
 localwp.com
 logi.com
@@ -887,7 +883,6 @@ tstaging.com
 tstaging.tools
 tumblr.com
 tvg.com
-tw.news.yahoo.com
 tweakblogs.net
 tweakers.net
 tweakimg.net
