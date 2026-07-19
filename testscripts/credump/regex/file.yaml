@@ -1,0 +1,67 @@
+# sensitive-files.yaml
+sensitive_files:
+  - path: .env
+    description: Environment variables file, often contains API keys, secrets, and database credentials.
+
+  - path: .git/config
+    description: Git configuration file, may expose repository URLs, branches, and credentials.
+
+  - path: .DS_Store
+    description: MacOS-generated metadata file, may reveal directory structure and file names.
+
+  - path: .htaccess
+    description: Apache configuration file, may contain sensitive redirect and access rules.
+
+  - path: .htpasswd
+    description: Password file used with .htaccess, contains usernames and hashed passwords.
+
+  - path: config.php
+    description: PHP configuration file, often contains database credentials and site configuration.
+
+  - path: config.json
+    description: JSON configuration file, may store API keys, environment settings, etc.
+
+  - path: config.yaml
+    description: YAML configuration file, used for various application and deployment settings.
+
+  - path: wp-config.php
+    description: WordPress configuration file with DB credentials, salts, and keys.
+
+  - path: database.sql
+    description: SQL database dump, may expose entire database contents including user data.
+
+  - path: backup.zip
+    description: Archived backup file, may contain sensitive source code or data.
+
+  - path: backup.tar.gz
+    description: Compressed backup file, similar risk as above.
+
+  - path: id_rsa
+    description: Private SSH key, severe risk if exposed—can grant server access.
+
+  - path: id_rsa.pub
+    description: Public SSH key, less sensitive but may reveal key associations.
+
+  - path: docker-compose.yml
+    description: Docker config file, may contain environment variables and service ports.
+
+  - path: .npmrc
+    description: NPM config file, may include auth tokens for private registries.
+
+  - path: .bash_history
+    description: Shell command history, may expose sensitive commands and paths.
+
+  - path: .ssh/config
+    description: SSH configuration file, can expose server IPs and login info.
+
+  - path: composer.lock
+    description: PHP dependency lock file, may reveal app dependencies and versions.
+
+  - path: .idea/workspace.xml
+    description: IntelliJ project file, may expose developer environment and paths.
+
+  - path: credentials.json
+    description: Commonly used for Google Cloud or APIs, often contains access tokens.
+
+  - path: settings.py
+    description: Django/Flask settings file, often contains secrets and DB credentials.
