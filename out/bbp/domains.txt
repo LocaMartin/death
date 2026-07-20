@@ -464,7 +464,6 @@ apigw.foliofn.com
 apigwc.marriott.com
 apis.mail.yahoo.com
 apis.telenor.se
-apix.vodafone.om
 app-insiders.marriott.com
 app.aikido.dev
 app.alasco.de
@@ -1059,6 +1058,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -2919,7 +2920,6 @@ og.com
 oklink.com
 oktukids.com
 okx.com
-om.vodafone.mva
 omega.yahoo.com
 onboarding-api.truelayer.com
 onboarding.cloud.com
@@ -3996,9 +3996,6 @@ verify.arkoselabs.com
 verilyme.com
 versioncheck-bg.addons.allizom.org
 versioncheck.addons.allizom.org
-vfo01.vodafone.om
-vfo02.vodafone.om
-vfo03.vodafone.om
 vfsai.com
 vfsevisa.com
 vfsevisa.id
@@ -4638,7 +4635,6 @@ www.visainfinite.ca
 www.visamiddleeast.com
 www.vivre-avec-la-chaleur.fr
 www.vladcazino.ro
-www.vodafone.om
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
 www.vrbo.com

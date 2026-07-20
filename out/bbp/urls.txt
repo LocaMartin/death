@@ -344,6 +344,8 @@ https://github.com/anthropics/claude-code-action
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
+https://github.com/brave
+https://github.com/brave-intl
 https://github.com/buildonspark/spark
 https://github.com/chia-network/chia-blockchain
 https://github.com/chia-network/chia-blockchain-gui
@@ -419,7 +421,6 @@ https://github.com/hacker0x01/react-datepicker
 https://github.com/infomaniak/desktop-kdrive
 https://github.com/innocraft
 https://github.com/jitsi
-https://github.com/kiwicom/flask-ninja
 https://github.com/kiwicom/js-iam-middleware
 https://github.com/kiwicom/k8s-vault-operator
 https://github.com/kiwicom/kiwi-cache
