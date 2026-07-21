@@ -41,6 +41,7 @@ a4k.amazon.com
 a5s.hackerone-ext-content.com
 ab-platform-api.eu-east-1.indriverapp.com
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
+abercrombie.com
 ablink.info.remitly.com
 about.gitlab.com
 academy-outbound-ads.tiktok.com
@@ -218,6 +219,7 @@ anduril.dev
 andurildev.au
 andurildev.com
 anext.com.sg
+anfcorp.com
 antbank.hk
 anthropic.atlassian.com
 antom.com
@@ -464,6 +466,7 @@ apigw.foliofn.com
 apigwc.marriott.com
 apis.mail.yahoo.com
 apis.telenor.se
+apix.vodafone.om
 app-insiders.marriott.com
 app.aikido.dev
 app.alasco.de
@@ -969,6 +972,8 @@ coinbase.com
 coindcx.com
 collections.portswigger.net
 com.3mosquitos.mercadolibre
+com.abercrombie.abercrombie
+com.abercrombie.hollister
 com.acronis.abc
 com.acronis.acronistrueimage
 com.adobe.adobe-reader
@@ -1462,11 +1467,13 @@ core-api-sandbox.nba.com
 core-api-uat-uc.nba.com
 core-api-uat.nba.com
 core-api-uc.nba.com
+core-api.deriv.com
 core-api.nba.com
 core.yoti.com
 corp-dev.nba.com
 corp.badoo.com
 corp.polymoon.it
+corporate.abercrombie.com
 corporate.wolt.com
 cosmo.fdeb.live.use1a.on.epicgames.com
 counteract 9.x
@@ -2130,6 +2137,8 @@ hln.be
 hmh247.org
 hmxservices.com
 hmxwebservices.com
+hollisterco.com
+home.deriv.com
 home.privy.io
 homes-and-villas.marriott.com
 honestdollar.com
@@ -2920,6 +2929,7 @@ og.com
 oklink.com
 oktukids.com
 okx.com
+om.vodafone.mva
 omega.yahoo.com
 onboarding-api.truelayer.com
 onboarding.cloud.com
@@ -3341,6 +3351,7 @@ res.vacations.universalstudioshollywood.com
 research.gs.com
 reservations.all-inclusive.marriott.com
 reservations.wynnvacations.com
+resmax.hilton.com
 resolve.8x8.com
 resources.krisp.ai
 restaurant-api.wolt.com
@@ -3653,7 +3664,6 @@ sqills-bugbounty-test.cloud.sqills.com
 sqills.com
 sqills.team
 srvcs.tumblr.com
-ssm-marriottms.saviyntcloud.com
 sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
@@ -3996,6 +4006,9 @@ verify.arkoselabs.com
 verilyme.com
 versioncheck-bg.addons.allizom.org
 versioncheck.addons.allizom.org
+vfo01.vodafone.om
+vfo02.vodafone.om
+vfo03.vodafone.om
 vfsai.com
 vfsevisa.com
 vfsevisa.id
@@ -4111,7 +4124,6 @@ webapps-accpt.portofantwerpbruges.com
 webapps-test.portofantwerpbruges.com/xui
 webapps.portofantwerp.com
 webapps.portofantwerpbruges.com
-webgateway.koho.ca
 webhooks.booking.com
 webhooks.truelayer-sandbox.com
 webservice.doccle.be
@@ -4635,6 +4647,7 @@ www.visainfinite.ca
 www.visamiddleeast.com
 www.vivre-avec-la-chaleur.fr
 www.vladcazino.ro
+www.vodafone.om
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
 www.vrbo.com

@@ -92,6 +92,7 @@ https://admin.sqills-bugbounty-test.cloud.sqills.com/api/v3/intelligence
 https://admin.sqills-bugbounty-test.cloud.sqills.com/en-GB/intelligence
 https://api-acc.eu.xs4com.app
 https://api-app.datadome.co
+https://api-core.deriv.com
 https://api-js.datadome.co
 https://api-sandbox.uphold.com
 https://api-sandbox.uphold.com/graphql
@@ -114,7 +115,6 @@ https://api.marionnaud.hu/api/v2/api-docs
 https://api.marionnaud.it/api/v2/api-docs
 https://api.moneyboxapp.com
 https://api.myntra.com
-https://api.onedoc.ch
 https://api.paddle.com
 https://api.paymaya.com
 https://api.pcrs.kape.com
@@ -613,6 +613,7 @@ https://marketplace.atlassian.com/apps/1217865/figma-for-jira
 https://marketplace.visualstudio.com/items?itemname=aikidosecurity.aikido
 https://marketplace.visualstudio.com/items?itemname=mongodb.mongodb-vscode
 https://mcp-server.zomato.com/mcp
+https://metabase.pwn.intigriti.rocks/
 https://metamask.github.io/phishing-warning/%3Cvx.y.z%3E
 https://metroconnect.app.ridewithvia.com
 https://microsoftedge.microsoft.com/addons/detail/okx-wallet/pbpjkcldjiffchgbbndmhojiacbgflha
@@ -691,7 +692,6 @@ https://pprd.cybermalveillance.gouv.fr
 https://preprod-datahub.xelians.fr/
 https://preprod-xam.xelians.fr/
 https://privateinternetaccess.com/api/client/v5
-https://pro.onedoc.ch
 https://profiles.sports.yahoo.com/
 https://pt-runner.app.ridewithvia.com
 https://pub-api-ro.fantasysports.yahoo.com/
@@ -751,7 +751,6 @@ https://supplier-connect.otto.de
 https://support-accept.saltoks.com
 https://support.threatdown.com/hc/en-us/articles/4413802501395-protection-policy-settings-in-nebula#browser_phishing_protection_10
 https://sycamore.moneyboxapp.org
-https://telehealth.onedoc.ch
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
@@ -928,7 +927,6 @@ https://www.npmjs.com/package/@privy-io/js-sdk-core
 https://www.npmjs.com/package/@privy-io/react-auth
 https://www.npmjs.com/package/@privy-io/wagmi
 https://www.okx.com/download
-https://www.onedoc.ch
 https://www.ooredoo.qa
 https://www.oppo.com/id/store
 https://www.oppo.com/in/store
