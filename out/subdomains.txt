@@ -221,10 +221,16 @@ actie.ad.nl
 actionnaires.vinci.com
 activities.marriott.com
 ad.nl
+adaptive-shield.com
 adaptive.acronis.work
 adaptive.corp.acronis.com
+adayevrak.watsons.com.tr
+adb.nba.com
 adc.corp.acronis.com
+addons.allizom.org
+adm.cloud.com
 admin-dev1.1debit.com
+admin-portal.api-xperience.com
 admin-resolve.8x8.com
 admin-shell.8x8staging.com
 admin-vnext.8x8staging.com
@@ -235,8 +241,10 @@ admin.8x8staging.com
 admin.acronis.com
 admin.acronis.work
 admin.corp.acronis.com
+admin.instacart.com
 admin.isp.netscape.com
 admin.mail-backend-schd-dev.aws.oath.cloud
+admin.meeshosupply.com
 admin2.acronis.com
 adn.acronis.com
 adn.acronis.work
@@ -270,6 +278,7 @@ affiliate.intl-commerce.aws-us-east-1b.vespa.oath.cloud
 affiliate.intl-commerce.aws-us-east-2a.dev.vespa.oath.cloud
 affiliate.intl-commerce.aws-us-west-2a.vespa.oath.cloud
 affiliate.intl-commerce.global.vespa.oath.cloud
+agent.adm.cloud.com
 agentcrm.8x8.com
 agents-at01-cloud.acronis.com
 agents-bg01-cloud.acronis.com
@@ -380,6 +389,7 @@ am-testing.account.adobe.com
 amf-prod.advgovernance-aws-prod.aws.oath.cloud
 amf-qa.advgovernance-aws-dev.aws.oath.cloud
 ami-build-prod.pcp.aws.oath.cloud
+amo.addons.allizom.org
 an-schedule.ai.8x8.com
 analytics-acceptance.oci.infra8.8x8cloud.net
 analytics-activity-prod.8x8.com
@@ -408,6 +418,8 @@ andreer.nicest-neighbor.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 andreer.nicest-neighbor.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 andreer.nicest-neighbor.scoober.global.public.vespa.oath.cloud
 annualreport.webpaypaymentgateway.8x8pilot.com
+anse.adm.cloud.com
+anse.agent.adm.cloud.com
 answers-integration.answers-search.ap-northeast-1.vespa.oath.cloud
 answers-integration.answers-search.ap-northeast-2.vespa.oath.cloud
 answers-integration.answers-search.ap-southeast-1.vespa.oath.cloud
@@ -467,6 +479,8 @@ api.8x8.com
 api.access.remitly.com
 api.account.adobe.com
 api.accounts.firefox.com
+api.adaptive-shield.com
+api.adm.cloud.com
 api.admanager.yahoo.com
 api.amt-amt-java.aws.oath.cloud
 api.amt-aws-uat.aws.oath.cloud
@@ -567,6 +581,7 @@ asantos-okta-aws.cloud-mgmt.8x8cloud.net
 asantos-s3-host-test.cloud-mgmt.8x8cloud.net
 asap.acronis.work
 ashburn.8x8.vc
+ashieldstg.adaptive-shield.com
 asign-preview.acronis.com
 asign.acronis.com
 at01-cloud.acronis.com
@@ -662,6 +677,7 @@ azure-stage.account.adobe.com
 b.cceng.8x8.com
 backend-spmp.corp.acronis.com
 backstage.acceptance.cloud.8x8.com
+baga.agent.adm.cloud.com
 balancer.1debit.com
 bastion.video-platform-splunk.aws.oath.cloud
 bbb.8x8.com
@@ -739,6 +755,7 @@ bjorncs.scoober.global.public.vespa.oath.cloud
 bjs1-repo.acronis.com
 bll1-repo.acronis.com
 bll1-s3gw.acronis.com
+blocklist.addons.allizom.org
 blog.5nine.com
 blog.8x8.com
 blog.acronis.com
@@ -823,6 +840,7 @@ calendar.comms-calendar.us-east-3.perf.vespa.oath.cloud
 calendar.comms-calendar.us-east-3.staging.vespa.oath.cloud
 calendar.comms-calendar.us-east-3.vespa.oath.cloud
 calendar.comms-calendar.us-west-1.vespa.oath.cloud
+calvi.agent.adm.cloud.com
 canary-grid.vespa.ap-northeast-1.vespa.oath.cloud
 canary-grid.vespa.ap-northeast-2.vespa.oath.cloud
 canary-grid.vespa.ap-southeast-1.vespa.oath.cloud
@@ -859,6 +877,7 @@ canary.8x8.studio
 canary.preview.8x8.studio
 canary.stage.8x8.studio
 cancel.compuserve.com
+candolim.agent.adm.cloud.com
 canvass-search-qa.canvass-qa.ap-northeast-1.vespa.oath.cloud
 canvass-search-qa.canvass-qa.ap-northeast-2.vespa.oath.cloud
 canvass-search-qa.canvass-qa.ap-southeast-1.vespa.oath.cloud
@@ -894,6 +913,8 @@ canvass-search-stage.canvass-stage.us-west-1.vespa.oath.cloud
 care.account.here.com
 care.acronis.com
 careers.acronis.com
+carmel.adm.cloud.com
+carmel.agent.adm.cloud.com
 cas.acronis.com
 cas.us.corp.acronis.com
 casestudies.acronis.com
@@ -1420,6 +1441,9 @@ cloudmgmt-atlantis-aws-svc-roles.cloud-mgmt.8x8cloud.net
 club.ad.nl
 cn.accounts.logi.com
 cn99-cloud.acronis.com
+cocoa.adm.cloud.com
+cocoa.agent.adm.cloud.com
+code.addons.allizom.org
 com.8x8.vc
 comics.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 comics.scoober.aws-us-east-1c.public.vespa.oath.cloud
@@ -1566,6 +1590,7 @@ cvs-api.10x.redoxengine.com
 cyberfit.acronis.work
 cz.acronis.com
 cz01-cloud.acronis.com
+dashboard.adaptive-shield.com
 dashboard.admanager.yahoo.com
 dashboard.qa.ai.8x8.com
 data-ingest.cross-platform-analytics-alephd-dev.aws.oath.cloud
@@ -1696,6 +1721,7 @@ dictionary-vespa-app.dictionary-search.us-west-1.vespa.oath.cloud
 digitalekrant.ad.nl
 digitalriver.acronis.com
 digitalriver.webdev.acronis.com
+discovery.addons.allizom.org
 dk01-cloud.acronis.com
 dl.acronis.com
 dl2.acronis.com
@@ -1859,6 +1885,9 @@ eu-west-1.pr.p.account.here.com
 eu-west-1.st.p.account.here.com
 eu-west-1.vespa.oath.cloud
 eu.account.api.here.com
+eu.api.adaptive-shield.com
+eu.dashboard.adaptive-shield.com
+eu.production-mgmt.adaptive-shield.com
 eu2-cloud.acronis.com
 eu4-cloud.acronis.com
 event.amt-amt-java.aws.oath.cloud
@@ -1992,6 +2021,7 @@ go-qa.compuserve.com
 go.5nine.com
 go.8x8.com
 go.8x8.vc
+go.adaptive-shield.com
 go.compuserve.com
 go.oath.cloud
 goanywhere.subscriptions-obi-batch-aws-prod.aws.oath.cloud
@@ -2331,6 +2361,7 @@ in01-cloud.acronis.com
 inapp-krant.ad.nl
 info.5nine.com
 info.acronis.com
+info.adaptive-shield.com
 infra-dev.8x8cloud.net
 infra-prod.8x8cloud.net
 infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
@@ -2666,6 +2697,8 @@ malashencova.8x8.vc
 management-pm.office.compuserve.com
 map.8x8pilot.com
 map.8x8staging.com
+maroma.adm.cloud.com
+maroma.agent.adm.cloud.com
 master.video-platform-splunk.aws.oath.cloud
 mayafashioncover.8x8.vc
 mc-abv-external-esxi.acronis.work
@@ -2858,6 +2891,7 @@ myfollow.abucommon.us-east-3.staging.vespa.oath.cloud
 myfollow.abucommon.us-east-3.vespa.oath.cloud
 myfollow.abucommon.us-west-1.vespa.oath.cloud
 mypets.home-jmoparti.aws.oath.cloud
+myrtos.adm.cloud.com
 mysubscriptions.isp.netscape.com
 nagios.identityb2b.aws.oath.cloud
 nalle.comics.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
@@ -3435,6 +3469,8 @@ rabbitmq.jacobestelle-home.bf2.ows.oath.cloud
 rabbitmq.jacobestelle-home.gq2.ows.oath.cloud
 rabbitmq.prod-mec.bf2.ows.oath.cloud
 rabbitmq.prod-mec.gq2.ows.oath.cloud
+railay.adm.cloud.com
+railay.agent.adm.cloud.com
 rancher.uplynk-inf.aws.oath.cloud
 ravitest-dev.pilot.aws.infra8.8x8cloud.net
 rds-hashicorp-vault.acronis.work
@@ -3464,6 +3500,7 @@ requests.acronis.work
 research.acronis.com
 resellers.acronis.com
 restservice.home-uherberg-devguide.aws.oath.cloud
+reviewers.addons.allizom.org
 rix1-repo.acronis.com
 rix1-s3gw.acronis.com
 rndtools-jenkins-test.acronis.work
@@ -3590,6 +3627,7 @@ sabre-dev-use1-hadoop-yarn-rm.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 sabre-dev-use1-hbase-master.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 sabre-dev-use1-zookeeper-headless.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 safeguard.a.exodus.io
+safehaven.adm.cloud.com
 salesloft.5nine.com
 sample-jtakagi.yj.aws-us-east-1c.dev.public.vespa.oath.cloud
 sample-jtakagi.yj.aws-us-east-1c.public.vespa.oath.cloud
@@ -3634,6 +3672,7 @@ service.account.adobe.com
 service.cmp.aolp-ds-dev.aws.oath.cloud
 service.cmp.aolp-ds-prd.aws.oath.cloud
 services.account.adobe.com
+services.addons.allizom.org
 sfw.artifactory-sandbox.aws.oath.cloud
 sg-ap-12.acronis.work
 sg-cas.apj.corp.acronis.com
@@ -3893,6 +3932,8 @@ stage.us-west-1.int.o2.aws.oath.cloud
 stage.wopi.acrobat.adobe.com
 stage.zms.athenz.aws.oath.cloud
 stageui.us-east-1.athenz-k8s-nonprod.aws.oath.cloud
+staging-api.adaptive-shield.com
+staging-dashboard.adaptive-shield.com
 staging-elk-kibana.huffpost-utils.aws.oath.cloud
 staging-elk-logstash.huffpost-utils.aws.oath.cloud
 staging-test.autoblog-aws-prod.aws.oath.cloud
@@ -3907,6 +3948,7 @@ staging.member.compuserve.com
 staging.partners.acronis.com
 static.3lateral.com
 status.acronis.com
+status.adaptive-shield.com
 status.ai.8x8.com
 stg.account.api.here.com
 stg.account.here.com
@@ -3959,6 +4001,8 @@ stream-ranking-canary.stream.us-west-1.vespa.oath.cloud
 streamer-us-east-1.finance-aws-prod.aws.oath.cloud
 streamer-us-west-2.finance-aws-prod.aws.oath.cloud
 strg-jenkins.acronis.work
+sugar.adm.cloud.com
+sugar.agent.adm.cloud.com
 superset.amer.acronis.work
 superx.8x8staging.com
 support-cyberlab.acronis.work
@@ -4342,6 +4386,7 @@ verify.8x8.id
 verify.8x8.uk
 verizon-native-protocol-service.one-mobile-dev.aws.oath.cloud
 verizon-native-protocol-service.one-mobile-prod.aws.oath.cloud
+versioncheck.addons.allizom.org
 vertica.db.one-mobile-prod.aws.oath.cloud
 vespa-documentation-search.vespa.ap-northeast-1.vespa.oath.cloud
 vespa-documentation-search.vespa.ap-northeast-2.vespa.oath.cloud
@@ -4610,6 +4655,7 @@ webteam-grafana.corp.acronis.com
 webteam-zbx.corp.acronis.com
 webtest-2.acronis.com
 webwinkel.ad.nl
+whitehaven.agent.adm.cloud.com
 widget.ai.8x8.vc
 wiki.platformdevops.8x8cloud.net
 windowsservicesantivirus.com.8x8.vc
@@ -4653,6 +4699,7 @@ www.acronis.work
 www.acroshare.ru.corp.acronis.com
 www.activities.marriott.com
 www.ad.nl
+www.adaptive-shield.com
 www.adaptive.corp.acronis.com
 www.adn.acronis.work
 www.adntest.acronis.work
