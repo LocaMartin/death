@@ -257,9 +257,16 @@ admin2.infomaniak.com
 adn.acronis.com
 adn.acronis.work
 adntest.acronis.work
+adobeid-na1.services.adobe.com
 adr.acronis.com
 ads-dataplatform-dev.aws.oath.cloud
 ads-dataplatform-prd.aws.oath.cloud
+ads-img.allizom.org
+ads-img.mozilla.org
+ads-partners.tw.coupang.com
+ads.allizom.org
+ads.mozilla.org
+ads.reddit.com
 adsbc01-eq-ag.8x8testa.com
 adsbc01-eq-de.8x8testa.com
 adsbc01-eq-gb.8x8testa.com
@@ -3521,6 +3528,7 @@ publiccd.xyz.multi-instance.vespa.aws-us-east-1c.test.public-cd.vespa.oath.cloud
 publishing-qa.compuserve.com
 publishing.compuserve.com
 pubtools.private.8x8cloud.net
+px.ads.reddit.com
 pypi.corp.acronis.com
 pypi.uplynk-inf.aws.oath.cloud
 qa-backup.testrail.one-mobile-dev.aws.oath.cloud
