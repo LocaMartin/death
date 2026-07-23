@@ -737,7 +737,6 @@ birmingham-dev.gleague.nba.com
 birmingham-qa.gleague.nba.com
 birmingham.gleague.nba.com
 bistro-api.blinkit.com
-bitmex.com
 bitmoji.com
 bitoasis.net
 bitstrips.com
@@ -1084,7 +1083,6 @@ com.basecamp.bc3
 com.basecamp.bc3-ios
 com.basecamp.hey
 com.bigblueparrot.pokerfriends
-com.bitmex.app.android
 com.bitstrips.imoji
 com.blinkit.bistro
 com.boozt
@@ -2299,6 +2297,7 @@ influencers.tw.coupang.com
 info.authorize.net
 info.cybersource.com
 info.shop-apotheke.com
+infomaniak.com
 infomaniak.events
 infra-prod.nsvcs.net
 ingest.clairvoyance.indrive.tech
@@ -3892,6 +3891,7 @@ swiftfinancial.com
 swiftype.com
 swiss-backup.infomaniak.com
 swisspass.ch
+swisstransfer.infomaniak.com
 sync.infomaniak.com
 sync.logitech.com
 sync.services.mozilla.com
@@ -3926,7 +3926,6 @@ test.payworks.io
 testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
-testnet.bitmex.com
 teststs.uzleuven.be
 thebrowser.company
 theelasticast.com
@@ -4326,7 +4325,6 @@ www.beachbound.com
 www.bershka.cn
 www.bershka.com
 www.bingo.com
-www.bitmex.com
 www.bitstamp.net
 www.blablacar.be
 www.blablacar.co.uk
