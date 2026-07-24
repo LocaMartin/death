@@ -267,6 +267,9 @@ ads-partners.tw.coupang.com
 ads.allizom.org
 ads.mozilla.org
 ads.reddit.com
+ads.snapchat.com
+ads.temu.com
+ads.tiktok.com
 adsbc01-eq-ag.8x8testa.com
 adsbc01-eq-de.8x8testa.com
 adsbc01-eq-gb.8x8testa.com
@@ -276,7 +279,12 @@ adsbc01-eq-mn.8x8testa.com
 adsbc01-eq-ut.8x8testa.com
 adsbc01-eq-wa.8x8testa.com
 adsbc01-eq-wi.8x8testa.com
+adtechnology.axelspringer.com
+advancedcustomfields.com
 advisor.ai.8x8.vc
+advisories.gitlab.com
+advisorsolutions.gs.com
+aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 affiliate-beta.intl-commerce.aws-us-east-1a.vespa.oath.cloud
 affiliate-beta.intl-commerce.aws-us-east-1b.vespa.oath.cloud
 affiliate-beta.intl-commerce.aws-us-east-2a.dev.vespa.oath.cloud
@@ -400,6 +408,7 @@ alpha.cosmo.katarti.aws.oath.cloud
 alpha.home-albertoc-aws-dev.aws.oath.cloud
 alpha.k8sfu.home-albertoc-aws.aws.oath.cloud
 alt.5nine.com
+alts-uat-advisorsolutions.gs.com
 am-testing.account.adobe.com
 amf-prod.advgovernance-aws-prod.aws.oath.cloud
 amf-qa.advgovernance-aws-dev.aws.oath.cloud
@@ -608,6 +617,7 @@ ashburn.8x8.vc
 ashieldstg.adaptive-shield.com
 asign-preview.acronis.com
 asign.acronis.com
+assets.advancedcustomfields.com
 at01-cloud.acronis.com
 atlantis-compute.awesome.8x8testa.com
 atlantis.uplynk-inf.aws.oath.cloud
@@ -798,6 +808,7 @@ blue.ai-labs-df-backend-prod.va-fulfillment.ai.8x8.com
 bom1-repo.acronis.com
 bom1-s3gw.acronis.com
 bounce.8x8.com
+bpi-www.advisor-connection.com
 br.acronis.com
 br01-cloud.acronis.com
 brana-api.aws-oath-fires-brana-dev.aws.oath.cloud
@@ -1399,6 +1410,7 @@ cleanroom.aolp-ds-prd.aws.oath.cloud
 clementine.one-mobile-dev.aws.oath.cloud
 clementine.one-mobile-prod.aws.oath.cloud
 clementine.one-mobile.aws.oath.cloud
+click.learn.ads.snapchat.com
 clients.3.basecamp.com
 clone.cbc.acronis.work
 clone.projectj.aws-us-east-1c.dev.public.vespa.oath.cloud
@@ -1465,6 +1477,7 @@ cloud-wr-us12.acronis.com
 cloud-wr-us2.acronis.com
 cloud-wr-za01.acronis.com
 cloud-wrh-preview1.acronis.com
+cloud.learn.ads.snapchat.com
 cloud8-dev.aws.infra8.8x8cloud.net
 cloud8-staging.aws.infra8.8x8cloud.net
 cloud8-test.8x8staging.com
@@ -1529,10 +1542,14 @@ community.abucommon.us-east-3.perf.vespa.oath.cloud
 community.abucommon.us-east-3.staging.vespa.oath.cloud
 community.abucommon.us-east-3.vespa.oath.cloud
 community.abucommon.us-west-1.vespa.oath.cloud
+composer-lb.advancedcustomfields.com
+composer.advancedcustomfields.com
 compute.8x8cloud.net
 confirm.accounts.firefox.com
+connect-lb.advancedcustomfields.com
 connect.acronis.com
 connect.acronis.work
+connect.advancedcustomfields.com
 console-cd.vespa.oath.cloud
 console.vespa-external-cd.aws.oath.cloud
 console.vespa-external.aws.oath.cloud
@@ -1624,6 +1641,7 @@ crypto-pill-playground-d.a.exodus.io
 crypto-pill-playground-main.a.exodus.io
 crypto-pill-playground.a.exodus.io
 cschost.abercrombie.com
+csfedportalsp-ext.advisor-connection.com
 csl-grafana.acronis.work
 csl.acronis.work
 csmail.compuserve.com
@@ -1693,6 +1711,7 @@ dev-api.notificationsystems-rivendell-aws-dev.aws.oath.cloud
 dev-cloud.acronis.com
 dev-consolidatedlogging.ads-supply-pe-dev.aws.oath.cloud
 dev-east-tripod-test.tripod-cloud.aws.oath.cloud
+dev-fawp.advisor-connection.com
 dev-integration-api.notificationsystems-rivendell-aws-dev.aws.oath.cloud
 dev-jef-api.dmp.us-east-1.aolp-ds-dev.aws.oath.cloud
 dev-jef-ui.dmp.us-east-1.aolp-ds-dev.aws.oath.cloud
@@ -1972,6 +1991,25 @@ fantonald3000.scoober.aws-us-east-1c.public.vespa.oath.cloud
 fantonald3000.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 fantonald3000.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 fantonald3000.scoober.global.public.vespa.oath.cloud
+fawp-cte1-cf.advisor-connection.com
+fawp-cte1.advisor-connection.com
+fawp-dev1-cf.advisor-connection.com
+fawp-dev1.advisor-connection.com
+fawp-ite1-cf.advisor-connection.com
+fawp-ite1.advisor-connection.com
+fawp-prod1-cf.advisor-connection.com
+fawp-prod1.advisor-connection.com
+fawp-prod2-cf.advisor-connection.com
+fawp-prod2.advisor-connection.com
+fawp-pte1-cf.advisor-connection.com
+fawp-pte1.advisor-connection.com
+fawp-stg1-cf.advisor-connection.com
+fawp-stg1.advisor-connection.com
+fawp.advisor-connection.com
+fawpbte.advisor-connection.com
+fawpcte.advisor-connection.com
+fawppte.advisor-connection.com
+fawpstg.advisor-connection.com
 fco1-repo.acronis.com
 fco1-s3gw.acronis.com
 fe.amt-amt-java.aws.oath.cloud
@@ -2271,6 +2309,10 @@ iad1-s3gw.acronis.com
 iad10-repo.acronis.com
 iad10-s3gw.acronis.com
 iamp.acronis.work
+ibwprod.advisor-connection.com
+ibwprodtemp.advisor-connection.com
+ibwuat.advisor-connection.com
+ibwuattemp.advisor-connection.com
 icn1-repo.acronis.com
 icn1-s3gw.acronis.com
 id-ds-e01.identityb2b.aws.oath.cloud
@@ -2412,6 +2454,7 @@ ilist.archived-corpsites.us-east-3.staging.vespa.oath.cloud
 ilist.archived-corpsites.us-east-3.vespa.oath.cloud
 ilist.archived-corpsites.us-west-1.vespa.oath.cloud
 image.email.abercrombie.com
+image.learn.ads.snapchat.com
 images-dev-preview.compuserve.com
 images-dev.compuserve.com
 images-preview.compuserve.com
@@ -2740,6 +2783,9 @@ luserver.scoober.global.public.vespa.oath.cloud
 lv01-cloud.acronis.com
 lyncdiscover.acronis.com
 lyncdiscoverinternal.acronis.com
+lyris.advisor-connection.com
+lyrisnew.advisor-connection.com
+lyrisnewox.advisor-connection.com
 m.4njbets.com
 m.ad.nl
 m.cn-hk.abercrombie.com
@@ -2917,6 +2963,7 @@ mss-api.mss-dev.aws.oath.cloud
 mss-dev.aws.oath.cloud
 mss.aws.oath.cloud
 mta.email.abercrombie.com
+mta.learn.ads.snapchat.com
 mta.staging.8x8cloud.net
 mtls.account.api.here.com
 mttransfer.acronis.com
@@ -2954,6 +3001,7 @@ musum.comics.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 mx.3.basecamp.com
 mx1.8x8pilot.com
 my.acronis.work
+my.advisor-connection.com
 my.test.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 my.test.scoober.aws-us-east-1c.public.vespa.oath.cloud
 my.test.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
@@ -2967,6 +3015,7 @@ myaccount.qa.compuserve.com
 myaccount.stage.compuserve.com
 myapp.home-jjensen.aws.oath.cloud
 mybenefits.compuserve.com
+mycte.advisor-connection.com
 myfollow.abucommon.ap-northeast-1.vespa.oath.cloud
 myfollow.abucommon.ap-northeast-2.vespa.oath.cloud
 myfollow.abucommon.ap-southeast-1.vespa.oath.cloud
@@ -2983,8 +3032,14 @@ myfollow.abucommon.us-east-3.perf.vespa.oath.cloud
 myfollow.abucommon.us-east-3.staging.vespa.oath.cloud
 myfollow.abucommon.us-east-3.vespa.oath.cloud
 myfollow.abucommon.us-west-1.vespa.oath.cloud
+myite.advisor-connection.com
+mynew.advisor-connection.com
+mynewox.advisor-connection.com
+myox.advisor-connection.com
 mypets.home-jmoparti.aws.oath.cloud
+mypte.advisor-connection.com
 myrtos.adm.cloud.com
+mysls.advisor-connection.com
 mysubscriptions.isp.netscape.com
 nagios.identityb2b.aws.oath.cloud
 nalle.comics.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
@@ -3185,6 +3240,7 @@ otp1-repo.acronis.com
 otp1-s3gw.acronis.com
 overlord.aolp-ds-prd.aws.oath.cloud
 ows.oath.cloud
+oxi1-cte-fawp.advisor-connection.com
 p.8x8.studio
 p.ai.8x8.vc
 p.preview.8x8.studio
@@ -4047,11 +4103,13 @@ staging.5nine.com
 staging.autoblog-aws-prod.aws.oath.cloud
 staging.chalet.8x8staging.com
 staging.compuserve.com
+staging.connect.advancedcustomfields.com
 staging.corporate.abercrombie.com
 staging.isp.netscape.com
 staging.lite.aol.com
 staging.member.compuserve.com
 staging.partners.acronis.com
+staging1.advancedcustomfields.com
 static.3lateral.com
 status.acronis.com
 status.adaptive-shield.com
@@ -4109,10 +4167,12 @@ streamer-us-west-2.finance-aws-prod.aws.oath.cloud
 strg-jenkins.acronis.work
 sugar.adm.cloud.com
 sugar.agent.adm.cloud.com
+sungardfp.advisor-connection.com
 superset.amer.acronis.work
 superx.8x8staging.com
 support-cyberlab.acronis.work
 support.acronis.com
+support.advancedcustomfields.com
 svc.8x8cloud.net
 svc.o2.aws.oath.cloud
 svn.corp.acronis.com
@@ -4240,6 +4300,7 @@ tralalei.albums.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 tralalei.albums.scoober.aws-us-east-1c.public.vespa.oath.cloud
 tralalei.albums.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 tralalei.albums.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
+translate.advancedcustomfields.com
 travel.acronis.work
 trial.cp-eu2.acronis.com
 trials.cbc.acronis.work
@@ -4266,6 +4327,7 @@ u-lync-fe-2.corp.acronis.com
 u-lync-fe-3.corp.acronis.com
 ua.1debit.com
 uat-jobs-ui.one-mobile-dev.aws.oath.cloud
+uat.advisorsolutions.gs.com
 uc.8x8pilot.com
 ucc.abunews.ap-northeast-1.vespa.oath.cloud
 ucc.abunews.ap-northeast-2.vespa.oath.cloud
@@ -4363,6 +4425,7 @@ us-west-2.finance-partners-api.aws.yahoo.cloud
 us-west-2.geo.account.api.here.com
 us-west-2.pr.p.account.here.com
 us-west-2.st.p.account.here.com
+us.ads.temu.com
 us11-cloud.acronis.com
 us12-cloud.acronis.com
 us15-cloud.acronis.com
@@ -4583,6 +4646,7 @@ vidftzqeib7wydc2nkgq557fwfir2rfvh.vespa.oath.cloud
 vie1-repo.acronis.com
 vie1-s3gw.acronis.com
 view.email.abercrombie.com
+view.learn.ads.snapchat.com
 vil4yreve547zjdbgquzo7nxxp5e3uyzg.public.vespa.oath.cloud
 vinjfdkgsyk46eikjro6wcxh4e3w7szn6.public.vespa.oath.cloud
 vinpc3ejlt2uh6qvt5qqia3ylod2jnyaa.public-cd.vespa.oath.cloud
@@ -4777,6 +4841,7 @@ work.8x8staging.com
 workday.acronis.work
 workforce.adminml.com
 wrh-msptest2.acronis.com
+www-hdvlinkcte.advisor-connection.com
 www-preview.compuserve.com
 www-qa-preview.compuserve.com
 www-qa.compuserve.com
@@ -4816,6 +4881,7 @@ www.adaptive-shield.com
 www.adaptive.corp.acronis.com
 www.adn.acronis.work
 www.adntest.acronis.work
+www.advancedcustomfields.com
 www.allsoft.acronis.com
 www.appdirect-eu2-cloud.acronis.com
 www.appsmart-cloud.acronis.com
@@ -5006,6 +5072,7 @@ www.sg-vpn2.acronis.com
 www.spmp.corp.acronis.com
 www.store.acronis.com
 www.support.acronis.com
+www.support.advancedcustomfields.com
 www.svn.corp.acronis.com
 www.telemetry.acronis.com
 www.testrail.corp.acronis.com
@@ -5036,6 +5103,7 @@ www.webteam-grafana.corp.acronis.com
 www.webteam-zbx.corp.acronis.com
 www.za01-cloud.acronis.com
 www.zeppelin.acronis.work
+wwwoldpte.advisor-connection.com
 xeunicefix.acep.acronis.work
 xo-docs-s.a.exodus.io
 xo-docs.a.exodus.io
