@@ -1089,8 +1089,6 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -3699,7 +3697,6 @@ smtp.sendgrid.net
 smtp2go.com
 snappublisher.snapchat.com
 snaps.metamask.io
-snapshooter.com
 snooguts.net
 soaext.oft.hyatt.com
 social.geneva-staging.chat
