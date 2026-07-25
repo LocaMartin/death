@@ -290,6 +290,7 @@ affiliate-beta.intl-commerce.aws-us-east-1b.vespa.oath.cloud
 affiliate-beta.intl-commerce.aws-us-east-2a.dev.vespa.oath.cloud
 affiliate-beta.intl-commerce.aws-us-west-2a.vespa.oath.cloud
 affiliate-beta.intl-commerce.global.vespa.oath.cloud
+affiliate-id.tokopedia.com
 affiliate-int.intl-commerce.aws-us-east-1a.vespa.oath.cloud
 affiliate-int.intl-commerce.aws-us-east-1b.vespa.oath.cloud
 affiliate-int.intl-commerce.aws-us-east-2a.dev.vespa.oath.cloud
@@ -301,6 +302,7 @@ affiliate.intl-commerce.aws-us-east-1b.vespa.oath.cloud
 affiliate.intl-commerce.aws-us-east-2a.dev.vespa.oath.cloud
 affiliate.intl-commerce.aws-us-west-2a.vespa.oath.cloud
 affiliate.intl-commerce.global.vespa.oath.cloud
+affiliate.meesho.com
 agent.adm.cloud.com
 agentcrm.8x8.com
 agents-at01-cloud.acronis.com
@@ -353,12 +355,17 @@ agents-us11-cloud.acronis.com
 agents-us12-cloud.acronis.com
 agents-za01-cloud.acronis.com
 agents.8x8.com
+agents.hostinger.com
+agents.tasheer.com
 agile.8x8.com
 agile.8x8staging.com
+aguacaliente.gleague.nba.com
 ai-labs-206919.va-fulfillment.ai.8x8.com
 ai-labs-df-backend-prod.va-fulfillment.ai.8x8.com
 ai-labs-df-backend-prod.va-support-api.ai.8x8.com
+ai-tools.infomaniak.com
 ai.8x8.vc
+ai.portswigger.net
 ailyceum.acronis.work
 airflow-prod.adv-ds-aws-magellan-prod.aws.oath.cloud
 aiss.acronis.work

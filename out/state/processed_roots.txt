@@ -238,3 +238,13 @@ advisories.gitlab.com
 advisorsolutions.gs.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aff.capital.com
+affiliate-id.tokopedia.com
+affiliate.meesho.com
+agents.hostinger.com
+agents.tasheer.com
+aguacaliente-dev.gleague.nba.com
+aguacaliente-qa.gleague.nba.com
+aguacaliente.gleague.nba.com
+ai-tools.infomaniak.com
+ai.8x8.vc
+ai.portswigger.net
