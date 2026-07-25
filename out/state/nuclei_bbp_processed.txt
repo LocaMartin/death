@@ -4998,3 +4998,15 @@ zarahome.cn
 zarahome.com
 zdev.net
 zelle.com
+zellepay.com
+zelleservice.my.salesforce.com
+zelleservice.my.site.com
+ziekenhuisschool.be
+zmifi.com
+zomans.com
+zomato.com
+zooplus.net
+{product}.8x8.id
+{product}.8x8.uk
+{product}.us.8x8.com
+{product}.{region}.cpaas-net.8x8.com
