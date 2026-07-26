@@ -248,3 +248,13 @@ aguacaliente.gleague.nba.com
 ai-tools.infomaniak.com
 ai.8x8.vc
 ai.portswigger.net
+ai.x.grok
+ai.x.grokapp
+air.com.buffalo_studios.newflashbingo
+air.com.playtika.cvs
+air.com.playtika.slotomania
+airbnb-aws.com
+airbnb.com
+airbnb.org
+airbnbcitizen.com
+airbnbpayments.com

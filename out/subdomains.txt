@@ -222,6 +222,7 @@ acss.acronis.work
 actie.ad.nl
 actionnaires.vinci.com
 activities.marriott.com
+actnow.airbnbcitizen.com
 ad.nl
 adaptive-shield.com
 adaptive.acronis.work
@@ -232,9 +233,14 @@ adc.corp.acronis.com
 addons.allizom.org
 adm.cloud.com
 admin-dev1.1debit.com
+admin-lite-next.airbnb.com
+admin-lite-staging.airbnb.com
+admin-lite.airbnb.com
+admin-next.airbnb.com
 admin-portal.api-xperience.com
 admin-resolve.8x8.com
 admin-shell.8x8staging.com
+admin-staging.airbnb.com
 admin-vnext.8x8staging.com
 admin.1debit.com
 admin.8x8.com
@@ -242,6 +248,7 @@ admin.8x8.vc
 admin.8x8staging.com
 admin.acronis.com
 admin.acronis.work
+admin.airbnb.com
 admin.corp.acronis.com
 admin.instacart.com
 admin.isp.netscape.com
@@ -367,8 +374,15 @@ ai-tools.infomaniak.com
 ai.8x8.vc
 ai.portswigger.net
 ailyceum.acronis.work
+airbnb-aws.com
+airbnb.com
+airbnb.org
+airbnbcitizen.com
+airbnbpayments.com
 airflow-prod.adv-ds-aws-magellan-prod.aws.oath.cloud
 aiss.acronis.work
+akamai-ci.airbnb.com
+akamai-staging.airbnb.com
 akl1-repo.acronis.com
 akl1-s3gw.acronis.com
 album-rec-java.vespa-team.aws-ap-northeast-1a.public.vespa.oath.cloud
@@ -417,6 +431,7 @@ alpha.k8sfu.home-albertoc-aws.aws.oath.cloud
 alt.5nine.com
 alts-uat-advisorsolutions.gs.com
 am-testing.account.adobe.com
+ameriprise.airbnbcitizen.com
 amf-prod.advgovernance-aws-prod.aws.oath.cloud
 amf-qa.advgovernance-aws-dev.aws.oath.cloud
 ami-build-prod.pcp.aws.oath.cloud
@@ -521,6 +536,9 @@ api.accounts.firefox.com
 api.adaptive-shield.com
 api.adm.cloud.com
 api.admanager.yahoo.com
+api.airbnb.com
+api.akamai-ci.airbnb.com
+api.akamai-dev.airbnb.com
 api.amt-amt-java.aws.oath.cloud
 api.amt-aws-uat.aws.oath.cloud
 api.aws-oath-video-intelligence-prod.aws.oath.cloud
@@ -558,6 +576,7 @@ app4.kkraunetenant1.aws-us-east-1c.staging.public.vespa.oath.cloud
 app4.kkraunetenant1.aws-us-east-1c.test.public.vespa.oath.cloud
 app4.kkraunetenant1.global.public.vespa.oath.cloud
 appdirect-eu2-cloud.acronis.com
+application.dev.staging.airbnb.org
 applications.abercrombie.com
 apps.8x8.com
 apps.8x8staging.com
@@ -566,6 +585,8 @@ apps.openshift.home-avanham15.aws.oath.cloud
 appsmart-cloud.acronis.com
 appstore.8x8.vc
 aqa-backup-jenkins.acronis.work
+ar.airbnb.com
+ar.airbnb.org
 arc-dev.8x8.com
 arc.8x8.com
 archive-sites.archived-corpsites.ap-northeast-1.vespa.oath.cloud
@@ -611,6 +632,7 @@ aressem.smurf.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 aressem.smurf.scoober.global.public.vespa.oath.cloud
 argo-ui.cloud-mgmt.8x8cloud.net
 argocd-opsprodyyz-ca-toronto-1.ops-production.oci.infra8.8x8cloud.net
+arivest.airbnbcitizen.com
 arqadb.subscriptions.obi-batch.aws.dev.private.aws.oath.cloud
 artifactory-sandbox.aws.oath.cloud
 artifactory.acronis.work
@@ -625,6 +647,7 @@ ashieldstg.adaptive-shield.com
 asign-preview.acronis.com
 asign.acronis.com
 assets.advancedcustomfields.com
+assets.airbnb.com
 at01-cloud.acronis.com
 atlantis-compute.awesome.8x8testa.com
 atlantis.uplynk-inf.aws.oath.cloud
@@ -720,6 +743,8 @@ aws.acronis.com
 awx-dev.acronis.work
 awx.acronis.work
 axtest.acronis.com
+az.airbnb.com
+az.airbnb.org
 azir.adminml.com
 azure-stage.account.adobe.com
 b.cceng.8x8.com
@@ -730,6 +755,7 @@ baga.agent.adm.cloud.com
 balancer.1debit.com
 bastion.video-platform-splunk.aws.oath.cloud
 bbb.8x8.com
+bcnfix.airbnbcitizen.com
 beerline.8x8pilot.com
 beg1-repo.acronis.com
 beg1-s3gw.acronis.com
@@ -756,6 +782,7 @@ beta.developer.10x.redoxengine.com
 beta.reporting-api.one-mobile-prod.aws.oath.cloud
 beta.tw.news.yahoo.com
 beta2.3.basecamp.com
+beyond.airbnb.com
 bg-acmrnd.acronis.work
 bg-ap-12.acronis.work
 bg-edge-1.acronis.com
@@ -767,6 +794,8 @@ bg-rnd-aci01.acronis.work
 bg-rnd-aci02.acronis.work
 bg-vpn.acronis.com
 bg-vpn2.acronis.com
+bg.airbnb.com
+bg.airbnb.org
 bg01-cloud.acronis.com
 bg98-cloud.acronis.com
 bg99-cloud.acronis.com
@@ -824,6 +853,7 @@ brana-ui.aws-oath-fires-brana-dev.aws.oath.cloud
 brana-ui.aws-oath-fires-brana-prod.aws.oath.cloud
 brand.8x8.com
 brand.acronis.com
+brand.airbnb.com
 branded-content.ad.nl
 branded-eu2-cloud.acronis.com
 branded-eu8-cloud.acronis.com
@@ -839,6 +869,8 @@ bratseth.everything.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 bridge.ai.8x8.vc
 broker.aolp-ds-dev.aws.oath.cloud
 broker.aolp-ds-prd.aws.oath.cloud
+bs.airbnb.com
+bs.airbnb.org
 bt-eu2-cloud.acronis.com
 bt01-baas.acronis.com
 bt01-cloud.acronis.com
@@ -874,6 +906,8 @@ c3.8x8.com
 c45-2-ap1.awesome.8x8testa.com
 c45-2-ap2.awesome.8x8testa.com
 ca.acronis.com
+ca.airbnb.com
+ca.airbnb.org
 ca01-cloud.acronis.com
 ca02-cloud.acronis.com
 calendar.comms-calendar.ap-northeast-1.vespa.oath.cloud
@@ -892,6 +926,7 @@ calendar.comms-calendar.us-east-3.perf.vespa.oath.cloud
 calendar.comms-calendar.us-east-3.staging.vespa.oath.cloud
 calendar.comms-calendar.us-east-3.vespa.oath.cloud
 calendar.comms-calendar.us-west-1.vespa.oath.cloud
+callbacks.airbnb.com
 calvi.agent.adm.cloud.com
 canary-grid.vespa.ap-northeast-1.vespa.oath.cloud
 canary-grid.vespa.ap-northeast-2.vespa.oath.cloud
@@ -966,6 +1001,7 @@ care.account.here.com
 care.acronis.com
 careers.abercrombie.com
 careers.acronis.com
+careers.airbnb.com
 careers2.abercrombie.com
 carmel.adm.cloud.com
 carmel.agent.adm.cloud.com
@@ -1356,6 +1392,7 @@ cdn.8x8.com
 cdn.accounts.firefox.com
 cdn.acronis.com
 cem1.abercrombie.com
+cerberus.airbnb-aws.com
 cert-giftcards.abercrombie.com
 certauth.fs.acronis.com
 certauth.fs.acronis.work
@@ -1386,6 +1423,7 @@ changeplan.compuserve.com
 channelincentives.acronis.com
 channels.isp.netscape.com
 chargeback-admin-mr.adminml.com
+charon-themis.airbnb-aws.com
 chat.3.basecamp.com
 chemtrail-collector.home-ccannell.aws.oath.cloud
 chemtrail-query.home-ccannell.aws.oath.cloud
@@ -1501,9 +1539,11 @@ club.ad.nl
 cn-hk.abercrombie.com
 cn.accounts.logi.com
 cn99-cloud.acronis.com
+cnr.airbnb.com
 cocoa.adm.cloud.com
 cocoa.agent.adm.cloud.com
 code.addons.allizom.org
+cohostsuccess.airbnb.com
 collect.abercrombie.com
 com.8x8.vc
 comics.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
@@ -1516,6 +1556,7 @@ common.1win.com
 comms-notifications-dev.aws.oath.cloud
 comms-notifications-prod.aws.oath.cloud
 comms-notifications-stg.aws.oath.cloud
+community-staging.airbnb.com
 community-stream-stg.ect-srch.ap-northeast-1.vespa.oath.cloud
 community-stream-stg.ect-srch.ap-northeast-2.vespa.oath.cloud
 community-stream-stg.ect-srch.ap-southeast-1.vespa.oath.cloud
@@ -1549,6 +1590,9 @@ community.abucommon.us-east-3.perf.vespa.oath.cloud
 community.abucommon.us-east-3.staging.vespa.oath.cloud
 community.abucommon.us-east-3.vespa.oath.cloud
 community.abucommon.us-west-1.vespa.oath.cloud
+community.airbnb.com
+communitycenter.airbnb.com
+communitycenter.akamai-dev.airbnb.com
 composer-lb.advancedcustomfields.com
 composer.advancedcustomfields.com
 compute.8x8cloud.net
@@ -1630,6 +1674,7 @@ cpaas-fax-monit.cloud-mgmt.8x8cloud.net
 cpaas.8x8.com
 crashes.ycm-aws-devel.aws.oath.cloud
 crawler.ai.8x8.vc
+create.airbnb.com
 creative.mse-dev.aws.oath.cloud
 credits-admin.adminml.com
 crm.adminml.com
@@ -1647,6 +1692,8 @@ crs.corp.acronis.com
 crypto-pill-playground-d.a.exodus.io
 crypto-pill-playground-main.a.exodus.io
 crypto-pill-playground.a.exodus.io
+cs.airbnb.com
+cs.airbnb.org
 cschost.abercrombie.com
 csfedportalsp-ext.advisor-connection.com
 csl-grafana.acronis.work
@@ -1666,6 +1713,10 @@ cyberfit.acronis.work
 cz.acronis.com
 cz01-cloud.acronis.com
 d.em.abercrombie.com
+d0a7e.airbnb.com
+d0a7e.akamai-ci.airbnb.com
+da.airbnb.com
+da.airbnb.org
 dashboard.adaptive-shield.com
 dashboard.admanager.yahoo.com
 dashboard.qa.ai.8x8.com
@@ -1702,6 +1753,8 @@ de-hc-2.emea.corp.acronis.com
 de-oos-1.corp.acronis.com
 de-oos-2.corp.acronis.com
 de-vpn.acronis.com
+de.airbnb.com
+de.airbnb.org
 de99-cloud.acronis.com
 deal-discovery-aws-oath-fires-brana-dev.aws.oath.cloud
 deal-discovery.aws-oath-fires-brana-dev.aws.oath.cloud
@@ -1712,6 +1765,7 @@ deploy-ops.8x8.studio
 deploy-ops.dev.8x8.studio
 deploy-ops.preview.8x8.studio
 deploy-ops.stage.8x8.studio
+deployboard.airbnb.com
 deployer.video-platform-splunk.aws.oath.cloud
 dev-api-int.notificationsystems-rivendell-aws-dev.aws.oath.cloud
 dev-api.notificationsystems-rivendell-aws-dev.aws.oath.cloud
@@ -1756,6 +1810,7 @@ dev.taxonomy-search.aolp-ds-dev.aws.oath.cloud
 dev.wopi.acrobat.adobe.com
 develocity.adminml.com
 developer.acronis.com
+developer.airbnb.com
 developers.acronis.com
 devicelock-jenkins.acronis.work
 devjaegercollector.home-ccannell.aws.oath.cloud
@@ -1766,6 +1821,7 @@ devjaegerui.home-ccannell.aws.oath.cloud
 devjaegerui.oath-publishing-non-prod.aws.oath.cloud
 devops-handbook.a.exodus.io
 devrel.8x8cloud.net
+dfwairbnb.com
 dialin.acronis.com
 dictionary-vespa-app-stg.dictionary-search.ap-northeast-1.vespa.oath.cloud
 dictionary-vespa-app-stg.dictionary-search.ap-northeast-2.vespa.oath.cloud
@@ -1860,6 +1916,7 @@ dppe-reports.ads-dataplatform-dev.aws.oath.cloud
 dppe-reports.ads-dataplatform-prd.aws.oath.cloud
 dr.accounts.logi.com
 dr.acronis.com
+dr.airbnb.com
 draas-zabbix.acronis.com
 drama.drama-search.ap-northeast-1.vespa.oath.cloud
 drama.drama-search.ap-northeast-2.vespa.oath.cloud
@@ -1941,12 +1998,15 @@ einvoice.abucommon.us-east-3.vespa.oath.cloud
 einvoice.abucommon.us-west-1.vespa.oath.cloud
 ekpoule.ad.nl
 ekspel.ad.nl
+el.airbnb.com
+el.airbnb.org
 elc-rest-acc-elastic-cc-cdr-env-a-us-ashburn-1.analytics-staging.oci.infra8.8x8cloud.net
 elc-rest-acc-elastic-cc-vobilling-env-a-us-ashburn-1.analytics-acceptance.oci.infra8.8x8cloud.net
 elc-rest-zipkin-acc-debug-tools-env-a-ca-toronto-1.analytics-production.oci.infra8.8x8cloud.net
 elearning.acronis.com
 elektro.abumedia-aws-partner.aws.oath.cloud
 email.account.acronis.com
+email.airbnb.com
 email.cloud.acronis.com
 endpoint1302.verysecure.dev-test.vespa.oath.cloud
 endpoint5950.dev-test.vespa.oath.cloud
@@ -1962,9 +2022,12 @@ erp.acronis.work
 erp.corp.acronis.com
 es-eu.abercrombie.com
 es.abercrombie.com
+es.admin-lite.airbnb.com
+es.airbnb.org
 es.partners.acronis.com
 es01-cloud.acronis.com
 esign.acronis.com
+et.airbnb.org
 eu-cloud.acronis.com
 eu-west-1.geo.account.api.here.com
 eu-west-1.pr.p.account.here.com
@@ -1987,6 +2050,7 @@ exokit.a.exodus.io
 expenses-acm-test.acronis.com
 express.8x8staging.com
 externalbuy.ad.nl
+f02aa.akamai-ci.airbnb.com
 familieberichten.ad.nl
 fantonald1000.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 fantonald1000.scoober.aws-us-east-1c.public.vespa.oath.cloud
@@ -2021,6 +2085,7 @@ fco1-repo.acronis.com
 fco1-s3gw.acronis.com
 fe.amt-amt-java.aws.oath.cloud
 feed-c.acronis.com
+fi.airbnb.org
 fi01-cloud.acronis.com
 files.8x8.vc
 files.acronis.com
@@ -2074,6 +2139,7 @@ forum.acronis.com
 forums.acronis.com
 foundation.acronis.com
 fr-eu.abercrombie.com
+fr.airbnb.org
 fra20-repo.acronis.com
 fra20-s3gw.acronis.com
 frankfurt-stage.8x8.vc
@@ -2092,6 +2158,7 @@ func-zms-us-west-2.athenz.aws.oath.cloud
 func-zts-us-west-2.athenz.aws.oath.cloud
 fz-services.payments-aws-dev.aws.oath.cloud
 fz-ui-service.payments-aws-dev.aws.oath.cloud
+ga.airbnb.org
 gate-bell-beta-acc-services-env-a-accbeta1iad-us-ashburn-1.analytics-staging.oci.infra8.8x8cloud.net
 gateway.acronis.com
 gctest.8x8cloud.net
@@ -2244,6 +2311,8 @@ hd-trial.corp.acronis.com
 hd.acronis.work
 hd.corp.acronis.com
 hdtrial.acronis.work
+he.airbnb.com
+he.airbnb.org
 hec.video-platform-splunk.aws.oath.cloud
 hel1-repo.acronis.com
 hel1-s3gw.acronis.com
@@ -2260,6 +2329,7 @@ help.qa.compuserve.com
 help.stage.compuserve.com
 helpdesk.acronis.work
 helpsurvey.abercrombie.com
+hi.airbnb.org
 history-stage.rivendell.ap-northeast-1.vespa.oath.cloud
 history-stage.rivendell.ap-northeast-2.vespa.oath.cloud
 history-stage.rivendell.ap-southeast-1.vespa.oath.cloud
@@ -2292,6 +2362,8 @@ home-martoc.aws.oath.cloud
 home-rou-test1.aws.oath.cloud
 hooks.ai.8x8.vc
 hostauth.staging.sjc01.us-west.8x8cloud.net
+hostcommunity.akamai-ci.airbnb.com
+hostcommunity.akamai-dev.airbnb.com
 hotornot.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 hotornot.scoober.aws-us-east-1c.public.vespa.oath.cloud
 hotornot.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
@@ -2302,15 +2374,18 @@ hp-app.scoober.aws-us-east-1c.public.vespa.oath.cloud
 hp-app.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 hp-app.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 hp-app.scoober.global.public.vespa.oath.cloud
+hr.airbnb.org
 hris2.corp.acronis.com
 http-feeding-aws.by-andreer.aws-us-east-1a.vespa.oath.cloud
 http-feeding-aws.by-andreer.aws-us-east-1b.vespa.oath.cloud
 http-feeding-aws.by-andreer.aws-us-east-2a.dev.vespa.oath.cloud
 http-feeding-aws.by-andreer.aws-us-west-2a.vespa.oath.cloud
 http-feeding-aws.by-andreer.global.vespa.oath.cloud
+hu.airbnb.org
 hu01-cloud.acronis.com
 huffpost-life-production.aws.oath.cloud
 huffpost-life-staging.aws.oath.cloud
+hy.airbnb.org
 iad1-repo.acronis.com
 iad1-s3gw.acronis.com
 iad10-repo.acronis.com
@@ -2435,12 +2510,15 @@ id-us-w15.identityb2b.aws.oath.cloud
 id-us-w16.identityb2b.aws.oath.cloud
 id-us-w17.identityb2b.aws.oath.cloud
 id-us-w18.identityb2b.aws.oath.cloud
+id.airbnb.org
 id.identityb2b.aws.oath.cloud
 id01-cloud.acronis.com
 ideas.5nine.com
 idm.prod.sjc01.us-west.8x8cloud.net
 idm.staging.sjc01.us-west.8x8cloud.net
 ids-proxy.account.adobe.com
+iframes-dev.airbnbpayments.com
+iframes.airbnbpayments.com
 ikstaindekrant.ad.nl
 il01-cloud-cloud.acronis.com
 il01-cloud.acronis.com
@@ -2508,6 +2586,7 @@ ipam.staging.sjc01.us-west.8x8cloud.net
 ipfinder.cloud-mgmt.8x8cloud.net
 ipn.subscriptions-obi-fe-aws-dev.aws.oath.cloud
 ir.abercrombie.com
+is.airbnb.org
 is01-cloud.acronis.com
 is1.slicer-api.mss-dev.aws.oath.cloud
 is2.slicer-api.mss-dev.aws.oath.cloud
@@ -2518,12 +2597,14 @@ istiotest.cloud-mgmt.8x8cloud.net
 it-eu.abercrombie.com
 it-jenkins.acronis.work
 it.abercrombie.com
+it.airbnb.org
 it01-cloud.acronis.com
 iws-proxy.payments-aws-cde-dev.aws.oath.cloud
 iws-proxy.payments-aws-cde-prod.aws.oath.cloud
 iws-proxy.payments-aws-cde-stg.aws.oath.cloud
 iws.admanager.yahoo.com
 ja-jp.abercrombie.com
+ja.airbnb.org
 jaarverslag.ad.nl
 jaas-pilot.8x8.vc
 jaas.8x8.vc
@@ -2598,6 +2679,7 @@ k8s.beta-cloud.acronis.work
 k8s.godaddy-cloud.acronis.work
 k8s.it01-cloud.acronis.work
 k8sfu.home-albertoc-aws.aws.oath.cloud
+ka.airbnb.org
 kardamena-uncovered.8x8.vc
 kaseya-tap-asd.acronis.com
 kaseya-tap-asd2.acronis.com
@@ -2624,6 +2706,7 @@ kibana.lh-cloud.acronis.work
 kieswijzer.ad.nl
 klassiekerspel.ad.nl
 kman.10x.redoxengine.com
+ko.airbnb.org
 kr01-cloud.acronis.com
 krant.ad.nl
 kraune.album-rec-java.vespa-team.aws-us-east-1c.dev.public.vespa.oath.cloud
@@ -2782,11 +2865,13 @@ lsbe-hv.local-search-content.us-east-3.vespa.oath.cloud
 lsbe-hv.local-search-content.us-west-1.vespa.oath.cloud
 lscfg.8x8pilot.com
 lsh-similairty.acronis.com
+lt.airbnb.org
 luserver.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 luserver.scoober.aws-us-east-1c.public.vespa.oath.cloud
 luserver.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 luserver.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 luserver.scoober.global.public.vespa.oath.cloud
+lv.airbnb.org
 lv01-cloud.acronis.com
 lyncdiscover.acronis.com
 lyncdiscoverinternal.acronis.com
@@ -2898,6 +2983,7 @@ mijnomgeving.ad.nl
 mil.8x8.vc
 mimir.10x.redoxengine.com
 misentry.acronis.com
+mk.airbnb.org
 mktg-email.8x8.com
 mm.acronis.com
 mobile-meli-gpt.adminml.com
@@ -2949,6 +3035,7 @@ mpolden.test1.scoober.global.public.vespa.oath.cloud
 mpsusqa-testcname.mse-dev.aws.oath.cloud
 mpsusqa.mse-dev.aws.oath.cloud
 mr-fintech.adminml.com
+ms.airbnb.org
 msd-api-us-east-1.athenz-k8s-nonprod.aws.yahoo.cloud
 msd-api-us-east-1.athenz-k8s-prod.aws.yahoo.cloud
 msd-api-us-west-2.athenz-k8s-prod.aws.yahoo.cloud
@@ -2969,6 +3056,7 @@ mss-api-staging.mss-dev.aws.oath.cloud
 mss-api.mss-dev.aws.oath.cloud
 mss-dev.aws.oath.cloud
 mss.aws.oath.cloud
+mt.airbnb.org
 mta.email.abercrombie.com
 mta.learn.ads.snapchat.com
 mta.staging.8x8cloud.net
@@ -3071,6 +3159,8 @@ nevec-aws-dev.aws.oath.cloud
 nevec-aws-int.aws.oath.cloud
 nevec-aws-prod.aws.oath.cloud
 new.account.krisp.ai
+news.akamai-ci.airbnb.com
+news.akamai-dev.airbnb.com
 nexus.uplynk-inf.aws.oath.cloud
 ng01-cloud.acronis.com
 nginxtest-dev.pilot.aws.infra8.8x8cloud.net
@@ -3083,6 +3173,8 @@ nicest-neighbor.scoober.aws-us-east-1c.public.vespa.oath.cloud
 nicest-neighbor.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 nicest-neighbor.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 nicest-neighbor.scoober.global.public.vespa.oath.cloud
+nl.airbnb.org
+no.airbnb.org
 no01-cloud.acronis.com
 nonexistent.acronis.work
 nonprod.video-platform-splunk.aws.oath.cloud
@@ -3136,6 +3228,7 @@ o11y-production.oci.infra8.8x8cloud.net
 o14.ptr4726.account.kaufland.com
 o15.ptr2362.account.kaufland.com
 o2.ptr3817.account.kaufland.com
+o25.ptr9839.email.airbnb.org
 o5.ptr3636.account.kaufland.com
 o6.ptr5285.account.kaufland.com
 oa-business-strategy-prod.aws.oath.cloud
@@ -3238,8 +3331,11 @@ ops-staging.oci.infra8.8x8cloud.net
 orangecrush.one-mobile-dev.aws.oath.cloud
 orangecrush.one-mobile-prod.aws.oath.cloud
 origin-accounts.evernote.com
+origin-events.airbnb-aws.com
+origin-one.airbnb-aws.com
 origin.www-qa.compuserve.com
 origin.www.compuserve.com
+orthrus.airbnb-aws.com
 osa.corp.acronis.com
 osl1-repo.acronis.com
 osl1-s3gw.acronis.com
@@ -3312,6 +3408,7 @@ pimcore-prod.ce-self-help-pimcore.aws.oath.cloud
 pindrop.customer-care-pindrop-aws-prod.aws.oath.cloud
 pixel-api-qai.us-east-1.aolp-ds-dev.aws.oath.cloud
 pixel-api.aolp-ds-dev.aws.oath.cloud
+pl.airbnb.org
 pl01-cloud.acronis.com
 placement-api.jacobestelle-home.bf2.ows.oath.cloud
 placement-api.jacobestelle-home.gq2.ows.oath.cloud
@@ -3433,6 +3530,7 @@ prometheus.beta-cloud.acronis.work
 promo.acronis.com
 proto.1debit.com
 provisioning-vpn.acronis.com
+pt.airbnb.org
 pt.cmp-api.gdpr.us-east-1.aolp-ds-dev.aws.oath.cloud
 pt01-cloud.acronis.com
 public-meligpt.adminml.com
@@ -3670,6 +3768,7 @@ rix1-s3gw.acronis.com
 rndtools-jenkins-test.acronis.work
 rndtools-jenkins.acronis.work
 rndtools-jenkins.corp.acronis.com
+ro.airbnb.org
 ro01-cloud.acronis.com
 root.album-rec-java.vespa-team.aws-us-east-1c.dev.public.vespa.oath.cloud
 root.album-rec-java.vespa-team.aws-us-east-1c.public.vespa.oath.cloud
@@ -3758,6 +3857,7 @@ ru-oos-1.corp.acronis.com
 ru-oos-2.corp.acronis.com
 ru-vpn.acronis.com
 ru-vpn2.acronis.com
+ru.airbnb.org
 ru2-baas.acronis.com
 ru2-cloud.acronis.com
 ru2-repo.acronis.com
@@ -3905,6 +4005,7 @@ sit.mtls.api.eu-west-1.account.here.com
 sit.mtls.api.us-east-1.account.here.com
 sjc01a-block01.staging.sjc01.us-west.8x8cloud.net
 sjc01b-block01.staging.sjc01.us-west.8x8cloud.net
+sk.airbnb.org
 skg1-repo.acronis.com
 skg1-s3gw.acronis.com
 skimlinks.external-feeds.aws-us-east-1a.vespa.oath.cloud
@@ -3912,6 +4013,7 @@ skimlinks.external-feeds.aws-us-east-1b.vespa.oath.cloud
 skimlinks.external-feeds.aws-us-east-2a.dev.vespa.oath.cloud
 skimlinks.external-feeds.aws-us-west-2a.vespa.oath.cloud
 skimlinks.external-feeds.global.vespa.oath.cloud
+sl.airbnb.org
 slicer-api.mss-dev.aws.oath.cloud
 smart.acronis.com
 smartcontent.abunews.ap-northeast-1.vespa.oath.cloud
@@ -4052,7 +4154,9 @@ spmp.acronis.work
 spmp.corp.acronis.com
 spot.account.here.com
 sq.acronis.work
+sq.airbnb.org
 sqtest.acronis.work
+sr.airbnb.org
 srs-api.pcp.aws.oath.cloud
 srs-fe.pcp.aws.oath.cloud
 sso-testing.8x8pilot.com
@@ -4107,6 +4211,7 @@ staging-elk-logstash.huffpost-utils.aws.oath.cloud
 staging-test.autoblog-aws-prod.aws.oath.cloud
 staging.3.basecamp.com
 staging.5nine.com
+staging.airbnbcitizen.com
 staging.autoblog-aws-prod.aws.oath.cloud
 staging.chalet.8x8staging.com
 staging.compuserve.com
@@ -4172,6 +4277,7 @@ stream-ranking-canary.stream.us-west-1.vespa.oath.cloud
 streamer-us-east-1.finance-aws-prod.aws.oath.cloud
 streamer-us-west-2.finance-aws-prod.aws.oath.cloud
 strg-jenkins.acronis.work
+styx.airbnb-aws.com
 sugar.adm.cloud.com
 sugar.agent.adm.cloud.com
 sungardfp.advisor-connection.com
@@ -4180,6 +4286,7 @@ superx.8x8staging.com
 support-cyberlab.acronis.work
 support.acronis.com
 support.advancedcustomfields.com
+sv.airbnb.org
 svc.8x8cloud.net
 svc.o2.aws.oath.cloud
 svn.corp.acronis.com
@@ -4188,6 +4295,7 @@ svuqt-qa.subscriptions-svu-aws-dev.aws.oath.cloud
 svuqt-stage.subscriptions-svu-aws-dev.aws.oath.cloud
 svuquerytool-prod.subscriptions-svu-aws-dev.aws.oath.cloud
 svuquerytool-prod.subscriptions-svu-aws-prod.aws.oath.cloud
+sw.airbnb.org
 swagger.5nine.com
 switch.account.adobe.com
 sys.ai.8x8.vc
@@ -4200,6 +4308,7 @@ tagcache.one-mobile-prod.aws.oath.cloud
 tagcache.prod.aolp-ds-prd.aws.oath.cloud
 tay1-repo.acronis.com
 tay1-s3gw.acronis.com
+tcbbank.airbnbcitizen.com
 telemetry.acronis.com
 teleport.8x8-shared-svcs-prod.aws.infra8.8x8cloud.net
 tenantadmin-dev-manual.oci.infra8.8x8cloud.net
@@ -4253,7 +4362,9 @@ text-search.scoober.aws-us-east-1c.public.vespa.oath.cloud
 text-search.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 text-search.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 text-search.scoober.global.public.vespa.oath.cloud
+th.airbnb.org
 thrift.acronis.work
+tl.airbnb.org
 tll1-repo.acronis.com
 tll1-s3gw.acronis.com
 tll2-repo.acronis.com
@@ -4296,6 +4407,7 @@ tp-jenkins.acronis.work
 tp-oci-cp-iad-02.acceptance.cloud.8x8.com
 tpe1-repo.acronis.com
 tpe1-s3gw.acronis.com
+tr.airbnb.org
 tr01-cloud.acronis.com
 tracker.cross-platform-analytics-alephd-dev.aws.oath.cloud
 training.acronis.com
@@ -4371,6 +4483,7 @@ uk-lync-fe-3.corp.acronis.com
 uk-lync-fe-4.corp.acronis.com
 uk-lync-fe.corp.acronis.com
 uk-lyncwebint.corp.acronis.com
+uk.airbnb.org
 uk01-cloud.acronis.com
 uk99-cloud.acronis.com
 uklyncweb.acronis.com
@@ -4389,6 +4502,7 @@ upload.3.basecamp.com
 uploadtooljobs.acronis.work
 ups-ats-test.aolp-ds-dev.aws.oath.cloud
 ups-qai.aolp-ds-dev.aws.oath.cloud
+url9720.email.airbnb.org
 urlresearch.acronis.com
 us-ap-12.acronis.work
 us-az-dc1.corp.acronis.com
@@ -4615,6 +4729,7 @@ vhwdg6jt74d77eat5wjexwte5r5mdilgk.vespa.oath.cloud
 vhwzd4yebqblhpaqphqab5dhocgz7mthh.public.vespa.oath.cloud
 vhy2ghltf6ytuwab44tgg64a4l5dh2bi4.vespa.oath.cloud
 vhy3qt47uhhg5isdzwxs5pcsqvl36trj7.public-cd.vespa.oath.cloud
+vi.airbnb.org
 vi45tjjrope7eihargsuk3wjdnlv7u63q.vespa.oath.cloud
 vi4zkimbfig3yi63lq4dvhqu7putv53t4.vespa.oath.cloud
 vi5r3lhpjwf2cesqn3efdom7bny3gzqj5.public-cd.vespa.oath.cloud
@@ -4838,6 +4953,8 @@ webtest-2.acronis.com
 webwinkel.ad.nl
 whitehaven.agent.adm.cloud.com
 widget.ai.8x8.vc
+widgets.akamai-ci.airbnb.com
+widgets.akamai-dev.airbnb.com
 wiki.platformdevops.8x8cloud.net
 windowsservicesantivirus.com.8x8.vc
 wmconnect-preview.compuserve.com
@@ -4847,7 +4964,9 @@ wms.adminml.com
 work.8x8staging.com
 workday.acronis.work
 workforce.adminml.com
+worldpay.callbacks.airbnb.com
 wrh-msptest2.acronis.com
+ws.dr.airbnb.com
 www-hdvlinkcte.advisor-connection.com
 www-preview.compuserve.com
 www-qa-preview.compuserve.com
@@ -4889,6 +5008,13 @@ www.adaptive.corp.acronis.com
 www.adn.acronis.work
 www.adntest.acronis.work
 www.advancedcustomfields.com
+www.airbnb.com
+www.airbnb.org
+www.airbnbcitizen.com
+www.akamai-ci.airbnb.com
+www.akamai-ci.airbnb.org
+www.akamai-dev.airbnb.com
+www.akamai-dev.airbnb.org
 www.allsoft.acronis.com
 www.appdirect-eu2-cloud.acronis.com
 www.appsmart-cloud.acronis.com
@@ -5090,6 +5216,7 @@ www.trials.cp-eu2.acronis.com
 www.try.5nine.com
 www.tryaccess.acronis.com
 www.ts.acronis.com
+www.tulumairbnb.com
 www.tw01-cloud.acronis.com
 www.uikit.corp.acronis.com
 www.uk-lync-fe.corp.acronis.com
