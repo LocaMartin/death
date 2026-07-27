@@ -258,3 +258,13 @@ airbnb.com
 airbnb.org
 airbnbcitizen.com
 airbnbpayments.com
+airstar-finance.com
+airstar.com
+airstarfinance.net
+airtable.js sdk (https://www.npmjs.com/package/airtable)
+akismet.com
+alasco.de
+alasco.rocks
+alchemy.veriff.com
+aleenote.cn
+aleenote.com
