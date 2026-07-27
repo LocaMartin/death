@@ -21,6 +21,7 @@
 4njbets.us.betfair.com
 5k8vrbdyje.infomaniak.site
 5nine.com
+8x8.cloud
 8x8.co.uk
 8x8.com
 8x8.id
@@ -430,6 +431,7 @@ api.staging-enviso.io/ticketwidgetapi
 api.steampowered.com
 api.stg.inspectorio.com
 api.stripe.com
+api.super-id.net
 api.superdrug.com
 api.swapcard.com
 api.swiftfinancial.com
@@ -1088,6 +1090,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -1101,8 +1105,6 @@ com.clearme.clearapp
 com.cm.cashregister
 com.coinbase.android
 com.coinbase.wallite
-com.coinhako
-com.coinhako.app
 com.coinspot.app
 com.coloros.assistantscreen
 com.coloros.findmyphone
@@ -1391,6 +1393,8 @@ com.whoop.android
 com.whoop.iphone
 com.wikibuy.prod.main
 com.wisdomtree.wtprime
+com.wolt.android
+com.wolt.courierapp
 com.wooga.pearlsperil
 com.wotif.android
 com.xiaomi.account
@@ -1751,6 +1755,7 @@ ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecommerceday.de
+ecosystem-experience.super-id.net
 ecrf.uzleuven.be
 edge.blablacar.be
 edge.blablacar.co.uk
@@ -2153,7 +2158,6 @@ hellofax.com
 hellosign.com
 helloworks.com
 help-jp.krisp.ai
-help.coinhako.com
 help.krisp.ai
 help.marriott.com
 help.netflix.com
@@ -2597,6 +2601,7 @@ m.dana.id
 m.goodrx.com
 m.reddit.com
 m.tw.coupang.com
+maestro.8x8.cloud
 magazine.kruidvat.be
 magento.com
 magic.veriff.me
@@ -2941,6 +2946,7 @@ news.yahoo.com
 newsletter-feedback.iciparisxl.nl
 newsletter.iciparisxl.nl
 newsletter.infomaniak.com
+newsos.com
 newsroom.images.hyatt.com
 next.airbnb.com
 nexuzhealth.com
@@ -3331,8 +3337,6 @@ rallyforestaurants.com
 rallyforrestaurant.com
 rallyforrestaurants.com
 rallyforrestaurants.org
-rancher.ninjakiwi.com
-rancher.ninjakiwi.me
 random.uzleuven.be/random
 randstadrisesmart.*
 raptors905-dev.gleague.nba.com
@@ -3847,6 +3851,7 @@ sun-qa.wnba.com
 sun-qa2.wnba.com
 sun.wnba.com
 super6.skysports.com
+superbank.id
 superbet.bet.br
 superbet.com
 superbet.gr
@@ -4363,7 +4368,6 @@ www.checkfelix.com
 www.clearme.com
 www.cloudways.com
 www.cm.com
-www.coinhako.com
 www.coinspot.com.au
 www.compass.com
 www.coolblue.be
