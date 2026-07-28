@@ -555,6 +555,7 @@ miinsurtech.cn
 miinsurtech.com
 miinsurtech.net
 mijiayoupin.com
+mijnwater-link.be
 mioffice.cn
 mios.cn
 miot-spec.org
@@ -931,10 +932,6 @@ vimla.io
 vimla.se
 vimla.work
 vine.co
-vinted.com
-vinted.fr
-vinted.net
-vintedgo.com
 visamiddleeast.com
 vliegwinkel.nl
 voi.com

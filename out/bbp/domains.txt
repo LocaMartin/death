@@ -2807,6 +2807,7 @@ mijn.gamma.be
 mijn.gamma.nl
 mijn.karwei.nl
 mijnacc.uzleuven.be
+mijnwater-link.be
 minerva.robinhood.com
 mioffice.cn
 mios.cn
@@ -4133,10 +4134,6 @@ vimla.se
 vimla.work
 vinci-groupe.profils.org
 vine.co
-vinted.com
-vinted.fr
-vinted.net
-vintedgo.com
 visa.co.cr
 visa.co.ni
 visa.co.za
