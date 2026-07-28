@@ -131,6 +131,7 @@
 8.28.2.0/24
 8.28.3.0/24
 82.196.42.196/28
+8x8.cloud
 8x8.co.uk
 8x8.com
 8x8.id
@@ -546,6 +547,7 @@ api.staging-enviso.io/ticketwidgetapi
 api.steampowered.com
 api.stg.inspectorio.com
 api.stripe.com
+api.super-id.net
 api.superdrug.com
 api.swapcard.com
 api.swiftfinancial.com
@@ -1517,6 +1519,8 @@ com.whoop.android
 com.whoop.iphone
 com.wikibuy.prod.main
 com.wisdomtree.wtprime
+com.wolt.android
+com.wolt.courierapp
 com.wooga.pearlsperil
 com.wotif.android
 com.xiaomi.account
@@ -1879,6 +1883,7 @@ ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecommerceday.de
+ecosystem-experience.super-id.net
 ecrf.uzleuven.be
 edge.blablacar.be
 edge.blablacar.co.uk
@@ -2728,6 +2733,7 @@ m.dana.id
 m.goodrx.com
 m.reddit.com
 m.tw.coupang.com
+maestro.8x8.cloud
 magazine.kruidvat.be
 magento.com
 magic.veriff.me
@@ -3075,6 +3081,7 @@ news.yahoo.com
 newsletter-feedback.iciparisxl.nl
 newsletter.iciparisxl.nl
 newsletter.infomaniak.com
+newsos.com
 newsroom.images.hyatt.com
 next.airbnb.com
 nexuzhealth.com
@@ -3984,6 +3991,7 @@ sun-qa.wnba.com
 sun-qa2.wnba.com
 sun.wnba.com
 super6.skysports.com
+superbank.id
 superbet.bet.br
 superbet.com
 superbet.gr
