@@ -131,6 +131,7 @@
 8.28.2.0/24
 8.28.3.0/24
 82.196.42.196/28
+8x8.cloud
 8x8.co.uk
 8x8.com
 8x8.id
@@ -268,3 +269,12 @@ alasco.rocks
 alchemy.veriff.com
 aleenote.cn
 aleenote.com
+alert.logitech.com
+alerts.ninjakiwi.com
+alexa.amazon.com
+alexaanswers.amazon.com
+alfred-uat-31.nonprod.syfe.com
+alfred.syfe.com
+alipayhk.com
+alipayplus.com
+all brand sites owned by vrt. the main site www.vrt.be and www.vrt.be/* is also "no bounty" (except paths in the "in scope" section)
