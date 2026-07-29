@@ -1,3 +1,5 @@
+*.developer.allegro.pl.allegrosandbox.pl
+*.ms.allegro.pl.allegrosandbox.pl
 0-00477474.acep.acronis.work
 0-abgw-tlv1-aci01.acep.acronis.work
 00002931.gittest.okta-test.acep.acronis.work
@@ -264,6 +266,7 @@ admin.8x8staging.com
 admin.acronis.com
 admin.acronis.work
 admin.airbnb.com
+admin.alternativa.film
 admin.corp.acronis.com
 admin.instacart.com
 admin.isp.netscape.com
@@ -458,6 +461,10 @@ alfred-uat-31.nonprod.syfe.com
 alfred.syfe.com
 alipayhk.com
 alipayplus.com
+all-inclusive.marriott.com
+allegro.cz.allegrosandbox.pl
+allegro.pl.allegrosandbox.pl
+allegro.sk.allegrosandbox.pl
 allsoft.acronis.com
 almpmng-pre.alipayplus.com
 alpha.cosmo.aws.oath.cloud
@@ -466,8 +473,13 @@ alpha.cosmo.katarti.aws.oath.cloud
 alpha.home-albertoc-aws-dev.aws.oath.cloud
 alpha.k8sfu.home-albertoc-aws.aws.oath.cloud
 alt.5nine.com
+alternativa.film
 alts-uat-advisorsolutions.gs.com
 am-testing.account.adobe.com
+am.developer.monespacesante.fr
+am.editeur.preprod.monespacesante.fr
+am.monespacesante.fr
+am.preprod.monespacesante.fr
 ameriprise.airbnbcitizen.com
 amf-prod.advgovernance-aws-prod.aws.oath.cloud
 amf-qa.advgovernance-aws-dev.aws.oath.cloud
@@ -603,6 +615,7 @@ api.akamai-ci.airbnb.com
 api.akamai-dev.airbnb.com
 api.akismet.com
 api.alasco.de
+api.allegro.pl.allegrosandbox.pl
 api.amt-amt-java.aws.oath.cloud
 api.amt-aws-uat.aws.oath.cloud
 api.aws-oath-video-intelligence-prod.aws.oath.cloud
@@ -674,6 +687,7 @@ applications.abercrombie.com
 apps.8x8.com
 apps.8x8staging.com
 apps.avanham15.home-avanham15.aws.oath.cloud
+apps.developer.allegro.pl.allegrosandbox.pl
 apps.openshift.home-avanham15.aws.oath.cloud
 appsmart-cloud.acronis.com
 appstore.8x8.vc
@@ -714,6 +728,7 @@ archives-private.archived-corpsites.us-east-3.perf.vespa.oath.cloud
 archives-private.archived-corpsites.us-east-3.staging.vespa.oath.cloud
 archives-private.archived-corpsites.us-east-3.vespa.oath.cloud
 archives-private.archived-corpsites.us-west-1.vespa.oath.cloud
+archiwum.allegro.pl.allegrosandbox.pl
 aressem.scooby-dooby-doo.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 aressem.scooby-dooby-doo.scoober.aws-us-east-1c.public.vespa.oath.cloud
 aressem.scooby-dooby-doo.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
@@ -768,6 +783,7 @@ auth.cloud.sgp.alipayplus.com
 auth.mercadolibre.adminml.com
 auth.prod.sjc01.us-west.8x8cloud.net
 auth.staging.sjc01.us-west.8x8cloud.net
+auth.wakacje.allegro.pl.allegrosandbox.pl
 auth0-test.adminml.com
 auth2-meli.adminml.com
 authproxy.use1.grid-aws-dev.aws.yahoo.cloud
@@ -998,6 +1014,8 @@ builds.acronis.work
 bumpt.8x8.id
 burgerking.8x8pilot.com
 business.8x8.com
+business.allegro.cz.allegrosandbox.pl
+business.allegro.pl.allegrosandbox.pl
 buy.acronis.com
 bw.acronis.work
 c2.ad.nl
@@ -1785,6 +1803,7 @@ crashes.ycm-aws-devel.aws.oath.cloud
 crawler.ai.8x8.vc
 create.airbnb.com
 creative.mse-dev.aws.oath.cloud
+credit-application.allegro.pl.allegrosandbox.pl
 credits-admin.adminml.com
 crm.adminml.com
 cross-platform-analytics-alephd-dev.aws.oath.cloud
@@ -2109,6 +2128,13 @@ eddie.okcupid.okcupid.aws-us-east-1c.public.vespa.oath.cloud
 eddie.okcupid.okcupid.aws-us-east-1c.staging.public.vespa.oath.cloud
 eddie.okcupid.okcupid.aws-us-east-1c.test.public.vespa.oath.cloud
 eddie.okcupid.okcupid.global.public.vespa.oath.cloud
+edge.allegro.cz.allegrosandbox.pl
+edge.allegro.pl.allegrosandbox.pl
+edge.allegro.sk.allegrosandbox.pl
+edge.business.allegro.cz.allegrosandbox.pl
+edge.business.allegro.pl.allegrosandbox.pl
+edge.enterprise.allegro.pl.allegrosandbox.pl
+editeur.am.monespacesante.fr
 education0930040c413a201108121414397100373104224oauth2.8x8.uk
 ee01-cloud.acronis.com
 ee98-cloud.acronis.com
@@ -2150,6 +2176,7 @@ eng.simplycommunities.rest.akismet.com
 engage.adminml.com
 engsvc.aws.infra8.8x8cloud.net
 enhemail.ops.compuserve.com
+enterprise.allegro.pl.allegrosandbox.pl
 enterpriseregistration.3lateral.com
 enterpriseregistration.acronis.com
 enterpriseregistration.acronis.work
@@ -2324,6 +2351,7 @@ geirst-test.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 geirst-test.scoober.global.public.vespa.oath.cloud
 geldmeter.ad.nl
 geldwijzer.ad.nl
+gen-chat-call.allegro.pl.allegrosandbox.pl
 geneva-api.one-mobile-dev.aws.oath.cloud
 geneva-server.one-mobile-dev.aws.oath.cloud
 geo.account.api.here.com
@@ -2720,6 +2748,7 @@ ims.ad.nl
 in01-cloud.acronis.com
 inapp-krant.ad.nl
 incentive-engine.adminml.com
+indrive.alternativa.film
 info.5nine.com
 info.acronis.com
 info.adaptive-shield.com
@@ -2877,6 +2906,7 @@ kieswijzer.ad.nl
 klassiekerspel.ad.nl
 kman.10x.redoxengine.com
 ko.airbnb.org
+konto.wysylam.allegro.pl.allegrosandbox.pl
 kr01-cloud.acronis.com
 krant.ad.nl
 kraune.album-rec-java.vespa-team.aws-us-east-1c.dev.public.vespa.oath.cloud
@@ -3245,6 +3275,7 @@ mpolden.test1.scoober.global.public.vespa.oath.cloud
 mpsusqa-testcname.mse-dev.aws.oath.cloud
 mpsusqa.mse-dev.aws.oath.cloud
 mr-fintech.adminml.com
+mr.allegro.sk.allegrosandbox.pl
 ms.airbnb.org
 msd-api-us-east-1.athenz-k8s-nonprod.aws.yahoo.cloud
 msd-api-us-east-1.athenz-k8s-prod.aws.yahoo.cloud
@@ -3687,6 +3718,8 @@ prebid.one-mobile-dev.aws.oath.cloud
 preprod-azure.account.adobe.com
 preprod.account.adobe.com
 preprod.alexa.amazon.com
+preprod.am.monespacesante.fr
+preprod.editeur.am.monespacesante.fr
 preprod.partners.acronis.com
 prestage.account.adobe.com
 prestage1-azure.account.adobe.com
@@ -4022,6 +4055,7 @@ request.acronis.work
 requests.acronis.work
 research.acronis.com
 resellers.acronis.com
+reservations.all-inclusive.marriott.com
 resource.alipayplus.com
 rest.akismet.com
 restservice.home-uherberg-devguide.aws.oath.cloud
@@ -4632,6 +4666,9 @@ sw.airbnb.org
 swagger.5nine.com
 switch.account.adobe.com
 sys.ai.8x8.vc
+t.allegro.cz.allegrosandbox.pl
+t.allegro.pl.allegrosandbox.pl
+t.allegro.sk.allegrosandbox.pl
 tableau-old.adminml.com
 tableau.acronis.work
 tableau.adminml.com
@@ -4841,6 +4878,9 @@ updatemybill.compuserve.com
 upi-ipay-wallethk-prd.alipayplus.com
 upi-ipay-wallethk-uat.alipayplus.com
 upload.3.basecamp.com
+upload.allegro.pl.allegrosandbox.pl
+upload.business.allegro.cz.allegrosandbox.pl
+upload.business.allegro.pl.allegrosandbox.pl
 uploadtooljobs.acronis.work
 ups-ats-test.aolp-ds-dev.aws.oath.cloud
 ups-qai.aolp-ds-dev.aws.oath.cloud
@@ -5283,6 +5323,7 @@ web-dapps.a.exodus.io
 web1.dfw.akismet.com
 web2.dfw.akismet.com
 web3.a.exodus.io
+webapi.allegro.pl.allegrosandbox.pl
 webapp-lateautodandomain.rest.akismet.com
 webapp.home-asoni04-dev-play.aws.oath.cloud
 webcenters-dev-preview.netscape.compuserve.com
@@ -5489,6 +5530,7 @@ www.kaseya-tap-asd.acronis.com
 www.kaseya-tap-asd2.acronis.com
 www.kaseya-tap-asd3.acronis.com
 www.kb.acronis.com
+www.konto.wysylam.allegro.pl.allegrosandbox.pl
 www.kr01-cloud.acronis.com
 www.lansweeper.acronis.work
 www.lazytools.corp.acronis.com
@@ -5601,6 +5643,7 @@ www.za01-cloud.acronis.com
 www.zeppelin.acronis.work
 wwwoldpte.advisor-connection.com
 wwww.akismet.com
+wysylam.allegro.pl.allegrosandbox.pl
 xeunicefix.acep.acronis.work
 xo-docs-s.a.exodus.io
 xo-docs.a.exodus.io

@@ -278,3 +278,13 @@ alfred.syfe.com
 alipayhk.com
 alipayplus.com
 all brand sites owned by vrt. the main site www.vrt.be and www.vrt.be/* is also "no bounty" (except paths in the "in scope" section)
+all nvidia assets are in scope! including nvidia.com
+all-inclusive.marriott.com
+allegro.cz.allegrosandbox.pl
+allegro.pl.allegrosandbox.pl
+allegro.sk.allegrosandbox.pl
+alternativa.film
+am.developer.monespacesante.fr
+am.editeur.preprod.monespacesante.fr
+am.monespacesante.fr
+am.preprod.monespacesante.fr
