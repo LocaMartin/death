@@ -165,6 +165,7 @@
 8x8pilot.com
 8x8staging.com
 8x8testa.com
+99alipayhk.com
 a-preview.acronis.com
 a.acronis.com
 a.acronis.work
@@ -240,6 +241,7 @@ abm-jenkins.acronis.work
 abonnement-acc.ad.nl
 abonnement-test.ad.nl
 abonnement.ad.nl
+aboss.cloud.sgp.alipayplus.com
 about.gitlab.com
 abumedia-aws-nonprod.aws.oath.cloud
 abumedia-aws-partner.aws.oath.cloud
@@ -252,6 +254,7 @@ acc-webwinkel.ad.nl
 acc.ad.nl
 acc.kcc.ad.nl
 acc.mobilevikings.be
+acceptance-mark.alipayplus.com
 acceptance.cloud.8x8.com
 access-sandbox.remitly.com
 access.remitly.com
@@ -473,6 +476,7 @@ airstar-finance.com
 airstar.com
 airstarfinance.net
 aiss.acronis.work
+ak.933alipayhk.com
 akamai-ci.airbnb.com
 akamai-staging.airbnb.com
 akismet.com
@@ -519,8 +523,17 @@ albums.scoober.global.public.vespa.oath.cloud
 alchemy.veriff.com
 aleenote.cn
 aleenote.com
+alert.logitech.com
 alertmanager-k8s.acc.mobilevikings.be
+alerts.ninjakiwi.com
+alexa.amazon.com
+alexaanswers.amazon.com
+alfred-uat-31.nonprod.syfe.com
+alfred.syfe.com
+alipayhk.com
+alipayplus.com
 allsoft.acronis.com
+almpmng-pre.alipayplus.com
 alpha.cosmo.aws.oath.cloud
 alpha.cosmo.k8s.aws.oath.cloud
 alpha.cosmo.katarti.aws.oath.cloud
@@ -643,6 +656,7 @@ api-pr9651-kaizen-shared-vp.dev.alasco.rocks
 api-pr9653-pcf-4301-project.dev.alasco.rocks
 api-pr9657-wf-2051-be-add-t.dev.alasco.rocks
 api-pr9659-esg-7330-custom.dev.alasco.rocks
+api-sea-global.alipayplus.com
 api-staging.8x8.com
 api-staging.alasco.rocks
 api-yahoo-cep.mail-backend-schd-prd.aws.oath.cloud
@@ -824,6 +838,7 @@ auth-testing-meli.adminml.com
 auth.8x8.id
 auth.acronis.com
 auth.ad.nl
+auth.cloud.sgp.alipayplus.com
 auth.mercadolibre.adminml.com
 auth.prod.sjc01.us-west.8x8cloud.net
 auth.staging.sjc01.us-west.8x8cloud.net
@@ -934,6 +949,7 @@ bergum.cord-19.vespa-team.global.public.vespa.oath.cloud
 bestantivirussoftware.8x8.vc
 beta-consolidatedlogging.ads-supply-pe-dev.aws.oath.cloud
 beta-s3gw.acronis.com
+beta.alexa.amazon.com
 beta.developer.10x.redoxengine.com
 beta.reporting-api.one-mobile-prod.aws.oath.cloud
 beta.tw.news.yahoo.com
@@ -1685,6 +1701,7 @@ cloud-wr-us2.acronis.com
 cloud-wr-za01.acronis.com
 cloud-wrh-preview1.acronis.com
 cloud.learn.ads.snapchat.com
+cloud.sgp.alipayplus.com
 cloud8-dev.aws.infra8.8x8cloud.net
 cloud8-staging.aws.infra8.8x8cloud.net
 cloud8-test.8x8staging.com
@@ -1759,10 +1776,12 @@ composer-lb.advancedcustomfields.com
 composer.advancedcustomfields.com
 compute.8x8cloud.net
 confirm.accounts.firefox.com
+connect-api.alipayplus.com
 connect-lb.advancedcustomfields.com
 connect.acronis.com
 connect.acronis.work
 connect.advancedcustomfields.com
+connect.alipayplus.com
 console-cd.vespa.oath.cloud
 console.vespa-external-cd.aws.oath.cloud
 console.vespa-external.aws.oath.cloud
@@ -1882,6 +1901,12 @@ d0a7e.akamai-ci.airbnb.com
 d4e340e80c99.rest.akismet.com
 da.airbnb.com
 da.airbnb.org
+daiweitest-sg-test-001.alipayplus.com
+daiweitest-sg-test-002.alipayplus.com
+daiweitest-sg-test-003.alipayplus.com
+daiweitest-sg-test-0529.alipayplus.com
+daiweitest-sg-test001001.alipayplus.com
+daiweitest-sg.alipayplus.com
 dashboard.adaptive-shield.com
 dashboard.admanager.yahoo.com
 dashboard.qa.ai.8x8.com
@@ -1985,6 +2010,7 @@ developer.acronis.com
 developer.airbnb.com
 developer.alasco.de
 developers.acronis.com
+developers.alipayplus.com
 devicelock-jenkins.acronis.work
 devjaegercollector.home-ccannell.aws.oath.cloud
 devjaegercollector.oath-publishing-non-prod.aws.oath.cloud
@@ -2055,11 +2081,13 @@ dmp-taxonomy.aolp-ds-dev.aws.oath.cloud
 dms.acronis.work
 dmw.8x8staging.com
 dn-registry.acronis.work
+docgpt.alipayplus.com
 docker-jenkins.acronis.work
 docker.uplynk-inf.aws.oath.cloud
 docker.vz.sj.prod-mec.bf2.ows.oath.cloud
 docs.acronis.com
 docs.akismet.com
+docs.alipayplus.com
 docs.finance-partners-api.aws.yahoo.cloud
 donbot--mortent.global.vespa-external-cd.aws.oath.cloud
 donbot.mortent.ap-northeast-1.vespa.oath.cloud
@@ -2114,6 +2142,7 @@ drc-jenkins.acronis.work
 ds-dev-ats-test.aolp-ds-dev.aws.oath.cloud
 ds-ui-sample.aolp-ds-dev.aws.oath.cloud
 ds-ui.aolp-ds-dev.aws.oath.cloud
+ds.alipayplus.com
 dtm-origin.aolp-ds-prd.aws.oath.cloud
 dummy.aws-oath-fires-brana-dev.aws.oath.cloud
 dummyservice.video-platform-cms-dev.aws.oath.cloud
@@ -2127,6 +2156,7 @@ e2eproxy.video-e2e-dev.aws.oath.cloud
 e2eproxy.video-e2e-prod.aws.oath.cloud
 e3mzr.acronis.com
 east-integration.oath-exchange-dev.aws.oath.cloud
+easypoint.alipayplus.com
 ebus-nonprod.aws.infra8.8x8cloud.net
 ec-horizontal-rewards-dev.aws.oath.cloud
 ec-horizontal-rewards.aws.oath.cloud
@@ -2186,6 +2216,7 @@ elektro.abumedia-aws-partner.aws.oath.cloud
 email.account.acronis.com
 email.airbnb.com
 email.cloud.acronis.com
+embedded.alexa.amazon.com
 eml.restsimplycomply.akismet.com
 endpoint1302.verysecure.dev-test.vespa.oath.cloud
 endpoint5950.dev-test.vespa.oath.cloud
@@ -2198,6 +2229,7 @@ enterpriseregistration.acronis.com
 enterpriseregistration.acronis.work
 enterpriseregistration.corp.acronis.com
 eoy.ad.nl
+ep-cockpit.alipayplus.com
 erp.acronis.work
 erp.corp.acronis.com
 es-eu.abercrombie.com
@@ -2228,6 +2260,7 @@ evolve.5nine.com
 exceptions.ycm-aws-devel.aws.oath.cloud
 exodus-javascript-sdk.a.exodus.io
 exokit.a.exodus.io
+expenseiq.8x8.cloud
 expenses-acm-test.acronis.com
 explore.alasco.de
 express.8x8staging.com
@@ -2347,8 +2380,10 @@ func-zms-us-west-2.athenz.aws.oath.cloud
 func-zts-us-west-2.athenz.aws.oath.cloud
 fz-services.payments-aws-dev.aws.oath.cloud
 fz-ui-service.payments-aws-dev.aws.oath.cloud
+g.alipayplus.com
 ga.airbnb.org
 gate-bell-beta-acc-services-env-a-accbeta1iad-us-ashburn-1.analytics-staging.oci.infra8.8x8cloud.net
+gatekeeper.paytech.alipayplus.com
 gateway.acronis.com
 gctest.8x8cloud.net
 gdpr-api-edge-us-east-1.huffpost-life-production.aws.oath.cloud
@@ -2386,6 +2421,7 @@ glance-api.prod-mec.gq2.ows.oath.cloud
 global-e2e.chalet.8x8e2e.com
 global-staging.chalet.8x8staging.com
 global.vespa.oath.cloud
+glocal-sec-dev.alipayplus.com
 go-qa.compuserve.com
 go.5nine.com
 go.8x8.com
@@ -2394,6 +2430,7 @@ go.adaptive-shield.com
 go.compuserve.com
 go.oath.cloud
 goanywhere.subscriptions-obi-batch-aws-prod.aws.oath.cloud
+gongchaph.ds.alipayplus.com
 google-meetings-plugin.8x8pilot.com
 got1-repo.acronis.com
 got1-s3gw.acronis.com
@@ -2484,6 +2521,7 @@ gv-albums-java.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 gv-albums-java.scoober.global.public.vespa.oath.cloud
 gxp.myaccount.compuserve.com
 gxp2.myaccount.compuserve.com
+h5.paytech.alipayplus.com
 ha1.awesome.8x8testa.com
 ha2.awesome.8x8testa.com
 ha3.awesome.8x8testa.com
@@ -2708,6 +2746,7 @@ id-us-w18.identityb2b.aws.oath.cloud
 id.airbnb.org
 id.identityb2b.aws.oath.cloud
 id01-cloud.acronis.com
+idatabankmng-sim.alipayplus.com
 ideas.5nine.com
 ideas.restsimplycomply.akismet.com
 idm.prod.sjc01.us-west.8x8cloud.net
@@ -2734,6 +2773,8 @@ ilist.archived-corpsites.us-east-3.perf.vespa.oath.cloud
 ilist.archived-corpsites.us-east-3.staging.vespa.oath.cloud
 ilist.archived-corpsites.us-east-3.vespa.oath.cloud
 ilist.archived-corpsites.us-west-1.vespa.oath.cloud
+ilmmng-pre.alipayplus.com
+ilog-sea-aliyun.alipayplus.com
 image.email.abercrombie.com
 image.learn.ads.snapchat.com
 images-dev-preview.compuserve.com
@@ -2781,6 +2822,8 @@ ip-10-205-5-210.acceptance.cloud.8x8.com
 ip-10-205-8-196.acceptance.cloud.8x8.com
 ipam.prod.sjc01.us-west.8x8cloud.net
 ipam.staging.sjc01.us-west.8x8cloud.net
+ipay-upi-wallethk-prd.alipayplus.com
+ipay-upi-wallethk-uat.alipayplus.com
 ipfinder.cloud-mgmt.8x8cloud.net
 ipn.subscriptions-obi-fe-aws-dev.aws.oath.cloud
 ir.abercrombie.com
@@ -2789,6 +2832,8 @@ is01-cloud.acronis.com
 is1.slicer-api.mss-dev.aws.oath.cloud
 is2.slicer-api.mss-dev.aws.oath.cloud
 is3.slicer-api.mss-dev.aws.oath.cloud
+isectestuse.alipayplus.com
+isftp-sea.alipayplus.com
 ist1-repo.acronis.com
 ist1-s3gw.acronis.com
 istiotest.cloud-mgmt.8x8cloud.net
@@ -2997,6 +3042,13 @@ legolas-profile-20170105.legolas.us-east-3.perf.vespa.oath.cloud
 legolas-profile-20170105.legolas.us-east-3.staging.vespa.oath.cloud
 legolas-profile-20170105.legolas.us-east-3.vespa.oath.cloud
 legolas-profile-20170105.legolas.us-west-1.vespa.oath.cloud
+leverage-assets-alpha.alexa.amazon.com
+leverage-assets-beta.alexa.amazon.com
+leverage-assets-gamma-fe.alexa.amazon.com
+leverage-assets-gamma-na.alexa.amazon.com
+leverage-assets-prod-fe.alexa.amazon.com
+leverage-assets.alexa.amazon.com
+leverage.alexa.amazon.com
 lezersservice.ad.nl
 lh-load-kibana.lh-cloud.acronis.work
 lhr3-aci-01.emea.acronis.work
@@ -3018,9 +3070,12 @@ litellm.alasco.rocks
 live.ad.nl
 liveherpesvaccine.files.8x8.vc
 liveupdate.acronis.com
+lmp.alipayplus.com
+lmpmng.alipayplus.com
 lms.acronis.com
 load-grafana.lh-cloud.acronis.work
 load-kibana.lh-cloud.acronis.work
+lobster.alexa.amazon.com
 local-ssd.bjormel.aws-us-east-1c.dev.public.vespa.oath.cloud
 local-ssd.bjormel.aws-us-east-1c.public.vespa.oath.cloud
 local-ssd.bjormel.aws-us-east-1c.staging.public.vespa.oath.cloud
@@ -3102,6 +3157,7 @@ m365-jenkins.acronis.work
 ma-ex1.us.corp.acronis.com
 ma-hc-1.us.corp.acronis.com
 ma-hc-2.us.corp.acronis.com
+maestro.8x8.cloud
 mail-aol.mail-backend-schd-prd.aws.oath.cloud
 mail-backend-schd-prd.aws.oath.cloud
 mail-mobile-apps-ws-dev.aws.oath.cloud
@@ -3129,6 +3185,7 @@ malashencova.8x8.vc
 management-pm.office.compuserve.com
 map.8x8pilot.com
 map.8x8staging.com
+mark.alipayplus.com
 maroma.adm.cloud.com
 maroma.agent.adm.cloud.com
 master.video-platform-splunk.aws.oath.cloud
@@ -3169,6 +3226,7 @@ member-qa-preview.compuserve.com
 member-qa.compuserve.com
 member.compuserve.com
 merch.acronis.com
+merchant-console-pre.alipayplus.com
 merchsearch-staging.ect-srch.ap-northeast-1.vespa.oath.cloud
 merchsearch-staging.ect-srch.ap-northeast-2.vespa.oath.cloud
 merchsearch-staging.ect-srch.ap-southeast-1.vespa.oath.cloud
@@ -3185,11 +3243,13 @@ merchsearch-staging.ect-srch.us-east-3.perf.vespa.oath.cloud
 merchsearch-staging.ect-srch.us-east-3.staging.vespa.oath.cloud
 merchsearch-staging.ect-srch.us-east-3.vespa.oath.cloud
 merchsearch-staging.ect-srch.us-west-1.vespa.oath.cloud
+messages.alexa.amazon.com
 metabase-db.alasco.rocks
 metabase-finance.internal.alasco.rocks
 metabase.alasco.rocks
 metabase.internal.alasco.rocks
 metatest.internal.alasco.rocks
+metis.alexa.amazon.com
 metrics.acronis.work
 metrics.corp.acronis.com
 metro.acronis.com
@@ -3205,6 +3265,7 @@ micore.acronis.com
 mijnomgeving.ad.nl
 mil.8x8.vc
 mimir.10x.redoxengine.com
+miniprogram-console-pre.alipayplus.com
 misentry.acronis.com
 mk.airbnb.org
 mktg-email.8x8.com
@@ -3554,6 +3615,10 @@ onecreative.aws.oath.cloud
 online-data-ingestion-jenkins.aolp-ds-dev.aws.oath.cloud
 onprem.infra8.8x8cloud.net
 oos.acronis.com
+open-na-global.alipayplus.com
+open-na.alipayplus.com
+open-sea-mtls.alipayplus.com
+open-sea.alipayplus.com
 openwebui.alasco.rocks
 openziti-controller.athenz-experiments.aws.oath.cloud
 operations.us-east-1.aolp-ds-prd.aws.oath.cloud
@@ -3564,6 +3629,9 @@ ops-staging.oci.infra8.8x8cloud.net
 opssimplycomputermerchants-acc.rest.akismet.com
 orangecrush.one-mobile-dev.aws.oath.cloud
 orangecrush.one-mobile-prod.aws.oath.cloud
+order-ready-display.ds.alipayplus.com
+order.ds.alipayplus.com
+orgscope-mcp.8x8.cloud
 origin-accounts.evernote.com
 origin-events.airbnb-aws.com
 origin-one.airbnb-aws.com
@@ -3582,6 +3650,7 @@ p.8x8.studio
 p.ai.8x8.vc
 p.preview.8x8.studio
 p.stage.8x8.studio
+page.alipayplus.com
 panic.vespa.ap-northeast-1.vespa.oath.cloud
 panic.vespa.ap-northeast-2.vespa.oath.cloud
 panic.vespa.ap-southeast-1.vespa.oath.cloud
@@ -3603,21 +3672,27 @@ paranoids-cloudsec-fail.aws.oath.cloud
 paranoids-cloudsec-sandbox.aws.oath.cloud
 partner-pub-content-hub-aws-nonprod.aws.oath.cloud
 partner.acronis.com
+partner.alipayplus.com
 partneradservice.aws-oath-domain-match-us-mbst.aws.oath.cloud
 partners.acronis.com
+partners.alipayplus.com
 passport-dev.acronis.work
 passport.acronis.work
 password.compuserve.com
 patchmgmt.staging.sjc01.us-west.8x8cloud.net
 pay.8x8.com
 pay576ebpaypay06a5.rest.akismet.com
+payment-tech-pre.alipayplus.com
+payment-tech.alipayplus.com
 payment-web-prototype.payments-aws-dev.aws.oath.cloud
+payment.alipayplus-ksa.dev.loadbalancer.alipayplus.com
 payments.compuserve.com
 payments.dev.compuserve.com
 payments.qa.compuserve.com
 payments.stage.compuserve.com
 paypay-miniapp.8x8pilot.com
 paypayer-basic.8x8pilot.com
+paytech-ats.alipayplus.com
 payui.8x8staging.com
 pbh1-repo.acronis.com
 pbh1-s3gw.acronis.com
@@ -3680,10 +3755,12 @@ prd.mtls.api.us-east-1.account.here.com
 prd.pgs-api.pgs-store.us-east-1.aolp-ds-prd.aws.oath.cloud
 prd.pgs-compact.pgs-store.us-east-1.aolp-ds-prd.aws.oath.cloud
 prd.us-east-1.account.here.com
+pre-docgpt.alipayplus.com
 prebid-mgmt.one-mobile-dev.aws.oath.cloud
 prebid.one-mobile-dev.aws.oath.cloud
 preprod-azure.account.adobe.com
 preprod.account.adobe.com
+preprod.alexa.amazon.com
 preprod.partners.acronis.com
 prestage.account.adobe.com
 prestage1-azure.account.adobe.com
@@ -3721,6 +3798,8 @@ prod-gpu-west-svc-face-detection.tripod-cloud.aws.oath.cloud
 prod-gpu-west-svc-shoplift.tripod-cloud.aws.oath.cloud
 prod-jobs-ui.one-mobile-prod.aws.oath.cloud
 prod-virtualagent-api.ai.8x8.com
+prod-vpn-ph2sg-bancnet.alipayplus.com
+prod-vpn-sg2ph-bancnet.alipayplus.com
 prod.8x8cloud.net
 prod.alasco.rocks
 prod.ap-northeast-1.int.o2.aws.oath.cloud
@@ -3770,6 +3849,14 @@ provisioning-vpn.acronis.com
 pt.airbnb.org
 pt.cmp-api.gdpr.us-east-1.aolp-ds-dev.aws.oath.cloud
 pt01-cloud.acronis.com
+pub.devo.shfss.smarthome-cameras.alexa.amazon.com
+pub.eu.gamma.shfss.smarthome-cameras.alexa.amazon.com
+pub.eu.prod.shfss.smarthome-cameras.alexa.amazon.com
+pub.fe.gamma.shfss.smarthome-cameras.alexa.amazon.com
+pub.fe.prod.shfss.smarthome-cameras.alexa.amazon.com
+pub.na.gamma.shfss.smarthome-cameras.alexa.amazon.com
+pub.na.prod.shfss.smarthome-cameras.alexa.amazon.com
+pubcvpociaddevo.shfss.smarthome-cameras.alexa.amazon.com
 public-meligpt.adminml.com
 public.3.basecamp.com
 public.wiki.adminml.com
@@ -3960,6 +4047,7 @@ qai.taxonomy-search.aolp-ds-dev.aws.oath.cloud
 qlik.corp.acronis.com
 qm-production.oci.infra8.8x8cloud.net
 qm-staging.oci.infra8.8x8cloud.net
+qr.alipayplus.com
 ra.1debit.com
 ra2.1debit.com
 rabbitamqp.corp.acronis.com
@@ -3994,6 +4082,9 @@ registry.platform.corp.acronis.com
 regnow.acronis.com
 relay-dqs.account.booking.com
 relay.account.booking.com
+relyance.alert.logitech.com
+render.alipayplus.com
+render.ds.alipayplus.com
 renew.akismet.com
 repo.corp.acronis.com
 repo.int.o2.aws.oath.cloud
@@ -4005,6 +4096,7 @@ request.acronis.work
 requests.acronis.work
 research.acronis.com
 resellers.acronis.com
+resource.alipayplus.com
 rest.akismet.com
 restservice.home-uherberg-devguide.aws.oath.cloud
 restsimplycomply-raw.akismet.com
@@ -4150,6 +4242,7 @@ sample-jtakagi.yj.aws-us-east-1c.test.public.vespa.oath.cloud
 sample-jtakagi.yj.global.public.vespa.oath.cloud
 sandbox-api.admanager.yahoo.com
 sandbox.accounts.logi.com
+sandbox.alexa.amazon.com
 sandbox.api.admanager.yahoo.com
 satcs.adminml.com
 sbc.acronis.com
@@ -4191,6 +4284,7 @@ service.cmp.aolp-ds-dev.aws.oath.cloud
 service.cmp.aolp-ds-prd.aws.oath.cloud
 services.account.adobe.com
 services.addons.allizom.org
+sffpopup.ds.alipayplus.com
 sfw.artifactory-sandbox.aws.oath.cloud
 sg-ap-12.acronis.work
 sg-cas.apj.corp.acronis.com
@@ -4209,6 +4303,7 @@ sg-oos-2.corp.acronis.com
 sg-passport.acronis.work
 sg-vpn.acronis.com
 sg-vpn2.acronis.com
+sgp.alipayplus.com
 sgresearch.acronis.com
 shared-db-svc-dev.aws.infra8.8x8cloud.net
 shared-db-svc-prod.aws.infra8.8x8cloud.net
@@ -4218,6 +4313,7 @@ shareworks.acronis.work
 sherpa-hbase-dev-use1-hadoop-core.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 sherpa-hbase-dev-use1-hadoop-hdfs-nn-standby.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 sherpa-hbase-dev-use1-hadoop-hdfs-nn.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
+shfss.opf.smarthome-cameras.alexa.amazon.com
 shipping-bo.adminml.com
 shop.acronis.com
 show.copacabana.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
@@ -4242,6 +4338,8 @@ sibala-staging.sibala.us-east-3.vespa.oath.cloud
 sibala-staging.sibala.us-west-1.vespa.oath.cloud
 sibelco.8x8pilot.com
 sign-jenkins.acronis.work
+sim-pub-ph2sg-bancnet.alipayplus.com
+sim-pub-sg2ph-bancnet.alipayplus.com
 simplycommunities-adobe.akismet.com
 simplycommunities-campaigns.akismet.com
 simplycommunities-cart.rest.akismet.com
@@ -4482,6 +4580,7 @@ staging.5nine.com
 staging.airbnbcitizen.com
 staging.alasco.de
 staging.alasco.rocks
+staging.alexa.amazon.com
 staging.autoblog-aws-prod.aws.oath.cloud
 staging.chalet.8x8staging.com
 staging.compuserve.com
@@ -4530,6 +4629,7 @@ statik.staging.alasco.rocks
 status.acronis.com
 status.adaptive-shield.com
 status.ai.8x8.com
+status.alexa.amazon.com
 stg.account.api.here.com
 stg.account.here.com
 stg.ap-southeast-1.account.here.com
@@ -4621,6 +4721,7 @@ teleport.8x8-shared-svcs-prod.aws.infra8.8x8cloud.net
 tenantadmin-dev-manual.oci.infra8.8x8cloud.net
 tenantadmin-dev-test.oci.infra8.8x8cloud.net
 tenantadmin-production.oci.infra8.8x8cloud.net
+test-0826-daiweitest-sg.alipayplus.com
 test-admin.1debit.com
 test-azure.account.adobe.com
 test-creatives.one-mobile-dev.aws.oath.cloud
@@ -4755,6 +4856,8 @@ u-lync-fe-2.corp.acronis.com
 u-lync-fe-3.corp.acronis.com
 ua.1debit.com
 uat-jobs-ui.one-mobile-dev.aws.oath.cloud
+uat-vpn-ph2sg-bancnet.alipayplus.com
+uat-vpn-sg2ph-bancnet.alipayplus.com
 uat.advisorsolutions.gs.com
 uc.8x8pilot.com
 ucc.abunews.ap-northeast-1.vespa.oath.cloud
@@ -4809,6 +4912,8 @@ unique.f30c1714.acceptance.cloud.8x8.com
 unique.f6d99789.acceptance.cloud.8x8.com
 unreal-agents.8x8pilot.com
 updatemybill.compuserve.com
+upi-ipay-wallethk-prd.alipayplus.com
+upi-ipay-wallethk-uat.alipayplus.com
 upload.3.basecamp.com
 uploadtooljobs.acronis.work
 ups-ats-test.aolp-ds-dev.aws.oath.cloud
@@ -4821,6 +4926,7 @@ us-az-vpn.acronis.com
 us-central-1.vespa.oath.cloud
 us-east-1.clementine.one-mobile-dev.aws.oath.cloud
 us-east-1.dev.vespa.oath.cloud
+us-east-1.email-understanding-enrollment.alexa.amazon.com
 us-east-1.finance-partners-api.aws.yahoo.cloud
 us-east-1.geo.account.api.here.com
 us-east-1.mock-gemini.vas-creative-service.one-mobile-dev.aws.oath.cloud
@@ -5224,6 +5330,7 @@ vzrqjrng7i2oufua5nlucfxu5d6pa4cjw.public.vespa.oath.cloud
 vzwff4fybhzef22jxqv7uj6747ehp6cat.vespa.oath.cloud
 vzyab2x5iqzdiwzrwyplw4dca2fxyufba.vespa.oath.cloud
 wakl.usage.aws.oath.cloud
+wallet-tech.alipayplus.com
 wan.cname.airstar.com
 wap-demo.5nine.com
 watchtower-beta.watchtower-nonprod.aws-us-east-1a.vespa.oath.cloud
@@ -5302,6 +5409,7 @@ www.23andmeresearchinstitute.org
 www.3lateral.com
 www.4njbets.com
 www.5nine.com
+www.8x8.cloud
 www.8x8.co.uk
 www.8x8.com
 www.8x8staging.com
@@ -5338,6 +5446,8 @@ www.akamai-dev.airbnb.org
 www.akismet.com
 www.alasco.de
 www.alasco.rocks
+www.alipayhk.com
+www.alipayplus.com
 www.allsoft.acronis.com
 www.appdirect-eu2-cloud.acronis.com
 www.appsmart-cloud.acronis.com
@@ -5426,6 +5536,7 @@ www.gateway.acronis.com
 www.git.acronis.com
 www.go.5nine.com
 www.gr01-cloud.acronis.com
+www.h5.paytech.alipayplus.com
 www.hastebin.adc.corp.acronis.com
 www.hastebin.corp.acronis.com
 www.help.dr.acronis.com
