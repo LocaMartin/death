@@ -151,6 +151,10 @@ airstar-finance.com
 airstar.com
 airstarfinance.net
 airtable.js sdk (https://www.npmjs.com/package/airtable)
+ak-static-dev.nba.com
+ak-static.cms-dev.nba.com
+ak-static.cms-qa.nba.com
+ak-static.cms.nba.com
 akismet.com
 alasco.de
 alasco.rocks
@@ -171,6 +175,7 @@ all-inclusive.marriott.com
 allegro.cz.allegrosandbox.pl
 allegro.pl.allegrosandbox.pl
 allegro.sk.allegrosandbox.pl
+allstar-dev.nba.com
 alternativa.film
 am.developer.monespacesante.fr
 am.editeur.preprod.monespacesante.fr
@@ -209,6 +214,9 @@ amazonalexa.com
 amazonpay.in
 amazonpayinsurance.in
 amd.digitalocean.com
+amp-nba-dev.nba.com
+amp-nba-stage.nba.com
+amp-nba.nba.com
 amp.reddit.com
 amplitude-game.com
 analytics-8x8.com
@@ -346,13 +354,16 @@ api.metronome.com
 api.midtrans.com
 api.monespacesante.fr
 api.moonpay.com
+api.moonx-dev.com
 api.mtls.truelayer-sandbox.com
 api.mtls.truelayer.com
+api.nba.com
 api.netlify.com
 api.ninjakiwi.com
 api.notion.com
 api.ort-one-pingone.com
 api.ovh.com
+api.paybox.sh
 api.pdst.fm
 api.personio-dev.com
 api.personio.com
@@ -520,6 +531,7 @@ app.mona.co
 app.moonpay.com
 app.netlify.com
 app.nl.socialdeal
+app.paybox.sh
 app.personio-dev.com
 app.personio.com
 app.pharmacy.superdrug.com
@@ -700,6 +712,7 @@ be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
 beacon.netflix.com
+bealegend.nba.com
 beamitmobile.com
 beauty-and-you.iciparisxl.nl
 belgium.tomorrowland.com
@@ -889,6 +902,8 @@ careers.marriott.com
 careers.remitly.com
 careers.tiktok.com
 careers.ui.com
+cares-dev.nba.com
+cares-qa.nba.com
 cares.nba.com
 cargo.indrive.com
 carrentals.com
@@ -907,10 +922,18 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 cceng.8x8.com
 ccloud.yoti.com
+cdn-bal-dev.nba.com
+cdn-bal-qa.nba.com
+cdn-bal-uat.nba.com
 cdn-bal.nba.com
+cdn-dev.nba.com
+cdn-gleague-dev.nba.com
+cdn-gleague-qa.nba.com
 cdn-gleague.nba.com
 cdn-qa.gleague.nba.com
+cdn-qa.nba.com
 cdn-uat.gleague.nba.com
+cdn-uat.nba.com
 cdn.arkoselabs.com
 cdn.gleague.nba.com
 cdn.kaufland.de
@@ -948,6 +971,7 @@ ci-propertyconversionportal.marriott.com
 circle.logi.com
 circolocorecords.com
 citrixworkspacesapi.net
+cl-qa.nba.com
 cl.nba.com
 claritymoney.com
 classroom.github.com
@@ -986,6 +1010,8 @@ cmtelecom.com
 co.mona.android
 co.uk.getmondo
 coaching.supernovas.indrive.com
+coalition-dev.nba.com
+coalition-qa.nba.com
 coban.pixiv.net
 coda.io
 code.playcanvas.com
@@ -1438,6 +1464,7 @@ community.ui.com
 community.watsons.co.th
 community.watsons.com.my
 community.watsons.com.ph
+communityassist.nba.com
 company.thebrowser.arc
 compass.fareharbor.com
 compete.playstation.com
@@ -1464,6 +1491,9 @@ console.tink.com
 console.truelayer-sandbox.com
 console.truelayer.com
 consumer.worldcoin.org
+contact-dev.nba.com
+contact-qa.nba.com
+contact.nba.com
 contactallergie.uzleuven.be
 contactallergy.uzleuven.be
 contacts.infomaniak.com
@@ -1497,14 +1527,17 @@ core-api-uc.nba.com
 core-api.deriv.com
 core-api.nba.com
 core.yoti.com
+coronavirus.nba.com
 corp-dev.nba.com
 corp.badoo.com
+corp.nba.com
 corp.polymoon.it
 corporate.abercrombie.com
 corporate.wolt.com
 cosmo.fdeb.live.use1a.on.epicgames.com
 counteract 9.x
 couriers.indrive.com
+courtside.nba.com
 cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 cp.dyson.com
@@ -1642,10 +1675,12 @@ detroit-qa.gleague.nba.com
 detroit.gleague.nba.com
 dev-pub.mobilevikings.be
 dev-training.ui.com
+dev.courtside.nba.com
 dev.epicgames.com
 dev.grindr.io
 dev.mobilevikings.be
 dev.stats.gleague.nba.com
+dev.stats.nba.com
 dev.uzleuven.be
 dev2.grindr.io
 devcenter.unico.io
@@ -1715,6 +1750,7 @@ doppler.team
 download-installer.cdn.mozilla.net
 download.krisp.ai
 download.mozilla.org
+downloads.varonis.com
 dpgmedia.be
 dpgmedia.nl
 dream-dev.wnba.com
@@ -1740,6 +1776,8 @@ easy.ac
 easy4ipcloud.com
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
+ec2-redirect-west.nba.com
+ec2redirect-west.nba.com
 ecom-data.kruidvat.be
 ecom-data.kruidvat.nl
 ecom-data.marionnaud.at
@@ -1935,6 +1973,7 @@ firefox-ci-tc.services.mozilla.com
 firefox-settings-attachments.cdn.mozilla.net
 firefox.settings.services.mozilla.com
 fiscaalgemak.nl
+fit.nba.com
 fitbook.de
 fizzy.do
 flickr.com
@@ -2011,6 +2050,7 @@ gateway.reddit.com
 gatewaydsapdev2.marriott.com
 gatewaydsaptst1.marriott.com
 gatewaydsaptst2.marriott.com
+gatoradetrainingcenter.nba.com
 gc.watsons.com.tr
 general issues with a saas platform should be reported to that vendor's bug bounty program if they have one. however, we may, at our discretion, decide to award a bounty if there is demonstrated impact to anthropic
 geneva-staging.chat
@@ -2059,6 +2099,11 @@ gleague.nba.com
 global-api.citymapper.com
 global-liquidity.gs.com
 globaljourney.tomorrowland.com
+globalstores-dev.nba.com
+globalstores-qa.nba.com
+globalstores.nba.com
+gms-prev.nba.com
+gms.nba.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
 go-cms.tw.coupang.com
@@ -2106,6 +2151,7 @@ grandrapids-qa.gleague.nba.com
 grandrapids.gleague.nba.com
 graphql.accounts.firefox.com
 gravatar.com
+green.nba.com
 greenhouse.io
 greensboro-dev.gleague.nba.com
 greensboro-qa.gleague.nba.com
@@ -2192,6 +2238,7 @@ home.privy.io
 homes-and-villas.marriott.com
 honestdollar.com
 hongyuanib.com
+hoopsfortroops.nba.com
 horeko.com
 horizonchase.com
 horizonchase.com.br
@@ -2219,6 +2266,7 @@ hubspot.net
 hubspotemail.net
 hubspotpagebuilder.com
 hubspotpagebuilder.eu
+huddle.nba.com
 humio.com
 humo.be
 hungrygowhere.com
@@ -2272,6 +2320,7 @@ idp.uzleuven.be
 idpay-uat.unico.io
 ifast.marriott.com
 iframe.arkoselabs.com
+iframe.moonx-dev.com
 ignite-dev.gleague.nba.com
 ignite-qa.gleague.nba.com
 ignite.gleague.nba.com
@@ -2285,6 +2334,10 @@ in.amazon.mshop.android.business.shopping
 in.amazon.mshop.android.shopping
 in.jbl.com
 in2tel.ie
+inclusion-dev.nba.com
+inclusion-qa.nba.com
+inclusion.nba.com
+indiaontrack.nba.com
 indicative-pricing.taxi.booking.com
 inditexcareers.com
 indrive.com
@@ -2383,6 +2436,9 @@ join.marriott.com
 join.whoop.com
 joinmarriottbonvoy.com
 joinrewards.marriott.com
+jrnbaworldchampionship-dev.nba.com
+jrnbaworldchampionship-qa.nba.com
+jrnbaworldchampionship.nba.com
 js.crypto.com
 js.datadome.co
 js.klarna.com
@@ -2471,6 +2527,7 @@ liberty-dev.wnba.com
 liberty-qa.wnba.com
 liberty-qa2.wnba.com
 liberty.wnba.com
+licensemgmt.varonis.com
 lifeatspotify.com
 liferay dxp 2024.q1
 liferay dxp 2025.q1
@@ -2498,6 +2555,7 @@ loanbuilder.com
 locale.trip.com
 localwp.com
 lockervision.nba.com
+lockervisionteam.nba.com
 logi.com
 logicool.co.jp
 logilife.logitech.com
@@ -2709,6 +2767,8 @@ media.savers.co.uk
 media.superdrug.com
 media.theperfumeshop.com
 media.watsons.com.tr
+mediaavail.nba.com
+mediaday.nba.com
 medias.fortress.com.hk
 medias.lookatme.com.ph
 medias.pns.hk
@@ -2724,6 +2784,7 @@ mediatonic.co.uk
 meechum.netflix.com
 meesho.io
 meetings.hyatt.com
+meetings.nba.com
 meetmarriottbonvoy.marriott.com
 megatix.be
 meinkonto.bild.de
@@ -2786,6 +2847,7 @@ metasearch-api.booking.com
 metrics.int.remitly.com
 meu1.badoo.com
 mevo.com
+mexicogames.nba.com
 mgbcareconnect.org
 mgm.mobilevikings.be
 mgmt-sensors.iris.acceptance.forescoutcloud.net
@@ -2887,6 +2949,7 @@ my.snapchat.com
 my.swiftfinancial.com
 my.tomorrowland.com
 my.tw.coupang.com
+my.varonis.com
 my.visa.fr
 myaccount-cn.payoneer.com
 myaccount-hardening.dynatracelabs.com
@@ -2921,9 +2984,20 @@ napoleoncasino.be
 napoleondice.be
 napoleongames.be
 napoleonsports.be
+nba-ar-app.nba.com
+nba.com
+nbaacademy-dev.nba.com
+nbaacademy-qa.nba.com
+nbaacademy.nba.com
+nbabroadcastmanuals.nba.com
 nbafedsvc-dev.nba.com
 nbafedsvc-qa.nba.com
 nbafedsvc.nba.com
+nbaholidaycard-dev.nba.com
+nbaholidaycard-qa.nba.com
+nbaholidaycard.nba.com
+nbaintl.nba.com
+nbameeting.nba.com
 neoket.net
 net.bitstamp.app
 net.s2stagehance.com
@@ -2987,6 +3061,7 @@ npmjs.com
 npmjs.org
 nummus.robinhood.com
 nw.ring.com
+nycbasketball.nba.com
 nz.co.vista.android.movie.mjrtheatres
 oasisprod.marriott.com
 oauth-sandbox.gocardless.com
@@ -3166,6 +3241,9 @@ payroll.razorpay.com
 pb.deribit.com
 pci.shopifyinc.com
 pcrstudioruzb.uzleuven.be
+pdfroster-dev.nba.com
+pdfroster-qa.nba.com
+pdfroster.nba.com
 pdst.fm
 pennmedicine.connect-visit.com
 perforce.embark.net
@@ -3325,6 +3403,7 @@ pullandbear.com
 pwapi.ex2b.com
 pwn.intigriti.rocks
 py.pl
+qa.stats.nba.com
 qaglobal-liquidity.gs.com
 qm-8x8.com
 quip.com
@@ -3788,7 +3867,9 @@ station.veriff.com
 stationapi.veriff.com
 stats-dev.gleague.nba.com
 stats-dev.nba.com
+stats-qa.gleague.nba.com
 stats-qa.nba.com
+stats-querytoolapi.nba.com
 stats-trafficcop-aws-dev.nba.com
 stats-trafficcop-aws-prod-east1.nba.com
 stats-trafficcop-aws-prod.nba.com
@@ -3880,6 +3961,7 @@ support.monespacesante.fr
 support.mozilla.org
 support.rockstargames.com
 support.steampowered.com
+support.varonis.com
 supportal.netlify.app
 survey.vinci.com
 survey.visa.com
@@ -3896,6 +3978,8 @@ swisstransfer.infomaniak.com
 sync.infomaniak.com
 sync.logitech.com
 sync.services.mozilla.com
+syndication-dev.nba.com
+syndication-qa.nba.com
 syndication.nba.com
 syndication.tw.coupang.com
 t.swapcard.com
@@ -3933,6 +4017,7 @@ theelasticast.com
 theperfumeshop.com
 thinkingphones.com
 thinkingphones.net
+thisiswhyweplay.nba.com
 threatdown.com
 ticketing.cm.com
 ticketnew.com
@@ -4089,7 +4174,6 @@ valkyries-qa.wnba.com
 valkyries.wnba.com
 varonis.com
 varonis.io
-varonis.net
 vasdemos.visa.com
 vayama.com
 vc.logitech.com
@@ -4123,6 +4207,9 @@ vidaxl.org
 video.logi.com
 videogp-api.superdrug.com
 videogp.superdrug.com
+videorulebook-dev.nba.com
+videorulebook-qa.nba.com
+videorulebook.nba.com
 vikingco.be
 vikingdeals.be
 vikinglab.be
@@ -4151,6 +4238,7 @@ voapi.8x8.com
 vod.infomaniak.com
 vod2.infomaniak.com
 voi.com
+voices.nba.com
 voiscooters.com
 volans.tech
 volkskrant.nl
@@ -4187,6 +4275,8 @@ wallets.api.playstation.com
 wallettg.com
 wallettg.net
 wasapi.watsons.com.tr
+watch-ng.nba.com
+watch.global.nba.com
 watchdocs.indriverapp.com
 water-link.be
 watsons.co.id
@@ -4295,9 +4385,11 @@ wps-cps.dmp.monespacesante.fr
 wpscan.com
 ws.sorare.com
 wss://messaging.vrt.be/
+www-all.nba.com
 www-dev.nba.com
 www-dev.wnba.com
 www-ng.nba.com
+www-prod.nba.com
 www-qa.nba.com
 www-qa.wnba.com
 www-uat.nba.com
