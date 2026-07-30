@@ -104,8 +104,6 @@ https://api.cyberghostvpn.com
 https://api.danalock.com/swagger/index.html
 https://api.datadome.co
 https://api.dbs.kape.com
-https://api.dextf.com/dcd
-https://api.dextf.com/dd
 https://api.dts.kape.com
 https://api.enc.kape.com
 https://api.expressvpn.com
@@ -170,7 +168,6 @@ https://bounty.cryptobox.com
 https://bridge.ripio.com/
 https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-https://bug-bounty-dfm.mementoblockchain.com/
 https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
 https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://business.rivian.com/api
@@ -565,6 +562,7 @@ https://indoor-acc.xs4com.app
 https://intigriti-accept.saltoks.com
 https://iphone-xml.booking.com/json
 https://jaguar.here.com
+https://jakelu.posti.fi
 https://jip.acc.jessazh.be/
 https://jip.acc.jessazh.be/mier
 https://judge.me/reviews
@@ -615,8 +613,10 @@ https://napoleongames.be
 https://napoleonsports.be
 https://nbs.pinelabs.com
 https://ncp-gw-abu.media.yahoo.com/
+https://netposti.fi
 https://news-app.abumedia.yql.yahoo.com
 https://nexo.com/
+https://nextshipping.posti.fi
 https://nominatim.bykea.net
 https://ob-sandbox.gocardless.io
 https://oneview.threatdownstage.com
@@ -629,6 +629,7 @@ https://outdoor-acc.xs4com.app
 https://paddle.net
 https://parcelhubeurope.com
 https://partnerapi.imoulife.com
+https://partnerselfservice.posti.fi
 https://pay.payzippy.com
 https://paymayabiller-prod.paymaya.com
 https://payment-gateway.kronor.io
@@ -637,6 +638,7 @@ https://payments.wpengine.com
 https://payoutapi.maya.ph
 https://pci.kindredgroup.com
 https://pg.paymaya.com
+https://picc.posti.fi
 https://pinepg.in
 https://pinepgconsole.in:9099
 https://pit.water-link.be
@@ -665,6 +667,7 @@ https://portal.3cx.com
 https://portal.enterprise.uphold.com
 https://portal.exoscale.com/
 https://portal.pdq.com/
+https://posti.com
 https://pprd.cybermalveillance.gouv.fr
 https://preprod-datahub.xelians.fr/
 https://preprod-xam.xelians.fr/
@@ -673,6 +676,7 @@ https://profiles.sports.yahoo.com/
 https://pt-runner.app.ridewithvia.com
 https://pub-api-ro.fantasysports.yahoo.com/
 https://quantum-events.onecloud.harman.com
+https://quicksight.aws.amazon.com
 https://repair.voiweb.net
 https://retail-api.otto.de
 https://rivian.com/api/gql/content/graphql
@@ -701,6 +705,7 @@ https://service.post.ch/zopa/app
 https://settings.superhuman.com
 https://shop-acc.kinepolis.be/
 https://shop.post.ch/shop
+https://shop.posti.fi
 https://signin-hackerone.hbstaging.website/
 https://sip2.dmp.gouv.fr
 https://solutions.visaacceptance.com/subscription
@@ -734,9 +739,12 @@ https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
 https://teleoptiprd.otto.de
 https://thueringer-foerderportal.eu
 https://tms.onecloud.harman.com
+https://tnt.posti.com
+https://todentaminen.posti.fi
 https://tomoe.bykea.net
 https://torquemag.io
 https://trm.pinelabs.ae
+https://tuleasiakkaaksi.posti.fi
 https://tw-finance-yql.media.yahoo.com
 https://tw.api.bid.yahoo.com:4443
 https://tw.bid.yahoo.com
@@ -921,6 +929,7 @@ https://www.pinelabs.com
 https://www.pinelabs.my
 https://www.pinelabs.us
 https://www.polkaudio.com
+https://www.posti.fi
 https://www.priceline.com/pwd/v0/pcln-graphql
 https://www.privateinternetaccess.com/download
 https://www.privateinternetaccess.com/download/linux-vpn
@@ -930,6 +939,9 @@ https://www.saturn.de
 https://www.sdx.com
 https://www.simscale.com
 https://www.simscale.com/forum
+https://www.smartposti.ee
+https://www.smartposti.lt
+https://www.smartposti.lv
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277
 https://www.solarwinds.com/products
 https://www.teamviewer.com/en/products/teamviewer
@@ -981,6 +993,7 @@ https://www.visa.com.az/az_az/account/registration
 https://www.water-link-jaarverslag.be
 https://www.water-link.be
 https://www.waterstoring.be
+https://www.webproteus.com/lpro-web/login
 https://www.whosampled.com/
 https://www.xvideos.net/app
 https://www.yahoo.com/news/weather
@@ -988,5 +1001,7 @@ https://www2.acc.jessazh.be/
 https://xv-cp.apis-staging.xvtest.net/
 https://yeswehack.com
 https://yeswehack.staging.komoju.com
+https://yhteystietoni.posti.fi
+https://yrityksennoutopiste.posti.fi
 https://zhongbao-ear.heytap.com/
 https://zhongbao.heytap.com/
