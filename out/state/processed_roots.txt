@@ -263,6 +263,10 @@ airstar-finance.com
 airstar.com
 airstarfinance.net
 airtable.js sdk (https://www.npmjs.com/package/airtable)
+ak-static-dev.nba.com
+ak-static.cms-dev.nba.com
+ak-static.cms-qa.nba.com
+ak-static.cms.nba.com
 akismet.com
 alasco.de
 alasco.rocks
@@ -283,8 +287,14 @@ all-inclusive.marriott.com
 allegro.cz.allegrosandbox.pl
 allegro.pl.allegrosandbox.pl
 allegro.sk.allegrosandbox.pl
+allstar-dev.nba.com
 alternativa.film
 am.developer.monespacesante.fr
 am.editeur.preprod.monespacesante.fr
 am.monespacesante.fr
 am.preprod.monespacesante.fr
+amazon.*
+amazon.ae
+amazon.ca
+amazon.cl
+amazon.cn
