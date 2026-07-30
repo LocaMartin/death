@@ -9,7 +9,9 @@ amp-nba.nba.com
 api.moonx-dev.com
 api.nba.com
 api.paybox.sh
+api.posti.fi
 app.paybox.sh
+auth-service.posti.fi
 bealegend.nba.com
 cares-dev.nba.com
 cares-qa.nba.com
@@ -21,4 +23,8 @@ cdn-gleague-dev.nba.com
 cdn-gleague-qa.nba.com
 cdn-qa.nba.com
 cdn-uat.nba.com
+cdn.posti.fi
 cl-qa.nba.com
+coalition-dev.nba.com
+coalition-qa.nba.com
+communityassist.nba.com
