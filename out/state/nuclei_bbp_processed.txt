@@ -486,6 +486,7 @@ api.playstation.com
 api.pns.hk
 api.portofantwerp.com
 api.portofantwerpbruges.com
+api.posti.fi
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.privy.io
@@ -741,6 +742,7 @@ auth-identity-qa.nba.com
 auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
+auth-service.posti.fi
 auth.23andme.com
 auth.api.soundtrackyourbrand.com
 auth.bild.de
@@ -1061,6 +1063,7 @@ cdn.moderntreasury.com
 cdn.nba.com
 cdn.pdst.fm
 cdn.plaid.com
+cdn.posti.fi
 cdn.shop-apotheke.com
 cdna.lystit.com
 cewe.kruidvat.be
@@ -1605,6 +1608,7 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network
+connect.posti.fi
 connect.secure.wellsfargo.com
 connect.venly.io
 connectors (e.g., desktop extensions, local mcp servers, and remote mcp servers) installable from the claude.ai & desktop connectors directory may be developed by anthropic or created independently by third-party developers. vulnerabilities discovered in anthropic developed software are in-scope for anthropic's hackerone program
@@ -1613,6 +1617,7 @@ console-backend.truelayer.com
 console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
+console.posti.com
 console.tink.com
 console.truelayer-sandbox.com
 console.truelayer.com
@@ -1824,6 +1829,7 @@ developer.infomaniak.com
 developer.konghq.com
 developer.mozilla.org
 developer.playcanvas.com
+developer.posti.com
 developer.swapcard.com/event-admin/graphql
 developer.valvesoftware.com
 developer.visa.com
@@ -1982,6 +1988,7 @@ elasticsearch.jp
 elasticsearch.org
 elasticsearch.wtf
 elm.nba.com
+elma.elma.fi
 elstc.co
 emag.vinci.com
 embark-studios.com
@@ -2073,6 +2080,7 @@ fhir.developer.monespacesante.fr
 fhir.monespacesante.fr
 fhir.redoxengine.com
 fi.bingo.com
+fi.itella.posti.android
 fi.mariacasino.com
 fi.reworks.redecor
 fi.spankki
@@ -2174,6 +2182,7 @@ gateway-apc.marriott.com
 gateway.geneva-staging.chat
 gateway.geneva-staging.com
 gateway.marriott.com
+gateway.posti.fi
 gateway.reddit.com
 gatewaydsapdev2.marriott.com
 gatewaydsaptst1.marriott.com
@@ -2422,6 +2431,7 @@ id.logi.com
 id.nba.com
 id.oppo.com
 id.portswigger.net
+id.posti.fi
 id.stg.inspectorio.com
 id.tw.coupang.com
 idcash-uat.unico.io
@@ -2616,6 +2626,7 @@ knowage.monespacesante.fr
 knox.beta.blendlabs.com
 konfigurator.bmw-motorrad.de
 konghq.com
+kontakti.posti.fi
 kpaste.infomaniak.com
 krisp.ai
 kruidvat.be
@@ -2732,6 +2743,7 @@ logitechg.com
 logitechg.com.cn
 logitechgchallenge.com
 logitechmusic.com
+logout.id.posti.fi
 logs-partners.tw.coupang.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 logstash.net
@@ -2980,6 +2992,7 @@ metrics.int.remitly.com
 meu1.badoo.com
 mevo.com
 mexicogames.nba.com
+mfa.posti.fi
 mgbcareconnect.org
 mgm.mobilevikings.be
 mgmt-sensors.iris.acceptance.forescoutcloud.net
@@ -3068,6 +3081,7 @@ mx1.uzleuven.be
 mx2.uzleuven.be
 my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
+my.account.posti.fi
 my.account.sony.com
 my.clearme.com
 my.eurid.eu
@@ -3080,6 +3094,9 @@ my.portofantwerp.com
 my.portofantwerpbruges.com
 my.pressable.com
 my.sheer.com
+my.smartposti.ee
+my.smartposti.lt
+my.smartposti.lv
 my.snapchat.com
 my.swiftfinancial.com
 my.tomorrowland.com
@@ -3219,6 +3236,7 @@ oklink.com
 oktukids.com
 okx.com
 om.vodafone.mva
+oma.posti.fi
 omega.yahoo.com
 onboarding-api.truelayer.com
 onboarding.cloud.com
@@ -3254,6 +3272,7 @@ org.piwik.mobile2
 org.toshi
 org.toshi.distribution
 org.vom8x8.sipua
+orgadmin-ext.prd.account.posticloud.fi
 origenapp.com
 origenbanking.com
 origencard.com
@@ -3459,6 +3478,7 @@ portofantwerp.com
 portofantwerpbruges.com
 portswigger.net
 post.ch
+postikuori.posti.fi
 pourvous.nl
 ppb.com
 ppbdev.com
@@ -3495,12 +3515,14 @@ prijsmepper.nl
 primarycareondemand.mayoclinic.org
 prime.coinbase.com
 primevideo.com
+printerdriver.posti.com
 priority.eu-east-1.indriverapp.com
 privateinternetaccess.com
 pro.coinbase.com
 pro.doctolib.de
 pro.doctolib.fr
 pro.doctolib.it
+pro.posti.fi
 prod-ffs.io
 prod-mipaasiaasservices.marriott.com
 prod.cloud.8x8.com
@@ -4842,6 +4864,7 @@ www.pns.hk
 www.pornbox.com
 www.pornworld.com
 www.portofantwerpbruges.com
+www.posti.se
 www.pourvous.nl
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
@@ -5080,6 +5103,7 @@ yourdomain.freshdesk.com
 yourdomain.freshrelease.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yritysmuutto.posti.fi
 ys7.com
 yuga.com
 yugalabs.io
