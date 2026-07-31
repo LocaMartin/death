@@ -298,3 +298,13 @@ amazon.ae
 amazon.ca
 amazon.cl
 amazon.cn
+amazon.co.jp
+amazon.co.uk
+amazon.co.za
+amazon.com
+amazon.com.au
+amazon.com.be
+amazon.com.br
+amazon.com.co
+amazon.com.mx
+amazon.com.ng
