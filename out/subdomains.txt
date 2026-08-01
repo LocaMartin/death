@@ -213,6 +213,7 @@ ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
 aba.amazon.co.uk
 aba.amazon.com.au
 abc-jenkins.acronis.work
+abdelsh.dev.nonprod.be.gemini.yahoo.com
 abercrombie.com
 abgw-ach1-aci01.acronis.com
 abgw-akl1-aci01.acronis.com
@@ -387,6 +388,7 @@ adb-vpc.jobsswebdisk.jobs.amazon.co.za
 adb-vpccom.jobsswebdisk.jobs.amazon.co.za
 adb.jobsswebdisk.jobs.amazon.co.za
 adb.nba.com
+adbridge.gemini.yahoo.com
 adc.corp.acronis.com
 addondomaintest.rest.akismet.com
 addons.allizom.org
@@ -1011,6 +1013,7 @@ api.amazon.com.mx
 api.amt-amt-java.aws.oath.cloud
 api.amt-aws-uat.aws.oath.cloud
 api.aws-oath-video-intelligence-prod.aws.oath.cloud
+api.gemini.yahoo.com
 api.jr.airstarfinance.net
 api.mail-backend-schd-client.aws.oath.cloud
 api.mail-backend-schd-dev.aws.oath.cloud
@@ -1282,6 +1285,7 @@ auction.yj.aws-us-east-1c.public.vespa.oath.cloud
 auction.yj.aws-us-east-1c.staging.public.vespa.oath.cloud
 auction.yj.aws-us-east-1c.test.public.vespa.oath.cloud
 auction.yj.global.public.vespa.oath.cloud
+audit.gemini.yahoo.com
 auh1-aci.acronis.work
 auth-6pm-na.amazon.com
 auth-goat-gamma.amazon.com
@@ -1437,6 +1441,7 @@ az.airbnb.org
 azir.adminml.com
 azure-stage.account.adobe.com
 b.cceng.8x8.com
+b.dashboard.gemini.yahoo.com
 b2b.amazon.com
 backend-spmp.corp.acronis.com
 backend.admin.ring.com
@@ -1453,7 +1458,10 @@ bbb.8x8.com
 bcbsma.jobsdwebdisk.jobsewebdisk.jobsvwebdisk.jobsiwebdisk.data-science.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
 bcnfix.airbnbcitizen.com
 bcp-retail-proxy-cn-north-1-prod.amazon.cn
+bcp.gemini.yahoo.com
 bcs-retail-proxy-cn-north-1-prod.amazon.cn
+be.gemini.yahoo.com
+beap.gemini.yahoo.com
 bebemsh.amazon.com
 beerline.8x8pilot.com
 beg1-repo.acronis.com
@@ -1553,6 +1561,7 @@ bjorncs.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 bjorncs.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 bjorncs.scoober.global.public.vespa.oath.cloud
 bjs1-repo.acronis.com
+blink-dpa.gemini.yahoo.com
 bll1-repo.acronis.com
 bll1-s3gw.acronis.com
 blocklist.addons.allizom.org
@@ -1655,6 +1664,7 @@ bugsearch.vespa.us-west-1.vespa.oath.cloud
 builds.acronis.work
 buildup-ubuntu.jobsdwebdisk.jobsewebdisk.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
 buildup-ubuntucms.jobsdwebdisk.jobsewebdisk.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
+bulk.dpa.gemini.yahoo.com
 bumpt.8x8.id
 burgerking.8x8pilot.com
 business.8x8.com
@@ -2308,6 +2318,7 @@ click.freight.amazon.co.uk
 click.learn.ads.snapchat.com
 client-log.amazon.co.uk
 client-log.amazon.com
+client.kafka.report.gemini.yahoo.com
 clients.3.basecamp.com
 clone.cbc.acronis.work
 clone.projectj.aws-us-east-1c.dev.public.vespa.oath.cloud
@@ -2669,6 +2680,7 @@ daiweitest-sg.alipayplus.com
 dam.amazon.com
 dashboard.adaptive-shield.com
 dashboard.admanager.yahoo.com
+dashboard.gemini.yahoo.com
 dashboard.qa.ai.8x8.com
 data-exchange.amazon.ae
 data-exchange.amazon.co.uk
@@ -2791,7 +2803,9 @@ dev.account.adobe.com
 dev.account.krisp.ai
 dev.acrobat.adobe.com
 dev.alasco.rocks
+dev.api.gemini.yahoo.com
 dev.aws.infra8.8x8cloud.net
+dev.be.gemini.yahoo.com
 dev.cmp-api.gdpr.us-east-1.aolp-ds-dev.aws.oath.cloud
 dev.dmp-taxonomy.aolp-ds-dev.aws.oath.cloud
 dev.gxp.myaccount.compuserve.com
@@ -2931,6 +2945,7 @@ docs.akismet.com
 docs.alipayplus.com
 docs.aws.amazon.com
 docs.finance-partners-api.aws.yahoo.cloud
+docs.iws.nonprod.be.gemini.yahoo.com
 documents.amazon.ae
 documents.amazon.co.uk
 documents.amazon.com.au
@@ -3026,6 +3041,9 @@ dropship.amazon.com
 dropship.amazon.com.au
 drs-web-eu.amazon.co.uk
 drs-web-gamma.amazon.co.uk
+druid-mgr.bcp.report.gemini.yahoo.com
+druid-mgr.report.gemini.yahoo.com
+druid-mgr.stage.report.gemini.yahoo.com
 ds-dev-ats-test.aolp-ds-dev.aws.oath.cloud
 ds-ui-sample.aolp-ds-dev.aws.oath.cloud
 ds-ui.aolp-ds-dev.aws.oath.cloud
@@ -3743,6 +3761,14 @@ hubportal.amazon.co.uk
 hubportal.amazon.com.au
 huffpost-life-production.aws.oath.cloud
 huffpost-life-staging.aws.oath.cloud
+hv-qrs-beta1-ap-southeast-1a.gemini.yahoo.com
+hv-qrs-beta1-eu-west-1a.gemini.yahoo.com
+hv-qrs-beta1-us-east-1b.gemini.yahoo.com
+hv-qrs-beta1-us-west-2a.gemini.yahoo.com
+hv-qrs-gamma5-ap-southeast-1a.gemini.yahoo.com
+hv-qrs-gamma5-eu-west-1a.gemini.yahoo.com
+hv-qrs-gamma5-us-east-1b.gemini.yahoo.com
+hv-qrs-gamma5-us-west-2a.gemini.yahoo.com
 hy.airbnb.org
 hyd-a-orca.amazon.com
 hyd-b-orca.amazon.com
@@ -3951,6 +3977,7 @@ infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 infrasec-jenkins.acronis.work
 inside.alasco.de
 insights-dev.acrobat.adobe.com
+int-iws.gemini.yahoo.com
 int.o2.aws.oath.cloud
 integ.music.amazon.com.au
 internal-campfire-eu.amazon.ae
@@ -3960,6 +3987,7 @@ internal-campfire-fe.amazon.com.au
 internal-rtb-dev.aws.oath.cloud
 internal-rtb-prod.aws.oath.cloud
 internal.alasco.rocks
+internal.api.gemini.yahoo.com
 internal.campfire.amazon.com.br
 internal.campfire.amazon.com.mx
 intranet.acronis.com
@@ -3982,6 +4010,8 @@ ipay-upi-wallethk-uat.alipayplus.com
 ipfinder.cloud-mgmt.8x8cloud.net
 ipn.subscriptions-obi-fe-aws-dev.aws.oath.cloud
 ir.abercrombie.com
+ir.gemini.yahoo.com
+ir.stage.gemini.yahoo.com
 is.airbnb.org
 is01-cloud.acronis.com
 is1.slicer-api.mss-dev.aws.oath.cloud
@@ -4005,6 +4035,11 @@ iws-proxy.payments-aws-cde-dev.aws.oath.cloud
 iws-proxy.payments-aws-cde-prod.aws.oath.cloud
 iws-proxy.payments-aws-cde-stg.aws.oath.cloud
 iws.admanager.yahoo.com
+iws.dpa.gemini.yahoo.com
+iws.gemini.yahoo.com
+iws.nonprod.be.gemini.yahoo.com
+iws2.gemini.yahoo.com
+iws2.nonprod.be.gemini.yahoo.com
 ja-jp.abercrombie.com
 ja.airbnb.org
 jaarverslag.ad.nl
@@ -4103,6 +4138,7 @@ k8s.it01-cloud.acronis.work
 k8sfu.home-albertoc-aws.aws.oath.cloud
 ka.airbnb.org
 kaavuma-lip.dev.creatorstudio.amazon.com
+kafka.report.gemini.yahoo.com
 kaidian.amazon.cn
 kardamena-uncovered.8x8.vc
 kaseya-tap-asd.acronis.com
@@ -4485,6 +4521,7 @@ madam.amazon.com
 mads.amazon.com
 maestro.8x8.cloud
 mag-cn.amazon.cn
+maha.api.report.gemini.yahoo.com
 mai.amazon.cn
 mail-aol.mail-backend-schd-prd.aws.oath.cloud
 mail-backend-schd-prd.aws.oath.cloud
@@ -4596,6 +4633,7 @@ merchant-authorization.amazon.com
 merchant-console-pre.alipayplus.com
 merchant-query.amazon.co.uk
 merchant-query.amazon.com
+merchant.gemini.yahoo.com
 merchsearch-staging.ect-srch.ap-northeast-1.vespa.oath.cloud
 merchsearch-staging.ect-srch.ap-northeast-2.vespa.oath.cloud
 merchsearch-staging.ect-srch.ap-southeast-1.vespa.oath.cloud
@@ -4854,6 +4892,7 @@ myrtos.adm.cloud.com
 mysls.advisor-connection.com
 mysubscriptions.isp.netscape.com
 n.alasco.de
+n.gemini.yahoo.com
 na-api-alexa.amazon.co.uk
 na-api-alexa.amazon.com.au
 na-api-alexa.amazon.com.mx
@@ -4866,6 +4905,7 @@ na-bob-dispatch-prod-alexa.amazon.co.uk
 na-bob-dispatch-prod-alexa.amazon.com.au
 na-pp-aw.amazon.com
 na-transparency.amazon.com
+nads.gemini.yahoo.com
 naga.aws.amazon.com
 nagios.identityb2b.aws.oath.cloud
 nalle.comics.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
@@ -4910,6 +4950,7 @@ nl.airbnb.org
 no.airbnb.org
 no01-cloud.acronis.com
 nonexistent.acronis.work
+nonprod.be.gemini.yahoo.com
 nonprod.video-platform-splunk.aws.oath.cloud
 nonprofit.amazon.co.uk
 nonprofitcentral.amazon.co.uk
@@ -4951,6 +4992,7 @@ nova-novncproxy.jacobestelle-home.gq2.ows.oath.cloud
 nova-novncproxy.prod-mec.bf2.ows.oath.cloud
 nova-novncproxy.prod-mec.gq2.ows.oath.cloud
 nps.acronis.com
+ns.gemini.yahoo.com
 ns01.8x8pilot.com
 ns02.8x8pilot.com
 ns1.8x8pilot.com
@@ -5087,6 +5129,9 @@ ops-development.oci.infra8.8x8cloud.net
 ops-production.oci.infra8.8x8cloud.net
 ops-staging.oci.infra8.8x8cloud.net
 opssimplycomputermerchants-acc.rest.akismet.com
+opstool.bcp.report.gemini.yahoo.com
+opstool.report.gemini.yahoo.com
+opstool.stage.report.gemini.yahoo.com
 orangecrush.one-mobile-dev.aws.oath.cloud
 orangecrush.one-mobile-prod.aws.oath.cloud
 orca.amazon.com
@@ -5189,6 +5234,7 @@ p-yo-www-amazon-co-uk-kalias.amazon.co.uk
 p-yo-www-amazon-com-au-kalias.amazon.com.au
 p.8x8.studio
 p.ai.8x8.vc
+p.dashboard.gemini.yahoo.com
 p.preview.8x8.studio
 p.stage.8x8.studio
 p13n-eu.amazon.com
@@ -5415,6 +5461,8 @@ prod-gpu-west-svc-face-detection.tripod-cloud.aws.oath.cloud
 prod-gpu-west-svc-shoplift.tripod-cloud.aws.oath.cloud
 prod-jobs-ui.one-mobile-prod.aws.oath.cloud
 prod-virtualagent-api.ai.8x8.com
+prod-visitor-bf1.gemini.yahoo.com
+prod-visitor.gemini.yahoo.com
 prod-vpn-ph2sg-bancnet.alipayplus.com
 prod-vpn-sg2ph-bancnet.alipayplus.com
 prod.8x8cloud.net
@@ -5727,6 +5775,12 @@ read.amazon.co.uk
 read.amazon.com
 read.amazon.com.au
 reading.amazon.com
+real.api.gemini.yahoo.com
+real.recommendation.api.gemini.yahoo.com
+real.sandbox-api.gemini.yahoo.com
+realcimtls.api.gemini.yahoo.com
+realmtls.api.gemini.yahoo.com
+recommendation.api.gemini.yahoo.com
 recommendations.aws-oath-fires-brana-dev.aws.oath.cloud
 redapi.acronis.com
 redapi2.acronis.com
@@ -5762,6 +5816,7 @@ repo.int.o2.aws.oath.cloud
 repo.o2.aws.oath.cloud
 repo.staging.sjc01.us-west.8x8cloud.net
 report.acronis.com
+report.gemini.yahoo.com
 reporter-browserapps.amazon.ae
 reporter-browserapps.amazon.com.au
 reporter.browserapps.amazon.co.uk
@@ -5897,6 +5952,7 @@ rus-hc-1.ru.corp.acronis.com
 rus-hc-2.ru.corp.acronis.com
 rusip.acronis.com
 ruwebconf.acronis.com
+s.gemini.yahoo.com
 s1.amazon.co.uk
 s1.amazon.com
 s3-au2-acs1.acronis.com
@@ -5939,11 +5995,13 @@ sample-jtakagi.yj.aws-us-east-1c.staging.public.vespa.oath.cloud
 sample-jtakagi.yj.aws-us-east-1c.test.public.vespa.oath.cloud
 sample-jtakagi.yj.global.public.vespa.oath.cloud
 sandbox-api.admanager.yahoo.com
+sandbox-api.gemini.yahoo.com
 sandbox.accounts.logi.com
 sandbox.alexa.amazon.ca
 sandbox.alexa.amazon.com
 sandbox.alexa.amazon.com.mx
 sandbox.api.admanager.yahoo.com
+sandbox.api.gemini.yahoo.com
 satcs.adminml.com
 sb-cmsservice.amazon.com
 sb-folderservice.amazon.com
@@ -6092,6 +6150,7 @@ sg-vpn.acronis.com
 sg-vpn2.acronis.com
 sgp.alipayplus.com
 sgresearch.acronis.com
+sgs.gemini.yahoo.com
 sha256.webservices.amazon.co.uk
 shared-db-svc-dev.aws.infra8.8x8cloud.net
 shared-db-svc-prod.aws.infra8.8x8cloud.net
@@ -6262,6 +6321,7 @@ sof9-repo.acronis.com
 sof9-s3gw.acronis.com
 softwareupdates-preprod.amazon.com
 softwareupdates.amazon.com
+son.s.gemini.yahoo.com
 sonar.aws-oath-dsp-plus-api-sonarqube.aws.oath.cloud
 sonarqube.internal.alasco.rocks
 sophap.beta.gql.music.amazon.com.au
@@ -6365,6 +6425,7 @@ splunk-srch.subscriptions-lca-content-aws-prod.aws.oath.cloud
 splunk-srch.subscriptions-loki-aws-dev.aws.oath.cloud
 splunk.customer-care-voc-aws-prod.aws.oath.cloud
 splunk.ec-horizontal-rewards-dev-tools.aws.oath.cloud
+splunk.gemini.yahoo.com
 splunk.payments-aws-tools-dev.aws.oath.cloud
 splunk.payments-aws-tools.aws.oath.cloud
 splunk.subscriptions-devops-aws-class.aws.oath.cloud
@@ -6407,6 +6468,7 @@ ssov1.8x8staging.com
 ssov2-use1-05.acceptance.cloud.8x8.com
 ssp-dev-ats-test.one-mobile-dev.aws.oath.cloud
 ssp-perf-ats-test.one-mobile-dev.aws.oath.cloud
+ssp.gemini.yahoo.com
 st.p.account.here.com
 st2.acronis.work
 stage-admin.1debit.com
@@ -6423,12 +6485,16 @@ stage.account.adobe.com
 stage.account.krisp.ai
 stage.acrobat.adobe.com
 stage.cbc.acronis.work
+stage.client.kafka.report.gemini.yahoo.com
+stage.druid.report.gemini.yahoo.com
 stage.eu-central-1.int.o2.aws.oath.cloud
+stage.gemini.yahoo.com
 stage.guce.compuserve.com
 stage.guce.isp.netscape.com
 stage.gxp.myaccount.compuserve.com
 stage.help.compuserve.com
 stage.int.o2.aws.oath.cloud
+stage.kafka.report.gemini.yahoo.com
 stage.myaccount.compuserve.com
 stage.new.account.krisp.ai
 stage.oidc.compuserve.com
@@ -6440,6 +6506,8 @@ stage.oidc.publishing.compuserve.com
 stage.oidc.wmconnect.compuserve.com
 stage.origin.help.compuserve.com
 stage.payments.compuserve.com
+stage.report.api.gemini.yahoo.com
+stage.report.gemini.yahoo.com
 stage.us-east-1.int.o2.aws.oath.cloud
 stage.us-west-1.int.o2.aws.oath.cloud
 stage.wopi.acrobat.adobe.com
@@ -6524,6 +6592,7 @@ stg.mtls.api.ap-southeast-1.account.here.com
 stg.mtls.api.eu-west-1.account.here.com
 stg.mtls.api.us-east-1.account.here.com
 stg.spot.account.here.com
+stgmerchant.gemini.yahoo.com
 stingray-dub.amazon.com
 stingray-iad.amazon.com
 stkservice-preprod.amazon.com
