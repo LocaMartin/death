@@ -246,6 +246,7 @@ api-app.telenor.se
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-js.datadome.co
+api-p.xoswap.com
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology
 api-sandbox.gocardless.com
@@ -363,6 +364,7 @@ api.ninjakiwi.com
 api.notion.com
 api.ort-one-pingone.com
 api.ovh.com
+api.passkeys.network
 api.paybox.sh
 api.pdst.fm
 api.personio-dev.com
@@ -474,6 +476,7 @@ api.whatnot.com
 api.wisdomtreeprimeapp.com
 api.wordpress.org
 api.workbox.dk
+api.xoswap.com
 api.yoti.com
 api2.frontapp.com
 api2.grofers.com
@@ -683,6 +686,7 @@ backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
+baeder-suite.de
 bakersfield-qa.gleague.nba.com
 bakersfield.gleague.nba.com
 bal-dev.nba.com
@@ -1023,6 +1027,8 @@ codeofconduct.visa.com
 codex.bbpress.org
 codex.buddypress.org
 codex.wordpress.org
+cognitec-systems.de
+cognitec.com
 cognitiveperformer.com
 coinbase-corp.com
 coinbase.com
@@ -1119,6 +1125,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -1515,6 +1523,7 @@ contentportal.marriott.com
 contentportalauth.marriott.com
 contile.services.mozilla.com
 contributor.stock.adobe.com
+core assets in-scope products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 core-api-aws-dev.nba.com
 core-api-aws-prod-east1.nba.com
 core-api-aws-prod.nba.com
@@ -1573,6 +1582,7 @@ css-tricks.com
 ct.deriv.com
 ct.ninjakiwi.com
 ctf.hacker101.com
+ctr.a.exodus.io
 cubicmotion.com
 custody.coinbase.com
 customer-sessions.arkoselabs.com
@@ -1611,12 +1621,16 @@ cybersourcebouncebacks.visa.com
 cyrus-security.com
 cz.skodaauto.myskoda
 daily.blablacar.fr
+danalock.com
+danalock.dk
+danalock.eu
 dancecentral.com
 das.eu
 dash.ai
 dash.cloudflare.com
 dash.dropbox.com
 dash.podsights.com
+dashboard-p.xoswap.com
 dashboard.doppler.com
 dashboard.mergify.com
 dashboard.plaid.com
@@ -1625,6 +1639,7 @@ dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 dashboard.stripe.com
+dashboard.xoswap.com
 dashlane.com
 data.mail.yahoo.com
 data.ninjakiwi.com
@@ -1654,6 +1669,7 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
+dejoris.de
 delaware-dev.gleague.nba.com
 delaware-qa.gleague.nba.com
 delaware.gleague.nba.com
@@ -1864,13 +1880,16 @@ emag.vinci.com
 embark-studios.com
 embed.tumblr.com
 embed.vhx.tv
+embedded.passkeys.foundation
 en.casinohuone.com
 en.kolikkopelit.com
 en.ottokasino.com
 enroll.clearme.com
 ensemble.yahoo.com
 enspotify.com
+envisio.io
 enviso.io
+enviso.shop
 eops.nl
 epaper.welt.de
 epicgames.com
@@ -1899,6 +1918,9 @@ europolitan.se
 evisa.gov.mz
 ews-fusion.my.site.com
 exact.com
+exchange-p.exodus.io
+exchange-server-p.exodus.io
+exchange-server.exodus.io
 exness.com
 exnessaffiliates.com
 exo.io
@@ -1955,6 +1977,9 @@ fi.mariacasino.com
 fi.reworks.redecor
 fi.spankki
 fi.unibet.com
+fiat-p.a.exodus.io
+fiat-prod-fallback.a.exodus.io
+fiat.a.exodus.io
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
@@ -2045,6 +2070,10 @@ gamma.grab.co
 gamma.nl
 gammacademy.be
 gammalokaal.nl
+gantner.be
+gantner.com
+gantnercloud.com
+gantnerindia.com
 garp.visa.com
 gasstation.polygon.technology
 gatekeeper.prd.iat.it.xvservice.net
@@ -2079,6 +2108,8 @@ github.com/anthropics
 github.com/anthropics/anthropic-sdk-python
 github.com/anthropics/anthropic-sdk-typescript
 github.com/binary-com
+github.com/brave
+github.com/brave-intl
 github.com/deriv-com
 github.com/grafana
 github.com/kubernetes-csi/csi-lib-utils
@@ -2125,7 +2156,7 @@ gocardless-cicd.io
 gocardless-lab.io
 gocardless.dev
 gocardless.io
-gofin.io
+gocorp.gojek.com
 gofood.co.id
 gofoodmerchant.co.id
 gojek.com
@@ -2184,6 +2215,7 @@ gsmarkets.nl
 gspublishing.com
 gsselect.com
 gtflabs.io
+guidemylock.dk
 guts.ninjakiwi.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
@@ -2337,7 +2369,6 @@ ik.watsons.com.tr
 images.demand.cybersource.com
 img.swapcard.com
 immedia-semi.com
-in-scope products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 in.amazon.mshop.android.business.shopping
 in.amazon.mshop.android.shopping
 in.jbl.com
@@ -2506,6 +2537,7 @@ kubernetes.io
 kumulus.uzleuven.be
 kwsdose.be
 kyc-onboarding.booking.com
+kyc.a.exodus.io
 l75pvbdyjo.infomaniak.site
 label-studio-public.sonantic.io
 labs.8x8.com
@@ -2583,6 +2615,7 @@ login.cm.com
 login.delen.be
 login.delen.ch
 login.delen.lu
+login.exodus.com
 login.infomaniak.com
 login.innogames.de
 login.insightly.com
@@ -2669,6 +2702,7 @@ m.dana.id
 m.goodrx.com
 m.reddit.com
 m.tw.coupang.com
+mab.co.id
 maestro.8x8.cloud
 magazine.kruidvat.be
 magento.com
@@ -2944,6 +2978,7 @@ mx1.uzleuven.be
 mx2.uzleuven.be
 my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
+my-clay.com
 my.account.posti.fi
 my.account.sony.com
 my.clearme.com
@@ -2951,6 +2986,7 @@ my.eurid.eu
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
+my.passkeys.network
 my.plaid.com
 my.playstation.com
 my.portofantwerp.com
@@ -2980,11 +3016,13 @@ myaccount.vtm.be
 myharmony.com
 myhomebook.de
 myinsights.io
+mylock.dk
 mynexuz.be
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 myself.tw.coupang.com
 myservices-api.stage.vismaonline.com
+mysmartlock.com
 mysqueezebox.com
 mystics-dev.wnba.com
 mystics-qa.wnba.com
@@ -3038,6 +3076,8 @@ newsletter.iciparisxl.nl
 newsletter.infomaniak.com
 newsos.com
 newsroom.images.hyatt.com
+nexotrack-p.exodus.io
+nexotrack.exodus.io
 next.airbnb.com
 nexuzhealth.com
 nflxext.com
@@ -3059,6 +3099,7 @@ nl.karwei.app.android
 nmtracking.netflix.com
 nnip.com
 node.js/typescript
+non core assets in-scope products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 northernarizona-dev.gleague.nba.com
 northernarizona-qa.gleague.nba.com
 northernarizona.gleague.nba.com
@@ -3190,14 +3231,17 @@ partner.urbancompany.com
 partners.deriv.com
 partners.shopify.com
 partners.tw.coupang.com
+passkeys.foundation
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
+pay-admin.exodus.io
 pay-api.truelayer-sandbox.com
 pay-api.truelayer.com
 pay-sandbox.gocardless.com
 pay.8x8.com
 pay.doccle.be
+pay.exodus.io
 pay.ibex.exchange
 pay.staging-enviso.io
 pay.tokopediax.com
@@ -3319,6 +3363,10 @@ podcast-graph-dot-adaptive-growth.appspot.com
 podsights.com
 poe.com
 politico.eu
+poly-control.com
+poly-control.dk
+poly-lock.dk
+polycontrol.dk
 polymoon.it
 pontoon.allizom.org
 portal.23andme.com
@@ -3454,6 +3502,7 @@ reckostaging.com
 reclaim.ai
 reco.tw.coupang.com
 recovery.privy.io
+recreatex.be
 redcare-apotheke.ch
 redcare-pharmacie.fr
 reddit.com
@@ -3473,6 +3522,7 @@ registry.eu
 registry.gitlab.com
 rei.com
 relay.firefox.com
+relay.passkeys.foundation
 relay.playcanvas.com
 releasor.payworks.com
 remilty.net
@@ -3521,7 +3571,6 @@ res.blueskytours.globalbookingsolutions.com
 res.funjet.com
 res.hyattinclusivecollection.com
 res.secretsresorts.com
-res.skyteam.com
 res.universalorlandovacations.com
 res.vacations.buschgardens.com
 res.vacations.discoverycove.com
@@ -3602,6 +3651,11 @@ salesportal.hyatt.com
 saltlakecity-dev.gleague.nba.com
 saltlakecity-qa.gleague.nba.com
 saltlakecity.gleague.nba.com
+salto-orion.app
+saltoapis.com
+saltoks.com
+saltosystems.com
+saltowecosystem.com
 sandbox-b2b.ripio.com
 sandbox-royal.securegateway.com
 sandbox.accounts.logi.com
@@ -3610,6 +3664,7 @@ sandbox.authorize.net
 sandbox.braintreegateway.com
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
+sandbox.zimpler.net
 santacruz-dev.gleague.nba.com
 santacruz-qa.gleague.nba.com
 santacruz.gleague.nba.com
@@ -3881,6 +3936,7 @@ staging.cloud.8x8.com
 staging.kidswebservices.com
 staging.magisto.com
 staging.travix.com
+staging.zimpler.net
 staking-api.polygon.technology
 staking.polygon.technology
 station.veriff.com
@@ -4096,6 +4152,7 @@ trm.pinepaymentsolutions.com
 trouw.nl
 truck-api.eu-east-1.indriverapp.com
 truecaller.com
+truelayer-sandbox.com
 truelayer.cloud
 truelayer.com
 truelayer.io
@@ -4107,6 +4164,7 @@ tucarro.com
 tucarro.com.co
 tumblr.com
 tumoto.com
+turing.exodus.io
 tv.telenor.se
 tvg.com
 tw.bid.yahoo.com
@@ -4241,6 +4299,8 @@ vimla.se
 vimla.work
 vinci-groupe.profils.org
 vine.co
+vintia.cloud
+vintia.com
 visa.co.cr
 visa.co.ni
 visa.co.za
@@ -4287,6 +4347,7 @@ vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
 wali.com
+wallet.passkeys.foundation
 wallet.tg
 wallet.venly.io
 wallet.web3auth.io
@@ -4339,6 +4400,7 @@ webwinkel.volkskrant.nl
 webwsp.aps.kuleuven.be
 wechat.api.marriott.com
 weclapp.com
+wecosystem.com
 welcome.infomaniak.com
 wellsfargo.com
 wellsfargoadvisors.com
@@ -4491,20 +4553,6 @@ www.cybersource.com
 www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
-www.decathlon.be
-www.decathlon.ch
-www.decathlon.co.uk
-www.decathlon.com.tr
-www.decathlon.cz
-www.decathlon.de
-www.decathlon.es
-www.decathlon.fr
-www.decathlon.hu
-www.decathlon.it
-www.decathlon.nl
-www.decathlon.pl
-www.decathlon.pt
-www.decathlon.ro
 www.delen.bank
 www.delen.be/en
 www.demorgen.be
@@ -4914,6 +4962,8 @@ xiaomiwear.com
 xiaomiyoupin.com
 xlence.iciparisxl.nl
 xoom.com
+xoswap-graphql-p.a.exodus.io
+xoswap-graphql.a.exodus.io
 xs-play.elvenar.com
 xs-play.forgeofempires.com
 xs-play.grepolis.com
@@ -4974,6 +5024,8 @@ zellepay.com
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
 ziekenhuisschool.be
+zimpler.com
+zimpler.net
 zmifi.com
 zomans.com
 zomato.com

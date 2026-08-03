@@ -99,6 +99,7 @@ avecspotify.com
 axelspringer.de
 ayco.com
 backend-capital.com
+baeder-suite.de
 bancoplata.mx
 baoliyun.com
 base.org
@@ -164,6 +165,8 @@ cloudways.com
 cm.com
 cmtelecom.com
 coda.io
+cognitec-systems.de
+cognitec.com
 cognitiveperformer.com
 coinbase-corp.com
 coinbase.com
@@ -182,12 +185,16 @@ cubicmotion.com
 cyberghost.com
 cyberghostvpn.com
 cyrus-security.com
+danalock.com
+danalock.dk
+danalock.eu
 dancecentral.com
 das.eu
 dash.ai
 dashlane.com
 datacamp.com
 decathlon.com
+dejoris.de
 deliciousbrains.com
 delphidisplay.com
 demorgen.be
@@ -253,6 +260,8 @@ elasticsearch.wtf
 elstc.co
 embark.net
 enspotify.com
+envisio.io
+enviso.shop
 eops.nl
 epicgames.com
 epicgames.dev
@@ -309,6 +318,10 @@ fuze.com
 fuze.site
 gamma.be
 gamma.nl
+gantner.be
+gantner.com
+gantnercloud.com
+gantnerindia.com
 gethypr.com
 getsling.com
 github.com
@@ -325,7 +338,6 @@ gocardless-cicd.io
 gocardless-lab.io
 gocardless.dev
 gocardless.io
-gofin.io
 gofood.co.id
 gofoodmerchant.co.id
 gojek.com
@@ -368,6 +380,7 @@ gsmarkets.nl
 gspublishing.com
 gsselect.com
 gtflabs.io
+guidemylock.dk
 hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.net
@@ -503,6 +516,7 @@ luxuryretreats.com
 lyst.co
 lyst.com
 lystit.com
+mab.co.id
 magisto.com
 malwarebytes.com
 marcus.co.uk
@@ -582,9 +596,12 @@ musta.ch
 mwb-threatintel.com
 mwbsys.com
 mworld.com
+my-clay.com
 myharmony.com
 myhomebook.de
 myinsights.io
+mylock.dk
+mysmartlock.com
 mysqueezebox.com
 myteksi.com
 myteksi.net
@@ -674,6 +691,10 @@ playuzleuven.be
 playwsop.com
 pns.hk
 politico.eu
+poly-control.com
+poly-control.dk
+poly-lock.dk
+polycontrol.dk
 polymoon.it
 portofantwerp.com
 portofantwerpbruges.com
@@ -709,6 +730,7 @@ recko.io
 reckoproduction.com
 reckostaging.com
 reclaim.ai
+recreatex.be
 reddit.com
 redditblog.com
 reddithelp.com
@@ -745,6 +767,11 @@ roonlabs.net
 runnr.in
 s3p.cloud
 sa-tech.de
+salto-orion.app
+saltoapis.com
+saltoks.com
+saltosystems.com
+saltowecosystem.com
 savers.co.uk
 say.rocks
 saytechnologies.com
@@ -875,6 +902,7 @@ trip.com
 triplinkintl.com
 trouw.nl
 truecaller.com
+truelayer-sandbox.com
 truelayer.cloud
 truelayer.com
 truelayer.io
@@ -931,6 +959,8 @@ vimla.io
 vimla.se
 vimla.work
 vine.co
+vintia.cloud
+vintia.com
 visamiddleeast.com
 vliegwinkel.nl
 voi.com
@@ -955,6 +985,7 @@ wavecell.com
 wealthsimple.com
 weareone.world
 weclapp.com
+wecosystem.com
 wellsfargo.com
 wellsfargoadvisors.com
 welt.de
@@ -1017,6 +1048,8 @@ zarahome.com
 zdev.net
 zelle.com
 zellepay.com
+zimpler.com
+zimpler.net
 zmifi.com
 zomans.com
 zomato.com
