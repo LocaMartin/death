@@ -188,6 +188,8 @@ cyrus-security.com
 danalock.com
 danalock.dk
 danalock.eu
+danalockapps.com
+danalockservices.com
 dancecentral.com
 das.eu
 dash.ai
@@ -260,7 +262,7 @@ elasticsearch.wtf
 elstc.co
 embark.net
 enspotify.com
-envisio.io
+enviso.io
 enviso.shop
 eops.nl
 epicgames.com
@@ -601,7 +603,6 @@ myharmony.com
 myhomebook.de
 myinsights.io
 mylock.dk
-mysmartlock.com
 mysqueezebox.com
 myteksi.com
 myteksi.net
@@ -769,6 +770,7 @@ s3p.cloud
 sa-tech.de
 salto-orion.app
 saltoapis.com
+saltohomesolution.com
 saltoks.com
 saltosystems.com
 saltowecosystem.com

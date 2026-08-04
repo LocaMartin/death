@@ -58,6 +58,7 @@ account.acronis.com
 account.adobe.com
 account.api.here.com
 account.booking.com
+account.box.com
 account.here.com
 account.kaufland.com
 account.kaufland.de
@@ -266,6 +267,7 @@ api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.blablalines.com
+api.box.com
 api.circle.com
 api.cloud.kaufland.de
 api.cloudflare.com
@@ -490,6 +492,7 @@ app.aikido.dev
 app.alasco.de
 app.basecamp.com
 app.blueskytravelvietnam.com
+app.box.com
 app.circle.com
 app.datacamp.com/certification
 app.datacamp.com/groups
@@ -991,6 +994,7 @@ cleveland.gleague.nba.com
 clicks.koho.ca
 client-api.arkoselabs.com
 closetheplaygap.com
+cloud.app.box.com
 cloud.coinbase.com
 cloud.com
 cloud.digitalocean.com
@@ -1125,6 +1129,7 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.box.android
 com.brave.browser
 com.brave.ios.browser
 com.bumble.app
@@ -1624,6 +1629,8 @@ daily.blablacar.fr
 danalock.com
 danalock.dk
 danalock.eu
+danalockapps.com
+danalockservices.com
 dancecentral.com
 das.eu
 dash.ai
@@ -1747,6 +1754,7 @@ direct.playstation.com
 directverify.in
 distribution-xml.booking.com
 district.in
+dl.boxcloud.com
 dns.eu
 do.co
 doaction.org
@@ -1887,7 +1895,6 @@ en.ottokasino.com
 enroll.clearme.com
 ensemble.yahoo.com
 enspotify.com
-envisio.io
 enviso.io
 enviso.shop
 eops.nl
@@ -2697,6 +2704,7 @@ m.blablacar.pt
 m.blablacar.ro
 m.blablacar.ru
 m.blablacar.tr
+m.box.com
 m.chaturbate.com
 m.dana.id
 m.goodrx.com
@@ -3022,7 +3030,6 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 myself.tw.coupang.com
 myservices-api.stage.vismaonline.com
-mysmartlock.com
 mysqueezebox.com
 mystics-dev.wnba.com
 mystics-qa.wnba.com
@@ -3105,6 +3112,7 @@ northernarizona-qa.gleague.nba.com
 northernarizona.gleague.nba.com
 northwellprimarycarenow.com
 note that any vulnerabilities discovered in software developed by third parties (whether or not they are included in anthropic's connectors directory) are not in scope for anthropic’s hackerone program and should be reported directly to those third-party developers. for details on reporting, see the extension page in claude desktop. we ask that vulnerability reports regarding third-party connectors are only shared with anthropic if a satisfactory response is not received from the responsible developer
+notes.services.box.com
 notification-front-web.tw.coupang.com
 notion.id
 notion.so
@@ -3653,6 +3661,7 @@ saltlakecity-qa.gleague.nba.com
 saltlakecity.gleague.nba.com
 salto-orion.app
 saltoapis.com
+saltohomesolution.com
 saltoks.com
 saltosystems.com
 saltowecosystem.com
@@ -3802,6 +3811,7 @@ signalpath.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
 signin.telenor.se
+signrequest.com
 signup.sendgrid.com
 siilo.com
 simperium.com
@@ -3916,6 +3926,7 @@ sprint.dynatracelabs.com
 sqills-bugbounty-test.cloud.sqills.com
 sqills.com
 sqills.team
+sr-staging-1.com
 srvcs.tumblr.com
 sso-sprint.dynatracelabs.com
 sso.8x8.com
@@ -4221,6 +4232,7 @@ unrealtournament.com
 updates.forescout.com
 uphold.com
 upld.krisp.ai
+upload.box.com
 upsell.hyatt.com
 url-checker.indrive.com
 us.cloud.com
