@@ -1,6 +1,9 @@
+account.box.com
 api-p.xoswap.com
+api.box.com
 api.passkeys.network
 api.xoswap.com
+app.box.com
 app.expressmailguard.com
 app.files.com
 app.fing.com
@@ -491,10 +494,7 @@ cleveland.gleague.nba.com
 clicks.koho.ca
 client-api.arkoselabs.com
 closetheplaygap.com
+cloud.app.box.com
 cloud.coinbase.com
 cloud.com
 cloud.digitalocean.com
-cloud.elastic.co
-cloud.forescout.com
-cloud.kaufland.de
-cloud.malwarebytes.com

@@ -1,3 +1,6 @@
+auth-identity-dev.nba.com
+auth-identity-ping.nba.com
+auth-identity-qa-ping.nba.com
 auth-identity-qa.nba.com
 auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
@@ -120,6 +123,3 @@ billing.api.soundtrackyourbrand.com
 billing.ring.com
 billingsupport.chaturbate.com
 bilt.marriott.com
-bingoblitz.com
-biolibre.ar
-biolibre.cl

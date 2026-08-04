@@ -1,6 +1,9 @@
+account.box.com
 api-p.xoswap.com
+api.box.com
 api.passkeys.network
 api.xoswap.com
+app.box.com
 app.expressmailguard.com
 app.files.com
 app.fing.com
@@ -120,6 +123,3 @@ austin-qa.gleague.nba.com
 austin.gleague.nba.com
 auth-apc.marriott.com
 auth-identity-dev-ping.nba.com
-auth-identity-dev.nba.com
-auth-identity-ping.nba.com
-auth-identity-qa-ping.nba.com
