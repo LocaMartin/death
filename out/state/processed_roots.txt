@@ -28,3 +28,13 @@
 8x8.my.site.com
 8x8.studio
 8x8.uk
+8x8.vc
+8x8cloud.net
+8x8e2e.com
+8x8hosts.internal
+8x8hosts.pilot
+8x8pilot.com
+8x8staging.com
+8x8testa.com
+8x8testb.com
+a.exodus.io
