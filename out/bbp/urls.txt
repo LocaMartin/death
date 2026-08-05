@@ -29,7 +29,6 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
-http://exchange-server.exodus.io
 http://federatedid-na1.services.adobe.com
 http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
@@ -393,6 +392,9 @@ https://github.com/elastic/elasticsearch
 https://github.com/elastic/fleet-server
 https://github.com/elastic/kibana
 https://github.com/elastic/logstash
+https://github.com/exodusoss/bytes
+https://github.com/exodusoss/crypto
+https://github.com/exodusoss/hydra
 https://github.com/expressvpn/lightway
 https://github.com/grafana/alloy
 https://github.com/grafana/beyla
@@ -922,6 +924,10 @@ https://www.monzo.com
 https://www.myntra.com
 https://www.npmjs.com/package/@8x8/pui-partner-comm
 https://www.npmjs.com/package/@airtable/mcp-cli
+https://www.npmjs.com/package/@exodus/errors
+https://www.npmjs.com/package/@exodus/keychain
+https://www.npmjs.com/package/@exodus/safe-string
+https://www.npmjs.com/package/@exodus/sentry-client
 https://www.npmjs.com/package/@privy-io/cross-app-connect
 https://www.npmjs.com/package/@privy-io/cross-app-provider
 https://www.npmjs.com/package/@privy-io/expo

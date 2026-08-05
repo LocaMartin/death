@@ -59,6 +59,7 @@ account.adobe.com
 account.api.here.com
 account.booking.com
 account.box.com
+account.deezer.com
 account.here.com
 account.kaufland.com
 account.kaufland.de
@@ -247,7 +248,6 @@ api-app.telenor.se
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-js.datadome.co
-api-p.xoswap.com
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology
 api-sandbox.gocardless.com
@@ -279,6 +279,7 @@ api.coindcx.com
 api.creditkarma.com
 api.custody.coinbase.com
 api.cx.metamask.io
+api.deezer.com
 api.deriv.com
 api.dev.lando.nonprod.cloudops.mozgcp.net
 api.developer.monespacesante.fr
@@ -478,7 +479,6 @@ api.whatnot.com
 api.wisdomtreeprimeapp.com
 api.wordpress.org
 api.workbox.dk
-api.xoswap.com
 api.yoti.com
 api2.frontapp.com
 api2.grofers.com
@@ -1493,6 +1493,7 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network
+connect.deezer.com
 connect.posti.fi
 connect.secure.wellsfargo.com
 connect.venly.io
@@ -1637,7 +1638,6 @@ dash.ai
 dash.cloudflare.com
 dash.dropbox.com
 dash.podsights.com
-dashboard-p.xoswap.com
 dashboard.doppler.com
 dashboard.mergify.com
 dashboard.plaid.com
@@ -1646,7 +1646,6 @@ dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 dashboard.stripe.com
-dashboard.xoswap.com
 dashlane.com
 data.mail.yahoo.com
 data.ninjakiwi.com
@@ -1925,9 +1924,6 @@ europolitan.se
 evisa.gov.mz
 ews-fusion.my.site.com
 exact.com
-exchange-p.exodus.io
-exchange-server-p.exodus.io
-exchange-server.exodus.io
 exness.com
 exnessaffiliates.com
 exo.io
@@ -3266,6 +3262,7 @@ paylution.com
 payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
+payment.deezer.com
 payment.kolikkopelit.com
 payment.mariacasino.com
 payment.mariacasino.dk
@@ -3337,6 +3334,7 @@ piaservers.com
 piaservers.net
 pigeon.swiftfinancial.com
 ping.pdst.fm
+pipe.deezer.com
 pipopay.com
 plaid.com
 planet.wordpress.org
@@ -4233,6 +4231,7 @@ updates.forescout.com
 uphold.com
 upld.krisp.ai
 upload.box.com
+upload.deezer.com
 upsell.hyatt.com
 url-checker.indrive.com
 us.cloud.com
@@ -4414,6 +4413,8 @@ wechat.api.marriott.com
 weclapp.com
 wecosystem.com
 welcome.infomaniak.com
+wellbeing.deezer.com
+wellbeing.dzcdn.net
 wellsfargo.com
 wellsfargoadvisors.com
 welt.de
@@ -4477,6 +4478,7 @@ wps-cps.cv.dmp.gouv.fr
 wps-cps.dmp.gouv.fr
 wps-cps.dmp.monespacesante.fr
 wpscan.com
+ws.deezer.com
 ws.sorare.com
 wss://messaging.vrt.be/
 www-all.nba.com
@@ -4565,6 +4567,7 @@ www.cybersource.com
 www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
+www.deezer.com
 www.delen.bank
 www.delen.be/en
 www.demorgen.be
@@ -4974,8 +4977,6 @@ xiaomiwear.com
 xiaomiyoupin.com
 xlence.iciparisxl.nl
 xoom.com
-xoswap-graphql-p.a.exodus.io
-xoswap-graphql.a.exodus.io
 xs-play.elvenar.com
 xs-play.forgeofempires.com
 xs-play.grepolis.com
@@ -5035,6 +5036,7 @@ zelle.com
 zellepay.com
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
+zen.deezer.com
 ziekenhuisschool.be
 zimpler.com
 zimpler.net
