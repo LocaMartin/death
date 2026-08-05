@@ -58,6 +58,7 @@ account.acronis.com
 account.adobe.com
 account.api.here.com
 account.booking.com
+account.box.com
 account.here.com
 account.kaufland.com
 account.kaufland.de
@@ -266,6 +267,7 @@ api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.blablalines.com
+api.box.com
 api.circle.com
 api.cloud.kaufland.de
 api.cloudflare.com
@@ -490,6 +492,7 @@ app.aikido.dev
 app.alasco.de
 app.basecamp.com
 app.blueskytravelvietnam.com
+app.box.com
 app.circle.com
 app.datacamp.com/certification
 app.datacamp.com/groups
@@ -991,6 +994,7 @@ cleveland.gleague.nba.com
 clicks.koho.ca
 client-api.arkoselabs.com
 closetheplaygap.com
+cloud.app.box.com
 cloud.coinbase.com
 cloud.com
 cloud.digitalocean.com
