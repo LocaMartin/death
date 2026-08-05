@@ -314,6 +314,7 @@ ac7bfaabcf46.rest.akismet.com
 academy-outbound-ads.tiktok.com
 academy.8x8.com
 academy.acronis.com
+academy.infomaniak.com
 acc-webwinkel.ad.nl
 acc.ad.nl
 acc.kcc.ad.nl
@@ -1758,6 +1759,7 @@ bounce.8x8.com
 bpi-www.advisor-connection.com
 br.acronis.com
 br01-cloud.acronis.com
+bragi.acc-pub.mobilevikings.be
 brana-api.aws-oath-fires-brana-dev.aws.oath.cloud
 brana-api.aws-oath-fires-brana-prod.aws.oath.cloud
 brana-ui.aws-oath-fires-brana-dev.aws.oath.cloud
@@ -4983,6 +4985,7 @@ mimir.10x.redoxengine.com
 mingportal.aws.amazon.com
 miniapp.amazon.cn
 miniprogram-console-pre.alipayplus.com
+mips.acc-pub.mobilevikings.be
 misentry.acronis.com
 misv2-dal-gamma.corp.amazon.com
 misv2-dal.corp.amazon.com
@@ -7045,6 +7048,7 @@ strg-jenkins.acronis.work
 studios.amazon.com
 styx.airbnb-aws.com
 subdomain.akismet.com
+subhub.acc-pub.mobilevikings.be
 substrate-api-sidecar.a.exodus.io
 sugar.adm.cloud.com
 sugar.agent.adm.cloud.com
@@ -7759,6 +7763,7 @@ vie1-repo.acronis.com
 vie1-s3gw.acronis.com
 view.email.abercrombie.com
 view.learn.ads.snapchat.com
+vikingdeals.acc-pub.mobilevikings.be
 vil4yreve547zjdbgquzo7nxxp5e3uyzg.public.vespa.oath.cloud
 vine.amazon.ca
 vine.amazon.co.jp
