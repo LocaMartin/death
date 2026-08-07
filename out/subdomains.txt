@@ -3,6 +3,7 @@
 *.cast.8x8.vc
 *.cf2loki.8x8.vc
 *.developer.allegro.pl.allegrosandbox.pl
+*.docs.acc.mobilevikings.be
 *.docs.appstore.8x8.vc
 *.global-staging.chalet.8x8staging.com
 *.go.8x8.vc
@@ -397,6 +398,7 @@ ach1-repo.acronis.com
 ach1-s3gw.acronis.com
 achxa01.msteams.8x8.com
 achxb01.msteams.8x8.com
+acm-test.acc.mobilevikings.be
 acmrnd.corp.acronis.com
 acookie-us-east-1.huffpost-life-production.aws.oath.cloud
 acookie-us-east-1.huffpost-life-staging.aws.oath.cloud
@@ -405,6 +407,7 @@ acrobat.adobe.com
 acronis.com
 acronis.work
 acroshare.ru.corp.acronis.com
+acs.acc.mobilevikings.be
 acss.acronis.work
 actie.ad.nl
 actionnaires.vinci.com
@@ -783,7 +786,9 @@ alchemy.veriff.com
 aleenote.cn
 aleenote.com
 alert.logitech.com
+alertmanager-gen.acc.mobilevikings.be
 alertmanager-k8s.acc.mobilevikings.be
+alertmanager.acc.mobilevikings.be
 alerts.ninjakiwi.com
 alexa-comms-mobile-service-gamma.amazon.ca
 alexa-comms-mobile-service-gamma.amazon.cn
@@ -875,6 +880,7 @@ all-inclusive.marriott.com
 allegro.cz.allegrosandbox.pl
 allegro.pl.allegrosandbox.pl
 allegro.sk.allegrosandbox.pl
+alloy.acc.mobilevikings.be
 allsoft.acronis.com
 allstar-dev.nba.com
 almpmng-pre.alipayplus.com
@@ -948,6 +954,8 @@ analytics-tls.aws-oath-fires-brana-dev.aws.oath.cloud
 analytics.8x8.com
 analytics.aws-oath-fires-brana-dev.aws.oath.cloud
 analytics.aws-oath-fires-brana-prod.aws.oath.cloud
+andre-client.acc.mobilevikings.be
+andre.acc.mobilevikings.be
 andreer.comics.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 andreer.comics.scoober.aws-us-east-1c.public.vespa.oath.cloud
 andreer.comics.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
@@ -1454,6 +1462,7 @@ auth-preprod-meli.adminml.com
 auth-testing-meli.adminml.com
 auth-zappos-na.amazon.com
 auth.8x8.id
+auth.acc.mobilevikings.be
 auth.acronis.com
 auth.ad.nl
 auth.cloud.sgp.alipayplus.com
@@ -1733,6 +1742,7 @@ blink-dpa.gemini.yahoo.com
 bll1-repo.acronis.com
 bll1-s3gw.acronis.com
 blocklist.addons.allizom.org
+blockz.acc.mobilevikings.be
 blog.5nine.com
 blog.8x8.com
 blog.acronis.com
@@ -1760,6 +1770,7 @@ bpi-www.advisor-connection.com
 br.acronis.com
 br01-cloud.acronis.com
 bragi.acc-pub.mobilevikings.be
+bragi.acc.mobilevikings.be
 brana-api.aws-oath-fires-brana-dev.aws.oath.cloud
 brana-api.aws-oath-fires-brana-prod.aws.oath.cloud
 brana-ui.aws-oath-fires-brana-dev.aws.oath.cloud
@@ -1822,6 +1833,7 @@ bt01-baas.acronis.com
 bt01-cloud.acronis.com
 bud1-repo.acronis.com
 bud1-s3gw.acronis.com
+budskap.acc.mobilevikings.be
 bugsearch.vespa.ap-northeast-1.vespa.oath.cloud
 bugsearch.vespa.ap-northeast-2.vespa.oath.cloud
 bugsearch.vespa.ap-southeast-1.vespa.oath.cloud
@@ -1898,6 +1910,7 @@ calendar.comms-calendar.us-west-1.vespa.oath.cloud
 callback.restsimplycomply.web.akismet.com
 callbacks.airbnb.com
 calvi.agent.adm.cloud.com
+campaigner.acc.mobilevikings.be
 canary-grid.vespa.ap-northeast-1.vespa.oath.cloud
 canary-grid.vespa.ap-northeast-2.vespa.oath.cloud
 canary-grid.vespa.ap-southeast-1.vespa.oath.cloud
@@ -1971,6 +1984,7 @@ canvass-search-stage.canvass-stage.us-west-1.vespa.oath.cloud
 capistrano-preview.amazon.com
 captcha-proxy.aws.amazon.com
 cardano.a.exodus.io
+care-api.acc.mobilevikings.be
 care.account.here.com
 care.acronis.com
 career.alasco.de
@@ -3509,6 +3523,7 @@ f02aa.akamai-ci.airbnb.com
 f6e066df6d23.web.akismet.com
 faast.amazon.co.uk
 fabricjs-rails.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
+fakta.acc.mobilevikings.be
 fals.atv-ps-eu.amazon.com
 fals.atv-ps-fe.amazon.com
 fals.atv-ps.amazon.com
@@ -3662,6 +3677,7 @@ fra20-s3gw.acronis.com
 frankfurt-stage.8x8.vc
 frankfurt.8x8.vc
 fraud-nexoss.8x8pilot.com
+fraud.acc.mobilevikings.be
 fraudwebservice.payments-aws-dev.aws.oath.cloud
 free-qa.compuserve.com
 free.compuserve.com
@@ -3789,6 +3805,7 @@ go.adaptive-shield.com
 go.compuserve.com
 go.oath.cloud
 goanywhere.subscriptions-obi-batch-aws-prod.aws.oath.cloud
+goldilocks.acc.mobilevikings.be
 gongchaph.ds.alipayplus.com
 google-api-proxy.8x8pilot.com
 google-meetings-plugin.8x8pilot.com
@@ -3803,8 +3820,10 @@ gpu-nfsw-prod-east.tripod-cloud.aws.oath.cloud
 gpu-nfsw-prod-west.tripod-cloud.aws.oath.cloud
 gql.music.amazon.com.au
 gr01-cloud.acronis.com
+grafana-k8s.acc.mobilevikings.be
 grafana-mcp.8x8.vc
 grafana.10x.redoxengine.com
+grafana.acc.mobilevikings.be
 grafana.acronis.work
 grafana.ae01-cloud.acronis.work
 grafana.amer.acronis.work
@@ -4268,6 +4287,7 @@ internal-campfire-eu.amazon.com.be
 internal-campfire-fe.amazon.com.au
 internal-rtb-dev.aws.oath.cloud
 internal-rtb-prod.aws.oath.cloud
+internal.acc.mobilevikings.be
 internal.alasco.rocks
 internal.api.gemini.yahoo.com
 internal.campfire.amazon.com.br
@@ -4386,6 +4406,8 @@ jenkins.us-east-2.nebulacicd.aws.oath.cloud
 jenkins.us-west-1.nebulacicd.aws.oath.cloud
 jenkins.us-west-2.nebulacicd.aws.oath.cloud
 jet.acronis.com
+jim-web.acc.mobilevikings.be
+jim-web.internal.acc.mobilevikings.be
 jitsi-access-manager.stage.8x8.vc
 jnb1-repo.acronis.com
 jnb1-s3gw.acronis.com
@@ -4405,6 +4427,7 @@ jobsmwebdisk.jobsawebdisk.jobszwebdisk.jobsowebdisk.redirnwebdisk.jobsdwebdisk.j
 jobsmwebdisk.jobsawebdisk.jobszwebdisk.jobsowebdisk.staticjobsmwebdisk.jobsdwebdisk.jobsewebdisk.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
 jobsouwebdisk.jobsowebdisk.jobsnwebdisk.jobsdwebdisk.metricjobsewebdisk.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
 jobsportalwebdisk.jobsawebdisk.jobszwebdisk.jobsowebdisk.jobsnwebdisk.jobsdwebdisk.jobsewebdisk.jobsiwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
+joeribot.acc.mobilevikings.be
 journey-iq-cdn.8x8pilot.com
 jp-pre-prod-aw.amazon.com
 jp-preflight-aw.amazon.com
@@ -4433,6 +4456,7 @@ kaseya-tap-asd.acronis.com
 kaseya-tap-asd2.acronis.com
 kaseya-tap-asd3.acronis.com
 kassa.acc-pub.mobilevikings.be
+kassa.acc.mobilevikings.be
 kathak.amazon.com
 kb.5nine.com
 kb.acronis.com
@@ -4970,6 +4994,7 @@ metrics.corp.acronis.com
 metro.acronis.com
 mezhvencovij-uplotnitel.8x8.vc
 mg.em.abercrombie.com
+mgm.acc.mobilevikings.be
 mh.mikkemus.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 mh.mikkemus.scoober.aws-us-east-1c.public.vespa.oath.cloud
 mh.mikkemus.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
@@ -4986,6 +5011,7 @@ mingportal.aws.amazon.com
 miniapp.amazon.cn
 miniprogram-console-pre.alipayplus.com
 mips.acc-pub.mobilevikings.be
+mips.acc.mobilevikings.be
 misentry.acronis.com
 misv2-dal-gamma.corp.amazon.com
 misv2-dal.corp.amazon.com
@@ -5009,6 +5035,8 @@ mock-gemini.vnaps.one-mobile-dev.aws.oath.cloud
 mock-gemini.vnps.one-mobile-dev.aws.oath.cloud
 mock-scs.vnaps.one-mobile-dev.aws.oath.cloud
 mock-yap.clementine.one-mobile-dev.aws.oath.cloud
+mokka-client.acc.mobilevikings.be
+mokka.acc.mobilevikings.be
 money-markets-blog.amazon.com
 monitor-1.ai-int.8x8.com
 monitor-2.ai-int.8x8.com
@@ -5203,6 +5231,8 @@ mypte.advisor-connection.com
 myrtos.adm.cloud.com
 mysls.advisor-connection.com
 mysubscriptions.isp.netscape.com
+myviking-test.acc.mobilevikings.be
+myviking.acc.mobilevikings.be
 n.alasco.de
 n.gemini.yahoo.com
 na-api-alexa.amazon.co.uk
@@ -5533,6 +5563,7 @@ oscarbeta.aws.amazon.com
 osl1-repo.acronis.com
 osl1-s3gw.acronis.com
 osmosis.amazon.com
+ota-tool.acc.mobilevikings.be
 otp1-repo.acronis.com
 otp1-s3gw.acronis.com
 outback-cn.amazon.com
@@ -5610,6 +5641,7 @@ patchmgmt.staging.sjc01.us-west.8x8cloud.net
 pay-preprod-v2.amazon.co.uk
 pay-v2.amazon.co.uk
 pay.8x8.com
+pay.acc.mobilevikings.be
 pay.amazon.co.uk
 pay576ebpaypay06a5.rest.akismet.com
 payeecentral.amazon.com
@@ -5722,6 +5754,7 @@ pong.amazon.com
 pongpaging-us-west-2.amazon.com
 portal.8x8.co.uk
 portal.aws.amazon.com
+postur.acc.mobilevikings.be
 poweredby.amazon.co.uk
 poweredby.amazon.com
 pr.cosmo.k8s.aws.oath.cloud
@@ -5742,6 +5775,7 @@ pre-docgpt.alipayplus.com
 pre-prod.music.amazon.com.au
 prebid-mgmt.one-mobile-dev.aws.oath.cloud
 prebid.one-mobile-dev.aws.oath.cloud
+prenta.acc.mobilevikings.be
 preprod-azure.account.adobe.com
 preprod.account.adobe.com
 preprod.alexa.amazon.ca
@@ -5844,6 +5878,9 @@ prodviatordandomainsma-cfmichaels.rest.akismet.com
 profile-tee-service-dev.aolp-ds-dev.aws.oath.cloud
 profile-tee-service-qai.aolp-ds-dev.aws.oath.cloud
 profile.accounts.firefox.com
+prometheus-gen.acc.mobilevikings.be
+prometheus-k8s.acc.mobilevikings.be
+prometheus.acc.mobilevikings.be
 prometheus.ae01-cloud.acronis.work
 prometheus.at01-cloud.acronis.work
 prometheus.au1-cloud.acronis.work
@@ -6025,6 +6062,7 @@ publishing.compuserve.com
 pubtools.private.8x8cloud.net
 pulse-eu.amazon.com
 pulse-fe.amazon.com
+pulse.acc.mobilevikings.be
 pulse.amazon.com
 punchoutgateway-integration.amazon.com
 punchoutgateway.amazon.com
@@ -6133,6 +6171,7 @@ redash.pcp-aws-cube-dev.aws.oath.cloud
 redash.pcp-aws-redash.aws.oath.cloud
 redirect.restsimplycomply.akismet.com
 redirectsap.acronis.com
+reductions.acc.mobilevikings.be
 refer.8x8.com
 region-support-test.8x8.com
 region-support.8x8.com
@@ -6467,6 +6506,7 @@ senlin-api.jacobestelle-home.gq2.ows.oath.cloud
 senlin-api.prod-mec.bf2.ows.oath.cloud
 senlin-api.prod-mec.gq2.ows.oath.cloud
 sensor.jr.airstarfinance.net
+sentry.acc.mobilevikings.be
 sentry.uplynk-inf.aws.oath.cloud
 sentry.ycm-aws-sentry-devel.aws.oath.cloud
 series-fe.amazon.com
@@ -6580,6 +6620,7 @@ sign-jenkins.acronis.work
 signin.aws.amazon.com
 sim-pub-ph2sg-bancnet.alipayplus.com
 sim-pub-sg2ph-bancnet.alipayplus.com
+simba.acc.mobilevikings.be
 simplycommunities-adobe.akismet.com
 simplycommunities-campaigns.akismet.com
 simplycommunities-cart.rest.akismet.com
@@ -6631,6 +6672,7 @@ skimlinks.external-feeds.aws-us-east-1b.vespa.oath.cloud
 skimlinks.external-feeds.aws-us-east-2a.dev.vespa.oath.cloud
 skimlinks.external-feeds.aws-us-west-2a.vespa.oath.cloud
 skimlinks.external-feeds.global.vespa.oath.cloud
+skipta.acc.mobilevikings.be
 skylight-console-us-east-1.aws.amazon.com
 skylight-console-us-west-2.aws.amazon.com
 skylight-us-east-1.aws.amazon.com
@@ -6691,6 +6733,8 @@ snowcentral.amazon.co.uk
 snowcentral.amazon.com.au
 snowcrest.amazon.com
 snpool.acronis.work
+snuru-client.acc.mobilevikings.be
+snuru.acc.mobilevikings.be
 social-simplycommunities.rest.akismet.com
 sockeye.amazon.com
 socmate-docs.8x8cloud.net
@@ -7049,6 +7093,7 @@ studios.amazon.com
 styx.airbnb-aws.com
 subdomain.akismet.com
 subhub.acc-pub.mobilevikings.be
+subhub.acc.mobilevikings.be
 substrate-api-sidecar.a.exodus.io
 sugar.adm.cloud.com
 sugar.agent.adm.cloud.com
@@ -7121,6 +7166,7 @@ tagcache.one-mobile-prod.aws.oath.cloud
 tagcache.prod.aolp-ds-prd.aws.oath.cloud
 tap.corp.8x8.com
 tax-exemption.amazon.com
+taxa.acc.mobilevikings.be
 taxcalculation.amazon.com
 tay1-repo.acronis.com
 tay1-s3gw.acronis.com
@@ -7130,6 +7176,7 @@ tcbbank.airbnbcitizen.com
 tech-book-store.amazon.com
 tech-flatexpensecalculator.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
 telemetry.acronis.com
+telepoc.acc.mobilevikings.be
 teleport.8x8-shared-svcs-prod.aws.infra8.8x8cloud.net
 teleport.development.cloud.8x8.com
 teleport.es.8x8.com
@@ -7195,6 +7242,8 @@ testrail.acronis.work
 testrail.corp.acronis.com
 testrail.one-mobile-dev.aws.oath.cloud
 testrecord.home-jjensen.aws.oath.cloud
+testwebapp.acc.mobilevikings.be
+testybesty.acc.mobilevikings.be
 text-search.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 text-search.scoober.aws-us-east-1c.public.vespa.oath.cloud
 text-search.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
@@ -7517,6 +7566,7 @@ utilization-reports.aws-oath-pcp-aws-usage.aws.oath.cloud
 uts-rtb-jenkins.rtb-dev.aws.oath.cloud
 uts.amazon.com
 uw-email.amazon.com
+uwa.acc.mobilevikings.be
 v2bdq4bv27hl6wesfhhhi64luyh6akl6k.public.vespa.oath.cloud
 v2s7duu3jdz4v2imohar7rdbiaksvxbjm.public.vespa.oath.cloud
 v2um5lgenconmm5xkye76hz7tsvkv3st6.vespa.oath.cloud
@@ -7617,6 +7667,7 @@ vcdhttp.8x8.com
 vch6bcepygxh7ilxeiecch57tbawydcqv.vespa.oath.cloud
 vciavtqe4h5uqnbkbp74bqngnzf64hr6r.public.vespa.oath.cloud
 vcinbmvnlbrmxsca6gldsgdlf4ylli52s.public.vespa.oath.cloud
+vctry-prxy.acc.mobilevikings.be
 vdp.amazon.co.uk
 vdpijut53inptszhuujqkih6evf6d7567.public-cd.vespa.oath.cloud
 vdqskdnany3dmt6rvef4avgkbdn65kpgx.public.vespa.oath.cloud
@@ -7764,6 +7815,7 @@ vie1-s3gw.acronis.com
 view.email.abercrombie.com
 view.learn.ads.snapchat.com
 vikingdeals.acc-pub.mobilevikings.be
+vikingdeals.acc.mobilevikings.be
 vil4yreve547zjdbgquzo7nxxp5e3uyzg.public.vespa.oath.cloud
 vine.amazon.ca
 vine.amazon.co.jp
@@ -8000,6 +8052,7 @@ webwinkel.ad.nl
 wellfleet.aws.amazon.com
 whispercast.amazon.com
 whitehaven.agent.adm.cloud.com
+whodis.acc.mobilevikings.be
 wholefoods.amazon.co.uk
 wholefoodsmarket.amazon.ca
 wholefoodsmarket.amazon.co.uk
@@ -8021,6 +8074,8 @@ wmconnect-qa-preview.compuserve.com
 wmconnect-qa.compuserve.com
 wms.adminml.com
 work.8x8staging.com
+work.acc.mobilevikings.be
+work.internal.acc.mobilevikings.be
 workday.acronis.work
 workdocs.ap-southeast-1.amazon.com
 workforce.adminml.com
@@ -8069,6 +8124,7 @@ www.ab-jenkins.corp.acronis.com
 www.abercrombie.com
 www.about.gitlab.com
 www.academy.acronis.com
+www.acc.mobilevikings.be
 www.account.acronis.com
 www.account.magento.com
 www.account.mongodb.com
