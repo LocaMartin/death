@@ -58,3 +58,13 @@ account.acronis.com
 account.adobe.com
 account.api.here.com
 account.booking.com
+account.box.com
+account.deezer.com
+account.here.com
+account.kaufland.com
+account.kaufland.de
+account.krisp.ai
+account.magento.com
+account.mongodb.com
+account.roon.app
+account.ui.com
