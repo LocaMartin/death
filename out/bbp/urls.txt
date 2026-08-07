@@ -3,11 +3,9 @@ http://api.faraday.ai
 http://api.insightly.com/v3.1
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
-http://api.lightspark.com
 http://api.na1.insightly.com/v3.1
 http://app.faraday.ai
 http://app.fing.com/app
-http://app.lightspark.com
 http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bumba.global
@@ -125,6 +123,7 @@ https://api.spotify.com
 https://api.sqills-bugbounty-test.cloud.sqills.com/api/v3/intelligence
 https://api.staging-enviso.io/reportingcenterapi
 https://api.taxjar.com
+https://api.toom.de
 https://api.voiapp.io/
 https://api.yeswehack.com
 https://apis.onecloud.harman.com
@@ -339,7 +338,6 @@ https://github.com/anthropics/claude-code-action
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
-https://github.com/buildonspark/spark
 https://github.com/chia-network/chia-blockchain
 https://github.com/chia-network/chia-blockchain-gui
 https://github.com/chia-network/chia_rs
@@ -480,9 +478,6 @@ https://github.com/kubernetes/steering
 https://github.com/kubernetes/test-infra
 https://github.com/kubernetes/utils
 https://github.com/kubernetes/website
-https://github.com/lightsparkdev/go-sdk
-https://github.com/lightsparkdev/lightspark-rs
-https://github.com/lightsparkdev/python-sdk
 https://github.com/matomo-org
 https://github.com/matomo-org/docker
 https://github.com/matomo-org/matomo
@@ -577,7 +572,6 @@ https://lbu.eu-west-2.outscale.com
 https://leaflet-map.bykea.net
 https://lensstudio.snapchat.com/api
 https://library.pdq.com/
-https://link.uma.me
 https://login.aufbaubank.de
 https://login.paddle.com
 https://login.salt.ch
@@ -589,7 +583,6 @@ https://mail.yahoo.com/
 https://makeshift.film
 https://maps.bykea.net
 https://marketplace.atlassian.com/apps/1217865/figma-for-jira
-https://marketplace.visualstudio.com/items?itemname=aikidosecurity.aikido
 https://marketplace.visualstudio.com/items?itemname=mongodb.mongodb-vscode
 https://mcp-server.zomato.com/mcp
 https://metabase.pwn.intigriti.rocks/
@@ -745,6 +738,7 @@ https://tms.onecloud.harman.com
 https://tnt.posti.com
 https://todentaminen.posti.fi
 https://tomoe.bykea.net
+https://toom.de
 https://torquemag.io
 https://trm.pinelabs.ae
 https://tuleasiakkaaksi.posti.fi

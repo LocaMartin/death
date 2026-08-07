@@ -562,7 +562,6 @@ app.swapcard.com
 app.theperfumeshop.com
 app.truelayer-sandbox.com
 app.truelayer.com
-app.uma.money
 app.watsons.com.tr
 app.whoop.com
 app3.rewire.to
