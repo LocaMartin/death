@@ -152,7 +152,6 @@ https://appsource.microsoft.com/en-us/product/office/wa200004521?tab=overview
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.datadome.co
 https://auth2.pdq.com/
-https://base.org
 https://basescan.org/address/0xf469ec9debf7f0adeba4d1db2ff5c70707beeb30
 https://basketball.fantasysports.yahoo.com/
 https://bestball.fantasysports.yahoo.com/
