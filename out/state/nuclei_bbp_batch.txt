@@ -1,9 +1,5 @@
-account.box.com
 account.deezer.com
-api.box.com
 api.deezer.com
-app.box.com
-cloud.app.box.com
 cloud.staging-enviso.io
 cloud.threatdown.com
 cloud.vimeo.com
@@ -498,3 +494,7 @@ connect.arkane.network
 connect.deezer.com
 connect.posti.fi
 connect.secure.wellsfargo.com
+connect.venly.io
+connectors (e.g., desktop extensions, local mcp servers, and remote mcp servers) installable from the claude.ai & desktop connectors directory may be developed by anthropic or created independently by third-party developers. vulnerabilities discovered in anthropic developed software are in-scope for anthropic's hackerone program
+console-backend.truelayer-sandbox.com
+console-backend.truelayer.com

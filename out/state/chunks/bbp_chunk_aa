@@ -1,9 +1,5 @@
-account.box.com
 account.deezer.com
-api.box.com
 api.deezer.com
-app.box.com
-cloud.app.box.com
 cloud.staging-enviso.io
 cloud.threatdown.com
 cloud.vimeo.com
@@ -123,3 +119,7 @@ com.badoo.mobile
 com.badoo.twa
 com.basecamp.bc3
 com.basecamp.bc3-ios
+com.basecamp.hey
+com.bigblueparrot.pokerfriends
+com.bitstrips.imoji
+com.blinkit.bistro
