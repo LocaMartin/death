@@ -3,6 +3,7 @@
 *.cast.8x8.vc
 *.cf2loki.8x8.vc
 *.developer.allegro.pl.allegrosandbox.pl
+*.docs.acc.mobilevikings.be
 *.docs.appstore.8x8.vc
 *.global-staging.chalet.8x8staging.com
 *.go.8x8.vc
@@ -397,6 +398,7 @@ ach1-repo.acronis.com
 ach1-s3gw.acronis.com
 achxa01.msteams.8x8.com
 achxb01.msteams.8x8.com
+acm-test.acc.mobilevikings.be
 acmrnd.corp.acronis.com
 acookie-us-east-1.huffpost-life-production.aws.oath.cloud
 acookie-us-east-1.huffpost-life-staging.aws.oath.cloud
@@ -405,6 +407,7 @@ acrobat.adobe.com
 acronis.com
 acronis.work
 acroshare.ru.corp.acronis.com
+acs.acc.mobilevikings.be
 acss.acronis.work
 actie.ad.nl
 actionnaires.vinci.com
@@ -783,7 +786,9 @@ alchemy.veriff.com
 aleenote.cn
 aleenote.com
 alert.logitech.com
+alertmanager-gen.acc.mobilevikings.be
 alertmanager-k8s.acc.mobilevikings.be
+alertmanager.acc.mobilevikings.be
 alerts.ninjakiwi.com
 alexa-comms-mobile-service-gamma.amazon.ca
 alexa-comms-mobile-service-gamma.amazon.cn
@@ -875,6 +880,7 @@ all-inclusive.marriott.com
 allegro.cz.allegrosandbox.pl
 allegro.pl.allegrosandbox.pl
 allegro.sk.allegrosandbox.pl
+alloy.acc.mobilevikings.be
 allsoft.acronis.com
 allstar-dev.nba.com
 almpmng-pre.alipayplus.com
@@ -948,6 +954,8 @@ analytics-tls.aws-oath-fires-brana-dev.aws.oath.cloud
 analytics.8x8.com
 analytics.aws-oath-fires-brana-dev.aws.oath.cloud
 analytics.aws-oath-fires-brana-prod.aws.oath.cloud
+andre-client.acc.mobilevikings.be
+andre.acc.mobilevikings.be
 andreer.comics.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 andreer.comics.scoober.aws-us-east-1c.public.vespa.oath.cloud
 andreer.comics.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
@@ -1454,6 +1462,7 @@ auth-preprod-meli.adminml.com
 auth-testing-meli.adminml.com
 auth-zappos-na.amazon.com
 auth.8x8.id
+auth.acc.mobilevikings.be
 auth.acronis.com
 auth.ad.nl
 auth.cloud.sgp.alipayplus.com
@@ -1498,3 +1507,25 @@ auxilium-extern.amazon.com.br
 auxilium-pr.amazon.com
 auxilium-preprod-extern.amazon.com.br
 auxilium.amazon.ae
+auxilium.amazon.co.jp
+auxilium.amazon.co.uk
+auxilium.amazon.co.za
+auxilium.amazon.com.au
+auxilium.amazon.com.be
+auxilium.amazon.com.br
+auxilium.amazon.com.mx
+avd.amazon.co.uk
+avonmexico.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
+avs-idrs.amazon.ae
+avs-idrs.amazon.cn
+avs-idrs.amazon.co.uk
+avs-idrs.amazon.com.au
+avs-idrs.amazon.com.br
+avs-idrs.amazon.com.mx
+awebrtc.8x8.com
+aws-ap-northeast-1a.vespa.oath.cloud
+aws-ap-northeast-1c.vespa.oath.cloud
+aws-ap-northeast-1d.vespa.oath.cloud
+aws-ap-northeast-2a.vespa.oath.cloud
+aws-ap-northeast-2c.vespa.oath.cloud
+aws-ap-south-1a.vespa.oath.cloud
