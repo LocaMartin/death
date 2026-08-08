@@ -1,9 +1,5 @@
 base.app
 com.superhuman.mail
-connect.venly.io
-connectors (e.g., desktop extensions, local mcp servers, and remote mcp servers) installable from the claude.ai & desktop connectors directory may be developed by anthropic or created independently by third-party developers. vulnerabilities discovered in anthropic developed software are in-scope for anthropic's hackerone program
-console-backend.truelayer-sandbox.com
-console-backend.truelayer.com
 console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
@@ -498,3 +494,7 @@ fileupload.tw.coupang.com
 finance.mobile.yahoo.com
 finance.query.yahoo.com
 finance.yahoo.com
+findaya.co.id
+findaya.com
+fing.com
+fintech-aml-kyc-tw.coupang.com
