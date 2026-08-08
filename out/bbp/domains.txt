@@ -1127,8 +1127,6 @@ com.boozt.app
 com.boozt.booztlet
 com.booztlet
 com.box.android
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -2107,8 +2105,6 @@ github.com/anthropics/anthropic-sdk-python
 github.com/anthropics/anthropic-sdk-typescript
 github.com/base
 github.com/binary-com
-github.com/brave
-github.com/brave-intl
 github.com/coinbase
 github.com/deriv-com
 github.com/grafana
