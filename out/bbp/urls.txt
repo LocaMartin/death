@@ -134,6 +134,7 @@ https://app.grammarly.com
 https://app.insomnia.rest/
 https://app.pdq.com/
 https://app.sandbox.topperpay.com
+https://app.spacelift.dev
 https://app.taxjar.com
 https://app.wisdomtreeconnect.com
 https://app.wisdomtreeconnect.com/api
@@ -700,6 +701,7 @@ https://signin-hackerone.hbstaging.website/
 https://sip2.dmp.gouv.fr
 https://solutions.visaacceptance.com/subscription
 https://soundtrack.io
+https://spacelift.dev
 https://sports.yahoo.com/
 https://sports.yahoo.com/dailyfantasy
 https://sports.yahoo.com/dailyfantasy/account/addfunds

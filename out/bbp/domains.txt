@@ -136,6 +136,7 @@ agents.tasheer.com
 aguacaliente-dev.gleague.nba.com
 aguacaliente-qa.gleague.nba.com
 aguacaliente.gleague.nba.com
+ai-testing.maventa.com
 ai-tools.infomaniak.com
 ai.8x8.vc
 ai.portswigger.net
@@ -365,7 +366,6 @@ api.ninjakiwi.com
 api.notion.com
 api.ort-one-pingone.com
 api.ovh.com
-api.passkeys.network
 api.paybox.sh
 api.pdst.fm
 api.personio-dev.com
@@ -553,6 +553,7 @@ app.slack.com
 app.smtp2go.com
 app.snapchat.com
 app.sonantic.io
+app.spacelift.dev
 app.starbucks.com
 app.stg.inspectorio.com
 app.superdrug.com
@@ -674,10 +675,12 @@ authz.workbox.dk
 autobild.de
 autocomplete.booking.com
 autodiscover.uzleuven.be
+autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
 avecspotify.com
 aw.visa.com
 aws.indriverapp.com
+ax-stage.maventa.com
 ayco.com
 b5s.hackerone-ext-content.com
 backend-capital.com
@@ -1880,7 +1883,6 @@ emag.vinci.com
 embark-studios.com
 embed.tumblr.com
 embed.vhx.tv
-embedded.passkeys.foundation
 en.casinohuone.com
 en.kolikkopelit.com
 en.ottokasino.com
@@ -2981,7 +2983,6 @@ my.eurid.eu
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
-my.passkeys.network
 my.plaid.com
 my.playstation.com
 my.portofantwerp.com
@@ -3225,7 +3226,6 @@ partner.urbancompany.com
 partners.deriv.com
 partners.shopify.com
 partners.tw.coupang.com
-passkeys.foundation
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
@@ -3516,7 +3516,6 @@ registry.eu
 registry.gitlab.com
 rei.com
 relay.firefox.com
-relay.passkeys.foundation
 relay.playcanvas.com
 releasor.payworks.com
 remilty.net
@@ -4084,6 +4083,7 @@ test.payworks.io
 testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
+testing.maventa.com
 teststs.uzleuven.be
 thebrowser.company
 theelasticast.com
@@ -4346,7 +4346,6 @@ vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
 wali.com
-wallet.passkeys.foundation
 wallet.tg
 wallet.venly.io
 wallet.web3auth.io
