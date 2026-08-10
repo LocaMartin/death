@@ -1,3 +1,7 @@
+github.com/kubernetes-csi/csi-release-tools
+github.com/kubernetes-csi/docs
+github.com/kubernetes-csi/external-provisioner
+github.com/kubernetes-csi/external-snapshotter
 github.com/kubernetes-csi/kubernetes-csi.github.io
 github.com/kubernetes-csi/livenessprobe
 github.com/kubernetes-csi/node-driver-registrar
@@ -119,7 +123,3 @@ harmonyremote.com
 has.embark.net
 hc2services.com
 hc2tooling.com
-healthclinics.superdrug.com
-hellofax.com
-hellosign.com
-helloworks.com

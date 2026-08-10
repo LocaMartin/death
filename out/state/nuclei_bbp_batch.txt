@@ -1,3 +1,7 @@
+ai-testing.maventa.com
+app.spacelift.dev
+autointerface.stag.visma.net
+ax-stage.maventa.com
 findaya.co.id
 findaya.com
 fing.com
@@ -494,7 +498,3 @@ kartaview.org
 karwei-promotiepunt.nl
 karwei.nl
 karweioutletstore.nl
-kassa.gamma.be
-kassa.gamma.nl
-kassa.karwei.nl
-katalog.watsons.com.tr
