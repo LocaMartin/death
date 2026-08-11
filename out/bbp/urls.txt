@@ -335,6 +335,8 @@ https://github.com/anthropics/claude-code-action
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
+https://github.com/brave
+https://github.com/brave-intl
 https://github.com/chia-network/chia-blockchain
 https://github.com/chia-network/chia-blockchain-gui
 https://github.com/chia-network/chia_rs
