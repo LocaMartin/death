@@ -98,3 +98,13 @@ adm.cloud.com
 admin-portal.api-xperience.com
 admin-resolve.8x8.com
 admin.8x8.com
+admin.instacart.com
+admin.meeshosupply.com
+admin.podsights.com
+admin.ring.com
+admin.shopify.com
+admin.sqills-bugbounty-test.cloud.sqills.com
+admin.wickr.com
+admin2.infomaniak.com
+admincms.developer.monespacesante.fr
+admincms.monespacesante.fr
