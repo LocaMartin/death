@@ -10,13 +10,16 @@
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
 --your-own-1password-account--.1password.com
 10x.redoxengine.com
+1debit.com
 1pw-scim.prd.iat.it.xvservice.net
 1w.cash
 1w.run
 1win.com
 23andmeresearchinstitute.org
+3.0 api
 3d.cs.money
 3lateral.com
+3rdparty-apis.coinmarketcap.com
 4njbets.com
 4njbets.us.betfair.com
 5k8vrbdyje.infomaniak.site
@@ -38,6 +41,7 @@
 8x8testa.com
 8x8testb.com
 a.exodus.io
+a.root-servers.net
 a4k.amazon.com
 a5s.hackerone-ext-content.com
 ab-platform-api.eu-east-1.indriverapp.com
@@ -76,6 +80,7 @@ accounts.firefox.com
 accounts.insightly.com
 accounts.logi.com
 accounts.pixiv.net
+accounts.realestate.com.au
 accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
@@ -87,6 +92,7 @@ aces.wnba.com
 acrobat.adobe.com
 acronis.com
 acronis.work
+actionableagile.55degrees-apps.net
 actionnaires.vinci.com
 activities.marriott.com
 ad.nl
@@ -111,6 +117,7 @@ admincms.monespacesante.fr
 adminml.com
 adminstore.developer.monespacesante.fr
 adminstore.monespacesante.fr
+admintool.lime.bike
 adobe.fresco.ios
 adobeid-na1.services.adobe.com
 ads-img.allizom.org
@@ -122,11 +129,13 @@ ads.reddit.com
 ads.snapchat.com
 ads.temu.com
 ads.tiktok.com
+adsrvr.org
 adtechnology.axelspringer.com
 advancedcustomfields.com
 advisor-connection.com
 advisories.gitlab.com
 advisorsolutions.gs.com
+adx.opera.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aff.capital.com
 affiliate-id.tokopedia.com
@@ -142,6 +151,7 @@ ai.8x8.vc
 ai.portswigger.net
 ai.x.grok
 ai.x.grokapp
+aips-internal.com
 air.com.buffalo_studios.newflashbingo
 air.com.playtika.cvs
 air.com.playtika.slotomania
@@ -158,6 +168,7 @@ ak-static-dev.nba.com
 ak-static.cms-dev.nba.com
 ak-static.cms-qa.nba.com
 ak-static.cms.nba.com
+akhwien.at
 akismet.com
 alasco.de
 alasco.rocks
@@ -239,10 +250,15 @@ antbank.hk
 anthropic.atlassian.com
 antom.com
 any applications under https://www.expressvpn.com/latest
+any host verified to be owned by tesla motors inc. (domains/ip space/etc.)
 any issue affecting the wp cloud hosting environment allowing cross-site access/impact, the wp cloud api or the wp.cloud website
 any other applications found here: https://security-en.alipay.com/home
+any verified dell-controlled endpoint (domains/ip space/etc.)
 ap-s.cloud.com
 apcgateway.marriott.com
+apex-football.com
+apexnews.com
+apexscores.io
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-app.telenor.se
@@ -267,8 +283,11 @@ api.anthropic.com
 api.arkane.network
 api.atg.se
 api.au.frontegg.com
+api.binance.com
 api.blablalines.com
+api.blockchain.info
 api.box.com
+api.chainabuse-staging.com
 api.circle.com
 api.cloud.kaufland.de
 api.cloudflare.com
@@ -276,6 +295,7 @@ api.cloudways.com
 api.cm.com
 api.cmtelecom.com
 api.coindcx.com
+api.coinmarketcap.com
 api.creditkarma.com
 api.cx.metamask.io
 api.deezer.com
@@ -314,23 +334,34 @@ api.excalls.mobi
 api.ezvizlife.com
 api.fi.dyson.com
 api.figma.com
+api.fishbowlapp.com
 api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.geneva-staging.com
 api.github.com
+api.glassdoor.com
 api.gobiz.co.id
 api.gojek.co.id
 api.grabpay.com
 api.greenhouse.io
 api.grofers.com
+api.gx.games/dc
+api.gx.games/dev
+api.gx.games/gms
+api.gx.games/gx
+api.gx.games/gxc
+api.gx.games/profile
+api.gx.games/pub
+api.gx.games/session
+api.gx.me/me
 api.hackerone.com
 api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
+api.id.realestate.com.au
 api.infomaniak.com
 api.instacart.com
-api.klarna.com
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
@@ -342,6 +373,7 @@ api.loanbuilder.com
 api.login.yahoo.com
 api.lookatme.com.ph
 api.louisvuitton.com
+api.magic.link
 api.marionnaud.at
 api.marionnaud.ch
 api.marionnaud.cz
@@ -361,9 +393,13 @@ api.moonx-dev.com
 api.mtls.truelayer-sandbox.com
 api.mtls.truelayer.com
 api.nba.com
+api.neon.opera.com/neon/pub
+api.neon.opera.com/neon/store
+api.neon.opera.com/pub
 api.netlify.com
 api.ninjakiwi.com
 api.notion.com
+api.originenergy.com.au
 api.ort-one-pingone.com
 api.ovh.com
 api.paybox.sh
@@ -375,6 +411,7 @@ api.pns.hk
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
+api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.privy.io
@@ -382,6 +419,7 @@ api.prod.innovexperiments.com
 api.prod.whoop.com
 api.qualified.com/v1
 api.qwant.com
+api.rapyd.net
 api.razorpay.com
 api.reddit.com
 api.remitly.io
@@ -391,8 +429,10 @@ api.ryadom.kz
 api.savers.co.uk
 api.segment.io
 api.sendgrid.com
+api.services.simplisafe.com
 api.shop-apotheke.at
 api.shop-apotheke.com
+api.simplisafe.com
 api.slack.com
 api.smtp2go.com
 api.sonantic.io
@@ -452,10 +492,12 @@ api.swapcard.com
 api.swiftfinancial.com
 api.syfe.com
 api.theperfumeshop.com
+api.trello.com
 api.truelayer-sandbox.com
 api.truelayer.com
 api.tumblr.com
 api.twilio.com
+api.ua.com
 api.unleashed.be
 api.us.veriff.me
 api.vault.chiatest.net
@@ -482,12 +524,14 @@ api2.frontapp.com
 api2.grofers.com
 apigatewayc.marriott.com
 apigw.foliofn.com
+apigw.prod.quintoandar.com.br
 apigwc.marriott.com
 apis.mail.yahoo.com
 apis.telenor.se
 app-insiders.marriott.com
 app.aikido.dev
 app.alasco.de
+app.asana.com
 app.basecamp.com
 app.blueskytravelvietnam.com
 app.box.com
@@ -520,6 +564,7 @@ app.kruidvat.nl
 app.lansweeper.com
 app.lansweeper.com/trial
 app.larksuite.com
+app.launchdarkly.com
 app.link.com
 app.marionnaud.at
 app.marionnaud.ch
@@ -549,6 +594,7 @@ app.ripio.com
 app.savers.co.uk
 app.segment.com
 app.sendgrid.com
+app.simple-reports.com/demo
 app.slack.com
 app.smtp2go.com
 app.snapchat.com
@@ -580,12 +626,16 @@ aquiristech.com
 arc.net
 archive.mozilla.org
 arcraiders.com
+arlo.com
+arlocloud.com
+arloxcld.com
 arrive-server.shopifycloud.com
 artifactory.marriott.com
 artstation.com
 as-nmt.de
 as.shop-apotheke.com
 asadcdn.com
+asana.biz
 askpeopleteam.visa.com
 assessment-api.datacamp.com
 assessment-v2.datacamp.com
@@ -595,9 +645,14 @@ assets.hyatt.com
 assets.koho.ca
 assets.spotify.com
 assets.tumblr.com
+assurancewireless.com
 at.marionnaud.customer
 atairbnb.com
 atg.se
+atl-paas.net
+atlassian.com
+atlassian.net
+atlastunnel.com
 atspotify.com
 attentia.be
 atv.peoplecert.org
@@ -655,6 +710,7 @@ auth.digital.delen.be
 auth.digital.delen.lu
 auth.dmp.gouv.fr
 auth.embark.net
+auth.magic.link
 auth.metronome.com
 auth.monespacesante.fr
 auth.moonpay.com
@@ -668,7 +724,9 @@ auth.services.adobe.com
 auth.skypicker.com
 auth.truelayer-sandbox.com
 auth.truelayer.com
+auth0.com
 auth0.gocardless.com
+auth0.net
 authentication.clearme.com
 authentication.wolt.com
 authz.workbox.dk
@@ -683,6 +741,7 @@ aws.indriverapp.com
 ax-stage.maventa.com
 ayco.com
 b5s.hackerone-ext-content.com
+backblazeb2.com
 backend-capital.com
 backend-sdk.uat.private.unico.run
 backoffice.lansweeper.com
@@ -736,6 +795,7 @@ betfair.es
 betfair.it
 betfair.ro
 betfair.se
+betmgm.com
 betsharedservices.io
 bettersearchreplace.com
 bettrfinancing.com
@@ -761,12 +821,17 @@ birmingham-dev.gleague.nba.com
 birmingham-qa.gleague.nba.com
 birmingham.gleague.nba.com
 bistro-api.blinkit.com
+bitdefender.com
+bitdefender.net
+bitgo.com
 bitmoji.com
 bitoasis.net
 bitstrips.com
 blablacardaily.com
 blinkforhome.com
 blinkit.com
+blocklist.opera-api.com
+blofin.com
 blog.creditkarma.com
 blog.indrive.com
 blog.playcanvas.com
@@ -785,6 +850,8 @@ bma.badoo.com
 bma.bumble.com
 boardkingsgame.com
 boards.greenhouse.io
+bokundemo.com
+bokuntest.com
 book.applevacations.com
 book.beachbound.com
 book.booktandl.com
@@ -818,6 +885,12 @@ bsp.marriott.com
 buckingfuggy.com
 buddypress.org
 budgetair.com
+bug-bounty-be.glean.com
+bugbounty-refined-test-<bugcrowd-name>.refined.site
+bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql
+bugcrowd-pam-###.oktapreview.com
+bugcrowd-pam-###.pam.oktapreview.com
+bugcrowd.com
 bugzilla-dev.allizom.org
 bugzilla.mozilla.org
 builder.hostinger.com
@@ -887,6 +960,11 @@ cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
 canton.gleague.nba.com
+canva-apps.cn
+canva-apps.com
+canva.cn
+canva.com
+canva.tech
 capability.prod.innovexperiments.com
 capital.com
 capitalcity-dev.gleague.nba.com
@@ -925,6 +1003,7 @@ cas.tomorrowland.com
 cash.tw.coupang.com
 cashier.deriv.com
 cashier.robinhood.com
+cashstaging.app
 castor.vinci.com
 cb.dev
 cbhq.net
@@ -954,10 +1033,13 @@ cdn.plaid.com
 cdn.posti.fi
 cdn.shop-apotheke.com
 cdna.lystit.com
+central.arubanetworks.com
+certinia.com
 cewe.kruidvat.be
 cewe.kruidvat.nl
 ch.marionnaud.customer
 chain.link
+chainabuse-staging.com
 chalet.8x8.com
 channel-portal.homes-and-villas.marriott.com
 channelstore.roku.com/details/48061/vhx
@@ -972,19 +1054,28 @@ chaturbate.com
 cheaptickets.com
 cheaptickets.nl
 checkout.playstation.com
+checkout.rapyd.net
 checkout.razorpay.com
 checkout.stripe.com
 checkout.tw.coupang.com
 checkout.vimeo.com
+chime.com
+chimebank.com
+chimecard.com
+chimepayments.com
 chk.infomaniak.com
+chmfin.com
 chromewebstore.google.com
 ci-propertyconversionportal.marriott.com
+cic-bug-bounty.auth0app.com
 circle.logi.com
 circolocorecords.com
 citrixworkspacesapi.net
 cl-qa.nba.com
 cl.nba.com
 claritymoney.com
+classdojo.co.uk
+classdojo.com
 classroom.github.com
 claude desktop extensions and claude.ai mcp servers
 claude.ai
@@ -1002,6 +1093,7 @@ cloud.elastic.co
 cloud.forescout.com
 cloud.kaufland.de
 cloud.malwarebytes.com
+cloud.mattermost.com
 cloud.staging-enviso.io
 cloud.threatdown.com
 cloud.vimeo.com
@@ -1010,6 +1102,8 @@ cloudflare.com
 cloudflarepartners.com
 cloudflareworkers.com
 cloudways.com
+clovesoftware-dev.com
+clovesoftware.com
 cm.com
 cm.com/[locale]/register
 cm.com/app/messagingtrial
@@ -1037,6 +1131,7 @@ cognitiveperformer.com
 coinbase-corp.com
 coinbase.com
 coindcx.com
+coinmarketcap.com
 collections.portswigger.net
 com.3mosquitos.mercadolibre
 com.abercrombie.abercrombie
@@ -1165,6 +1260,8 @@ com.ebookers
 com.eero.android
 com.einnovation.temu
 com.enjin.mobile.wallet
+com.etoro.openbook
+com.etoro.wallet
 com.eufylife.eufyhome
 com.evernote
 com.exness.android.pa
@@ -1486,6 +1583,7 @@ components.stag.tomorrowland.com
 components.tomorrowland.com
 computerbild.de
 concierge.clearme.com
+config.cic-bug-bounty.auth0app.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
@@ -1625,6 +1723,7 @@ cybersourcebouncebacks.visa.com
 cyrus-security.com
 cz.skodaauto.myskoda
 daily.blablacar.fr
+dailyadvent.com
 danalock.com
 danalock.dk
 danalock.eu
@@ -1637,6 +1736,7 @@ dash.cloudflare.com
 dash.dropbox.com
 dash.podsights.com
 dashboard.doppler.com
+dashboard.magic.link
 dashboard.mergify.com
 dashboard.plaid.com
 dashboard.pluralonline.com
@@ -1645,6 +1745,7 @@ dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 dashboard.stripe.com
 dashlane.com
+data.lime.bike
 data.mail.yahoo.com
 data.ninjakiwi.com
 databricks.com
@@ -1679,8 +1780,11 @@ delaware-qa.gleague.nba.com
 delaware.gleague.nba.com
 deliciousbrains.com
 delivery-webview.indrive.com
+dell.com
+delltechnologies.com
 delphidisplay.com
 demo.arkoselabs.com
+demo.bp.mortgagechoice.com.au
 demo.fareharbor.com
 demo.globalticket.com
 demo.plaid.com
@@ -1753,6 +1857,8 @@ distribution-xml.booking.com
 district.in
 dl.boxcloud.com
 dns.eu
+dns0.optus.net.au
+dns1.optus.net.au
 do.co
 doaction.org
 doccle.be
@@ -1760,6 +1866,7 @@ doccleservices.eu
 docs.anthropic.com
 docs.gitlab.com
 docs.lansweeper.com
+docs.launchdarkly.com
 docs.redoxengine.com
 docsend.com
 docswallet.com
@@ -1769,12 +1876,15 @@ doctolib.fr
 doctolib.it
 doctolib.net
 docuflow.stg.inspectorio.com
+doj.io
+dojo.me
 donations.livestream.com
 doordash.doordashconsumer
 doppler.team
 download-installer.cdn.mozilla.net
 download.krisp.ai
 download.mozilla.org
+download.originenergy.com.au
 downloads.varonis.com
 dpgmedia.be
 dpgmedia.nl
@@ -1797,6 +1907,7 @@ dwy.visa.com
 e2ro.com
 eaccountingprinting.stage.vismaonline.com
 earlywarning.com
+eassessment.monash.edu
 easy.ac
 easy4ipcloud.com
 ebctest.cybersource.com
@@ -1882,9 +1993,17 @@ elm.nba.com
 elma.elma.fi
 elstc.co
 emag.vinci.com
+emakina.at
+emakina.ch
+emakina.com
+emakina.fr
+emakina.group
+emakina.nl
+emakina.us
 embark-studios.com
 embed.tumblr.com
 embed.vhx.tv
+employer.seek.com
 en.casinohuone.com
 en.kolikkopelit.com
 en.ottokasino.com
@@ -1894,9 +2013,11 @@ enspotify.com
 enviso.io
 enviso.shop
 eops.nl
+epam.com
 epaper.welt.de
 epicgames.com
 epicgames.dev
+epptool-ctld.verisign-grs.com
 erie-dev.gleague.nba.com
 erie-qa.gleague.nba.com
 erie.gleague.nba.com
@@ -1909,6 +2030,8 @@ estratex.com
 esupplier.marriott.com
 eternal.com
 etickets.infomaniak.com
+etoro.com
+etsy.com
 eu-east-1.indriverapp.com
 eu.cloud.com
 eu.coolblue.shop
@@ -1918,9 +2041,11 @@ eu1.badoo.com
 euria.infomaniak.com
 eurid.eu
 europolitan.se
+events.launchdarkly.com
 evisa.gov.mz
 ews-fusion.my.site.com
 exact.com
+exchange.opera.com
 exness.com
 exnessaffiliates.com
 exo.io
@@ -1934,6 +2059,7 @@ experiences.booking.com
 explore.redoxengine.com
 expressvpn.com
 expressvpn.jobs
+external-api.lime.bike
 external.indrive.dev
 external.logitech.com
 extranet-asa.uzleuven.be
@@ -1956,11 +2082,13 @@ fanduel.com
 fareharbor.com
 fareharbor.engineering
 fareharborsites.com
+fashion4less.me
 faucet-api.polygon.technology
 faucet.polygon.technology
 fb.lansweeper.com
 feed-web.tw.coupang.com
 feedback.logitech.com
+feednews.com
 fetlife.com
 fetlifemail.com
 fever-dev.wnba.com
@@ -1991,7 +2119,9 @@ fileupload-video.tw.coupang.com
 fileupload.tw.coupang.com
 finance.mobile.yahoo.com
 finance.query.yahoo.com
+finance.quintoandar.com.br
 finance.yahoo.com
+financeiro.quintoandar.com.br
 findaya.co.id
 findaya.com
 fing.com
@@ -2004,13 +2134,17 @@ firefox-ci-tc.services.mozilla.com
 firefox-settings-attachments.cdn.mozilla.net
 firefox.settings.services.mozilla.com
 fiscaalgemak.nl
+fishbowlapp.com
 fit.nba.com
 fitbook.de
 fizzy.do
 flickr.com
 flights.booking.com
+flipkey.com
 floqast.app
 floqast.engineering
+flourish-user-preview.com
+flourish-user-templates.com
 flowsecurity.app
 flugladen.de
 flyiin.com
@@ -2051,6 +2185,7 @@ foundrygov.com
 fp-sg.tiktokv.com
 fr.louisvuitton.com
 fromspotify.com
+ftp.developersites.com.au:45875
 fulfillment.23andme.com
 funding-webhooks.remitly.io
 furycloud.io
@@ -2083,6 +2218,7 @@ gateway.geneva-staging.com
 gateway.marriott.com
 gateway.posti.fi
 gateway.reddit.com
+gateway.skyscanner.net/*
 gatewaydsapdev2.marriott.com
 gatewaydsaptst1.marriott.com
 gatewaydsaptst2.marriott.com
@@ -2090,8 +2226,11 @@ gatoradetrainingcenter.nba.com
 gc.watsons.com.tr
 general issues with a saas platform should be reported to that vendor's bug bounty program if they have one. however, we may, at our discretion, decide to award a bounty if there is demonstrated impact to anthropic
 geneva-staging.chat
+genoapay.co.nz
+genoapay.com
 geofilters.snapchat.com
 germany.politico.eu
+gesundheitsverbund.at
 gethypr.com
 getorigen.com
 getsling.com
@@ -2131,6 +2270,7 @@ gitlab.com
 gitlab.net
 gitlab.org
 gitlap.com
+glassdoor.com
 gleague-dev.nba.com
 gleague-qa.nba.com
 gleague.nba.com
@@ -2172,7 +2312,9 @@ gopaymerchant.midtrans.com
 gotdrops.cloud
 gotdrops.com
 gotinder.com
+gov.bugcrowd.net
 governorofpoker.com
+gp.monash.edu
 gql.reddit.com
 grab-sure.com
 grab.careers
@@ -2215,6 +2357,7 @@ gsmarkets.nl
 gspublishing.com
 gsselect.com
 gtflabs.io
+gtld-servers.net
 guidemylock.dk
 guts.ninjakiwi.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -2244,6 +2387,7 @@ hellosign.com
 helloworks.com
 help-jp.krisp.ai
 help.krisp.ai
+help.lime.bike
 help.marriott.com
 help.netflix.com
 help.redoxengine.com
@@ -2271,6 +2415,7 @@ hln.be
 hmh247.org
 hmxservices.com
 hmxwebservices.com
+holidaylettings.com
 hollisterco.com
 home.deriv.com
 home.privy.io
@@ -2290,13 +2435,19 @@ hoteltonight-test.com
 hoteltonight.com
 hotornot.com
 houseoffun.com
+housetrip.com
 hpanel.hostinger.com
+hpe aruba networking wireless - aos-10.4 access points (ap)
+hpe aruba networking wireless - aos-10.4 gateways (gw)
+hpe aruba networking wireless - aos-10.7 and above access points (ap)
+hpe aruba networking wireless - aos-10.7 and above gateways (gw)
 hs-sites-eu1.com
 hs-sites.com
 ht.visa.com
 http1mustdie.com
 hu.marionnaud.customer
 hub-api-sandbox.remitly.io
+hub.myconnect.com.au
 hub.vroid.com
 hub.yoti.com
 hubapi.com
@@ -2332,6 +2483,7 @@ id.nba.com
 id.oppo.com
 id.portswigger.net
 id.posti.fi
+id.realestate.com.au
 id.stg.inspectorio.com
 id.tw.coupang.com
 idcash-uat.unico.io
@@ -2366,16 +2518,22 @@ ignite-qa.gleague.nba.com
 ignite.gleague.nba.com
 igpayment.com
 ik.watsons.com.tr
+ikarem.io
 images.demand.cybersource.com
 img.swapcard.com
 immedia-semi.com
+imperva.com
 in.amazon.mshop.android.business.shopping
 in.amazon.mshop.android.shopping
 in.jbl.com
 in2tel.ie
+incapsula.com
 inclusion-dev.nba.com
 inclusion-qa.nba.com
 inclusion.nba.com
+indeed.net
+indeed.tech
+indeedflex.com
 indiaontrack.nba.com
 indicative-pricing.taxi.booking.com
 inditexcareers.com
@@ -2411,6 +2569,8 @@ insuritly.com
 int.32red.com
 intensedebate.com
 intercity.indrive.com
+intercomassets.com
+intercomcdn.com
 intergamma-test.nl
 intergamma.cloud
 intergamma.nl
@@ -2429,6 +2589,8 @@ invitation.infomaniak.com
 invoices.razorpay.com
 io.coda
 io.coda.codaapp
+io.getdelta.android
+io.getdelta.ios
 io.metamask
 io.metamask.metamask
 iowa-dev.gleague.nba.com
@@ -2454,6 +2616,7 @@ itscope.de
 itv7.itv.com
 ivo.ai
 ix2smbdyjt.infomaniak.site
+j.root-servers.net
 jbl.com
 jbl.com.br
 jbl.nl
@@ -2466,22 +2629,28 @@ jira.logitech.io
 jit.si
 jitsi.net
 job.ryadom.kz
+jobapi.net
 jobs.kiwi.com
 jobs.marriott.com
 jobs.vinci.com
+jobsdb.com
+jobstreet.com
 join.marriott.com
 join.whoop.com
 joinmarriottbonvoy.com
 joinrewards.marriott.com
+jora.com
+jora.xyz
 jrnbaworldchampionship-dev.nba.com
 jrnbaworldchampionship-qa.nba.com
 jrnbaworldchampionship.nba.com
 js.crypto.com
 js.datadome.co
-js.klarna.com
 js.stripe.com
 jss.greenhouse.io
 judge.me
+juicer.lime.bike
+jwt.io
 k8s.gcr.io
 k8s.io
 kartaview.org
@@ -2503,6 +2672,7 @@ khealth-test.com
 khealth.com
 kibana.wtf
 kidswebservices.com
+kiln.it
 kinepolis-studio.be
 kinepolis.be
 kinepolis.ch
@@ -2516,6 +2686,8 @@ kiwi.com
 klarna.com
 klarna.net
 klarnacdn.net
+klaviyo-dev.com
+klaviyomsv.com
 klubcinema.fr
 kmeet.infomaniak.com
 knowage.developer.monespacesante.fr
@@ -2524,6 +2696,8 @@ knox.beta.blendlabs.com
 konfigurator.bmw-motorrad.de
 konghq.com
 kontakti.posti.fi
+korta.is
+kortathjonustan.is
 kpaste.infomaniak.com
 krisp.ai
 kruidvat.be
@@ -2537,6 +2711,7 @@ kwsdose.be
 kyc-onboarding.booking.com
 kyc.a.exodus.io
 l75pvbdyjo.infomaniak.site
+lab.epam.com
 label-studio-public.sonantic.io
 labs.8x8.com
 lakeland-dev.gleague.nba.com
@@ -2552,6 +2727,11 @@ larksuite.com
 lastminute.co.nz
 lastminute.com.au
 latchapp.com
+latitudefinancial.co.nz
+latitudefinancial.com
+latitudefinancial.com.au
+latitudepay.com
+latitudepay.com.au
 launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
@@ -2559,8 +2739,10 @@ leaked/compromised employee accounts *.here.com
 learningmanagerstage4.adobe.com
 lecstaticcontent.lansweeper.com
 lefties.com
+lego.me
 lemonsqueezy.com
 leonard.vinci.com
+lfscnp.com
 libelle.nl
 liberty-dev.wnba.com
 liberty-qa.wnba.com
@@ -2579,6 +2761,7 @@ linkpop.com
 links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
+linktree-extensions.com
 liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
@@ -2592,6 +2775,7 @@ ljc-test.tw.coupang.com
 ljc.tw.coupang.com
 loanbuilder.com
 locale.trip.com
+localized versions of www.tripadvisor.com available from the site's header or footer
 localwp.com
 lockervision.nba.com
 lockervisionteam.nba.com
@@ -2661,6 +2845,7 @@ luckydays.ca
 luckydays.com
 lucra.live
 lukwerks.com
+lululemon.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
 luxfilmfesttickets.megatix.be
@@ -2707,6 +2892,7 @@ magazine.kruidvat.be
 magento.com
 magic.veriff.me
 magisto.com
+magwien.gv.at
 mail-builder.infomaniak.com
 mail.hostinger.com/v2
 mail.infomaniak.com
@@ -2748,6 +2934,7 @@ marionnaud.sk
 mark8.syfe.com
 marketing.fareharbor.com
 marketing.na1.insightly.com
+marketplace.gamemaker.io
 marketplace.tw.coupangcorp.com
 marketplaceworld.de
 marquee.gs.com
@@ -2783,6 +2970,7 @@ mcdalerts-perf.nba.com
 mcdalerts-qa.nba.com
 mcdalerts-uat.nba.com
 mcdalerts.nba.com
+mclead.com.au
 mcp.8x8.com
 mcp.staging.airtable.com
 mcp.stripe.com
@@ -2807,6 +2995,7 @@ media.marionnaud.sk
 media.nexuzhealth.be/patient
 media.remitly.io
 media.savers.co.uk
+media.simplisafe.com
 media.superdrug.com
 media.theperfumeshop.com
 media.watsons.com.tr
@@ -2840,6 +3029,7 @@ member.watsons.com.tw
 memphis-dev.gleague.nba.com
 memphis-qa.gleague.nba.com
 memphis.gleague.nba.com
+meraki.com
 mercadobackoffice.com
 mercadoenvios.com.ve
 mercadolibre.cl
@@ -2868,6 +3058,7 @@ mercadoplay.pe
 mercadoplay.uy
 mercantile.wordpress.org
 merch.23andme.com
+merchandise.opera-api.com
 merchant.crypto.com
 merchant.wolt.com
 merchantsignage.visa.com
@@ -2892,6 +3083,7 @@ meu1.badoo.com
 mevo.com
 mexicogames.nba.com
 mfa.posti.fi
+mfa.simplisafe.com
 mgbcareconnect.org
 mgm.mobilevikings.be
 mgmt-sensors.iris.acceptance.forescoutcloud.net
@@ -2929,11 +3121,15 @@ miui is xiaomi phone operation system (os), custimized on stock android.  the sc
 miui.cn
 miui.com
 miwifi.com
+mix-dev.monash.edu
+mix-qat.monash.edu
+mix.monash.edu
 mjrtheatres.com
 mlstatic.com
 mmcdn.com
 mmwebc.dev
 mobile-api.coolblue-production.eu
+mobile-messenger.intercom.com
 mobile.clearme.com
 mobile.s-pankki.fi
 mobileapi.insightly.com
@@ -2958,9 +3154,12 @@ monopoly-poker.com
 monzo.com
 moonpay.com
 moonpaycloud.com
+mortgagechoice.com.au
 motorcity.gleague.nba.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
+movilepay.com
+movilepay.com.br
 mpago.la
 mpago.li
 msg.playcanvas.com
@@ -3011,13 +3210,17 @@ myaccount.payoneer.com
 myaccount.trouw.nl
 myaccount.volkskrant.nl
 myaccount.vtm.be
+myconnect.com.au
+myfitnesspal.com
 myharmony.com
 myhomebook.de
 myinsights.io
+myklpages.com
 mylock.dk
 mynexuz.be
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
+myseek.xyz
 myself.tw.coupang.com
 myservices-api.stage.vismaonline.com
 mysqueezebox.com
@@ -3029,6 +3232,7 @@ myteksi.com
 myteksi.net
 mytrainpal.com
 myvu.visauniversity.com
+naasapi.optus.com.au
 nadex.com
 napoleoncasino.be
 napoleondice.be
@@ -3058,6 +3262,7 @@ net.wooga.tropicats_tropical_cats_puzzle_paradise
 netflix.com
 netlify-cdp-loader.netlify.app
 netlify-rum.netlify.app
+network-auth.com
 networkguard.com
 new-order.eu-east-1.indriverapp.com
 new.express.adobe.com
@@ -3088,10 +3293,13 @@ ninja.kiwi
 ninjakiwi.com
 ninjakiwi.me
 nitropack.io
+niumba.com
 nkstatic.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
+nmfn.com
+nml.com
 nmtracking.netflix.com
 nnip.com
 node.js/typescript
@@ -3112,6 +3320,11 @@ novel.pixiv.net
 now.shop-apotheke.com
 npmjs.com
 npmjs.org
+nr-data.net
+nr-ops.net
+ns1.optusnet.com.au
+ns2.optusnet.com.au
+nsa-idr.cms.gov
 nummus.robinhood.com
 nw.ring.com
 nycbasketball.nba.com
@@ -3127,6 +3340,8 @@ obs-sensors.iris.production.forescoutcloud.net
 observability.embark.net
 ociadmin.cloud.8x8.com
 ocijlbex1prd.marriott.com
+octopus.com
+odcdn.com.au
 odoo14.notebleue.pro
 odul.watsons.com.tr
 og.com
@@ -3156,16 +3371,31 @@ open-api.capital.com
 open.airbnb.com
 open.larksuite.com
 open.ys7.com
+openai.com
+openai.org
 openam-bug-bounty-stag.forgeblocks.com
 openapi.starbucks.com
 openfinance.unico.io
+openidconnect.net
+opensource.epam.com
 openvela.com
+opera-mini.net
+opera.com
+opera.news
+opera.software
+opera.technology
+operafootball.com
+operanewsapp.com
 operationstechnology.io
 opposhop.cn
+opr.news
 oprc.portofantwerpbruges.com
+ops.lime.bike
 ops.netlify.com
 ops.wolt.com
+opsgenie.com
 optimuscards.com
+optus.com.au
 org.hartfordhealthcare.hhc247
 org.malwarebytes.antimalware
 org.piwik.mobile2
@@ -3178,13 +3408,17 @@ origenbanking.com
 origencard.com
 origendebit.com
 origenfinance.com
+origindigital-pac.com.au
 ort-admin.pingone.com
 ort-authenticator.pingone.com
 ort-desktop.pingone.com
+osite99.com
 oslo.io
+osp.opera.software
 otherside.xyz
 outage.logitech.com
 outagehistory.logitech.com
+outfra.xyz
 outlook.insightly.com
 ovo.id
 ovofinansial.com
@@ -3225,6 +3459,7 @@ partner.steampowered.com
 partner.swiftfinancial.com
 partner.tiktokshop.com
 partner.urbancompany.com
+partnerportal.skyscanner.net/*
 partners.deriv.com
 partners.shopify.com
 partners.tw.coupang.com
@@ -3326,11 +3561,13 @@ piaservers.com
 piaservers.net
 pigeon.swiftfinancial.com
 ping.pdst.fm
+pinterest.com
 pipe.deezer.com
 pipopay.com
 plaid.com
 planet.wordpress.org
 plannerrequest.hyatt.com
+plannthat.com
 platacard.mx
 platform.8x8.com
 platform.8x8pilot.com
@@ -3343,6 +3580,7 @@ play.ownit.se
 playartifact.com
 playcanv.as
 playcanvas.com
+player-login.unity.com
 player-radio.infomaniak.com
 player.vimeo.com
 player.vrt.be
@@ -3360,6 +3598,7 @@ pns.hk
 podcast-graph-dot-adaptive-growth.appspot.com
 podsights.com
 poe.com
+points.com
 politico.eu
 poly-control.com
 poly-control.dk
@@ -3367,11 +3606,13 @@ poly-lock.dk
 polycontrol.dk
 polymoon.it
 pontoon.allizom.org
+portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
 portal.au.frontegg.com
 portal.gofoodmerchant.co.id
-portal.openbanking.playground.klarna.com
+portal.myconnect.com.au
+portal.myconnect.com.au/new-connection
 portal.playground.klarna.com
 portal.polygon.technology
 portal.taxi.booking.com
@@ -3393,9 +3634,14 @@ ppbdev.com
 practice.datacamp.com
 prd-pub.mobilevikings.be
 prd-ring-web-us.prd.rings.solutions
+prd.aser.simplisafe.com
+prd.cam.simplisafe.com
 prd.fndlsb.net
 prd.iat.it.xvservice.net
 prd.mobilevikings.be
+prd.platform.simplisafe.com
+prd.services.simplisafe.com
+prd.webapps.simplisafe.com
 prddnighting01.uzleuven.be
 prddsplunkhf.uzleuven.be
 preempt.com
@@ -3425,12 +3671,18 @@ primevideo.com
 printerdriver.posti.com
 priority.eu-east-1.indriverapp.com
 privateinternetaccess.com
+pro-api.coinmarketcap.com
+pro.coinmarketcap.com
 pro.doctolib.de
 pro.doctolib.fr
 pro.doctolib.it
 pro.posti.fi
+prod-.nu.com.co
+prod-.nu.com.mx
+prod-.nubank.com.br
 prod-ffs.io
 prod-mipaasiaasservices.marriott.com
+prod.arlo.com
 prod.cloud.8x8.com
 prod.cloud.netflix.com
 prod.dradis.netflix.com
@@ -3451,12 +3703,15 @@ profiles-api.datacamp.com
 profiles.wordpress.org
 projectbaseline.com
 projects.datacamp.com
+projects.epam.com
 promo.tw.coupang.com
 protrade.com
 prow.k8s.io
 prowly.com
+proxy-production.lime.bike
 ps5.np.playstation.net
 psp.marriott.com
+psychobunny.me
 psynet.gg
 psyonix.com
 public.hyatt.com
@@ -3464,14 +3719,18 @@ publicsafety.ring.com
 pubtools.private.8x8cloud.net
 pullandbear.cn
 pullandbear.com
+push.opera.com
 pwapi.ex2b.com
 pwn.intigriti.rocks
 py.pl
 qa.stats.nba.com
 qaglobal-liquidity.gs.com
 qm-8x8.com
+qpp.cms.gov
+quintoandar.com.br
 quip.com
 quixel.com
+quizlet.com
 quora.com
 qwantjunior.com
 ra.roblox.com
@@ -3486,12 +3745,19 @@ randstadrisesmart.*
 raptors905-dev.gleague.nba.com
 raptors905-qa.gleague.nba.com
 raptors905.gleague.nba.com
+rapyd.com
+rapyd.net
+rapyd.org
+ras1.optus.com.au
 rates.rewire.com
 rbx.com
+rea-group.com
 reach.hostinger.com
 reachthefinals.com
 read.amazon.com
 readonly.fareharbor.com
+realestate.com.au
+reastatic.net
 recko.io
 reckoproduction.com
 reckostaging.com
@@ -3510,6 +3776,7 @@ redditmedia.com
 redecor.com
 redoxengine.com
 refer.23andme.com
+refined.site/admin
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.capital.com
@@ -3560,6 +3827,7 @@ reno.gleague.nba.com
 rentalcars.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
+report.uat.proptrack.com
 report.voi.com
 reposify.com
 res.blueskytours.globalbookingsolutions.com
@@ -3632,9 +3900,11 @@ rpc.quicknode.testnet.arc.network
 rpc.testnet.arc.network
 rs-open-api.tw.coupang.com
 rt.playcanvas.com
+rtbscale.com
 runnr.in
 rushbuy.buy.yahoo.com
 ryadom.kz
+s-cloud.net
 s.qwant.com
 s1.qwant.com
 s2.qwant.com
@@ -3643,6 +3913,7 @@ sa-tech.de
 safe.tumblr.com
 sales.staging-enviso.io
 salesportal.hyatt.com
+saltlabs.com
 saltlakecity-dev.gleague.nba.com
 saltlakecity-qa.gleague.nba.com
 saltlakecity.gleague.nba.com
@@ -3652,6 +3923,7 @@ saltohomesolution.com
 saltoks.com
 saltosystems.com
 saltowecosystem.com
+samltool.io
 sandbox-b2b.ripio.com
 sandbox-royal.securegateway.com
 sandbox.accounts.logi.com
@@ -3666,6 +3938,7 @@ santacruz-qa.gleague.nba.com
 santacruz.gleague.nba.com
 sap.api-xperience.com
 savers.co.uk
+savi.xyz
 say.rocks
 saytechnologies.com
 sba.marriott.com
@@ -3683,11 +3956,14 @@ scan.snapchat.com
 scapegoat.hyatt.com
 scatec.io
 scbe.api.here.com
+schulenwien.onmicrosoft.com
 scp.watsons.com.tr
 scpapi.watsons.com.tr
 screenshot-proxy.netlify.app
+scripts.developersites.com.au
 scrutiny.swiftfinancial.com
 se.bingo.com
+sec-tunnel.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
 secure.booking.com
@@ -3705,6 +3981,8 @@ securegatewayaccess.com
 secureui.starbucks.com
 securite.monespacesante.fr
 securityservices.io
+seek.com
+seekpass.co
 select open source projects are now eligible for bounties.  the [rest of our open source projects](https://developer.yahoo.com/opensource/projectindex/) are technically in scope, but at a reduced rate for the time being
 select.logitech.com
 sell.moonpay.com
@@ -3739,7 +4017,9 @@ servicenl.iciparisxl.be
 services-acc22.shop-apotheke.com/subse/backoffice/index
 services-prod.nsvcs.net
 services.addons.allizom.org
+services.klaviyo.com
 services.netlify.com
+services.repostnetwork.com
 services.shop-apotheke.com
 session-share.playstation.com
 sftp.reports.truelayer.com
@@ -3802,6 +4082,7 @@ signrequest.com
 signup.sendgrid.com
 siilo.com
 simperium.com
+simple-reports.com
 simplenote.com
 simpletax.ca
 singspacegame.com
@@ -3815,6 +4096,7 @@ sites.fareharbor.com
 sketch.pixiv.net
 sketchfab.com
 skills-store.amazon.com
+skinfra.xyz
 sky-dev.wnba.com
 sky-qa.wnba.com
 sky-qa2.wnba.com
@@ -3832,6 +4114,9 @@ skycasino.com
 skygamingcontent.com
 skypicker.com
 skypoker.com
+skyscanner.net
+skyscanner.net/*
+skyscanner.net/hotels/book/*
 skyvegas.com
 slack-imgs.com
 slack-redir.net
@@ -3842,6 +4127,7 @@ slackb.com
 slimdevices.com
 slotomania.com
 smartcontract.com
+smartline.com.au
 smarttrader.deriv.com
 smetrics.marriott.com
 sms.8x8.com
@@ -3860,10 +4146,15 @@ socialclub.rockstargames.com
 socialimpact.nba.com
 sockets.geneva-staging.chat
 sockets.geneva-staging.com
+sol-data.com
+solarcity.com
 solutions-environnement.vinci.com
 sonalytic.com
 sonyentertainmentnetwork.com
+sophos.com
 sorare.com
+soundcloud.com
+soundcloud.org
 soundon.global
 southbay-dev.gleague.nba.com
 southbay-qa.gleague.nba.com
@@ -3877,6 +4168,19 @@ sparks-qa.wnba.com
 sparks-qa2.wnba.com
 sparks.wnba.com
 spectacles.com
+speedtest-blacktown.optusnet.com.au
+speedtest-brisbane.optusnet.com.au
+speedtest-broome.optusnet.com.au
+speedtest-eastburwood.optusnet.com.au
+speedtest-geelong.optusnet.com.au
+speedtest-goldcoast.optusnet.com.au
+speedtest-hobart.optusnet.com.au
+speedtest-melbourne.optusnet.com.au
+speedtest-newcastle.optusnet.com.au
+speedtest-perth.optusnet.com.au
+speedtest-rockingham.optusnet.com.au
+speedtest-sydney.optusnet.com.au
+speedtest-townsville.optusnet.com.au
 speelgoedfolder.kruidvat.be
 speelgoedfolder.kruidvat.nl
 spiketrap.io
@@ -3914,6 +4218,7 @@ sqills-bugbounty-test.cloud.sqills.com
 sqills.com
 sqills.team
 sr-staging-1.com
+src.mastercard.com
 srvcs.tumblr.com
 sso-sprint.dynatracelabs.com
 sso.8x8.com
@@ -3923,11 +4228,14 @@ sso.marriott.com
 sso.oft.hyatt.com
 sso.ryadom.kz
 sso.shop-apotheke.com
+stadtwien.onmicrosoft.com
+staff.monash
 stag.tomorrowland.com
 stag.uzleuven.be
 stag.weareone.world
 stage.landmarkcinemas.com
 staging-airtableblocks.com
+staging-app.bany.dev
 staging.airtable.com
 staging.api.danalock.com
 staging.cloud.8x8.com
@@ -3959,6 +4267,7 @@ stats.vinci.com
 stats.wnba.com
 status.delen.be
 status.larksuite.com
+statuspage.io
 steamcommunity.com
 steamstatic.com
 stock.adobe.com
@@ -3981,6 +4290,7 @@ story.snapchat.com
 stradivarius.cn
 stradivarius.com
 strapi.reddit.com
+stream.launchdarkly.com
 stream.telenor.se
 streaming-api.iris.acceptance.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
@@ -4033,6 +4343,7 @@ support.link.com
 support.logi.com
 support.monespacesante.fr
 support.mozilla.org
+support.originenergy.com.au
 support.rockstargames.com
 support.steampowered.com
 support.varonis.com
@@ -4056,6 +4367,7 @@ syndication-dev.nba.com
 syndication-qa.nba.com
 syndication.nba.com
 syndication.tw.coupang.com
+sys.comcast.net
 t.swapcard.com
 t.umblr.com
 tableau.fareharbor.engineering
@@ -4063,6 +4375,7 @@ tax.audible.com
 tax.crypto.com
 taxi.booking.com
 taxis.booking.com
+tdl.sh
 team.swapcard.com
 teamdirectory.nba.com
 teammate.indriver.io
@@ -4080,6 +4393,11 @@ tempo-dev.wnba.com
 tempo-qa.wnba.com
 tempo.wnba.com
 tequila.kiwi.com
+tesla.cn
+tesla.com
+tesla.services
+teslainsuranceservices.com
+teslamotors.com
 test.deribit.com
 test.payworks.io
 testapi.redoxengine.com
@@ -4090,6 +4408,7 @@ teststs.uzleuven.be
 thebrowser.company
 theelasticast.com
 theperfumeshop.com
+thetradedesk.com
 thinkingphones.com
 thinkingphones.net
 thisiswhyweplay.nba.com
@@ -4102,6 +4421,9 @@ tickets.kinepolis.es
 tickets.kinepolis.fr
 tickets.kinepolis.lu
 tickets.kinepolis.nl
+tidal official clients (e.g. sonos integration, tesla integration, etc.)
+tidalhi.fi
+tidalhifi.com
 tiktok.com
 tiktokcdn.com
 tiktokpublishers.com
@@ -4120,6 +4442,7 @@ toasttakeout.com
 todo.notebleue.pro
 token.services.mozilla.com
 tomorrowland.com
+tools.thefork.tech
 toolsforhumanity.com
 topperpay.com
 tospotify.com
@@ -4130,7 +4453,9 @@ trade.staging-enviso.io
 training.ui.com
 trainpal.com
 transact.playstation.com
+transferwise.com
 translate.badoo.com
+trato-feito-api.quintoandar.com.br
 travel.crypto.com
 travelagents.marriott.com
 travelbook.de
@@ -4142,6 +4467,8 @@ travix.com
 travix.io
 treeherder.mozilla.org
 trekpleister.nl
+trello.com
+trello.services
 trendyol.com
 tribalwars.cash
 trip.biz
@@ -4230,11 +4557,15 @@ us.identity.konghq.com
 us.louisvuitton.com
 us1.badoo.com
 usa.visa.com
+uscc.com
+uscc.net
+uscellular.com
 user-authentication-api.truelayer-sandbox.com
 user-authentication-api.truelayer.com
 user-lookup-api.embark.net
 user-profile-staging.8x8.com
 user-profile.8x8.com
+user.quintoandar.com.br
 usercontent.koho.ca
 userprofile-acc.landmarkcinemas.com
 userprofile-ui.landmarkcinemas.com
@@ -4244,6 +4575,7 @@ uzleuven.be
 v1.kidswebservices.com
 v1staging.kidswebservices.com
 vacation.marriott.com
+vacationhomerentals.com
 vacations.travelimpressions.com
 vacations.united.com
 vacations.universalstudioshollywood.com
@@ -4267,7 +4599,9 @@ verified.clearme.com
 verified.clearme.com/v1/verification_sessions
 verifier.accounts.firefox.com
 verify.arkoselabs.com
+verify.rapyd.net
 verilyme.com
+verisign-grs.com
 versioncheck-bg.addons.allizom.org
 versioncheck.addons.allizom.org
 vfsai.com
@@ -4280,6 +4614,8 @@ vfsglobal.com
 vgov.catalogue.digitalcontrolroom.com
 vhx.tv
 via.rider
+viator.com
+viatorinc.com
 vidaxl.io
 vidaxl.net
 vidaxl.org
@@ -4323,10 +4659,12 @@ voices.nba.com
 voiscooters.com
 volans.tech
 volkskrant.nl
+volkswagen.de
 vote.nba.com
 vpn.intigriti.rocks
 vpn.mobilevikings.be
 vpn.mozilla.org
+vpn01.syd.optusnet.com.au
 vrbo.com
 vroid.com
 vrt.be/interactie/121-chat
@@ -4373,8 +4711,12 @@ wavecell.com
 wealthsimple.com
 wearehackerone.com
 weareone.world
+weather.opera-api.com
 web-edge.clearme.com
+web-message-high.lime.bike
+web-message.lime.bike
 web-mh.dmp.gouv.fr
+web-production.lime.bike
 web.crypto.com
 web.geneva-staging.com
 web.grindr.com
@@ -4389,6 +4731,7 @@ webapps-accpt.portofantwerpbruges.com
 webapps-test.portofantwerpbruges.com/xui
 webapps.portofantwerp.com
 webapps.portofantwerpbruges.com
+webauthn.me
 webhooks.booking.com
 webhooks.truelayer-sandbox.com
 webservice.doccle.be
@@ -4418,6 +4761,9 @@ whoop 4.0 strap
 whoop 5.0/mg strap
 whyisend.com
 widget.rentalcars.com
+wien.at
+wien.gv.at
+wienkav.at
 wifi-in-store.iciparisxl.be
 wifi-in-store.iciparisxl.lu
 wifi-in-store.iciparisxl.nl
@@ -4428,6 +4774,7 @@ wiki.portofantwerp.com
 wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
+wimpmusic.com
 winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
@@ -4435,6 +4782,7 @@ wings-qa2.wnba.com
 wings.wnba.com
 winkels.torfs.be
 winter.tomorrowland.com
+wise.com
 wissen-sie-mehr.de
 withairbnb.com
 withspotify.com
@@ -4467,9 +4815,11 @@ wps-cps.cv.dmp.gouv.fr
 wps-cps.dmp.gouv.fr
 wps-cps.dmp.monespacesante.fr
 wpscan.com
+ws.blockchain.info
 ws.deezer.com
 ws.sorare.com
 wss://messaging.vrt.be/
+wss://socket.bitpanda.com
 www-all.nba.com
 www-dev.nba.com
 www-dev.wnba.com
@@ -4978,7 +5328,6 @@ xs1.forgeofempires.com
 xs1.grepolis.com
 xs1.tribalwars.cash
 xs2.tribalwars.cash
-xs2a.banking.playground.klarna.com
 xs3.tribalwars.cash
 xtrachef.com
 xtramile.grabpay.com
@@ -5001,6 +5350,7 @@ yourdomain.freshdesk.com
 yourdomain.freshrelease.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yoyogames.com
 yritysmuutto.posti.fi
 ys7.com
 yuga.com
