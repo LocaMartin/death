@@ -108,3 +108,13 @@ admin.wickr.com
 admin2.infomaniak.com
 admincms.developer.monespacesante.fr
 admincms.monespacesante.fr
+adminml.com
+adminstore.developer.monespacesante.fr
+adminstore.monespacesante.fr
+adobe.fresco.ios
+adobeid-na1.services.adobe.com
+ads-img.allizom.org
+ads-img.mozilla.org
+ads-partners.tw.coupang.com
+ads.allizom.org
+ads.mozilla.org
