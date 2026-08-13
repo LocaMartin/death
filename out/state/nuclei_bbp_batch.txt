@@ -42,6 +42,7 @@ api.simplisafe.com
 api.trello.com
 api.ua.com
 apigw.prod.quintoandar.com.br
+apix.vodafone.om
 app.asana.com
 app.launchdarkly.com
 app.simple-reports.com/demo
@@ -357,7 +358,6 @@ luckydays.ca
 luckydays.com
 lucra.live
 lukwerks.com
-lululemon.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
 luxfilmfesttickets.megatix.be
