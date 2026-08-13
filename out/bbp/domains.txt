@@ -528,6 +528,7 @@ apigw.prod.quintoandar.com.br
 apigwc.marriott.com
 apis.mail.yahoo.com
 apis.telenor.se
+apix.vodafone.om
 app-insiders.marriott.com
 app.aikido.dev
 app.alasco.de
@@ -2845,7 +2846,6 @@ luckydays.ca
 luckydays.com
 lucra.live
 lukwerks.com
-lululemon.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
 luxfilmfesttickets.megatix.be
@@ -3351,6 +3351,7 @@ oklahomacity.gleague.nba.com
 oklink.com
 oktukids.com
 okx.com
+om.vodafone.mva
 oma.posti.fi
 omega.yahoo.com
 onboarding-api.truelayer.com
@@ -4604,6 +4605,9 @@ verilyme.com
 verisign-grs.com
 versioncheck-bg.addons.allizom.org
 versioncheck.addons.allizom.org
+vfo01.vodafone.om
+vfo02.vodafone.om
+vfo03.vodafone.om
 vfsai.com
 vfsevisa.com
 vfsevisa.id
@@ -5253,6 +5257,7 @@ www.visainfinite.ca
 www.visamiddleeast.com
 www.vivre-avec-la-chaleur.fr
 www.vladcazino.ro
+www.vodafone.om
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
 www.vrbo.com
