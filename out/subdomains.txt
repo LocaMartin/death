@@ -155,6 +155,7 @@
 3d.cs.money
 3lateral.com
 3lau.account.box.com
+3rdparty-apis.coinmarketcap.com
 3wcreative.account.box.com
 41squadron.account.box.com
 44metricjobszwebdisk.jobsswebmetricjobszwebdiskisk.jobs.amazon.co.za
@@ -214,6 +215,7 @@ a.acronis.work
 a.cceng.8x8.com
 a.corp.acronis.com
 a.exodus.io
+a.root-servers.net
 a10japan.account.box.com
 a16z.account.box.com
 a4k-beta.amazon.co.uk
@@ -446,6 +448,7 @@ accounts.firefox.com
 accounts.insightly.com
 accounts.logi.com
 accounts.pixiv.net
+accounts.realestate.com.au
 accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
@@ -474,6 +477,7 @@ acroshare.ru.corp.acronis.com
 acs.acc.mobilevikings.be
 acss.acronis.work
 actie.ad.nl
+actionableagile.55degrees-apps.net
 actionnaires.vinci.com
 activation.acronis.com
 activities.marriott.com
@@ -529,6 +533,7 @@ admin.sqills-bugbounty-test.cloud.sqills.com
 admin.wickr.com
 admin2.acronis.com
 admin2.infomaniak.com
+admintool.lime.bike
 adn.acronis.com
 adn.acronis.work
 adntest.acronis.work
@@ -5072,6 +5077,7 @@ m.fr-eu.abercrombie.com
 m.hk.abercrombie.com
 m.it-eu.abercrombie.com
 m.jr.airstarfinance.net
+m.settings.accounts.realestate.com.au
 m365-jenkins.acronis.work
 ma-ex1.us.corp.acronis.com
 ma-hc-1.us.corp.acronis.com
@@ -5713,6 +5719,7 @@ onsite.amazon.ae
 onsite.amazon.co.uk
 onsite.amazon.com.mx
 oos.acronis.com
+op-scim.1debit.com
 open-na-global.alipayplus.com
 open-na.alipayplus.com
 open-sea-mtls.alipayplus.com
@@ -6727,6 +6734,7 @@ sbc.acronis.com
 scam-hitlist.a.exodus.io
 scheduler.ai.8x8.vc
 scheduler.ai.stage.8x8.vc
+schemas.1debit.com
 schrodinger.a.exodus.io
 scooby-dooby-doo.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 scooby-dooby-doo.scoober.aws-us-east-1c.public.vespa.oath.cloud
@@ -6839,6 +6847,7 @@ services.amazon.com.br
 services.amazon.com.mx
 sesblog.amazon.com
 settings.8x8.vc
+settings.accounts.realestate.com.au
 setup-firetv.amazon.com.au
 setup-firetv.amazon.com.be
 sewalungma-test.amazon.com

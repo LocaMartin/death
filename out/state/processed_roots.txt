@@ -10,13 +10,16 @@
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
 --your-own-1password-account--.1password.com
 10x.redoxengine.com
+1debit.com
 1pw-scim.prd.iat.it.xvservice.net
 1w.cash
 1w.run
 1win.com
 23andmeresearchinstitute.org
+3.0 api
 3d.cs.money
 3lateral.com
+3rdparty-apis.coinmarketcap.com
 4njbets.com
 4njbets.us.betfair.com
 5k8vrbdyje.infomaniak.site
@@ -38,6 +41,7 @@
 8x8testa.com
 8x8testb.com
 a.exodus.io
+a.root-servers.net
 a4k.amazon.com
 a5s.hackerone-ext-content.com
 ab-platform-api.eu-east-1.indriverapp.com
@@ -76,6 +80,7 @@ accounts.firefox.com
 accounts.insightly.com
 accounts.logi.com
 accounts.pixiv.net
+accounts.realestate.com.au
 accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
@@ -87,6 +92,7 @@ aces.wnba.com
 acrobat.adobe.com
 acronis.com
 acronis.work
+actionableagile.55degrees-apps.net
 actionnaires.vinci.com
 activities.marriott.com
 ad.nl
@@ -111,6 +117,7 @@ admincms.monespacesante.fr
 adminml.com
 adminstore.developer.monespacesante.fr
 adminstore.monespacesante.fr
+admintool.lime.bike
 adobe.fresco.ios
 adobeid-na1.services.adobe.com
 ads-img.allizom.org
@@ -118,3 +125,6 @@ ads-img.mozilla.org
 ads-partners.tw.coupang.com
 ads.allizom.org
 ads.mozilla.org
+ads.reddit.com
+ads.snapchat.com
+ads.temu.com
