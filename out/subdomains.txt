@@ -212,6 +212,7 @@
 a-preview.acronis.com
 a.acronis.com
 a.acronis.work
+a.adsrvr.org
 a.cceng.8x8.com
 a.corp.acronis.com
 a.exodus.io
@@ -482,6 +483,7 @@ actionnaires.vinci.com
 activation.acronis.com
 activities.marriott.com
 actnow.airbnbcitizen.com
+ad.adsrvr.org
 ad.akismet.com
 ad.nl
 ad3767ea151e.rest.akismet.com
@@ -561,6 +563,7 @@ adsbc01-eq-ut.8x8testa.com
 adsbc01-eq-wa.8x8testa.com
 adsbc01-eq-wi.8x8testa.com
 adserver.amazon.com
+adsrvr.org
 adtechnology.axelspringer.com
 advancedcustomfields.com
 advantage.amazon.ca
@@ -881,6 +884,7 @@ albums.scoober.global.public.vespa.oath.cloud
 alchemy.veriff.com
 aleenote.cn
 aleenote.com
+alert-webhook-receiver.gen.adsrvr.org
 alert.logitech.com
 alertmanager-gen.acc.mobilevikings.be
 alertmanager-k8s.acc.mobilevikings.be
@@ -1137,6 +1141,7 @@ ap-southeast-1.console.aws.amazon.com
 ap-southeast-1.vespa.oath.cloud
 ap-southeast-2.console.aws.amazon.com
 ap.acronis.work
+apa-sin.adsrvr.org
 apac.account.amazon.com
 api-acceptance.8x8.com
 api-adm.amt-amt-java.aws.oath.cloud
@@ -1231,6 +1236,7 @@ api.amt-amt-java.aws.oath.cloud
 api.amt-aws-uat.aws.oath.cloud
 api.aws-oath-video-intelligence-prod.aws.oath.cloud
 api.gemini.yahoo.com
+api.int.datapipe.adsrvr.org
 api.jr.airstarfinance.net
 api.mail-backend-schd-client.aws.oath.cloud
 api.mail-backend-schd-dev.aws.oath.cloud
@@ -1588,6 +1594,7 @@ auth.acc.mobilevikings.be
 auth.acronis.com
 auth.ad.nl
 auth.cloud.sgp.alipayplus.com
+auth.gen.adsrvr.org
 auth.mercadolibre.adminml.com
 auth.prod.sjc01.us-west.8x8cloud.net
 auth.staging.sjc01.us-west.8x8cloud.net
@@ -1607,6 +1614,7 @@ authorize.payments-sandbox.amazon.com
 authorize.payments.amazon.co.uk
 authorize.payments.amazon.com
 authproxy.use1.grid-aws-dev.aws.yahoo.cloud
+auto-test.adx.opera.com
 autoblog-aws-prod.aws.oath.cloud
 autoconfig.compuserve.com
 autodandomain-qa2erfig-labart.rest.akismet.com
@@ -1728,8 +1736,22 @@ axon-insights.amazon.com
 axtest.acronis.com
 az.airbnb.com
 az.airbnb.org
+azdesk-cdn.adsrvr.org
+azinsight.adsrvr.org
 azir.adminml.com
+azjs.adsrvr.org
+azmatch.adsrvr.org
+azpartner.adsrvr.org
 azure-stage.account.adobe.com
+azv.adsrvr.org
+b-ca.adx.opera.com
+b-eu.adx.opera.com
+b-gb.adx.opera.com
+b-nl.adx.opera.com
+b-sg.adx.opera.com
+b-sgo.adx.opera.com
+b-us.adx.opera.com
+b-usc.adx.opera.com
 b.cceng.8x8.com
 b.dashboard.gemini.yahoo.com
 b2b.amazon.com
@@ -1746,6 +1768,7 @@ ballard.amazon.com
 base-qn.a.exodus.io
 basilisk-retail-proxy-cn-north-1-prod.amazon.cn
 bassb01.msteams.8x8.com
+bastion.adsrvr.org
 bastion.video-platform-splunk.aws.oath.cloud
 baueb01.msteams.8x8.com
 bb0paypay507251a.rest.akismet.com
@@ -2017,6 +2040,7 @@ buswb03.msteams.8x8.com
 buswb04.msteams.8x8.com
 buy.acronis.com
 bw.acronis.work
+bz.adx.opera.com
 c2.ad.nl
 c2c-eu.amazon.com
 c2c-fe.amazon.com
@@ -2034,6 +2058,7 @@ ca.airbnb.org
 ca.chalet.8x8.com
 ca01-cloud.acronis.com
 ca02-cloud.acronis.com
+ca2-phoenix.adsrvr.org
 calendar.comms-calendar.ap-northeast-1.vespa.oath.cloud
 calendar.comms-calendar.ap-northeast-2.vespa.oath.cloud
 calendar.comms-calendar.ap-southeast-1.vespa.oath.cloud
@@ -2178,6 +2203,7 @@ catalog-sc.amazon.com.mx
 catalog.amazon.com
 cb-eu2.acronis.com
 cb.8x8.com
+cb.adx.opera.com
 cbc.acronis.work
 cc.account.api.here.com
 cc.amazon.com
@@ -2663,6 +2689,7 @@ ci-common-jenkins.acronis.work
 ci-jenkins.sdt.corp.acronis.com
 ci-tm-jenkins.acronis.work
 ci.corp.acronis.com
+ciagent-public.gen.adsrvr.org
 cicero.legal.amazon.com
 circulars.external-feeds.aws-us-east-1a.vespa.oath.cloud
 circulars.external-feeds.aws-us-east-1b.vespa.oath.cloud
@@ -2679,6 +2706,7 @@ cit.api.eu-west-1.account.here.com
 cit.api.us-east-1.account.here.com
 cit.eu-west-1.account.here.com
 cit.us-east-1.account.here.com
+claude-skill-publisher.gen.adsrvr.org
 cleanroom-api.aolp-ds-dev.aws.oath.cloud
 cleanroom.aolp-ds-dev.aws.oath.cloud
 cleanroom.aolp-ds-prd.aws.oath.cloud
@@ -2689,10 +2717,13 @@ cleverbridge.acronis.com
 click.freight.amazon.co.uk
 click.learn.ads.snapchat.com
 client-beta.global.chalet.8x8.com
+client-file-upload.gen.adsrvr.org
 client-log.amazon.co.uk
 client-log.amazon.com
 client.kafka.report.gemini.yahoo.com
 clients.3.basecamp.com
+clio-events.gen.adsrvr.org
+clio.gen.adsrvr.org
 clone.cbc.acronis.work
 clone.projectj.aws-us-east-1c.dev.public.vespa.oath.cloud
 clone.projectj.aws-us-east-1c.public.vespa.oath.cloud
@@ -2720,6 +2751,7 @@ cloud-rs-us2.acronis.com
 cloud-rs-us3.acronis.com
 cloud-rs-us6.acronis.com
 cloud-rs-us7.acronis.com
+cloud-temporal.gen.adsrvr.org
 cloud-wr-ae01.acronis.com
 cloud-wr-at01.acronis.com
 cloud-wr-au1.acronis.com
@@ -2819,6 +2851,7 @@ cloudintegrations-jenkins.acronis.work
 cloudmgmt-atlantis-aws-svc-roles.cloud-mgmt.8x8cloud.net
 cloudplayer.amazon.co.uk
 club.ad.nl
+cms.adx.opera.com
 cmu-receiver-cn.amazon.com
 cmu-receiver-eu.amazon.co.uk
 cmu-receiver-eu.amazon.com
@@ -3079,6 +3112,7 @@ cvs-api.10x.redoxengine.com
 cware01.abercrombie.com
 cx-mario.adminml.com
 cx-one.adminml.com
+cx-rtb.adsrvr.org
 cyberfit.acronis.work
 cz.acronis.com
 cz01-cloud.acronis.com
@@ -3087,6 +3121,8 @@ d0a7e.airbnb.com
 d0a7e.akamai-ci.airbnb.com
 d16gars-eu.amazon.ae
 d16gars-eu.amazon.co.uk
+d2.adsrvr.org
+d3.adsrvr.org
 d4e340e80c99.rest.akismet.com
 da.airbnb.com
 da.airbnb.org
@@ -3097,6 +3133,7 @@ daiweitest-sg-test-0529.alipayplus.com
 daiweitest-sg-test001001.alipayplus.com
 daiweitest-sg.alipayplus.com
 dam.amazon.com
+dash.adsrvr.org
 dashboard.adaptive-shield.com
 dashboard.admanager.yahoo.com
 dashboard.gemini.yahoo.com
@@ -3108,7 +3145,10 @@ data-exchange.amazon.co.uk
 data-fra.amazon.com
 data-ingest.cross-platform-analytics-alephd-dev.aws.oath.cloud
 data-ingest.cross-platform-analytics-alephd.aws.oath.cloud
+data-ingestion-staging.adsrvr.org
+data-ingestion.adsrvr.org
 data-models.10x.redoxengine.com
+data.adsrvr.org
 data.amazon.ae
 data.amazon.cl
 data.amazon.co.uk
@@ -3180,6 +3220,7 @@ de-preflight-aw.amazon.com
 de-vpn.acronis.com
 de.airbnb.com
 de.airbnb.org
+de2-bid.adsrvr.org
 de99-cloud.acronis.com
 deal-discovery-aws-oath-fires-brana-dev.aws.oath.cloud
 deal-discovery.aws-oath-fires-brana-dev.aws.oath.cloud
@@ -3343,6 +3384,7 @@ digitalriver.webdev.acronis.com
 digprjsurvey.amazon.co.uk
 digprjsurvey.amazon.com
 dilithium.amazon.com
+direct.adsrvr.org
 discovery.addons.allizom.org
 dk01-cloud.acronis.com
 dl-adobe.amazon.co.uk
@@ -3375,6 +3417,7 @@ dmp-taxonomy.aolp-ds-dev.aws.oath.cloud
 dms.acronis.work
 dmw.8x8staging.com
 dn-registry.acronis.work
+doc.adx.opera.com
 docgpt.alipayplus.com
 docker-jenkins.acronis.work
 docker-notary.corp.acronis.com
@@ -3412,8 +3455,10 @@ donbot.mortent.us-east-3.perf.vespa.oath.cloud
 donbot.mortent.us-east-3.staging.vespa.oath.cloud
 donbot.mortent.us-east-3.vespa.oath.cloud
 donbot.mortent.us-west-1.vespa.oath.cloud
+done.adsrvr.org
 dooh-api.aws-oath-fires-brana-dev.aws.oath.cloud
 dooh-api.aws-oath-fires-brana-prod.aws.oath.cloud
+dooh-forecasting.gen.adsrvr.org
 dooh-location-api.aws-oath-fires-brana-dev.aws.oath.cloud
 dooh-location-api.aws-oath-fires-brana-prod.aws.oath.cloud
 dooh-screen-api.aws-oath-fires-brana-dev.aws.oath.cloud
@@ -3533,6 +3578,7 @@ ebookers.amazon.co.uk
 ebus-nonprod.aws.infra8.8x8cloud.net
 ec-horizontal-rewards-dev.aws.oath.cloud
 ec-horizontal-rewards.aws.oath.cloud
+ecat.adsrvr.org
 echo.amazon.com
 ecocloud.airstar.com
 ecommerce.amazon.com
@@ -3633,8 +3679,11 @@ endeavour.amazon.co.uk
 endeavour.amazon.com
 endpoint1302.verysecure.dev-test.vespa.oath.cloud
 endpoint5950.dev-test.vespa.oath.cloud
+enduser.adsrvr.org
 eng.simplycommunities.rest.akismet.com
 engage.adminml.com
+engineering-annual-review.adsrvr.org
+engineering-competency-assessment-tool.adsrvr.org
 engsvc.aws.infra8.8x8cloud.net
 enhemail.ops.compuserve.com
 enterprise.allegro.pl.allegrosandbox.pl
@@ -3713,11 +3762,18 @@ eu5-baas.acronis.com
 eu5-cloud.acronis.com
 eu5-s3gw.acronis.com
 eu8-cloud.acronis.com
+eur-bid-bigo.adsrvr.org
+eur-bid-hubvisor.adsrvr.org
+eur-bid-smartadserver.adsrvr.org
+eur-ukp.adsrvr.org
+euw.fb.adsrvr.org
 euw.msteams.8x8.com
+euwdirect.adsrvr.org
 euwest-api.stage-business.amazon.co.uk
 euwest.msteams.8x8.com
 euwest101.msteams.8x8.com
 euwest201.msteams.8x8.com
+euwfb.adsrvr.org
 event.amt-amt-java.aws.oath.cloud
 event.amt-aws-uat.aws.oath.cloud
 eventlog-visualsearch.amazon.com
@@ -3778,6 +3834,7 @@ fawpbte.advisor-connection.com
 fawpcte.advisor-connection.com
 fawppte.advisor-connection.com
 fawpstg.advisor-connection.com
+fb.adsrvr.org
 fba.amazon.co.uk
 fco1-repo.acronis.com
 fco1-s3gw.acronis.com
@@ -3882,6 +3939,7 @@ foo.ec2-pinotage.amazon.com
 foobar.home-jjensen.aws.oath.cloud
 forecasting-api.aws-oath-fires-brana-dev.aws.oath.cloud
 forecasting-api.aws-oath-fires-brana-prod.aws.oath.cloud
+foreman.adsrvr.org
 forms.acronis.com
 forum.1win.com
 forum.acronis.com
@@ -3944,8 +4002,10 @@ gamma.eu-west-1.kids-bordering.amazon.co.uk
 gamma.music.amazon.com.au
 gate-bell-beta-acc-services-env-a-accbeta1iad-us-ashburn-1.analytics-staging.oci.infra8.8x8cloud.net
 gatekeeper.paytech.alipayplus.com
+gateway-az-3.gen.adsrvr.org
 gateway.acronis.com
 gateway.browserapps.amazon.co.uk
+gateway.gen.adsrvr.org
 gb-console.eu-west-1.aws.amazon.com
 gb-console.us-east-1.aws.amazon.com
 gb-console.us-west-2.aws.amazon.com
@@ -3964,6 +4024,7 @@ geirst-test.scoober.global.public.vespa.oath.cloud
 geldmeter.ad.nl
 geldwijzer.ad.nl
 gen-chat-call.allegro.pl.allegrosandbox.pl
+gen.adsrvr.org
 geneva-api.one-mobile-dev.aws.oath.cloud
 geneva-server.one-mobile-dev.aws.oath.cloud
 geo.account.api.here.com
@@ -4549,6 +4610,7 @@ ipam.prod.sjc01.us-west.8x8cloud.net
 ipam.staging.sjc01.us-west.8x8cloud.net
 ipay-upi-wallethk-prd.alipayplus.com
 ipay-upi-wallethk-uat.alipayplus.com
+ipds.opr.adx.opera.com
 ipfinder.cloud-mgmt.8x8cloud.net
 ipn-beta-cloud.acronis.com
 ipn.acronis.com
@@ -5149,6 +5211,7 @@ match-visualsearch-de.amazon.com
 match-visualsearch-jp.amazon.com
 match-visualsearch-uk.amazon.com
 match-visualsearch.amazon.com
+match.adsrvr.org
 matillion-uat.edp.cloud.8x8.com
 matillion.edp-dev.cloud.8x8.com
 matillion.edp.cloud.8x8.com
@@ -5636,9 +5699,12 @@ octo7-repo.cloud-mgmt.8x8cloud.net
 oda.ido-central.aws.oath.cloud
 odcs-na-extern.amazon.com
 odessa.amazon.com
+odsp-quic.adx.opera.com
 oem.acronis.com
+ofa.adx.opera.com
 office.acronis.com
 office2.acronis.com
+ofp.adx.opera.com
 ogronnesby.albums-ng.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 ogronnesby.albums-ng.scoober.aws-us-east-1c.public.vespa.oath.cloud
 ogronnesby.albums-ng.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
@@ -5729,6 +5795,7 @@ openziti-controller.athenz-experiments.aws.oath.cloud
 operations.us-east-1.aolp-ds-prd.aws.oath.cloud
 opf-skpars-sanity-validation.amazon.com
 opf-www.amazon.co.uk
+opr.adx.opera.com
 ops-acceptance.oci.infra8.8x8cloud.net
 ops-development.oci.infra8.8x8cloud.net
 ops-production.oci.infra8.8x8cloud.net
@@ -5831,6 +5898,7 @@ otp1-s3gw.acronis.com
 outback-cn.amazon.com
 outback-eu.amazon.com
 outback-na.amazon.com
+outspot2-ams.adx.opera.com
 overlord.aolp-ds-prd.aws.oath.cloud
 ows.oath.cloud
 oxi1-cte-fawp.advisor-connection.com
@@ -6019,6 +6087,7 @@ pong.amazon.com
 pongpaging-us-west-2.amazon.com
 portal.8x8.co.uk
 portal.aws.amazon.com
+post.bz.adx.opera.com
 postur.acc.mobilevikings.be
 poweredby.amazon.co.uk
 poweredby.amazon.com
@@ -6337,6 +6406,7 @@ purdue.amazon.com
 push.amazon.com
 pwrs-mpconfig.amazon.com
 px.ads.reddit.com
+px.adx.opera.com
 pypi.corp.acronis.com
 pypi.uplynk-inf.aws.oath.cloud
 qa-backup.testrail.one-mobile-dev.aws.oath.cloud
@@ -6347,6 +6417,7 @@ qa-srs-api.pcp.aws.oath.cloud
 qa-srs-fe.pcp.aws.oath.cloud
 qa.account.api.here.com
 qa.account.here.com
+qa.advisorsolutions.gs.com
 qa.ai-int.8x8.com
 qa.ai.8x8.com
 qa.api.eu-west-1.account.here.com
@@ -6478,6 +6549,7 @@ reporter.browserapps.amazon.co.uk
 reports.pcp-ariel.aws.oath.cloud
 request.acronis.work
 requests.acronis.work
+res.adx.opera.com
 research.acronis.com
 reseller-docs.appstore.8x8.vc
 reseller-docs.appstore.stage.8x8.vc
@@ -6663,6 +6735,9 @@ rus-hc-1.ru.corp.acronis.com
 rus-hc-2.ru.corp.acronis.com
 rusip.acronis.com
 ruwebconf.acronis.com
+s-pre.adx.opera.com
+s.adx.opera.com
+s.bz.adx.opera.com
 s.gemini.yahoo.com
 s1.amazon.co.uk
 s1.amazon.com
@@ -6768,6 +6843,7 @@ sea-salmon.amazon.com
 sea.email.amazon.com
 sea.oa.amazon.com
 seamus.amazon.co.uk
+search.advisories.gitlab.com
 search.isp.netscape.com
 secure-fields.amazon.co.uk
 secure.amazon.co.uk
@@ -6966,6 +7042,7 @@ simplycommunities-stg0.akismet.com
 simplycommunities-tracker.rest.akismet.com
 simplycommunities24.rest.akismet.com
 simplycomply.dispatch.rest.akismet.com
+sin.fb.adsrvr.org
 sin1-repo.acronis.com
 sip.acronis.com
 sip.msteams.8x8.com
@@ -7471,6 +7548,7 @@ support-test.8x8.com
 support.8x8.com
 support.acronis.com
 support.advancedcustomfields.com
+support.adx.opera.com
 support.alasco.de
 support.amazon.co.uk
 survey-tool.amazon.co.uk
@@ -7499,6 +7577,7 @@ sync8.stage.8x8.vc
 sys.ai.8x8.vc
 sys.ai.preview.8x8.vc
 sys.ai.stage.8x8.vc
+t.adx.opera.com
 t.ai-int.8x8.com
 t.allegro.cz.allegrosandbox.pl
 t.allegro.pl.allegrosandbox.pl
@@ -7679,6 +7758,7 @@ tp-oci-cp-phx-01.staging.cloud.8x8.com
 tp-oci-cp-syd-01.prod.cloud.8x8.com
 tp-oci-cp-yul-01.prod.cloud.8x8.com
 tp-oci-cp-yyz-01.prod.cloud.8x8.com
+tp.adx.opera.com
 tpe1-repo.acronis.com
 tpe1-s3gw.acronis.com
 tr.airbnb.org
@@ -7924,7 +8004,9 @@ us5-baas.acronis.com
 us5-backup.acronis.com
 us5-cloud.acronis.com
 uscentral101.msteams.8x8.com
+use.fb.adsrvr.org
 use.msteams.8x8.com
+usw.fb.adsrvr.org
 usw.msteams.8x8.com
 usw2.cloud8-dev.aws.infra8.8x8cloud.net
 utiliation-reports.aws-oath-pcp-aws-usage.aws.oath.cloud

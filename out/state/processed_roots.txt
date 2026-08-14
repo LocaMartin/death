@@ -128,3 +128,13 @@ ads.mozilla.org
 ads.reddit.com
 ads.snapchat.com
 ads.temu.com
+ads.tiktok.com
+adsrvr.org
+adtechnology.axelspringer.com
+advancedcustomfields.com
+advisor-connection.com
+advisories.gitlab.com
+advisorsolutions.gs.com
+adx.opera.com
+aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
+aff.capital.com
