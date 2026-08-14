@@ -534,6 +534,7 @@ apigw.prod.quintoandar.com.br
 apigwc.marriott.com
 apis.mail.yahoo.com
 apis.telenor.se
+apix.vodafone.om
 app-insiders.marriott.com
 app.aikido.dev
 app.alasco.de
