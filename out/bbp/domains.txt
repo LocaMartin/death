@@ -1226,8 +1226,6 @@ com.boozt.app
 com.boozt.booztlet
 com.booztlet
 com.box.android
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -2001,6 +1999,7 @@ emakina.fr
 emakina.group
 emakina.nl
 emakina.us
+emarketer.com
 embark-studios.com
 embed.tumblr.com
 embed.vhx.tv
@@ -2846,6 +2845,7 @@ luckydays.ca
 luckydays.com
 lucra.live
 lukwerks.com
+lululemon.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
 luxfilmfesttickets.megatix.be
@@ -2913,6 +2913,7 @@ manage-teams.nba.com
 manage-uat.nba.com
 manage.grab.co
 manage.nba.com
+manager.infomaniak.com
 manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.snapchat.com
@@ -4967,6 +4968,7 @@ www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
 www.elvetino.ch
+www.eurojackpot.nederlandseloterij.nl
 www.evernote.com
 www.expedia-aarp.com
 www.expedia.com
@@ -5034,6 +5036,7 @@ www.kinepolis.nl
 www.kiwi.com
 www.koho.ca
 www.kolikkopelit.com
+www.krasloten.nederlandseloterij.nl
 www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
@@ -5056,6 +5059,8 @@ www.logitechclub.com
 www.logitechg.com
 www.logitechstore.com.br
 www.lookatme.com.ph
+www.lotto.nederlandseloterij.nl
+www.luckyday.nederlandseloterij.nl
 www.magisto.com
 www.malwarebytes.com
 www.mariacasino.com
@@ -5087,6 +5092,7 @@ www.mercadolibre.com.sv
 www.mercadolivre.com
 www.mercadopago.com.ec
 www.midtrans.com
+www.miljoenenspel.nederlandseloterij.nl
 www.mini.de
 www.mjrtheatres.com
 www.momondo.com
@@ -5098,6 +5104,7 @@ www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
 www.nba.com
+www.nederlandseloterij.nl
 www.netflix.com
 www.notion.so/desktop
 www.onsexprime.fr
@@ -5148,6 +5155,7 @@ www.six-group.com
 www.socialdeal.nl
 www.soundon.global
 www.springfield.moz.works
+www.staatsloterij.nederlandseloterij.nl
 www.starbucks.ca
 www.starbucks.co.jp
 www.starbucks.com
@@ -5177,6 +5185,7 @@ www.tomorrowland.com
 www.topperpay.com
 www.torfs.be
 www.torfs.nl
+www.toto.nl
 www.tradepmr.com
 www.trajeoh.com
 www.transsicura.ch
