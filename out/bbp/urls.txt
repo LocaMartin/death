@@ -910,8 +910,6 @@ https://github.com/smartcontractkit/chainlink-solana/tree/develop/contracts
 https://github.com/smartcontractkit/external-adapters-js
 https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
 https://github.com/spotify/save-to-spotify
-https://github.com/square/okhttp
-https://github.com/square/okio
 https://github.com/square/wire
 https://github.com/sveltejs/svelte
 https://github.com/tempus-ex
