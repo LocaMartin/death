@@ -1,4 +1,3 @@
-apix.vodafone.om
 emarketer.com
 manager.infomaniak.com
 media.marionnaud.cz
@@ -498,3 +497,4 @@ pay.tw.coupang.com
 pay.wallet.tg
 paybridge.booking.com
 paydiant.com
+paydirect.truelayer-sandbox.com
