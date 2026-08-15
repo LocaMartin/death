@@ -803,6 +803,7 @@ ai-int.8x8.com
 ai-labs-206919.va-fulfillment.ai.8x8.com
 ai-labs-df-backend-prod.va-fulfillment.ai.8x8.com
 ai-labs-df-backend-prod.va-support-api.ai.8x8.com
+ai-testing.maventa.com
 ai-tools.infomaniak.com
 ai.8x8.com
 ai.8x8.vc
