@@ -811,6 +811,7 @@ ai.portswigger.net
 ai.preview.8x8.vc
 ai.stage.8x8.vc
 ailyceum.acronis.work
+aips-internal.com
 airbnb-aws.com
 airbnb.com
 airbnb.org
@@ -2057,6 +2058,7 @@ ca.acronis.com
 ca.airbnb.com
 ca.airbnb.org
 ca.chalet.8x8.com
+ca.next.airbnb.com
 ca01-cloud.acronis.com
 ca02-cloud.acronis.com
 ca2-phoenix.adsrvr.org
@@ -2865,6 +2867,7 @@ cn-hk.abercrombie.com
 cn.accounts.logi.com
 cn99-cloud.acronis.com
 cnr.airbnb.com
+cnr.next.airbnb.com
 cnt-03.upload-photos.amazon.com.au
 cocoa.adm.cloud.com
 cocoa.agent.adm.cloud.com
@@ -2923,6 +2926,7 @@ community.abucommon.us-west-1.vespa.oath.cloud
 community.airbnb.com
 community.amazon.com
 communitycenter.airbnb.com
+communitycenter.akamai-ci.airbnb.com
 communitycenter.akamai-dev.airbnb.com
 completion.amazon.ae
 completion.amazon.co.uk
@@ -3077,6 +3081,7 @@ cs-ext-preprod.amazon.com
 cs-ext.amazon.com
 cs.airbnb.com
 cs.airbnb.org
+cs.next.airbnb.com
 cscentral-cn.amazon.com
 cscentral-eu.amazon.com
 cscentral-fe.amazon.com
@@ -3127,6 +3132,7 @@ d3.adsrvr.org
 d4e340e80c99.rest.akismet.com
 da.airbnb.com
 da.airbnb.org
+da.next.airbnb.com
 daiweitest-sg-test-001.alipayplus.com
 daiweitest-sg-test-002.alipayplus.com
 daiweitest-sg-test-003.alipayplus.com
@@ -3295,6 +3301,7 @@ dev.new.account.krisp.ai
 dev.origin.help.compuserve.com
 dev.payments.compuserve.com
 dev.pgs-api.pgs-store.us-east-1.aolp-ds-dev.aws.oath.cloud
+dev.staging.airbnb.org
 dev.superset.aolp-ds-dev.aws.oath.cloud
 dev.sybil.aolp-ds-dev.aws.oath.cloud
 dev.tagcache.aolp-ds-dev.aws.oath.cloud
@@ -3310,6 +3317,7 @@ developer.alasco.de
 developer.amazon.com
 developer.amazon.com.au
 developer.payments-sandbox.amazon.com
+developer.withairbnb.com
 developers.acronis.com
 developers.alipayplus.com
 development.cloud.8x8.com
@@ -3711,10 +3719,12 @@ es.admin-lite.airbnb.com
 es.airbnb.org
 es.akismet.com
 es.cloud.8x8.com
+es.next.airbnb.com
 es.partners.acronis.com
 es01-cloud.acronis.com
 esign.acronis.com
 et.airbnb.org
+et.next.airbnb.com
 ets-console-beta.aws.amazon.com
 eu-api-alexa.amazon.co.uk
 eu-api-alexa.amazon.com.au
@@ -3950,6 +3960,7 @@ forums.developer.amazon.com
 foundation.acronis.com
 fr-eu.abercrombie.com
 fr.airbnb.org
+fr.next.airbnb.com
 fra2-repo.acronis.com
 fra20-repo.acronis.com
 fra20-s3gw.acronis.com
@@ -3988,6 +3999,7 @@ g2-beta.amazon.com
 g2-gamma.amazon.com
 g2.amazon.com
 ga.airbnb.org
+ga.next.airbnb.com
 gamecircle-developer-sandbox.amazon.com
 games.amazon.com
 gamestudios.amazon.com
@@ -4230,6 +4242,7 @@ hd.corp.acronis.com
 hdtrial.acronis.work
 he.airbnb.com
 he.airbnb.org
+he.next.airbnb.com
 heal-readonly-ruh.aka.amazon.com
 hec.video-platform-splunk.aws.oath.cloud
 hedera.a.exodus.io
@@ -4322,6 +4335,7 @@ hp-app.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 hp-app.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 hp-app.scoober.global.public.vespa.oath.cloud
 hr.airbnb.org
+hr.next.airbnb.com
 hris2.corp.acronis.com
 http-feeding-aws.by-andreer.aws-us-east-1a.vespa.oath.cloud
 http-feeding-aws.by-andreer.aws-us-east-1b.vespa.oath.cloud
@@ -4360,6 +4374,7 @@ hv-qrs-gamma5-eu-west-1a.gemini.yahoo.com
 hv-qrs-gamma5-us-east-1b.gemini.yahoo.com
 hv-qrs-gamma5-us-west-2a.gemini.yahoo.com
 hy.airbnb.org
+hy.next.airbnb.com
 hyd-a-orca.amazon.com
 hyd-b-orca.amazon.com
 hyd1-salmon.amazon.com
@@ -4502,6 +4517,7 @@ id-us-w17.identityb2b.aws.oath.cloud
 id-us-w18.identityb2b.aws.oath.cloud
 id.airbnb.org
 id.identityb2b.aws.oath.cloud
+id.next.airbnb.com
 id01-cloud.acronis.com
 idatabankmng-sim.alipayplus.com
 ideas.5nine.com
@@ -4620,6 +4636,7 @@ ir.abercrombie.com
 ir.gemini.yahoo.com
 ir.stage.gemini.yahoo.com
 is.airbnb.org
+is.next.airbnb.com
 is01-cloud.acronis.com
 is1.slicer-api.mss-dev.aws.oath.cloud
 is2.slicer-api.mss-dev.aws.oath.cloud
@@ -5105,6 +5122,7 @@ lscfg.8x8.com
 lscfg.8x8pilot.com
 lsh-similairty.acronis.com
 lt.airbnb.org
+lt.next.airbnb.com
 luna-staging.amazon.co.uk
 luna-staging.amazon.com.be
 luna.amazon.ae
@@ -5119,6 +5137,7 @@ luserver.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 luserver.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 luserver.scoober.global.public.vespa.oath.cloud
 lv.airbnb.org
+lv.next.airbnb.com
 lv01-cloud.acronis.com
 lwa.amazon.ae
 lwa.amazon.co.uk
@@ -7070,6 +7089,7 @@ sitb-images.amazon.com
 sjc01a-block01.staging.sjc01.us-west.8x8cloud.net
 sjc01b-block01.staging.sjc01.us-west.8x8cloud.net
 sk.airbnb.org
+sk.next.airbnb.com
 skg1-repo.acronis.com
 skg1-s3gw.acronis.com
 skills-store-eu.amazon.co.uk
@@ -7293,12 +7313,14 @@ sponsored-ads.amazon.com.be
 spot.account.here.com
 sq.acronis.work
 sq.airbnb.org
+sq.next.airbnb.com
 sqtest.acronis.work
 squash-console-gamma.aws.amazon.com
 squash-gamma.us-east-1.aws.amazon.com
 squash.us-east-1.aws.amazon.com
 squawk.amazon.com
 sr.airbnb.org
+sr.next.airbnb.com
 sriracha.aws.amazon.com
 srs-api.pcp.aws.oath.cloud
 srs-fe.pcp.aws.oath.cloud
@@ -7555,6 +7577,7 @@ support.amazon.co.uk
 survey-tool.amazon.co.uk
 suvathyg-azo.dev.creatorstudio.amazon.com
 sv.airbnb.org
+sv.next.airbnb.com
 svc.8x8cloud.net
 svc.o2.aws.oath.cloud
 svn.corp.acronis.com
@@ -7690,6 +7713,7 @@ tickets.amazon.co.uk
 timber-po.us-east-1.amazon.com
 tinyaudio.amazon.co.uk
 tl.airbnb.org
+tl.next.airbnb.com
 tll1-repo.acronis.com
 tll1-s3gw.acronis.com
 tll2-repo.acronis.com
@@ -7763,6 +7787,7 @@ tp.adx.opera.com
 tpe1-repo.acronis.com
 tpe1-s3gw.acronis.com
 tr.airbnb.org
+tr.next.airbnb.com
 tr01-cloud.acronis.com
 trabaja.amazon.com.mx
 track-sandbox.amazon.co.uk
@@ -7885,6 +7910,7 @@ uk-preflight-aw.amazon.com
 uk-simplycommunities.akismet.com
 uk.airbnb.org
 uk.chalet.8x8.com
+uk.next.airbnb.com
 uk01-cloud.acronis.com
 uk99-cloud.acronis.com
 uklyncweb.acronis.com
@@ -8716,6 +8742,7 @@ www.dl.acronis.com
 www.dl2.acronis.com
 www.download.acronis.com
 www.dr.acronis.com
+www.dr.airbnb.com
 www.draas-zabbix.acronis.com
 www.e3mzr.acronis.com
 www.ebookers.amazon.co.uk
@@ -8942,12 +8969,14 @@ wwww.akismet.com
 wysylam.allegro.pl.allegrosandbox.pl
 xdeb-creturn.amazon.com
 xeunicefix.acep.acronis.work
+xh.airbnb.org
 xml-target.amazon.com
 xml.amazon.com
 xmr-proxy.a.exodus.io
 xo-docs-s.a.exodus.io
 xo-docs.a.exodus.io
 xseries.8x8.com
+xxkey.next.airbnb.com
 yakl-server.us-east-1.athenz-k8s-nonprod.aws.oath.cloud
 yakl-server.us-east-1.athenz-k8s-prod.aws.yahoo.cloud
 yakl-server.us-west-2.athenz-k8s-prod.aws.yahoo.cloud
@@ -8991,6 +9020,9 @@ zabbix.corp.acronis.com
 zappos.amazon.com
 zendesksbox.mulesoft.8x8pilot.com
 zeppelin.acronis.work
+zh-cn.airbnb.com
+zh-t.next.airbnb.com
+zh.airbnb.org
 zia1-repo.acronis.com
 zme-bulktools.amazon.com
 zme-cals.amazon.com
@@ -9001,3 +9033,5 @@ zme-caps.amazon.com
 zrh1-repo.acronis.com
 zt-login.adminml.com
 zt.adminml.com
+zu.airbnb.org
+zu.next.airbnb.com
