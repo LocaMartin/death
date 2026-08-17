@@ -158,3 +158,13 @@ air.com.playtika.slotomania
 airbnb-aws.com
 airbnb.com
 airbnb.org
+airbnbcitizen.com
+airbnbpayments.com
+airstar-finance.com
+airstar.com
+airstarfinance.net
+airtable.js sdk (https://www.npmjs.com/package/airtable)
+ak-static-dev.nba.com
+ak-static.cms-dev.nba.com
+ak-static.cms-qa.nba.com
+ak-static.cms.nba.com

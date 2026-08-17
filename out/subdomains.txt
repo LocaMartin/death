@@ -8,6 +8,7 @@
 *.global-staging.chalet.8x8staging.com
 *.go.8x8.vc
 *.grafana-mcp.8x8.vc
+*.jr.airstarfinance.net
 *.llm.ai.preview.8x8.vc
 *.ms.allegro.pl.allegrosandbox.pl
 *.platformdevops.8x8cloud.net
@@ -4755,6 +4756,7 @@ jp-preflight-aw.amazon.com
 jp-vpn.acronis.com
 jp03-cloud.acronis.com
 jp2-s3gw.acronis.com
+jr.airstarfinance.net
 jvenstad.albums.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 jvenstad.albums.scoober.aws-us-east-1c.public.vespa.oath.cloud
 jvenstad.albums.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
@@ -7407,6 +7409,7 @@ staging.alexa.amazon.ca
 staging.alexa.amazon.co.uk
 staging.alexa.amazon.com
 staging.alexa.amazon.com.mx
+staging.api.jr.airstarfinance.net
 staging.autoblog-aws-prod.aws.oath.cloud
 staging.chalet.8x8.com
 staging.chalet.8x8staging.com
@@ -7414,8 +7417,10 @@ staging.cloud.8x8.com
 staging.compuserve.com
 staging.connect.advancedcustomfields.com
 staging.corporate.abercrombie.com
+staging.help.jr.airstarfinance.net
 staging.isp.netscape.com
 staging.lite.aol.com
+staging.m.jr.airstarfinance.net
 staging.member.compuserve.com
 staging.partners.acronis.com
 staging1.advancedcustomfields.com
@@ -8633,6 +8638,7 @@ www.airbnb.com
 www.airbnb.org
 www.airbnbcitizen.com
 www.airstar.com
+www.airstarfinance.net
 www.akamai-ci.airbnb.com
 www.akamai-ci.airbnb.org
 www.akamai-dev.airbnb.com
@@ -8902,6 +8908,9 @@ www.shop.8x8.com
 www.smile.amazon.co.uk
 www.spmp.corp.acronis.com
 www.sso.8x8pilot.com
+www.staging.api.jr.airstarfinance.net
+www.staging.help.jr.airstarfinance.net
+www.staging.m.jr.airstarfinance.net
 www.store.acronis.com
 www.support.acronis.com
 www.support.advancedcustomfields.com
@@ -8967,6 +8976,7 @@ wwwlamazon.co.uk
 wwwoldpte.advisor-connection.com
 wwww.akismet.com
 wysylam.allegro.pl.allegrosandbox.pl
+wz.airstarfinance.net
 xdeb-creturn.amazon.com
 xeunicefix.acep.acronis.work
 xh.airbnb.org
