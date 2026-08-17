@@ -92,6 +92,7 @@ aces.wnba.com
 acrobat.adobe.com
 acronis.com
 acronis.work
+actie.libelle.nl
 actionableagile.55degrees-apps.net
 actionnaires.vinci.com
 activities.marriott.com
@@ -652,7 +653,6 @@ atairbnb.com
 atg.se
 atl-paas.net
 atlassian.com
-atlassian.net
 atlastunnel.com
 atspotify.com
 attentia.be
@@ -1226,6 +1226,8 @@ com.boozt.app
 com.boozt.booztlet
 com.booztlet
 com.box.android
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -1249,7 +1251,6 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.datacamp
 com.dd.doordash
-com.defi.wallet
 com.deribit
 com.dolap.android
 com.dropbox.android
@@ -1677,7 +1678,6 @@ cruises.priceline.com
 crypto.com
 crypto.com exchange apis that require an account
 crypto.com mobile app apis that require an account
-crypto.com wallet extension
 cs.money
 csconnect.org
 css-tricks.com
@@ -1867,6 +1867,7 @@ docs.gitlab.com
 docs.lansweeper.com
 docs.launchdarkly.com
 docs.redoxengine.com
+docs.superhuman.com
 docsend.com
 docswallet.com
 doctolib.com
@@ -2056,6 +2057,7 @@ exoscale.com
 expediapartnercentral.com
 experience.prod.innovexperiments.com
 experiences.booking.com
+experiences.crypto.com
 explore.redoxengine.com
 expressvpn.com
 expressvpn.jobs
@@ -3325,7 +3327,6 @@ nr-data.net
 nr-ops.net
 ns1.optusnet.com.au
 ns2.optusnet.com.au
-nsa-idr.cms.gov
 nummus.robinhood.com
 nw.ring.com
 nycbasketball.nba.com
@@ -3728,7 +3729,6 @@ py.pl
 qa.stats.nba.com
 qaglobal-liquidity.gs.com
 qm-8x8.com
-qpp.cms.gov
 quintoandar.com.br
 quip.com
 quixel.com
@@ -4074,7 +4074,6 @@ shopifyinbox.com
 shopifykloud.com
 shoppers.instacart.com
 shoppingapp.decathlon.com
-sidefx.com
 sign.dropbox.com
 signalpath.com
 signature-insights.api.cx.metamask.io
@@ -4417,6 +4416,7 @@ thisiswhyweplay.nba.com
 threatdown.com
 ticketing.cm.com
 ticketnew.com
+tickets.crypto.com
 tickets.kinepolis.be
 tickets.kinepolis.ch
 tickets.kinepolis.es
@@ -4650,7 +4650,6 @@ visa.com.au
 visa.com.bo
 visa.com.jm
 visa.com.ru
-visa.com.ua
 visainnovationprogram.com
 visamiddleeast.com
 visaonchainanalytics.com
@@ -5260,6 +5259,7 @@ www.visa.com.ru
 www.visa.com.sg
 www.visa.com.tr
 www.visa.com.tw
+www.visa.com.ua
 www.visa.com.vn
 www.visa.fr
 www.visainfinite.ca

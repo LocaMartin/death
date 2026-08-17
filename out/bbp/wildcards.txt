@@ -97,7 +97,6 @@ atairbnb.com
 atg.se
 atl-paas.net
 atlassian.com
-atlassian.net
 atlastunnel.com
 atspotify.com
 attentia.be
@@ -208,7 +207,6 @@ cloudways.com
 clovesoftware-dev.com
 clovesoftware.com
 cm.com
-cms.gov
 cmtelecom.com
 coda.io
 cognitec-systems.de
@@ -319,7 +317,6 @@ emakina.fr
 emakina.group
 emakina.nl
 emakina.us
-emarketer.com
 embark.net
 enspotify.com
 enviso.io
@@ -975,7 +972,6 @@ shopifycloud.com
 shopifycs.com
 shopifyinc.com
 shopifykloud.com
-sidefx.com
 signalpath.com
 siilo.com
 simple-reports.com

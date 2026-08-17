@@ -35,7 +35,7 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
-http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
+http://falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com/
 http://federatedid-na1.services.adobe.com
 http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
@@ -259,7 +259,6 @@ https://app.ecwid.com/api/v3
 https://app.fin.ai
 https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
-https://app.grammarly.com
 https://app.ibotta.com/sign-in
 https://app.insomnia.rest/
 https://app.intercom.com
@@ -434,7 +433,6 @@ https://clp-accept-larry.my-clay.com
 https://clp-accept-user.saltoks.com
 https://cms.adx.opera.com
 https://cms.mobile.monash/
-https://cmsnationaltrainingprogram.cms.gov/
 https://cockpit-eu-west-2.outscale.com
 https://coda.grammarly.com
 https://coda.io
@@ -485,7 +483,6 @@ https://crypto.com/exchange
 https://crypto.com/nft
 https://crypto.com/price
 https://cryptowallet.opera-api.com
-https://csscoperations.com/
 https://cstg-integ.uidapi.com
 https://customer-api.datadome.co
 https://customer-portal.paddle.com
@@ -647,8 +644,6 @@ https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
 https://etoropartners.com
 https://etorox.com
 https://etsypayments.com
-https://eua.cms.gov/
-https://eua.cms.gov/efi
 https://events.1password.com/api
 https://events.onecloud.harman.com
 https://evigilation.monash.edu
@@ -711,6 +706,8 @@ https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
+https://github.com/brave
+https://github.com/brave-intl
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
@@ -1920,7 +1917,6 @@ https://portal.afterpay.com
 https://portal.anz.kinergysolutions.com
 https://portal.clearpay.co.uk
 https://portal.clearpay.com
-https://portal.cms.gov/
 https://portal.enterprise.uphold.com
 https://portal.exoscale.com/
 https://portal.ifoodpago.com.br
@@ -2337,7 +2333,6 @@ https://www.cloudflare.com/products/cloudflare-access
 https://www.cloudflare.com/products/cloudflare-spectrum
 https://www.cloudflare.com/products/cloudflare-stream
 https://www.cloudvector.com/
-https://www.cms.gov/
 https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
 https://www.coloros.com/
@@ -2695,6 +2690,7 @@ https://www.vidaxl.si
 https://www.vidaxl.sk
 https://www.vidaxl.uk
 https://www.visa.com.az/az_az/account/registration
+https://www.visaforkorea-sl.com/
 https://www.vtcprodapi.maf.ae/svc/svchifi.svc/saveocrreceipt
 https://www.vwfs.co.in
 https://www.vwfs.co.za
