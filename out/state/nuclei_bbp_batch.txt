@@ -1,4 +1,6 @@
-paydirect.truelayer-sandbox.com
+actie.libelle.nl
+docs.superhuman.com
+experiences.crypto.com
 paydirect.truelayer.com
 payer-details-sandbox.gocardless.com
 paylution.com
@@ -242,7 +244,6 @@ py.pl
 qa.stats.nba.com
 qaglobal-liquidity.gs.com
 qm-8x8.com
-qpp.cms.gov
 quintoandar.com.br
 quip.com
 quixel.com
@@ -497,4 +498,3 @@ securegatewayaccess.com
 secureui.starbucks.com
 securite.monespacesante.fr
 securityservices.io
-seek.com
