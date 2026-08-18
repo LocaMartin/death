@@ -92,6 +92,7 @@ aces.wnba.com
 acrobat.adobe.com
 acronis.com
 acronis.work
+actie.libelle.nl
 actionableagile.55degrees-apps.net
 actionnaires.vinci.com
 activities.marriott.com
@@ -1879,6 +1880,7 @@ docs.gitlab.com
 docs.lansweeper.com
 docs.launchdarkly.com
 docs.redoxengine.com
+docs.superhuman.com
 docsend.com
 docswallet.com
 doctolib.com
@@ -2069,6 +2071,7 @@ exoscale.com
 expediapartnercentral.com
 experience.prod.innovexperiments.com
 experiences.booking.com
+experiences.crypto.com
 explore.redoxengine.com
 expressvpn.com
 expressvpn.jobs
