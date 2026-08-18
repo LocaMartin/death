@@ -648,6 +648,7 @@ assets.koho.ca
 assets.spotify.com
 assets.tumblr.com
 assurancewireless.com
+astronauts.esa.int
 at.marionnaud.customer
 atairbnb.com
 atg.se
@@ -736,6 +737,7 @@ autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
+avamposto42.esa.int
 avecspotify.com
 aw.visa.com
 aws.indriverapp.com
@@ -840,6 +842,7 @@ blog.remitly.com
 blog.ui.com
 blog.unico.io
 blog.watsons.com.tr
+blogs.esa.int
 blox.link
 bluecoats-qa.gleague.nba.com
 bluecoats.gleague.nba.com
@@ -857,6 +860,8 @@ book.applevacations.com
 book.beachbound.com
 book.booktandl.com
 book.cheapcaribbean.com
+bookdiscoveresalive-acc.esa.int
+bookdiscoveresalive.esa.int
 booking.applevacations.com
 booking.beachbound.com
 booking.cheapcaribbean.com
@@ -878,6 +883,7 @@ braintree-api.com
 braintree.tools
 braintreegateway.com
 braintreepayments.com
+brand.esa.int
 brasil-store.tomorrowland.com
 brasil.tomorrowland.com
 bredbandsbolaget.se
@@ -986,6 +992,7 @@ cardsonline.azdiest.be
 cardsonlinetst.azdiest.be
 careers.booking.com
 careers.capital.com
+careers.esa.int
 careers.indrive.com
 careers.marriott.com
 careers.remitly.com
@@ -1566,6 +1573,7 @@ com.zzkko
 comic-indies.pixiv.net
 comic.pixiv.net
 commercemarketplace.adobe.com
+comms-exhibitionmodels.esa.int
 community.8x8.com
 community.forescout.com
 community.logitech.com
@@ -1852,9 +1860,12 @@ digitalspecs.portofantwerpbruges.com
 direct-demo.currencycloud.com
 direct.playstation.com
 directverify.in
+discover-acc.esa.int
+discover.esa.int
 distribution-xml.booking.com
 district.in
 dl.boxcloud.com
+dlmultimedia.esa.int
 dns.eu
 dns0.optus.net.au
 dns1.optus.net.au
@@ -1882,6 +1893,7 @@ donations.livestream.com
 doordash.doordashconsumer
 doppler.team
 download-installer.cdn.mozilla.net
+download.esa.int
 download.krisp.ai
 download.mozilla.org
 download.originenergy.com.au
@@ -2013,6 +2025,7 @@ ensemble.yahoo.com
 enspotify.com
 enviso.io
 enviso.shop
+eo4sd.esa.int
 eops.nl
 epam.com
 epaper.welt.de
@@ -2024,9 +2037,11 @@ erie-qa.gleague.nba.com
 erie.gleague.nba.com
 erpx.unit4cloud.com/u4erx_pab_acp1
 errors.hackerone.net
+esamultimedia.esa.int
 essentials.vinci.com
 essentiel.vinci.com
 estccdn.com
+estracknow.esa.int
 estratex.com
 esupplier.marriott.com
 eternal.com
@@ -2598,6 +2613,9 @@ io.metamask.metamask
 iowa-dev.gleague.nba.com
 iowa-qa.gleague.nba.com
 iowa.gleague.nba.com
+iptvdec.esoc.esa.int
+iptvenc.esoc.esa.int
+iptvenc2.esoc.esa.int
 ir.bookingholdings.com
 ir.clearme.com
 ir.remitly.com
@@ -2885,6 +2903,7 @@ m.blablacar.tr
 m.box.com
 m.chaturbate.com
 m.dana.id
+m.esa.int
 m.goodrx.com
 m.reddit.com
 m.tw.coupang.com
@@ -3168,6 +3187,7 @@ mpago.li
 msg.playcanvas.com
 msgsvc.io
 mta-sts.wearehackerone.com
+multimedia-delivery.esa.int
 munin.wordpress.org
 mus1.badoo.com
 muscache.com
@@ -3423,6 +3443,7 @@ outage.logitech.com
 outagehistory.logitech.com
 outfra.xyz
 outlook.insightly.com
+outpost42.esa.int
 ovo.id
 ovofinansial.com
 owa.marriott.com
@@ -3556,6 +3577,8 @@ phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
 photo.kruidvat.be
+photolibrary-acc.esa.int
+photolibrary.esa.int
 photos.adobe.io
 photoservice.stage.vismaonline.com
 photoshop.adobe.com
@@ -3893,6 +3916,8 @@ roonessentials.com
 roonessentials.net
 roonlabs.com
 roonlabs.net
+rosetta-acc.esa.int
+rosetta.esa.int
 router.geneva-staging.com
 router.hereapi.com
 row.pro
@@ -4053,6 +4078,7 @@ shop.app
 shop.demorgen.be
 shop.dyson.co.za
 shop.dyson.tw
+shop.esa.int
 shop.humo.be
 shop.infomaniak.com
 shop.judge.me
@@ -4162,6 +4188,7 @@ southbay-qa.gleague.nba.com
 southbay.gleague.nba.com
 soyoustart.com
 sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
+spacehpc.esa.int
 spaces.pm
 spark.fareharbor.com
 sparks-dev.wnba.com
@@ -4272,6 +4299,7 @@ statuspage.io
 steamcommunity.com
 steamstatic.com
 stock.adobe.com
+stockup.esa.int
 storage.infomaniak.com
 store-display.tw.coupang.com
 store.23andme.org
@@ -4493,7 +4521,7 @@ tucarro.com.co
 tumblr.com
 tumoto.com
 turing.exodus.io
-tv.telenor.se
+tvdownload.esa.int
 tvg.com
 tw.bid.yahoo.com
 tw.com.watsons.app
@@ -4654,6 +4682,7 @@ visainnovationprogram.com
 visamiddleeast.com
 visaonchainanalytics.com
 visasgic.api-xperience.com
+vision.esa.int
 vliegwinkel.nl
 voapi.8x8.com
 vod.infomaniak.com
@@ -4698,7 +4727,9 @@ wallets.api.playstation.com
 wallettg.com
 wallettg.net
 wasapi.watsons.com.tr
+watch-acc.esa.int
 watch-ng.nba.com
+watch.esa.int
 watch.global.nba.com
 watchdocs.indriverapp.com
 water-link.be
@@ -4824,7 +4855,11 @@ ws.deezer.com
 ws.sorare.com
 wss://messaging.vrt.be/
 wss://socket.bitpanda.com
+www-acc-adm.esa.int
+www-acc.esa.int
+www-adm.esa.int
 www-all.nba.com
+www-analytics.esa.int
 www-dev.nba.com
 www-dev.wnba.com
 www-ng.nba.com
@@ -4967,6 +5002,7 @@ www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
 www.elvetino.ch
+www.esa.int
 www.eurojackpot.nederlandseloterij.nl
 www.evernote.com
 www.expedia-aarp.com
