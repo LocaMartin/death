@@ -92,6 +92,7 @@ aces.wnba.com
 acrobat.adobe.com
 acronis.com
 acronis.work
+actie.libelle.nl
 actionableagile.55degrees-apps.net
 actionnaires.vinci.com
 activities.marriott.com
@@ -168,3 +169,12 @@ ak-static-dev.nba.com
 ak-static.cms-dev.nba.com
 ak-static.cms-qa.nba.com
 ak-static.cms.nba.com
+akhwien.at
+akismet.com
+alasco.de
+alasco.rocks
+alchemy.veriff.com
+aleenote.cn
+aleenote.com
+alert.logitech.com
+alerts.ninjakiwi.com

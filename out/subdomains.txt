@@ -479,6 +479,7 @@ acroshare.ru.corp.acronis.com
 acs.acc.mobilevikings.be
 acss.acronis.work
 actie.ad.nl
+actie.libelle.nl
 actionableagile.55degrees-apps.net
 actionnaires.vinci.com
 activation.acronis.com
@@ -822,6 +823,7 @@ airflow-prod.adv-ds-aws-magellan-prod.aws.oath.cloud
 airstar-finance.com
 airstar.com
 airstarfinance.net
+airwatch.akhwien.at
 aiss.acronis.work
 aiv-clients-apps.amazon.com
 aiv-eu-blr-dev.amazon.com
@@ -840,6 +842,7 @@ akamai-ci.airbnb.com
 akamai-renew-cert-digicert.amazon.co.uk
 akamai-renew-cert-digicert.amazon.com.au
 akamai-staging.airbnb.com
+akhwien.at
 akismet.com
 akl1-repo.acronis.com
 akl1-s3gw.acronis.com
@@ -1402,6 +1405,7 @@ aressem.smurf.scoober.aws-us-east-1c.public.vespa.oath.cloud
 aressem.smurf.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 aressem.smurf.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 aressem.smurf.scoober.global.public.vespa.oath.cloud
+arex.akhwien.at
 argileto.amazon.ca
 argileto.amazon.co.jp
 argileto.amazon.co.uk
@@ -1623,6 +1627,7 @@ autoconfig.compuserve.com
 autodandomain-qa2erfig-labart.rest.akismet.com
 autodiscover-ext.amazon.com
 autodiscover.acronis.com
+autodiscover.akhwien.at
 autodiscover.amazon.co.uk
 autodiscover.amazon.com
 autodiscover.amazon.com.co
@@ -1774,6 +1779,7 @@ bassb01.msteams.8x8.com
 bastion.adsrvr.org
 bastion.video-platform-splunk.aws.oath.cloud
 baueb01.msteams.8x8.com
+bauprojekte.akhwien.at
 bb0paypay507251a.rest.akismet.com
 bbb.8x8.com
 bcbsma.jobsdwebdisk.jobsewebdisk.jobsvwebdisk.jobsiwebdisk.data-science.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
@@ -2710,6 +2716,7 @@ cit.api.eu-west-1.account.here.com
 cit.api.us-east-1.account.here.com
 cit.eu-west-1.account.here.com
 cit.us-east-1.account.here.com
+citrix.akhwien.at
 claude-skill-publisher.gen.adsrvr.org
 cleanroom-api.aolp-ds-dev.aws.oath.cloud
 cleanroom.aolp-ds-dev.aws.oath.cloud
@@ -2852,6 +2859,7 @@ cloudforge-external.lux.amazon.com
 cloudfront-console-localization-test-prod.amazon.com
 cloudgrid.8x8.com
 cloudintegrations-jenkins.acronis.work
+cloudmail.akhwien.at
 cloudmgmt-atlantis-aws-svc-roles.cloud-mgmt.8x8cloud.net
 cloudplayer.amazon.co.uk
 club.ad.nl
@@ -3134,6 +3142,7 @@ d4e340e80c99.rest.akismet.com
 da.airbnb.com
 da.airbnb.org
 da.next.airbnb.com
+da2.akhwien.at
 daiweitest-sg-test-001.alipayplus.com
 daiweitest-sg-test-002.alipayplus.com
 daiweitest-sg-test-003.alipayplus.com
@@ -3685,6 +3694,7 @@ email.cloud.acronis.com
 embedded.alexa.amazon.com
 eml.restsimplycomply.akismet.com
 eml.us-east-1.amazon.com
+emm.akhwien.at
 endeavour.amazon.co.uk
 endeavour.amazon.com
 endpoint1302.verysecure.dev-test.vespa.oath.cloud
@@ -4376,6 +4386,7 @@ hv-qrs-gamma5-us-east-1b.gemini.yahoo.com
 hv-qrs-gamma5-us-west-2a.gemini.yahoo.com
 hy.airbnb.org
 hy.next.airbnb.com
+hybrid.akhwien.at
 hyd-a-orca.amazon.com
 hyd-b-orca.amazon.com
 hyd1-salmon.amazon.com
@@ -5215,6 +5226,7 @@ marksandspencer-pca-preview.amazon.com
 marksandspencer-pca-prod.amazon.co.uk
 maroma.adm.cloud.com
 maroma.agent.adm.cloud.com
+mars.akhwien.at
 mas-ext-cn.amazon.com
 mas-ext-eu.amazon.com
 mas-ext-fe.amazon.com
@@ -5599,6 +5611,7 @@ nalle.comics.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 nalle.comics.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 nap-accounts.evernote.com
 neomorphus.aws.amazon.com
+neptun.akhwien.at
 netbox.acronis.work
 netboxdev.acronis.work
 netportal.amer.acronis.work
@@ -5988,9 +6001,11 @@ partners.alipayplus.com
 partnerxchange.8x8.com
 passport-dev.acronis.work
 passport.acronis.work
+password.akhwien.at
 password.compuserve.com
 passwordcanary.cupid-na.idprism-auth.amazon.com
 patchmgmt.staging.sjc01.us-west.8x8cloud.net
+patientenportal.akhwien.at
 pay-preprod-v2.amazon.co.uk
 pay-v2.amazon.co.uk
 pay.8x8.com
@@ -6099,6 +6114,7 @@ playground.projectj.aws-us-east-1c.test.public.vespa.oath.cloud
 playground.projectj.global.public.vespa.oath.cloud
 plive.account.krisp.ai
 plm.amazon.com
+pluto.akhwien.at
 pmc.acronis.com
 pmc.acronis.work
 pmctest.acronis.work
@@ -6504,6 +6520,7 @@ ravpn.acronis.com
 razorbill-preview-console.aws.amazon.com
 rcm-uk.amazon.co.uk
 rcm.amazon.com
+rdg.akhwien.at
 rds-hashicorp-vault.acronis.work
 rds-hashicorp-vault.corp.acronis.com
 rds-proxy-rw.alasco.de
@@ -6761,6 +6778,7 @@ s-pre.adx.opera.com
 s.adx.opera.com
 s.bz.adx.opera.com
 s.gemini.yahoo.com
+s01ns02.akhwien.at
 s1.amazon.co.uk
 s1.amazon.com
 s3-au2-acs1.acronis.com
@@ -6882,6 +6900,7 @@ security.acronis.work
 sedi-api.amazon.com
 sedi-eu.amazon.com
 sedi.amazon.com
+seg.akhwien.at
 selab-grafana.acronis.work
 selection.amazon.co.uk
 selection.amazon.com
@@ -8514,6 +8533,7 @@ webcenters-preview.netscape.compuserve.com
 webcenters-qa-preview.netscape.compuserve.com
 webcenters-qa.netscape.compuserve.com
 webcenters.netscape.compuserve.com
+webmail.akhwien.at
 webmail.compuserve.com
 webpanel.acronis.work
 webpaypaymentgateway-a1e0461acbd7-dhcp4.8x8pilot.com
@@ -8643,6 +8663,7 @@ www.akamai-ci.airbnb.com
 www.akamai-ci.airbnb.org
 www.akamai-dev.airbnb.com
 www.akamai-dev.airbnb.org
+www.akhwien.at
 www.akismet.com
 www.alasco.de
 www.alasco.rocks
@@ -8678,6 +8699,7 @@ www.au-vpn.acronis.com
 www.auth.acronis.com
 www.awesome.8x8testa.com
 www.axtest.acronis.com
+www.bauprojekte.akhwien.at
 www.bestantivirussoftware.8x8.vc
 www.beta-s3gw.acronis.com
 www.bg-edge-1.acronis.com
