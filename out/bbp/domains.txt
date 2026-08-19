@@ -3577,8 +3577,6 @@ phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
 photo.kruidvat.be
-photolibrary-acc.esa.int
-photolibrary.esa.int
 photos.adobe.io
 photoservice.stage.vismaonline.com
 photoshop.adobe.com
