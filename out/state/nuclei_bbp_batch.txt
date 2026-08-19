@@ -1,4 +1,3 @@
-actie.libelle.nl
 astronauts.esa.int
 avamposto42.esa.int
 blogs.esa.int
@@ -10,20 +9,16 @@ comms-exhibitionmodels.esa.int
 discover-acc.esa.int
 discover.esa.int
 dlmultimedia.esa.int
-docs.superhuman.com
 download.esa.int
 eo4sd.esa.int
 esamultimedia.esa.int
 estracknow.esa.int
-experiences.crypto.com
 iptvdec.esoc.esa.int
 iptvenc.esoc.esa.int
 iptvenc2.esoc.esa.int
 m.esa.int
 multimedia-delivery.esa.int
 outpost42.esa.int
-photolibrary-acc.esa.int
-photolibrary.esa.int
 rosetta-acc.esa.int
 rosetta.esa.int
 seekpass.co
@@ -498,3 +493,8 @@ trac.wordpress.org
 trade.ripio.com
 trade.staging-enviso.io
 training.ui.com
+trainpal.com
+transact.playstation.com
+transferwise.com
+translate.badoo.com
+trato-feito-api.quintoandar.com.br
