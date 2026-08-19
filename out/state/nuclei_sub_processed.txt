@@ -479,6 +479,7 @@ acroshare.ru.corp.acronis.com
 acs.acc.mobilevikings.be
 acss.acronis.work
 actie.ad.nl
+actie.libelle.nl
 actionableagile.55degrees-apps.net
 actionnaires.vinci.com
 activation.acronis.com
@@ -822,6 +823,7 @@ airflow-prod.adv-ds-aws-magellan-prod.aws.oath.cloud
 airstar-finance.com
 airstar.com
 airstarfinance.net
+airwatch.akhwien.at
 aiss.acronis.work
 aiv-clients-apps.amazon.com
 aiv-eu-blr-dev.amazon.com
@@ -840,6 +842,7 @@ akamai-ci.airbnb.com
 akamai-renew-cert-digicert.amazon.co.uk
 akamai-renew-cert-digicert.amazon.com.au
 akamai-staging.airbnb.com
+akhwien.at
 akismet.com
 akl1-repo.acronis.com
 akl1-s3gw.acronis.com
@@ -1402,6 +1405,7 @@ aressem.smurf.scoober.aws-us-east-1c.public.vespa.oath.cloud
 aressem.smurf.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 aressem.smurf.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 aressem.smurf.scoober.global.public.vespa.oath.cloud
+arex.akhwien.at
 argileto.amazon.ca
 argileto.amazon.co.jp
 argileto.amazon.co.uk
@@ -1623,6 +1627,7 @@ autoconfig.compuserve.com
 autodandomain-qa2erfig-labart.rest.akismet.com
 autodiscover-ext.amazon.com
 autodiscover.acronis.com
+autodiscover.akhwien.at
 autodiscover.amazon.co.uk
 autodiscover.amazon.com
 autodiscover.amazon.com.co
@@ -1774,6 +1779,7 @@ bassb01.msteams.8x8.com
 bastion.adsrvr.org
 bastion.video-platform-splunk.aws.oath.cloud
 baueb01.msteams.8x8.com
+bauprojekte.akhwien.at
 bb0paypay507251a.rest.akismet.com
 bbb.8x8.com
 bcbsma.jobsdwebdisk.jobsewebdisk.jobsvwebdisk.jobsiwebdisk.data-science.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
@@ -2710,6 +2716,7 @@ cit.api.eu-west-1.account.here.com
 cit.api.us-east-1.account.here.com
 cit.eu-west-1.account.here.com
 cit.us-east-1.account.here.com
+citrix.akhwien.at
 claude-skill-publisher.gen.adsrvr.org
 cleanroom-api.aolp-ds-dev.aws.oath.cloud
 cleanroom.aolp-ds-dev.aws.oath.cloud
@@ -2852,6 +2859,7 @@ cloudforge-external.lux.amazon.com
 cloudfront-console-localization-test-prod.amazon.com
 cloudgrid.8x8.com
 cloudintegrations-jenkins.acronis.work
+cloudmail.akhwien.at
 cloudmgmt-atlantis-aws-svc-roles.cloud-mgmt.8x8cloud.net
 cloudplayer.amazon.co.uk
 club.ad.nl
@@ -3134,6 +3142,7 @@ d4e340e80c99.rest.akismet.com
 da.airbnb.com
 da.airbnb.org
 da.next.airbnb.com
+da2.akhwien.at
 daiweitest-sg-test-001.alipayplus.com
 daiweitest-sg-test-002.alipayplus.com
 daiweitest-sg-test-003.alipayplus.com
@@ -3685,6 +3694,7 @@ email.cloud.acronis.com
 embedded.alexa.amazon.com
 eml.restsimplycomply.akismet.com
 eml.us-east-1.amazon.com
+emm.akhwien.at
 endeavour.amazon.co.uk
 endeavour.amazon.com
 endpoint1302.verysecure.dev-test.vespa.oath.cloud
@@ -4376,6 +4386,7 @@ hv-qrs-gamma5-us-east-1b.gemini.yahoo.com
 hv-qrs-gamma5-us-west-2a.gemini.yahoo.com
 hy.airbnb.org
 hy.next.airbnb.com
+hybrid.akhwien.at
 hyd-a-orca.amazon.com
 hyd-b-orca.amazon.com
 hyd1-salmon.amazon.com
@@ -4498,3 +4509,37 @@ id-us-e15.identityb2b.aws.oath.cloud
 id-us-e16.identityb2b.aws.oath.cloud
 id-us-e17.identityb2b.aws.oath.cloud
 id-us-e18.identityb2b.aws.oath.cloud
+id-us-w01.identityb2b.aws.oath.cloud
+id-us-w02.identityb2b.aws.oath.cloud
+id-us-w03.identityb2b.aws.oath.cloud
+id-us-w04.identityb2b.aws.oath.cloud
+id-us-w05.identityb2b.aws.oath.cloud
+id-us-w06.identityb2b.aws.oath.cloud
+id-us-w07.identityb2b.aws.oath.cloud
+id-us-w08.identityb2b.aws.oath.cloud
+id-us-w09.identityb2b.aws.oath.cloud
+id-us-w10.identityb2b.aws.oath.cloud
+id-us-w11.identityb2b.aws.oath.cloud
+id-us-w12.identityb2b.aws.oath.cloud
+id-us-w13.identityb2b.aws.oath.cloud
+id-us-w14.identityb2b.aws.oath.cloud
+id-us-w15.identityb2b.aws.oath.cloud
+id-us-w16.identityb2b.aws.oath.cloud
+id-us-w17.identityb2b.aws.oath.cloud
+id-us-w18.identityb2b.aws.oath.cloud
+id.airbnb.org
+id.identityb2b.aws.oath.cloud
+id.next.airbnb.com
+id01-cloud.acronis.com
+idatabankmng-sim.alipayplus.com
+ideas.5nine.com
+ideas.qm.8x8.com
+ideas.restsimplycomply.akismet.com
+identity-browserapps.amazon.ae
+identity-browserapps.amazon.co.uk
+identity-browserapps.amazon.com.au
+identity-snds-cn.amazon.com
+identity-snds.amazon.com
+identity.amazon.com
+identity.browserapps.amazon.cn
+identity.browserapps.amazon.co.uk
