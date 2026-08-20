@@ -84,6 +84,7 @@ accounts.realestate.com.au
 accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
+accounts.x.ai
 accountshomolog.acesso.io
 aces-dev.wnba.com
 aces-qa.wnba.com
@@ -1612,6 +1613,8 @@ console.posti.com
 console.tink.com
 console.truelayer-sandbox.com
 console.truelayer.com
+console.x.ai
+console.x.com
 consumer.worldcoin.org
 contact-dev.nba.com
 contact-qa.nba.com
@@ -2299,7 +2302,6 @@ globalstores-qa.nba.com
 globalstores.nba.com
 gms-prev.nba.com
 gms.nba.com
-gnip.com
 gnocchi-www.buffalo-ggn.net
 go-cms.tw.coupang.com
 go-pay.co.id
@@ -3734,6 +3736,7 @@ prow.k8s.io
 prowly.com
 proxy-production.lime.bike
 ps5.np.playstation.net
+pscp.tv
 psp.marriott.com
 psychobunny.me
 psynet.gg
@@ -4538,7 +4541,6 @@ twilio.com
 twimg.com
 twinmotion.com
 twinmotion.unrealengine.com
-twitter.biz
 twitter.com
 twpay.buy.yahoo.com
 tyo-masters.co.jp
