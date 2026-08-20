@@ -4498,3 +4498,8 @@ trac.wordpress.org
 trade.ripio.com
 trade.staging-enviso.io
 training.ui.com
+trainpal.com
+transact.playstation.com
+transferwise.com
+translate.badoo.com
+trato-feito-api.quintoandar.com.br
