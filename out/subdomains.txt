@@ -454,6 +454,7 @@ accounts.realestate.com.au
 accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
+accounts.x.ai
 accountshomolog.acesso.io
 accreports.acronis.work
 acd.8x8.com
@@ -1635,6 +1636,7 @@ autodiscover.compuserve.com
 autodiscover.corp.acronis.com
 automation.8x8.com
 auxilium-extern-preprod.amazon.ae
+auxilium-extern-preprod.amazon.ca
 auxilium-extern-preprod.amazon.co.jp
 auxilium-extern-preprod.amazon.co.za
 auxilium-extern-preprod.amazon.com.au
@@ -1684,6 +1686,7 @@ aws-bcs-gamma-cn.amazon.com
 aws-ca-central-1a.vespa.oath.cloud
 aws-ca-central-1b.vespa.oath.cloud
 aws-ccnw-rp-cn-north-1-prod.amazon.cn
+aws-cp-entity-retail-proxy-cn-north-1-prod.amazon.cn
 aws-eu-central-1a.vespa.oath.cloud
 aws-eu-central-1b.vespa.oath.cloud
 aws-eu-central-1c.vespa.oath.cloud
@@ -1819,8 +1822,10 @@ beta-ecs.amazon.cn
 beta-eu-west-1.musicmaker.kids-play.amazon.co.uk
 beta-s3gw.acronis.com
 beta.alexa.amazon.ca
+beta.alexa.amazon.co.jp
 beta.alexa.amazon.co.uk
 beta.alexa.amazon.com
+beta.alexa.amazon.com.au
 beta.alexa.amazon.com.mx
 beta.developer.10x.redoxengine.com
 beta.eu-west-1.kids-bordering.amazon.co.uk
@@ -1975,6 +1980,7 @@ brandregistry.amazon.com.co
 brandregistry.amazon.com.mx
 brandregistry.amazon.com.ng
 brandservices.amazon.ae
+brandservices.amazon.ca
 brandservices.amazon.co.jp
 brandservices.amazon.co.uk
 brandservices.amazon.co.za
@@ -2173,6 +2179,7 @@ careers2.abercrombie.com
 carmel.adm.cloud.com
 carmel.agent.adm.cloud.com
 carriercentral.amazon.ae
+carriercentral.amazon.ca
 carriercentral.amazon.cl
 carriercentral.amazon.cn
 carriercentral.amazon.co.jp
@@ -3158,6 +3165,7 @@ dashboard.qa.ai.8x8.com
 dassc01-6.msteams.8x8.com
 dassc01.msteams.8x8.com
 data-exchange.amazon.ae
+data-exchange.amazon.co.jp
 data-exchange.amazon.co.uk
 data-fra.amazon.com
 data-ingest.cross-platform-analytics-alephd-dev.aws.oath.cloud
@@ -3168,6 +3176,7 @@ data-models.10x.redoxengine.com
 data.adsrvr.org
 data.amazon.ae
 data.amazon.cl
+data.amazon.cn
 data.amazon.co.uk
 data.amazon.co.za
 data.amazon.com.au
@@ -3764,6 +3773,7 @@ eu-west-1.gamma.crossroad.amazon.co.uk
 eu-west-1.geo.account.api.here.com
 eu-west-1.pr.p.account.here.com
 eu-west-1.prod.crossroad.amazon.co.uk
+eu-west-1.signin.aws.amazon.com
 eu-west-1.st.p.account.here.com
 eu-west-1.vespa.oath.cloud
 eu-west.chalet.8x8.com
@@ -3922,6 +3932,7 @@ fls-eu.amazon.com
 fls-eu.amazon.com.be
 fls-eu.amazon.com.ng
 fls-fe-opf.amazon.com.au
+fls-fe.amazon.co.jp
 fls-fe.amazon.com
 fls-fe.amazon.com.au
 fls-na.amazon.cl
@@ -4214,6 +4225,7 @@ gs.amazon.cn
 gsnlink.acronis.com
 guce.compuserve.com
 guce.isp.netscape.com
+guipitan.amazon.ca
 guipitan.amazon.com
 guipitan.amazon.com.au
 guipitan.amazon.com.mx
@@ -4839,6 +4851,7 @@ kids.amazon.co.uk
 kieswijzer.ad.nl
 kindle-app-service.amazon.com
 kindle-g7g.amazon.co.uk
+kindle-help.amazon.ca
 kindle-help.amazon.cn
 kindle-help.amazon.co.jp
 kindle-help.amazon.co.uk
@@ -4878,6 +4891,7 @@ kindle.amazon.com.au
 kindlecreate.amazon.com
 kindledirectpublishing.amazon.co.uk
 kindledirectpublishing.amazon.com.au
+kindlehelp.amazon.ca
 kindlehelp.amazon.cn
 kindlehelp.amazon.co.uk
 kindlehelp.amazon.com.br
@@ -4888,6 +4902,7 @@ kindlescout.amazon.com
 kindlestore-g7g.amazon.co.uk
 kindlestore-sha-proxy.amazon.co.uk
 kindlestore-sha-proxy.amazon.com.au
+kindlesupport.amazon.ca
 kindlesupport.amazon.co.uk
 kindlesupport.amazon.com.br
 kindleworlds-eu.amazon.com
@@ -5005,6 +5020,7 @@ legolas-profile-20170105.legolas.us-east-3.staging.vespa.oath.cloud
 legolas-profile-20170105.legolas.us-east-3.vespa.oath.cloud
 legolas-profile-20170105.legolas.us-west-1.vespa.oath.cloud
 lendercentral.amazon.ae
+leo.amazon.com
 ler.amazon.com
 ler.leo.amazon.com
 leverage-assets-alpha.alexa.amazon.com
@@ -5350,6 +5366,7 @@ mh.mikkemus.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 mh.mikkemus.scoober.global.public.vespa.oath.cloud
 mi.acronis.com
 micore.acronis.com
+midway-auth-itar.amazon.com
 midway-auth.amazon.com
 migration.business.amazon.co.uk
 mijnomgeving.ad.nl
@@ -5590,6 +5607,7 @@ myviking-test.acc.mobilevikings.be
 myviking.acc.mobilevikings.be
 n.alasco.de
 n.gemini.yahoo.com
+na-api-alexa.amazon.ca
 na-api-alexa.amazon.co.uk
 na-api-alexa.amazon.com.au
 na-api-alexa.amazon.com.mx
@@ -6067,6 +6085,7 @@ perfstg.account.api.here.com
 photoagent.amazon.com
 photos-internal.aka.amazon.co.uk
 photos-internal.aka.amazon.com.au
+photos.amazon.ca
 photos.amazon.co.jp
 photos.amazon.co.uk
 photos.amazon.com.au
@@ -6151,8 +6170,10 @@ prenta.acc.mobilevikings.be
 preprod-azure.account.adobe.com
 preprod.account.adobe.com
 preprod.alexa.amazon.ca
+preprod.alexa.amazon.co.jp
 preprod.alexa.amazon.co.uk
 preprod.alexa.amazon.com
+preprod.alexa.amazon.com.au
 preprod.alexa.amazon.com.mx
 preprod.am.monespacesante.fr
 preprod.editeur.am.monespacesante.fr
@@ -6779,6 +6800,7 @@ s.adx.opera.com
 s.bz.adx.opera.com
 s.gemini.yahoo.com
 s01ns02.akhwien.at
+s1.amazon.co.jp
 s1.amazon.co.uk
 s1.amazon.com
 s3-au2-acs1.acronis.com
@@ -6813,6 +6835,7 @@ s3-vytalink-acs1.acronis.com
 s3-yyz2-acs01.acronis.com
 s3-zrh1-acs2.acronis.com
 sa-east-1.console.aws.amazon.com
+sable-data-explorer-iad-jlb-iad.iad.proxy.amazon.com
 sabre-dev-use1-hadoop-core.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 sabre-dev-use1-hadoop-hdfs-nn.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
 sabre-dev-use1-hadoop-job-history-server.infra.svc.use1.grid-aws-dev.aws.yahoo.cloud
@@ -6836,7 +6859,10 @@ sandbox-api.gemini.yahoo.com
 sandbox-repo.acronis.com
 sandbox.accounts.logi.com
 sandbox.alexa.amazon.ca
+sandbox.alexa.amazon.co.jp
+sandbox.alexa.amazon.co.uk
 sandbox.alexa.amazon.com
+sandbox.alexa.amazon.com.au
 sandbox.alexa.amazon.com.mx
 sandbox.api.admanager.yahoo.com
 sandbox.api.gemini.yahoo.com
@@ -6885,6 +6911,7 @@ sea.oa.amazon.com
 seamus.amazon.co.uk
 search.advisories.gitlab.com
 search.isp.netscape.com
+secure-fields.amazon.ca
 secure-fields.amazon.co.uk
 secure.amazon.co.uk
 secure.amazon.com
@@ -6919,6 +6946,7 @@ seller.amazon.co.uk
 sellercentral-europe.amazon.com
 sellercentral-japan.amazon.com
 sellercentral.amazon.ae
+sellercentral.amazon.ca
 sellercentral.amazon.cl
 sellercentral.amazon.co.uk
 sellercentral.amazon.co.za
@@ -7425,8 +7453,10 @@ staging.airbnbcitizen.com
 staging.alasco.de
 staging.alasco.rocks
 staging.alexa.amazon.ca
+staging.alexa.amazon.co.jp
 staging.alexa.amazon.co.uk
 staging.alexa.amazon.com
+staging.alexa.amazon.com.au
 staging.alexa.amazon.com.mx
 staging.api.jr.airstarfinance.net
 staging.autoblog-aws-prod.aws.oath.cloud
@@ -7583,6 +7613,7 @@ supply.amazon.co.uk
 supply.amazon.co.za
 supply.amazon.com.au
 supply.amazon.com.be
+supplychain.amazon.co.jp
 supplychain.amazon.co.uk
 supplychain.amazon.com.au
 supplychainconnect.amazon.co.uk
@@ -7597,6 +7628,7 @@ support.acronis.com
 support.advancedcustomfields.com
 support.adx.opera.com
 support.alasco.de
+support.amazon.ca
 support.amazon.co.uk
 survey-tool.amazon.co.uk
 suvathyg-azo.dev.creatorstudio.amazon.com
@@ -7641,6 +7673,7 @@ tacocorp-ecs-cluster.one-mobile-prod.aws.oath.cloud
 tagcache.one-mobile-prod.aws.oath.cloud
 tagcache.prod.aolp-ds-prd.aws.oath.cloud
 tap.corp.8x8.com
+tax-exemption.amazon.ca
 tax-exemption.amazon.com
 taxa.acc.mobilevikings.be
 taxcalculation.amazon.com
@@ -7944,6 +7977,7 @@ umass.amazon.com
 unagi-eu.amazon.co.uk
 unagi-fe.amazon.com.au
 unagi.amazon.ae
+unagi.amazon.ca
 unagi.amazon.cl
 unagi.amazon.co.uk
 unagi.amazon.co.za
@@ -8491,6 +8525,7 @@ warpspeed.eu-west-1.aws.amazon.com
 warpspeed.us-east-1.aws.amazon.com
 warpspeed.us-gov-west-1.aws.amazon.com
 warpspeed.us-west-2.aws.amazon.com
+watch.amazon.co.jp
 watch.amazon.co.uk
 watchtower-beta.watchtower-nonprod.aws-us-east-1a.vespa.oath.cloud
 watchtower-beta.watchtower-nonprod.aws-us-east-1b.vespa.oath.cloud
@@ -8561,12 +8596,15 @@ webteam-zbx.corp.acronis.com
 webtest-2.acronis.com
 webwinkel.ad.nl
 wellfleet.aws.amazon.com
+wf.prime.amazon.ca
 whispercast.amazon.com
 whitehaven.agent.adm.cloud.com
 whodis.acc.mobilevikings.be
+wholefoods.amazon.ca
 wholefoods.amazon.co.uk
 wholefoodsmarket.amazon.ca
 wholefoodsmarket.amazon.co.uk
+wholefoodsmarket.prime.amazon.ca
 widget.ai.8x8.vc
 widget.ai.preview.8x8.vc
 widget.ai.stage.8x8.vc
@@ -8721,6 +8759,7 @@ www.ca02-cloud.acronis.com
 www.care.acronis.com
 www.cas.acronis.com
 www.cb-eu2.acronis.com
+www.cdn.amazon.ca
 www.ces.acronis.com
 www.cestest.corp.acronis.com
 www.cftp.acronis.com
@@ -9025,6 +9064,7 @@ yolo-swag.scoober.aws-us-east-1c.public.vespa.oath.cloud
 yolo-swag.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 yolo-swag.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 yolo-swag.scoober.global.public.vespa.oath.cloud
+your-account.amazon.ca
 your-account.amazon.cn
 your-account.amazon.co.uk
 your-account.amazon.com.br
