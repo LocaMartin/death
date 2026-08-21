@@ -2,11 +2,6 @@ accounts.x.ai
 console.x.ai
 console.x.com
 pscp.tv
-trainpal.com
-transact.playstation.com
-transferwise.com
-translate.badoo.com
-trato-feito-api.quintoandar.com.br
 travel.crypto.com
 travelagents.marriott.com
 travelbook.de
@@ -498,3 +493,8 @@ www.dyson.com.ro
 www.dyson.com.sg
 www.dyson.com.tr
 www.dyson.com.ua
+www.dyson.cz
+www.dyson.de
+www.dyson.dk
+www.dyson.es
+www.dyson.fr
