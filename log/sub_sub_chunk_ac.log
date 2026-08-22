@@ -1,3 +1,1 @@
-[oob-header-based-interaction:dns] [http] [info] https://mas-sdk.amazon.com
-[oob-header-based-interaction:dns] [http] [info] https://mas-sdk-fe.amazon.com
-[oob-header-based-interaction:dns] [http] [info] https://mcs-cdn.business.amazon.com.au
+[host-header-injection] [http] [info] https://london.8x8.vc
