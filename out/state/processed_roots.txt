@@ -208,3 +208,13 @@ amazon.co.za
 amazon.com
 amazon.com.au
 amazon.com.be
+amazon.com.br
+amazon.com.co
+amazon.com.mx
+amazon.com.ng
+amazon.com.tr
+amazon.com/hz/mycd/*
+amazon.de
+amazon.eg
+amazon.es
+amazon.fr
