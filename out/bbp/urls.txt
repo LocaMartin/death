@@ -90,8 +90,6 @@ http://www.bybit.com/en/alpha/overview
 http://www.bybit.com/trade/tradfi
 http://www.byreal.io
 http://www.kiwi.com/stories
-http://www.lululemon.co.kr
-http://www.myvisacardportal.com/welcome/enbd/product
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
 http://www.underarmour.com.sg
@@ -706,8 +704,6 @@ https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
-https://github.com/brave
-https://github.com/brave-intl
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
@@ -2115,7 +2111,6 @@ https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
 https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
-https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
 https://shop.posti.fi
@@ -2516,7 +2511,6 @@ https://www.epam.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
-https://www.eu.lululemon.com
 https://www.exoscale.com/
 https://www.figma.com
 https://www.files.com/docs/client-apps/command-line-interface-cli-app
@@ -2575,14 +2569,6 @@ https://www.logitech.com/blog
 https://www.lookfantastic.com/
 https://www.loom.com/
 https://www.loom.com/download
-https://www.lululemon.co.jp
-https://www.lululemon.co.nz
-https://www.lululemon.co.uk
-https://www.lululemon.com.au
-https://www.lululemon.com.hk
-https://www.lululemon.de
-https://www.lululemon.es
-https://www.lululemon.fr
 https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.majidalfuttaimproperties.com/en
@@ -2627,6 +2613,7 @@ https://www.monzo.com
 https://www.mycitycentrealbarsha.com/
 https://www.myntra.com
 https://www.myprotein.com/
+https://www.myvisacardportal.com/enbd/en_ae/landing
 https://www.myvitamins.com/
 https://www.namejet.com/
 https://www.networksolutions.com

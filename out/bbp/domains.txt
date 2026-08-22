@@ -112,7 +112,6 @@ admin.podsights.com
 admin.ring.com
 admin.shopify.com
 admin.sqills-bugbounty-test.cloud.sqills.com
-admin.wickr.com
 admin2.infomaniak.com
 admincms.developer.monespacesante.fr
 admincms.monespacesante.fr
@@ -1234,8 +1233,6 @@ com.boozt.app
 com.boozt.booztlet
 com.booztlet
 com.box.android
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -2867,7 +2864,6 @@ luckydays.ca
 luckydays.com
 lucra.live
 lukwerks.com
-lululemon.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
 luxfilmfesttickets.megatix.be
@@ -4671,11 +4667,8 @@ vinci-groupe.profils.org
 vine.co
 vintia.cloud
 vintia.com
-visa.co.cr
-visa.co.ni
 visa.co.za
 visa.com.au
-visa.com.bo
 visa.com.jm
 visa.com.ru
 visainnovationprogram.com
@@ -5266,16 +5259,19 @@ www.vimeo.com
 www.vinci-vie.fr
 www.vinci.com
 www.visa.co.ao
+www.visa.co.cr
 www.visa.co.id
 www.visa.co.il
 www.visa.co.in
 www.visa.co.jp
 www.visa.co.ke
+www.visa.co.ni
 www.visa.co.nz
 www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
 www.visa.com.az
+www.visa.com.bo
 www.visa.com.br
 www.visa.com.cn
 www.visa.com.cy
@@ -5319,7 +5315,6 @@ www.watsonsbeautystudio.com
 www.weclapp.com
 www.whatismode.com
 www.whatnot.com
-www.wickr.com
 www.wmconnect.com
 www.wnba.com
 www.wotif.com
