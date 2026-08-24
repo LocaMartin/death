@@ -1225,7 +1225,9 @@ amazonpay-integration.amazon.co.jp
 amazonpay-sandbox.amazon.in
 amazonpay.amazon.in
 amazonpay.in
+amazonpayinsurance.in
 amazonpayments.amazon.com
+amd.digitalocean.com
 ameriprise.airbnbcitizen.com
 amf-prod.advgovernance-aws-prod.aws.oath.cloud
 amf-qa.advgovernance-aws-dev.aws.oath.cloud
@@ -1239,7 +1241,12 @@ amg.amazon.it
 amh.amazon.co.uk
 ami-build-prod.pcp.aws.oath.cloud
 amo.addons.allizom.org
+amp-nba-dev.nba.com
+amp-nba-stage.nba.com
+amp-nba.nba.com
 amp.aws.amazon.com
+amp.reddit.com
+amplitude-game.com
 ams.amazon.ca
 ams.amazon.cn
 ams.amazon.co.jp
@@ -1289,6 +1296,8 @@ analytics.8x8.com
 analytics.acronis.com
 analytics.aws-oath-fires-brana-dev.aws.oath.cloud
 analytics.aws-oath-fires-brana-prod.aws.oath.cloud
+analytics.krisp.ai
+analytics.ninjakiwi.com
 andre-client.acc.mobilevikings.be
 andre.acc.mobilevikings.be
 andreer.comics.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
@@ -6731,6 +6740,7 @@ playground.projectj.aws-us-east-1c.staging.public.vespa.oath.cloud
 playground.projectj.aws-us-east-1c.test.public.vespa.oath.cloud
 playground.projectj.global.public.vespa.oath.cloud
 plive.account.krisp.ai
+plive.analytics.krisp.ai
 plm.amazon.com
 pluto.akhwien.at
 pmc.acronis.com
@@ -8092,6 +8102,7 @@ stage.8x8.vc
 stage.account.adobe.com
 stage.account.krisp.ai
 stage.acrobat.adobe.com
+stage.analytics.krisp.ai
 stage.cbc.acronis.work
 stage.chalet.8x8.com
 stage.client.kafka.report.gemini.yahoo.com
@@ -8529,6 +8540,7 @@ tp-oci-cp-phx-01.staging.cloud.8x8.com
 tp-oci-cp-syd-01.prod.cloud.8x8.com
 tp-oci-cp-yul-01.prod.cloud.8x8.com
 tp-oci-cp-yyz-01.prod.cloud.8x8.com
+tp.50c2a93f4-frontier.amazonpayinsurance.in
 tp.72c8ecfaf-frontier.fe.amazonalexa.com
 tp.adx.opera.com
 tp.b16066390-frontier.amazonalexa.com
@@ -9446,6 +9458,9 @@ www.amazon.sa
 www.amazon.se
 www.amazon.sg
 www.amazonpay.in
+www.amazonpayinsurance.in
+www.amp.reddit.com
+www.amplitude-game.com
 www.ams.amazon.in
 www.api-acceptance.8x8.com
 www.api-dev.8x8.com

@@ -228,3 +228,13 @@ amazon.sg
 amazon.speech.sim
 amazonalexa.com
 amazonpay.in
+amazonpayinsurance.in
+amd.digitalocean.com
+amp-nba-dev.nba.com
+amp-nba-stage.nba.com
+amp-nba.nba.com
+amp.reddit.com
+amplitude-game.com
+analytics-8x8.com
+analytics.krisp.ai
+analytics.ninjakiwi.com
