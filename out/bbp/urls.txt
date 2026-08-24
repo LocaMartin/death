@@ -704,6 +704,8 @@ https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
+https://github.com/brave
+https://github.com/brave-intl
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
@@ -957,7 +959,6 @@ https://gwapi2.tripadvisor.com
 https://gx.games
 https://gx.me
 https://gx.opera-api.com
-https://hackerone-m1rtuq8orz.hbstaging.website/
 https://hatching.io
 https://help.etsy.com
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
@@ -1160,8 +1161,6 @@ https://marketplace.atlassian.com/apps/1211312/confluence-issue-tab-plugin-for-j
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=server&tab=overview
-https://marketplace.atlassian.com/apps/1211397/openid-oauth-authentication-jira?hosting=datacenter&tab=overview
-https://marketplace.atlassian.com/apps/1211397/openid-oauth-authentication-jira?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=datacenter
 https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1211459/mobility-for-jira-mobile-for-enterprise-teams?hosting=datacenter&tab=overview
@@ -1220,8 +1219,6 @@ https://marketplace.atlassian.com/apps/1213440/asana-importer-plugin-for-jira?ho
 https://marketplace.atlassian.com/apps/1213649/custom-fields-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1213697/actions-for-jira-service-management?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1213851/watch-it-for-jira-cloud?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1213892/openid-oauth-authentication-confluence?hosting=datacenter&tab=overview
-https://marketplace.atlassian.com/apps/1213892/openid-oauth-authentication-confluence?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1214045/raley-email-notifications-for-jira-jsm?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1214046/favorites-dialog-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/1214056/sub-task-manager-for-jira?hosting=cloud&tab=overview
@@ -1541,7 +1538,6 @@ https://marketplace.atlassian.com/apps/1224087/whiteboard-process-workflow-visua
 https://marketplace.atlassian.com/apps/1224117/api-token-authentication-for-bitbucket?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1224117/api-token-authentication-for-bitbucket?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1224142/monday-com-for-confluence?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1224156/miro-embed-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224167/security-for-confluence-enhanced-secret-scanner-by-soteri?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224167/security-for-confluence-enhanced-secret-scanner-by-soteri?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
@@ -1552,8 +1548,6 @@ https://marketplace.atlassian.com/apps/1224457/aws-sso-alb-amazon-cognito-authen
 https://marketplace.atlassian.com/apps/1224459/aws-alb-and-amazon-cognito-authentication-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/1224459/aws-sso-alb-amazon-cognito-authentication-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1224537?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1224602/smartsheet-for-confluence?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1224606/microsoft-power-bi-embed-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224654/multilevel-select-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1224678/monday-com-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224728/crucible-build-status?hosting=server
@@ -1572,7 +1566,6 @@ https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hos
 https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=server
 https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?tab=overview&hosting=datacenter
-https://marketplace.atlassian.com/apps/1225465/pdf-embed-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225519/elements-publish-to-confluence-create-pages-from-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1225654/ui-wireframes-mockup-prototype-diagrams-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence?hosting=cloud
@@ -2118,7 +2111,6 @@ https://sign.originzero.com.au
 https://signal.pulsepoint.com/hcp365#/dashboard/advertiser/6603/overview
 https://signal.pulsepoint.com/hcpexplorer#/dashboard/eventsExplorer
 https://signature.blis.com
-https://signin-hackerone.hbstaging.website/
 https://simnext.bullish-test.com
 https://simplisafe.co.uk
 https://simplisafe.com
@@ -2294,6 +2286,7 @@ https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/t88511d1
 https://us.eufy.com/products/t88711w1
+https://usa.visa.com/gateway/api
 https://usdstandard.com
 https://utv.usaa.com
 https://v.utv.usaa.com
@@ -2773,7 +2766,10 @@ https://www.vidaxl.se
 https://www.vidaxl.si
 https://www.vidaxl.sk
 https://www.vidaxl.uk
+https://www.visa.co.nz/gateway/api
 https://www.visa.com.az/az_az/account/registration
+https://www.visa.com.ua/
+https://www.visabg.com/gateway/api
 https://www.visaforkorea-sl.com/
 https://www.vtcprodapi.maf.ae/svc/svchifi.svc/saveocrreceipt
 https://www.vwfs.co.in
