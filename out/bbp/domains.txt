@@ -741,7 +741,6 @@ autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
 avamposto42.esa.int
 avecspotify.com
-aw.visa.com
 aws.indriverapp.com
 ax-stage.maventa.com
 ayco.com
@@ -773,7 +772,6 @@ basecamp.rivian.com
 bastion.oath.cloud
 bastion.yahoo.cloud
 battles.tv
-bb.visa.com
 bbpress.org
 bcny.com
 bd.visa.com
@@ -851,7 +849,6 @@ bluecoats.gleague.nba.com
 blueprints.amazon.com
 blueskytours.com
 blueskytours.globalbookingsolutions.com
-bm.visa.com
 bma.badoo.com
 bma.bumble.com
 boardkingsgame.com
@@ -879,7 +876,6 @@ booztlet.com
 boredapeyachtclub.com
 bouw7.nl
 bpa2.marriott.com
-bq.visa.com
 br.nba.com
 braintree-api.com
 braintree.tools
@@ -1702,7 +1698,6 @@ ctr.a.exodus.io
 cubicmotion.com
 customer-sessions.arkoselabs.com
 customerevents.netflix.com
-cw.visa.com
 cweb-ott-aws-qa.nba.com
 cweb-ott-aws-uat-uw2.nba.com
 cweb-ott-aws-uat.nba.com
@@ -2231,7 +2226,6 @@ gantner.be
 gantner.com
 gantnercloud.com
 gantnerindia.com
-garp.visa.com
 gasstation.polygon.technology
 gatekeeper.prd.iat.it.xvservice.net
 gateway-apc.marriott.com
@@ -2464,7 +2458,6 @@ hpe aruba networking wireless - aos-10.7 and above access points (ap)
 hpe aruba networking wireless - aos-10.7 and above gateways (gw)
 hs-sites-eu1.com
 hs-sites.com
-ht.visa.com
 http1mustdie.com
 hu.marionnaud.customer
 hub-api-sandbox.remitly.io
@@ -2564,7 +2557,6 @@ indriver.io
 indriverapp.com
 inf.fndlsb.net
 inference.do-ai.run
-infinite.visa.fr
 influencers.tw.coupang.com
 info.authorize.net
 info.cybersource.com
@@ -2940,6 +2932,7 @@ manage.nba.com
 manager.infomaniak.com
 manager.infomaniak.com/v3/*
 mangerbouger.fr
+map.8x8.com
 map.snapchat.com
 mapi.moneyback.com.hk
 marcus.co.uk
@@ -4248,7 +4241,6 @@ sqills-bugbounty-test.cloud.sqills.com
 sqills.com
 sqills.team
 sr-staging-1.com
-sr.visa.com
 src.mastercard.com
 srvcs.tumblr.com
 sso-sprint.dynatracelabs.com
@@ -4622,7 +4614,6 @@ vayama.com
 vc.logitech.com
 vcc-*.8x8.com
 vcc-ce.8x8.com
-vdam.visa.com
 vector.prd.iat.it.xvservice.net
 venmo.com
 vennhypotheken.nl
@@ -4678,7 +4669,6 @@ visa.com.au
 visa.com.jm
 visa.com.mx
 visa.com.ru
-visa.in
 visainnovationprogram.com
 visamiddleeast.com
 visaonchainanalytics.com
@@ -4915,7 +4905,6 @@ www.bouw7.nl
 www.bumble.com
 www.cadelam.be
 www.cadelux.lu/en
-www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp
 www.casinohuone.com
@@ -5138,7 +5127,6 @@ www.moneyback.com.hk
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
-www.mz.visa.com
 www.nba.com
 www.nederlandseloterij.nl
 www.netflix.com
@@ -5270,7 +5258,6 @@ www.visa.be
 www.visa.ca
 www.visa.cl
 www.visa.cn
-www.visa.co.ao
 www.visa.co.cr
 www.visa.co.id
 www.visa.co.il
@@ -5294,9 +5281,7 @@ www.visa.com.hr
 www.visa.com.jm
 www.visa.com.kh
 www.visa.com.kz
-www.visa.com.lc
 www.visa.com.lk
-www.visa.com.ms
 www.visa.com.mx
 www.visa.com.my
 www.visa.com.ng
@@ -5309,7 +5294,6 @@ www.visa.com.vn
 www.visa.cz
 www.visa.de
 www.visa.dk
-www.visa.dm
 www.visa.ee
 www.visa.es
 www.visa.fi
