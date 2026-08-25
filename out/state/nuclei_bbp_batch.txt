@@ -2,12 +2,10 @@ africa.visa.com
 by.visa.com
 cis.visa.com
 iron.xyz
+map.8x8.com
 myanmar.visa.com
 rs.visa.com
-sr.visa.com
 visa.com.mx
-visa.in
-www.mz.visa.com
 www.visa.be
 www.visa.ca
 www.visa.cl
@@ -18,7 +16,6 @@ www.visa.com.jm
 www.visa.cz
 www.visa.de
 www.visa.dk
-www.visa.dm
 www.visa.ee
 www.visa.es
 www.visa.fi
