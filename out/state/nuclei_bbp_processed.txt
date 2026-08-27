@@ -2959,6 +2959,7 @@ manage.nba.com
 manager.infomaniak.com
 manager.infomaniak.com/v3/*
 mangerbouger.fr
+map.8x8.com
 map.snapchat.com
 mapi.moneyback.com.hk
 marcus.co.uk
