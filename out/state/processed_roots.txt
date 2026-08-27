@@ -248,3 +248,13 @@ anduril.dev
 andurildev.au
 andurildev.com
 anext.com.sg
+anfcorp.com
+antbank.hk
+anthropic.atlassian.com
+antom.com
+any applications under https://www.expressvpn.com/latest
+any host verified to be owned by tesla motors inc. (domains/ip space/etc.)
+any issue affecting the wp cloud hosting environment allowing cross-site access/impact, the wp cloud api or the wp.cloud website
+any other applications found here: https://security-en.alipay.com/home
+any verified dell-controlled endpoint (domains/ip space/etc.)
+ap-s.cloud.com
