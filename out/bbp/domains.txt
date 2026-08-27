@@ -418,7 +418,6 @@ api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.privy.io
-api.prod.innovexperiments.com
 api.prod.whoop.com
 api.qualified.com/v1
 api.qwant.com
@@ -489,7 +488,6 @@ api.staging-enviso.io/ticketwidgetapi
 api.steampowered.com
 api.stg.inspectorio.com
 api.stripe.com
-api.super-id.net
 api.superdrug.com
 api.swapcard.com
 api.swiftfinancial.com
@@ -1941,7 +1939,6 @@ ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecommerceday.de
-ecosystem-experience.super-id.net
 ecrf.uzleuven.be
 edge.blablacar.be
 edge.blablacar.co.uk
@@ -2070,7 +2067,6 @@ exodus.com
 exodus.io
 exoscale.com
 expediapartnercentral.com
-experience.prod.innovexperiments.com
 experiences.booking.com
 experiences.crypto.com
 explore.redoxengine.com
@@ -4341,7 +4337,6 @@ sun-qa.wnba.com
 sun-qa2.wnba.com
 sun.wnba.com
 super6.skysports.com
-superbank.id
 superbet.bet.br
 superbet.com
 superbet.gr
