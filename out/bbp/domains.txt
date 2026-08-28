@@ -59,7 +59,6 @@ access.remitly.com
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
-account.adobe.com
 account.api.here.com
 account.booking.com
 account.box.com
@@ -68,7 +67,6 @@ account.here.com
 account.kaufland.com
 account.kaufland.de
 account.krisp.ai
-account.magento.com
 account.mongodb.com
 account.roon.app
 account.ui.com
@@ -90,7 +88,6 @@ aces-dev.wnba.com
 aces-qa.wnba.com
 aces-qa2.wnba.com
 aces.wnba.com
-acrobat.adobe.com
 acronis.com
 acronis.work
 actie.libelle.nl
@@ -120,8 +117,6 @@ adminml.com
 adminstore.developer.monespacesante.fr
 adminstore.monespacesante.fr
 admintool.lime.bike
-adobe.fresco.ios
-adobeid-na1.services.adobe.com
 ads-img.allizom.org
 ads-img.mozilla.org
 ads-partners.tw.coupang.com
@@ -722,7 +717,6 @@ auth.ort-one-pingone.com
 auth.preprod.monespacesante.fr
 auth.privy.io
 auth.remitly.com
-auth.services.adobe.com
 auth.skypicker.com
 auth.truelayer-sandbox.com
 auth.truelayer.com
@@ -1144,13 +1138,6 @@ com.abercrombie.abercrombie
 com.abercrombie.hollister
 com.acronis.abc
 com.acronis.acronistrueimage
-com.adobe.adobe-reader
-com.adobe.lrmobile
-com.adobe.psmobile
-com.adobe.reader
-com.adobe.scan.android
-com.adobe.scan.ios
-com.adobe.workfront
 com.affirm.central.audit
 com.affirm.internal.hackerone
 com.airbnb.android
@@ -1280,7 +1267,6 @@ com.fanduel.sportsbook
 com.finshell.finance
 com.finshell.wallet
 com.fintech.life
-com.frame.frameio
 com.freshchat.agent.android
 com.freshdesk.helpdesk
 com.freshservice.helpdesk
@@ -1345,7 +1331,6 @@ com.imdbtv.livingroom
 com.immediasemi.android.blink
 com.instacart.client
 com.inthepocket.kinepolis
-com.iphone.workfront
 com.jellybtn.boardkings
 com.jellybtn.cashkingmobile
 com.katanlabs.bubblepop
@@ -1570,7 +1555,6 @@ com.zhiliaoapp.musically
 com.zzkko
 comic-indies.pixiv.net
 comic.pixiv.net
-commercemarketplace.adobe.com
 comms-exhibitionmodels.esa.int
 community.8x8.com
 community.forescout.com
@@ -1633,7 +1617,6 @@ content-service.bfda.live.use1a.on.epicgames.com
 contentportal.marriott.com
 contentportalauth.marriott.com
 contile.services.mozilla.com
-contributor.stock.adobe.com
 core assets in-scope products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 core-api-aws-dev.nba.com
 core-api-aws-prod-east1.nba.com
@@ -2142,7 +2125,6 @@ fintech-aml-kyc-tw.coupang.com
 fire-dev.wnba.com
 fire-qa.wnba.com
 fire.wnba.com
-firefly.adobe.com
 firefox-ci-tc.services.mozilla.com
 firefox-settings-attachments.cdn.mozilla.net
 firefox.settings.services.mozilla.com
@@ -2175,7 +2157,6 @@ foliofn.com
 folioidentity.com
 folioinstitutional.com
 folioinvesting.com
-fonts.adobe.com
 forescout.com
 foretagsportalen.telenor.se
 forms.cybersource.com
@@ -2748,7 +2729,6 @@ launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
 leaked/compromised employee accounts *.here.com
-learningmanagerstage4.adobe.com
 lecstaticcontent.lansweeper.com
 lefties.com
 lego.me
@@ -2765,7 +2745,6 @@ lifeatspotify.com
 liferay dxp 2024.q1
 liferay dxp 2025.q1
 liferay dxp 2026.q1
-lightroom.adobe.com
 link.co
 link.com
 link.tw.coupang.com
@@ -2901,7 +2880,6 @@ m.tw.coupang.com
 mab.co.id
 maestro.8x8.cloud
 magazine.kruidvat.be
-magento.com
 magic.veriff.me
 magisto.com
 magwien.gv.at
@@ -3268,7 +3246,6 @@ nbaintl.nba.com
 nbameeting.nba.com
 neoket.net
 net.bitstamp.app
-net.s2stagehance.com
 net.supertreat.solitaire
 net.wooga.junes_journey_hidden_object_mystery_game
 net.wooga.switchcraft.googleplay
@@ -3279,7 +3256,6 @@ netlify-rum.netlify.app
 network-auth.com
 networkguard.com
 new-order.eu-east-1.indriverapp.com
-new.express.adobe.com
 new.livestream.com
 new.reddit.com
 new.www.vaxvacationaccess.com
@@ -3568,9 +3544,7 @@ phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
 photo.kruidvat.be
-photos.adobe.io
 photoservice.stage.vismaonline.com
-photoshop.adobe.com
 phrasingpro3.com
 piaservers.com
 piaservers.net
@@ -3634,7 +3608,6 @@ portal.taxi.booking.com
 portalinmobiliario.cl
 portalinmobiliario.com
 portals.doccle.be
-portfolio.ccpsx.com
 portland-dev.wnba.com
 portland-qa.wnba.com
 portland.wnba.com
@@ -3840,7 +3813,6 @@ remitresearch.com
 reno-dev.gleague.nba.com
 reno.gleague.nba.com
 rentalcars.com
-repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.uat.proptrack.com
 report.voi.com
@@ -4289,7 +4261,6 @@ status.larksuite.com
 statuspage.io
 steamcommunity.com
 steamstatic.com
-stock.adobe.com
 stockup.esa.int
 storage.infomaniak.com
 store-display.tw.coupang.com
