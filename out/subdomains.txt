@@ -1466,7 +1466,11 @@ ap-southeast-2.console.aws.amazon.com
 ap.acronis.work
 apa-sin.adsrvr.org
 apac.account.amazon.com
+apcgateway.marriott.com
+apex-football.com
+apexnews.com
 api-acceptance.8x8.com
+api-accpt.portofantwerpbruges.com
 api-adm.amt-amt-java.aws.oath.cloud
 api-amazondevices.amazon.ae
 api-amazondevices.amazon.ca
@@ -1495,6 +1499,7 @@ api-aol-sync.mail-backend-schd-prd.aws.oath.cloud
 api-aol.mail-backend-schd-client.aws.oath.cloud
 api-aol.mail-backend-schd-dev.aws.oath.cloud
 api-aol.mail-backend-schd-prd.aws.oath.cloud
+api-app.telenor.se
 api-bug-bounty.alasco.rocks
 api-cdn.amazon.com
 api-cosmo.srs-dev.pcp.aws.oath.cloud
@@ -1507,6 +1512,9 @@ api-dv.anfcorp.com
 api-eu-south-1-restsimplycomply.akismet.com
 api-eu-south-2.amazonalexa.com
 api-eu-south-2.eu.amazonalexa.com
+api-eu.floqast.app
+api-gateway.polygon.technology
+api-js.datadome.co
 api-key.amazon.ca
 api-key.amazon.co.jp
 api-key.amazon.co.uk
@@ -1590,6 +1598,7 @@ api.amt-amt-java.aws.oath.cloud
 api.amt-aws-uat.aws.oath.cloud
 api.anchor.fm
 api.anfcorp.com
+api.apexscores.io
 api.aws-oath-video-intelligence-prod.aws.oath.cloud
 api.eu.amazonalexa.com
 api.fe.amazonalexa.com
@@ -3618,6 +3627,7 @@ contacts.8x8.uk
 content-drive.amazon.co.uk
 content-drive.amazon.com.au
 content-enrich.finance-aws-devs.aws.oath.cloud
+content.apexnews.com
 contenta.andurildev.au
 contentindexing-stg.partner-publishing.ap-northeast-1.vespa.oath.cloud
 contentindexing-stg.partner-publishing.ap-northeast-2.vespa.oath.cloud
@@ -5890,6 +5900,7 @@ legacy.emea.corp.acronis.com
 legacy.ru.corp.acronis.com
 legacy.us.corp.acronis.com
 legal.antom.com
+legal.apexnews.com
 legolas-profile-20170105.legolas.ap-northeast-1.vespa.oath.cloud
 legolas-profile-20170105.legolas.ap-northeast-2.vespa.oath.cloud
 legolas-profile-20170105.legolas.ap-southeast-1.vespa.oath.cloud
@@ -5942,6 +5953,8 @@ linkd.antbank.hk
 links.8x8.com
 lis1-repo.acronis.com
 lis1-s3gw.acronis.com
+lite.apex-football.com
+lite.apexscores.io
 litecoin.a.exodus.io
 litellm.alasco.de
 litellm.alasco.rocks
@@ -6604,8 +6617,10 @@ nevec-aws-int.aws.oath.cloud
 nevec-aws-prod.aws.oath.cloud
 new-simplycommunities.akismet.com
 new.account.krisp.ai
+news-detail.apexnews.com
 news.akamai-ci.airbnb.com
 news.akamai-dev.airbnb.com
+news.apexnews.com
 nexus.uplynk-inf.aws.oath.cloud
 ng01-cloud.acronis.com
 nginxtest-dev.pilot.aws.infra8.8x8cloud.net
@@ -6808,6 +6823,7 @@ open-na.alipayplus.com
 open-sea-mtls.alipayplus.com
 open-sea.alipayplus.com
 open-sectest-sg.antom.com
+open.apexnews.com
 opengw.anext.com.sg
 openwebui.alasco.rocks
 openziti-controller.athenz-experiments.aws.oath.cloud
@@ -7171,6 +7187,7 @@ post.bz.adx.opera.com
 postur.acc.mobilevikings.be
 poweredby.amazon.co.uk
 poweredby.amazon.com
+pps.apexnews.com
 pr.cosmo.k8s.aws.oath.cloud
 prd.ap-southeast-1.account.here.com
 prd.api.ap-southeast-1.account.here.com
@@ -7191,6 +7208,7 @@ pre-prod.api.ack.amazonalexa.com
 pre-prod.music.amazon.com.au
 prebid-mgmt.one-mobile-dev.aws.oath.cloud
 prebid.one-mobile-dev.aws.oath.cloud
+predictor.apex-football.com
 prenta.acc.mobilevikings.be
 preprod-azure.account.adobe.com
 preprod.account.adobe.com
@@ -8605,6 +8623,7 @@ staging.alexa.amazon.es
 staging.alexa.amazon.fr
 staging.alexa.amazon.in
 staging.alexa.amazon.it
+staging.apexscores.io
 staging.api.jr.airstarfinance.net
 staging.autoblog-aws-prod.aws.oath.cloud
 staging.chalet.8x8.com
@@ -8700,6 +8719,8 @@ storeadmin.amazon.com
 storedesignproxy-eu.amazon.com
 storefront.amazon.com
 storepickup.amazon.co.uk
+stories-d.apexnews.com
+stories-local.apexnews.com
 storybook.alasco.rocks
 storyplayer-photos.amazon.co.uk
 storyplayerbeta-photos.amazon.co.uk
@@ -8870,6 +8891,7 @@ test-wp.1debit.com
 test.1debit.com
 test.andreer.aws-us-east-1c.dev.public-cd.vespa.oath.cloud
 test.andreer.aws-us-east-1c.dev.public.vespa.oath.cloud
+test.apex-football.com
 test.awesome.8x8testa.com
 test.bid.oath-exchange-dev.aws.oath.cloud
 test.cbc.acronis.work
@@ -9958,6 +9980,9 @@ www.anduril.com
 www.anext.com.sg
 www.antbank.hk
 www.antom.com
+www.apex-football.com
+www.apexnews.com
+www.apexscores.io
 www.api-acceptance.8x8.com
 www.api-dev.8x8.com
 www.api-staging.8x8.com

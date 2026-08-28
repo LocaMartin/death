@@ -258,3 +258,13 @@ any issue affecting the wp cloud hosting environment allowing cross-site access/
 any other applications found here: https://security-en.alipay.com/home
 any verified dell-controlled endpoint (domains/ip space/etc.)
 ap-s.cloud.com
+apcgateway.marriott.com
+apex-football.com
+apexnews.com
+apexscores.io
+api-accpt.portofantwerp.com
+api-accpt.portofantwerpbruges.com
+api-app.telenor.se
+api-eu.floqast.app
+api-gateway.polygon.technology
+api-js.datadome.co
