@@ -268,3 +268,13 @@ api-app.telenor.se
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-js.datadome.co
+api-partner.spotify.com
+api-polygon-tokens.polygon.technology
+api-sandbox.gocardless.com
+api-staging.airtable.com
+api-uat-bugbounty.nonprod.syfe.com
+api-wallet-sandbox.venly.io
+api-wallet.venly.io
+api-wallet.web3auth.io
+api.23andme.com
+api.8x8.com
