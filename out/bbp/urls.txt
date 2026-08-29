@@ -705,8 +705,6 @@ https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
-https://github.com/brave
-https://github.com/brave-intl
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
@@ -959,6 +957,7 @@ https://gwapi2.tripadvisor.com
 https://gx.games
 https://gx.me
 https://gx.opera-api.com
+https://hackerone.com/mcp
 https://hatching.io
 https://help.etsy.com
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
