@@ -218,6 +218,7 @@ a-preview.acronis.com
 a.acronis.com
 a.acronis.work
 a.adsrvr.org
+a.api.binance.com
 a.cceng.8x8.com
 a.corp.acronis.com
 a.exodus.io
@@ -440,6 +441,7 @@ academy.acronis.com
 academy.infomaniak.com
 academyforcontinuedhealthca.account.box.com
 acano.account.box.com
+acapi.api.binance.com
 acappcore.antcloud.antbank.hk
 acc-webwinkel.ad.nl
 acc.ad.nl
@@ -1013,6 +1015,9 @@ akamai-ci.airbnb.com
 akamai-renew-cert-digicert.amazon.co.uk
 akamai-renew-cert-digicert.amazon.com.au
 akamai-staging.airbnb.com
+akamai-test-origin.api.binance.com
+akamai-test.api.binance.com
+akamai.api.binance.com
 akhwien.at
 akimo5qt39hsu.global.registration.iot.ack.amazonalexa.com
 akismet.com
@@ -1247,6 +1252,7 @@ alts-uat-advisorsolutions.gs.com
 alx-inbound-eu.amazon.com
 alx-inbound.amazon.co.uk
 am-testing.account.adobe.com
+am.dev.api.binance.com
 am.developer.monespacesante.fr
 am.editeur.preprod.monespacesante.fr
 am.monespacesante.fr
@@ -1434,6 +1440,7 @@ answers-integration.answers-search.us-east-3.staging.vespa.oath.cloud
 answers-integration.answers-search.us-east-3.vespa.oath.cloud
 answers-integration.answers-search.us-west-1.vespa.oath.cloud
 antc.antcloud.antbank.hk
+antivirus.api.binance.com
 antivirus.gov.mil.8x8.vc
 antom.com
 aol-wiki.archived-corpsites.ap-northeast-1.vespa.oath.cloud
@@ -1607,8 +1614,15 @@ api.amt-amt-java.aws.oath.cloud
 api.amt-aws-uat.aws.oath.cloud
 api.anchor.fm
 api.anfcorp.com
+api.anthropic.com
 api.apexscores.io
+api.api.binance.com
+api.arkane.network
+api.atg.se
+api.au.frontegg.com
 api.aws-oath-video-intelligence-prod.aws.oath.cloud
+api.binance.com
+api.blablalines.com
 api.eu.amazonalexa.com
 api.fe.amazonalexa.com
 api.gemini.yahoo.com
@@ -1869,6 +1883,7 @@ asp.amazon.co.jp
 asset-calibration.andurildev.com
 assets.advancedcustomfields.com
 assets.airbnb.com
+assets.api.binance.com
 assets.developer.anduril.com
 assistant.amazon.ca
 assistant.amazon.co.uk
@@ -2073,6 +2088,7 @@ auth.8x8.id
 auth.acc.mobilevikings.be
 auth.acronis.com
 auth.ad.nl
+auth.api.binance.com
 auth.cloud.sgp.alipayplus.com
 auth.gen.adsrvr.org
 auth.mercadolibre.adminml.com
@@ -2101,6 +2117,7 @@ authorize.payments.amazon.com
 authproxy.use1.grid-aws-dev.aws.yahoo.cloud
 auto-test.adx.opera.com
 autoblog-aws-prod.aws.oath.cloud
+autoconfig.api.binance.com
 autoconfig.compuserve.com
 autodandomain-qa2erfig-labart.rest.akismet.com
 autodiscover-ext.amazon.com
@@ -2262,6 +2279,7 @@ aws.acronis.com
 aws.amazon.co.uk
 aws.amazon.com
 aws.amazon.fr
+awsdashboard.api.binance.com
 awsmpdisbursementworkflowsretailproxy-bjs-prod.amazon.cn
 awx-dev.acronis.work
 awx.acronis.work
@@ -2285,6 +2303,7 @@ b-sg.adx.opera.com
 b-sgo.adx.opera.com
 b-us.adx.opera.com
 b-usc.adx.opera.com
+b.api.binance.com
 b.cceng.8x8.com
 b.dashboard.gemini.yahoo.com
 b2b.amazon.com
@@ -2301,6 +2320,8 @@ balancer.1debit.com
 ballard.amazon.com
 bap.anduril.dev
 base-qn.a.exodus.io
+basic-nodejs-dev.api.binance.com
+basic.api.binance.com
 basilisk-retail-proxy-cn-north-1-prod.amazon.cn
 bassb01.msteams.8x8.com
 bastion.adsrvr.org
@@ -2310,6 +2331,7 @@ baueb01.msteams.8x8.com
 bauprojekte.akhwien.at
 bb0paypay507251a.rest.akismet.com
 bbb.8x8.com
+bbs.api.binance.com
 bcbsma.jobsdwebdisk.jobsewebdisk.jobsvwebdisk.jobsiwebdisk.data-science.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
 bcnfix.airbnbcitizen.com
 bcp-retail-proxy-cn-north-1-prod.amazon.cn
@@ -2364,6 +2386,7 @@ beta.alexa.amazon.fr
 beta.alexa.amazon.in
 beta.alexa.amazon.it
 beta.anchor.fm
+beta.api.binance.com
 beta.client-telemetry.amazonalexa.com
 beta.developer.10x.redoxengine.com
 beta.eu-west-1.kids-bordering.amazon.co.uk
@@ -2483,6 +2506,8 @@ blog.acronis.com
 blog.akismet.com
 blog.anchor.fm
 blog.anduril.com
+blog.api.binance.com
+blogs.api.binance.com
 blogs.aws.amazon.com
 blr1-salmon.amazon.com
 blue-ash.amazon.com
@@ -2616,6 +2641,7 @@ bugsearch.vespa.us-east-3.perf.vespa.oath.cloud
 bugsearch.vespa.us-east-3.staging.vespa.oath.cloud
 bugsearch.vespa.us-east-3.vespa.oath.cloud
 bugsearch.vespa.us-west-1.vespa.oath.cloud
+builder.api.binance.com
 builds.acronis.work
 buildstorage-proxy.corp.acronis.com
 buildup-ubuntu.jobsdwebdisk.jobsewebdisk.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
@@ -2649,6 +2675,7 @@ buswb04.msteams.8x8.com
 buy.acronis.com
 bw.acronis.work
 bz.adx.opera.com
+c.api.binance.com
 c2.ad.nl
 c2c-eu.amazon.com
 c2c-fe.amazon.com
@@ -2772,6 +2799,7 @@ career.alasco.de
 careers.abercrombie.com
 careers.acronis.com
 careers.airbnb.com
+careers.api.binance.com
 careers2.abercrombie.com
 carmel.adm.cloud.com
 carmel.agent.adm.cloud.com
@@ -3242,6 +3270,8 @@ cdn.8x8.com
 cdn.accounts.firefox.com
 cdn.acronis.com
 cdn.anext.com.sg
+cdn.api.binance.com
+cdq-api.api.binance.com
 cem1.abercrombie.com
 cerberus.airbnb-aws.com
 ceres.dive-xl.andurildev.au
@@ -3249,8 +3279,10 @@ cert-1.es.8x8.com
 cert-2.es.8x8.com
 cert-giftcards.abercrombie.com
 cert-testing018.es.8x8.com
+cert.api.binance.com
 certauth.fs.acronis.com
 certauth.fs.acronis.work
+certificate.api.binance.com
 ces.acronis.com
 cestest.corp.acronis.com
 cf.252df37b2-frontier.amazon.nl
@@ -3310,6 +3342,7 @@ chat.3.basecamp.com
 chat.amazon.cn
 chat.amazon.com
 chatapps.8x8.com
+check.api.binance.com
 checkoutbyamazon.co.uk
 chemtrail-collector.home-ccannell.aws.oath.cloud
 chemtrail-query.home-ccannell.aws.oath.cloud
@@ -3331,6 +3364,12 @@ ci-tm-jenkins.acronis.work
 ci.corp.acronis.com
 ciagent-public.gen.adsrvr.org
 cicero.legal.amazon.com
+cim-api-dev.api.binance.com
+cim-api-qa.api.binance.com
+cim-api.api.binance.com
+cim-data-quality-qa.api.binance.com
+cim-dev.api.binance.com
+cim-geo-dev.api.binance.com
 circulars.external-feeds.aws-us-east-1a.vespa.oath.cloud
 circulars.external-feeds.aws-us-east-1b.vespa.oath.cloud
 circulars.external-feeds.aws-us-east-2a.dev.vespa.oath.cloud
@@ -3348,6 +3387,7 @@ cit.api.us-east-1.account.here.com
 cit.eu-west-1.account.here.com
 cit.us-east-1.account.here.com
 citrix.akhwien.at
+citrix.api.binance.com
 claude-skill-publisher.gen.adsrvr.org
 cleanroom-api.aolp-ds-dev.aws.oath.cloud
 cleanroom.aolp-ds-dev.aws.oath.cloud
@@ -3356,6 +3396,7 @@ clementine.one-mobile-dev.aws.oath.cloud
 clementine.one-mobile-prod.aws.oath.cloud
 clementine.one-mobile.aws.oath.cloud
 cleverbridge.acronis.com
+click.api.binance.com
 click.freight.amazon.co.uk
 click.learn.ads.snapchat.com
 clicks.anchor.fm
@@ -3466,6 +3507,7 @@ cloud.8x8.com
 cloud.acronis.com
 cloud.amazon.co.uk
 cloud.amazon.it
+cloud.api.binance.com
 cloud.learn.ads.snapchat.com
 cloud.sgp.alipayplus.com
 cloud8-dev.aws.infra8.8x8cloud.net
@@ -3513,16 +3555,19 @@ cmu-receiver-na.amazon.com.mx
 cn-hk.abercrombie.com
 cn.accounts.logi.com
 cn99-cloud.acronis.com
+cname.api.binance.com
 cnr.airbnb.com
 cnr.next.airbnb.com
 cnt-03.upload-photos.amazon.com.au
 cocoa.adm.cloud.com
 cocoa.agent.adm.cloud.com
 code.addons.allizom.org
+code.api.binance.com
 codepipeline-preview-console.us-east-1.aws.amazon.com
 codetoimg.anduril.dev
 coho.amazon.com
 cohostsuccess.airbnb.com
+collab.api.binance.com
 collect.abercrombie.com
 com.8x8.vc
 comet.amazon.com
@@ -3625,6 +3670,7 @@ consul-vault.us-east-1.nebulacicd.aws.oath.cloud
 consul-vault.us-east-2.nebulacicd.aws.oath.cloud
 consul-vault.us-west-1.nebulacicd.aws.oath.cloud
 consul-vault.us-west-2.nebulacicd.aws.oath.cloud
+consul.api.binance.com
 contact-ldap-acceptance.8x8.com
 contact-ldap.8x8.com
 contact.akismet.com
@@ -3706,6 +3752,7 @@ cp-eu2.acronis.com
 cp.partners.acronis.com
 cpaas-fax-monit.cloud-mgmt.8x8cloud.net
 cpaas.8x8.com
+cpanel.api.binance.com
 cps.corp.8x8.com
 cpt-a-orca.amazon.com
 cpt-b-orca.amazon.com
@@ -3721,6 +3768,7 @@ creditagents.amazonpay.amazon.in
 credits-admin.adminml.com
 creturns-jersey.amazon.co.uk
 crm.adminml.com
+crm.api.binance.com
 crocodile.anduril.au
 cross-platform-analytics-alephd-dev.aws.oath.cloud
 cross-platform-analytics-alephd.aws.oath.cloud
@@ -3776,6 +3824,7 @@ customerservice.amazon.ca
 customerservice.amazon.cn
 customerservice.amazon.co.uk
 customerservice.amazon.com.br
+cveapi.api.binance.com
 cvs-api.10x.redoxengine.com
 cware01.abercrombie.com
 cwlatticemeshcore.andurildev.com
@@ -3806,6 +3855,7 @@ daiweitest-sg-test-0529.alipayplus.com
 daiweitest-sg-test001001.alipayplus.com
 daiweitest-sg.alipayplus.com
 dam.amazon.com
+danieapp.api.binance.com
 dap.antcloud.antbank.hk
 dash.adsrvr.org
 dashboard.adaptive-shield.com
@@ -3864,6 +3914,7 @@ datasuite.adminml.com
 db-pr9473-plat-1077-cloudf.dev.alasco.rocks
 db-preview.aws.amazon.com
 db.ae01-cloud.acronis.work
+db.api.binance.com
 db.at01-cloud.acronis.work
 db.au1-cloud.acronis.work
 db.beta-cloud.acronis.work
@@ -3874,6 +3925,7 @@ dc-monitoring.acronis.work
 dc-stat.acronis.com
 dc.acrobat.adobe.com
 dc.adc.corp.acronis.com
+dc.api.binance.com
 dcape-na.amazon.com
 dco-cloud.acronis.com
 dcp.amazon.ae
@@ -3924,6 +3976,7 @@ de-staging.blog.anchor.fm
 de-vpn.acronis.com
 de.airbnb.com
 de.airbnb.org
+de.api.binance.com
 de.blog.anchor.fm
 de2-bid.adsrvr.org
 de99-cloud.acronis.com
@@ -3936,6 +3989,7 @@ delete-me-too.paranoids-cloudsec-sandbox.aws.oath.cloud
 delta-simplycommunitiessource1reviewinfo.rest.akismet.com
 demo.alasco.de
 demo.alasco.rocks
+demo.api.binance.com
 demo.awesome.8x8testa.com
 demo.restsimplycomply.web.akismet.com
 deploy-aas-dub.amazon.com
@@ -3991,6 +4045,7 @@ dev.ai-int.8x8.com
 dev.ai.8x8.com
 dev.alasco.rocks
 dev.anduril-resiliency-ext.andurildev.com
+dev.api.binance.com
 dev.api.gemini.yahoo.com
 dev.aws.infra8.8x8cloud.net
 dev.be.gemini.yahoo.com
@@ -4145,6 +4200,7 @@ dmp-taxonomy.aolp-ds-dev.aws.oath.cloud
 dms.acronis.work
 dmw.8x8staging.com
 dn-registry.acronis.work
+dnm.api.binance.com
 dns-public.antbank.hk
 doc.adx.opera.com
 docgpt.alipayplus.com
@@ -5489,6 +5545,7 @@ internal-rtb-dev.aws.oath.cloud
 internal-rtb-prod.aws.oath.cloud
 internal.acc.mobilevikings.be
 internal.alasco.rocks
+internal.api.anthropic.com
 internal.api.gemini.yahoo.com
 internal.campfire.amazon.com.br
 internal.campfire.amazon.com.mx
@@ -7945,6 +8002,7 @@ sample-jtakagi.yj.aws-us-east-1c.test.public.vespa.oath.cloud
 sample-jtakagi.yj.global.public.vespa.oath.cloud
 sandbox-api.admanager.yahoo.com
 sandbox-api.gemini.yahoo.com
+sandbox-chs2.staging.api.anthropic.com
 sandbox-repo.acronis.com
 sandbox.accounts.logi.com
 sandbox.alexa.amazon.ca
@@ -7961,7 +8019,9 @@ sandbox.alexa.amazon.in
 sandbox.alexa.amazon.it
 sandbox.andurildev.au
 sandbox.api.admanager.yahoo.com
+sandbox.api.anthropic.com
 sandbox.api.gemini.yahoo.com
+sandbox.staging.api.anthropic.com
 saopaulo.8x8.vc
 sat.anfcorp.com
 satcs.adminml.com
@@ -8768,6 +8828,38 @@ stream-ranking-canary.stream.us-west-1.vespa.oath.cloud
 streamer-us-east-1.finance-aws-prod.aws.oath.cloud
 streamer-us-west-2.finance-aws-prod.aws.oath.cloud
 strg-jenkins.acronis.work
+stt-flux-a100.titanium-staging.api.anthropic.com
+stt-flux-a100.titanium.api.anthropic.com
+stt-flux-multi-a100.titanium-staging.api.anthropic.com
+stt-flux-multi-a100.titanium.api.anthropic.com
+stt-flux-multi-chs2.titanium-staging.api.anthropic.com
+stt-flux-multi-chs2.titanium.api.anthropic.com
+stt-flux-multi.titanium-staging.api.anthropic.com
+stt-flux-multi.titanium.api.anthropic.com
+stt-flux.titanium-staging.api.anthropic.com
+stt-flux.titanium.api.anthropic.com
+stt-nova3-s0.titanium-staging.api.anthropic.com
+stt-nova3-s0.titanium.api.anthropic.com
+stt-nova3-s1.titanium-staging.api.anthropic.com
+stt-nova3-s1.titanium.api.anthropic.com
+stt-nova3-s2.titanium-staging.api.anthropic.com
+stt-nova3-s2.titanium.api.anthropic.com
+stt-nova3-s3.titanium-staging.api.anthropic.com
+stt-nova3-s3.titanium.api.anthropic.com
+stt-nova3-s4.titanium-staging.api.anthropic.com
+stt-nova3-s4.titanium.api.anthropic.com
+stt-nova3-s5.titanium-staging.api.anthropic.com
+stt-nova3-s5.titanium.api.anthropic.com
+stt-nova3-s6.titanium-staging.api.anthropic.com
+stt-nova3-s6.titanium.api.anthropic.com
+stt-nova3-s7.titanium-staging.api.anthropic.com
+stt-nova3-s7.titanium.api.anthropic.com
+stt-nova3-s8.titanium-staging.api.anthropic.com
+stt-nova3-s8.titanium.api.anthropic.com
+stt-nova3.titanium-staging.api.anthropic.com
+stt-nova3.titanium.api.anthropic.com
+stt.titanium-staging.api.anthropic.com
+stt.titanium.api.anthropic.com
 studios.amazon.com
 styx.airbnb-aws.com
 subdomain.akismet.com

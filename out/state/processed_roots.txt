@@ -278,3 +278,13 @@ api-wallet.venly.io
 api-wallet.web3auth.io
 api.23andme.com
 api.8x8.com
+api.accounts.firefox.com
+api.adm.cloud.com
+api.airbnb.com
+api.alasco.de
+api.anthropic.com
+api.arkane.network
+api.atg.se
+api.au.frontegg.com
+api.binance.com
+api.blablalines.com
