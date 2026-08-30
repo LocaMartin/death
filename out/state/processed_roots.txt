@@ -288,3 +288,13 @@ api.atg.se
 api.au.frontegg.com
 api.binance.com
 api.blablalines.com
+api.blockchain.info
+api.box.com
+api.chainabuse-staging.com
+api.circle.com
+api.cloud.kaufland.de
+api.cloudflare.com
+api.cloudways.com
+api.cm.com
+api.cmtelecom.com
+api.coindcx.com

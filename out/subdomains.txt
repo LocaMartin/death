@@ -1623,6 +1623,16 @@ api.au.frontegg.com
 api.aws-oath-video-intelligence-prod.aws.oath.cloud
 api.binance.com
 api.blablalines.com
+api.blockchain.info
+api.box.com
+api.chainabuse-staging.com
+api.circle.com
+api.cloud.kaufland.de
+api.cloudflare.com
+api.cloudways.com
+api.cm.com
+api.cmtelecom.com
+api.coindcx.com
 api.eu.amazonalexa.com
 api.fe.amazonalexa.com
 api.gemini.yahoo.com
@@ -1989,6 +1999,7 @@ atv-sr.amazon.com
 au-cloud.acronis.com
 au-prod-internal.amazon.com
 au-vpn.acronis.com
+au.api.cloudflare.com
 au.chalet.8x8.com
 au1-baas.acronis.com
 au1-backup.acronis.com
@@ -4214,6 +4225,7 @@ docs.alipayplus.com
 docs.amazonpay.amazon.in
 docs.anduril.com
 docs.antom.com
+docs.api.cloudflare.com
 docs.appstore.8x8.vc
 docs.appstore.stage.8x8.vc
 docs.aws.amazon.com
@@ -4406,6 +4418,7 @@ eddie.okcupid.okcupid.aws-us-east-1c.staging.public.vespa.oath.cloud
 eddie.okcupid.okcupid.aws-us-east-1c.test.public.vespa.oath.cloud
 eddie.okcupid.okcupid.global.public.vespa.oath.cloud
 edge-gacd.amazon.com
+edge-production.gateway.api.cloudflare.com
 edge.allegro.cz.allegrosandbox.pl
 edge.allegro.pl.allegrosandbox.pl
 edge.allegro.sk.allegrosandbox.pl
@@ -4901,6 +4914,7 @@ gamma.music.amazon.com.au
 gate-bell-beta-acc-services-env-a-accbeta1iad-us-ashburn-1.analytics-staging.oci.infra8.8x8cloud.net
 gatekeeper.paytech.alipayplus.com
 gateway-az-3.gen.adsrvr.org
+gateway-entrypoint.api.cloudflare.com
 gateway.acronis.com
 gateway.browserapps.amazon.co.uk
 gateway.gen.adsrvr.org
@@ -7387,6 +7401,7 @@ productads.amazon.co.uk
 production-elk-kibana.huffpost-utils.aws.oath.cloud
 production-elk-logstash.huffpost-utils.aws.oath.cloud
 production-origin.anchor.fm
+production.gateway.api.cloudflare.com
 productos-patrocinados.amazon.es
 prodviatordandomainsma-cfmichaels.rest.akismet.com
 profile-tee-service-dev.aolp-ds-dev.aws.oath.cloud
@@ -8240,6 +8255,7 @@ sgs.gemini.yahoo.com
 sgservicemng.anext.com.sg
 sgtr-ovirt.corp.acronis.com
 sha256.webservices.amazon.co.uk
+shadow.api.cm.com
 share-referral.8x8.com
 shared-db-svc-dev.aws.infra8.8x8cloud.net
 shared-db-svc-prod.aws.infra8.8x8cloud.net
