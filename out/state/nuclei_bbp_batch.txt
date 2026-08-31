@@ -1,0 +1,14 @@
+*.8x8.cloud
+*.8x8.engineering
+*.canva-apps.cn
+*.canva-apps.com
+*.canva.cn
+*.canva.com
+*.canva.tech
+*.gp.monash.edu
+bridge.8x8.com
+mavenlab.com
+mix-dev.monash.edu/*
+mix-qat.monash.edu/*
+moobicast.com
+moobidesk.com
