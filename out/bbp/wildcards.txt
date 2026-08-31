@@ -2,8 +2,10 @@
 3lateral.com
 55degrees-apps.net
 5nine.com
+8x8.cloud
 8x8.co.uk
 8x8.com
+8x8.engineering
 8x8.id
 8x8.studio
 8x8.uk
@@ -641,6 +643,7 @@ massimodutti.cn
 massimodutti.com
 mastercard.com
 mattermost.com
+mavenlab.com
 mayoclinic.org
 mb-cosmos.com
 mbamupdates.com
@@ -696,6 +699,8 @@ moneyback.com.hk
 mongodb.com
 monopoly-poker.com
 monzo.com
+moobicast.com
+moobidesk.com
 moonpay.com
 moonpaycloud.com
 mortgagechoice.com.au

@@ -1,7 +1,15 @@
 ## notes  only use this asset when nothing else can be reasonably selected.    bugs with yahoo! that are not listed in scope of our other yahoo-related assets can still be submitted to this asset and **_*might*_** be eligible for award, at the sole discretion of the yahoo bug bounty team
+*.8x8.cloud
+*.8x8.engineering
 *.admanager.yahoo.com
+*.canva-apps.cn
+*.canva-apps.com
+*.canva.cn
+*.canva.com
+*.canva.tech
 *.compuserve.com
 *.gemini.yahoo.com
+*.gp.monash.edu
 *.isp.netscape.com
 *.lite.aol.com
 *.oath.cloud
@@ -24,7 +32,6 @@
 4njbets.us.betfair.com
 5k8vrbdyje.infomaniak.site
 5nine.com
-8x8.cloud
 8x8.co.uk
 8x8.com
 8x8.id
@@ -877,6 +884,7 @@ brand.esa.int
 brasil-store.tomorrowland.com
 brasil.tomorrowland.com
 bredbandsbolaget.se
+bridge.8x8.com
 bridge.xyz
 bsp.marriott.com
 buckingfuggy.com
@@ -958,11 +966,6 @@ cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
 canton.gleague.nba.com
-canva-apps.cn
-canva-apps.com
-canva.cn
-canva.com
-canva.tech
 capability.prod.innovexperiments.com
 capital.com
 capitalcity-dev.gleague.nba.com
@@ -2304,7 +2307,6 @@ gotdrops.com
 gotinder.com
 gov.bugcrowd.net
 governorofpoker.com
-gp.monash.edu
 gql.reddit.com
 grab-sure.com
 grab.careers
@@ -2940,6 +2942,7 @@ massimodutti.com
 matomo.cloud
 matrix.redditspace.com
 mauth.tw.coupang.com
+mavenlab.com
 maximo-accpt.portofantwerp.com
 maximo-accpt.portofantwerpbruges.com
 maximo.portofantwerp.com
@@ -3109,8 +3112,8 @@ miui is xiaomi phone operation system (os), custimized on stock android.  the sc
 miui.cn
 miui.com
 miwifi.com
-mix-dev.monash.edu
-mix-qat.monash.edu
+mix-dev.monash.edu/*
+mix-qat.monash.edu/*
 mix.monash.edu
 mjrtheatres.com
 mlstatic.com
@@ -3140,6 +3143,8 @@ mongodb.com
 monitor.mozilla.org
 monopoly-poker.com
 monzo.com
+moobicast.com
+moobidesk.com
 moonpay.com
 moonpaycloud.com
 mortgagechoice.com.au
@@ -4218,7 +4223,6 @@ sso.oft.hyatt.com
 sso.ryadom.kz
 sso.shop-apotheke.com
 stadtwien.onmicrosoft.com
-staff.monash
 stag.tomorrowland.com
 stag.uzleuven.be
 stag.weareone.world

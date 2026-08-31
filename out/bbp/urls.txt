@@ -2052,6 +2052,7 @@ https://squareup.com/
 https://src.mastercard.com/profile/enroll
 https://ssu.staging.myconnect.com.au/get-connected
 https://stadtwien-my.sharepoint.com/
+https://staff.monash
 https://stage.fxprivaterelay.nonprod.cloudops.mozgcp.net
 https://stage.merino.nonprod.cloudops.mozgcp.net/api/v1/suggest
 https://staging-api.bany.dev/
