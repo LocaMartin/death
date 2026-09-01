@@ -705,6 +705,7 @@ https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
+https://github.com/brave/%2A,%20https://github.com/brave-intl/%2A
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
@@ -885,6 +886,7 @@ https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
 https://github.com/octopusdeploy
+https://github.com/okx/go-wallet-sdk
 https://github.com/pinterest
 https://github.com/plaid/plaid-link-android
 https://github.com/plaid/plaid-link-ios
@@ -982,7 +984,6 @@ https://humo.be/registreren
 https://hytale.com/
 https://hytale.dev/
 https://ibconnect.internetbrands.com
-https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.recordedfuture.com
 https://id.superhuman.com
@@ -2714,6 +2715,7 @@ https://www.xfinity.com/apps
 https://www.xvideos.net/app
 https://www.yahoo.com/news/weather
 https://www.ynab.com/
+https://www.zabbix.com/download_sources
 https://www.zoop.com.br
 https://www.zoop.ws
 https://www2.acc.jessazh.be/

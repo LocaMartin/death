@@ -537,7 +537,6 @@ app.aikido.dev
 app.alasco.de
 app.asana.com
 app.basecamp.com
-app.blueskytravelvietnam.com
 app.box.com
 app.circle.com
 app.datacamp.com/certification
@@ -1221,6 +1220,8 @@ com.boozt.app
 com.boozt.booztlet
 com.booztlet
 com.box.android
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -1734,6 +1735,7 @@ dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 dashboard.stripe.com
 dashlane.com
+data-test.nba.com
 data.lime.bike
 data.mail.yahoo.com
 data.ninjakiwi.com
@@ -1814,6 +1816,7 @@ developer.infomaniak.com
 developer.konghq.com
 developer.mozilla.org
 developer.playcanvas.com
+developer.plus.authorize.net
 developer.posti.com
 developer.swapcard.com/event-admin/graphql
 developer.valvesoftware.com
@@ -1897,6 +1900,7 @@ dropboxpartners.com
 dropmix.com
 dropxl.com
 duokan.com
+dwhreports.nba.com
 dwy.visa.com
 e2ro.com
 eaccountingprinting.stage.vismaonline.com
@@ -2265,6 +2269,7 @@ gitlab.net
 gitlab.org
 gitlap.com
 glassdoor.com
+gldatacenter.nba.com
 gleague-dev.nba.com
 gleague-qa.nba.com
 gleague.nba.com
@@ -2414,6 +2419,7 @@ home.privy.io
 homes-and-villas.marriott.com
 honestdollar.com
 hongyuanib.com
+hoop.nba.com
 hoopsfortroops.nba.com
 horeko.com
 horizonchase.com
@@ -2536,7 +2542,6 @@ inf.fndlsb.net
 inference.do-ai.run
 influencers.tw.coupang.com
 info.authorize.net
-info.cybersource.com
 info.shop-apotheke.com
 infomaniak.com
 infomaniak.events
@@ -3247,6 +3252,10 @@ nbaholidaycard-qa.nba.com
 nbaholidaycard.nba.com
 nbaintl.nba.com
 nbameeting.nba.com
+nbatickets-dev.nba.com
+nbatickets-qa.nba.com
+nbatickets.nba.com
+nbavideo.nba.com
 neoket.net
 net.bitstamp.app
 net.supertreat.solitaire
@@ -3336,6 +3345,9 @@ octopus.com
 odcdn.com.au
 odoo14.notebleue.pro
 odul.watsons.com.tr
+official-dev.nba.com
+official-qa.nba.com
+official.nba.com
 og.com
 oklahomacity-dev.gleague.nba.com
 oklahomacity-qa.gleague.nba.com
@@ -3533,6 +3545,7 @@ pdfroster-qa.nba.com
 pdfroster.nba.com
 pdst.fm
 pennmedicine.connect-visit.com
+peopleanalyticsportal.nba.com
 perforce.embark.net
 personal.shop-apotheke.com
 personio-internal.de
@@ -3576,6 +3589,7 @@ player-login.unity.com
 player-radio.infomaniak.com
 player.vimeo.com
 player.vrt.be
+playerhealthvideo.nba.com
 playstation.com
 playstation.net
 playticorp.com
@@ -3622,6 +3636,9 @@ postikuori.posti.fi
 pourvous.nl
 ppb.com
 ppbdev.com
+pr-dev.nba.com
+pr-qa.nba.com
+pr.nba.com
 practice.datacamp.com
 prd-pub.mobilevikings.be
 prd-ring-web-us.prd.rings.solutions
@@ -3706,6 +3723,7 @@ psp.marriott.com
 psychobunny.me
 psynet.gg
 psyonix.com
+ptiw.nba.com
 public.hyatt.com
 publicsafety.ring.com
 pubtools.private.8x8cloud.net
@@ -3923,6 +3941,7 @@ sandbox.accounts.logi.com
 sandbox.affirm.com
 sandbox.authorize.net
 sandbox.braintreegateway.com
+sandbox.developer.plus.authorize.net
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
 sandbox.zimpler.net
@@ -3988,6 +4007,7 @@ sellzone.com
 selt.languagecert.org
 semrush.com
 semrush.net
+sems.nba.com
 sendgrid.com
 sensei.pixiv.net
 seoab.io
@@ -4263,6 +4283,9 @@ status.larksuite.com
 statuspage.io
 steamcommunity.com
 steamstatic.com
+stockton-dev.gleague.nba.com
+stockton-qa.gleague.nba.com
+stockton.gleague.nba.com
 stockup.esa.int
 storage.infomaniak.com
 store-display.tw.coupang.com
@@ -4363,17 +4386,22 @@ sys.comcast.net
 t.swapcard.com
 t.umblr.com
 tableau.fareharbor.engineering
+taiwan.nba.com
 tax.audible.com
 tax.crypto.com
 taxi.booking.com
 taxis.booking.com
 tdl.sh
 team.swapcard.com
+teamapps.nba.com
 teamdirectory.nba.com
+teaminquiry.nba.com
 teammate.indriver.io
+teamofficelist.nba.com
 teamportal.nba.com
 teams.cloudflare.com
 teams.krisp.ai
+teamvideo.nba.com
 techbook.de
 technik.autobild.de
 technik.beta.autobild.de
@@ -4397,6 +4425,9 @@ testapp.redoxengine.com
 testbank.xs2a.com
 testing.maventa.com
 teststs.uzleuven.be
+texas-dev.gleague.nba.com
+texas-qa.gleague.nba.com
+texas.gleague.nba.com
 thebrowser.company
 theelasticast.com
 theperfumeshop.com
@@ -4440,6 +4471,8 @@ toolsforhumanity.com
 topperpay.com
 tospotify.com
 tournament.fantasysports.yahoo.com
+townhall.nba.com
+tpp.nba.com
 trac.wordpress.org
 trade.ripio.com
 trade.staging-enviso.io
@@ -4469,6 +4502,7 @@ trip.com
 triplinkintl.com
 trm.pinepaymentsolutions.com
 trouw.nl
+trs.nba.com
 truck-api.eu-east-1.indriverapp.com
 truecaller.com
 truelayer-sandbox.com
@@ -4669,6 +4703,7 @@ vt.shop-apotheke.com
 vth.nba.com
 vtm.be
 vtmgo.be
+vttp.nba.com
 vulnerabilities in anthropic infrastructure that could lead to unauthorized access, data exposure, or service disruption. examples include server misconfigurations, exposed internal services, subdomain takeovers, etc
 vulnerabilities in internal anthropic web applications and services that are not intended for public access. this includes things like admin panels, support portals, build systems, monitoring tools, etc. issues could include authentication bypasses, privilege escalation, xss, etc
 vulnerabilities leading to unauthorized disclosure of confidential anthropic information through third-party saas/cloud platforms used by anthropic. this includes unintended public exposure of documents, data, source code, credentials or other sensitive information
@@ -4747,6 +4782,9 @@ welt.de
 werkenbijgamma.be
 werkenbijgamma.nl
 werkenbijkarwei.nl
+westchester-dev.gleague.nba.com
+westchester-qa.gleague.nba.com
+westchester.gleague.nba.com
 wf.com
 wga.volans.tech
 whatnot.com
@@ -4769,6 +4807,9 @@ wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
 wimpmusic.com
+windycity-dev.gleague.nba.com
+windycity-qa.gleague.nba.com
+windycity.gleague.nba.com
 winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
@@ -4776,11 +4817,15 @@ wings-qa2.wnba.com
 wings.wnba.com
 winkels.torfs.be
 winter.tomorrowland.com
+wisconsin-dev.gleague.nba.com
+wisconsin-qa.gleague.nba.com
+wisconsin.gleague.nba.com
 wise.com
 wissen-sie-mehr.de
 withairbnb.com
 withspotify.com
 wlo.link
+wnbabroadcastmanuals.nba.com
 wolt.com
 wonderboxapi.com
 wonderboxdev.com
