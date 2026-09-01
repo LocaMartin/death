@@ -149,6 +149,8 @@
 247-inc.account.box.com
 24g.account.box.com
 25k.account.box.com
+2a57j7824by9exnuqgh4jzqx356ziwi.google-drive-backend.canva-apps.com
+2a57j7824by9exnuqgh4jzqx356ziwi.google-drive.canva-apps.com
 2c2p-checkout.antom.com
 2c2p-portal.antom.com
 3.basecamp.com
@@ -183,6 +185,7 @@
 6pm.amazon.com
 775benefitsgroup.account.box.com
 7b49731fcbb9.rest.akismet.com
+8.canva-apps.cn
 80e9452f5962.web.akismet.com
 831b.account.box.com
 89aw.account.box.com
@@ -426,6 +429,7 @@ abonnement-test.ad.nl
 abonnement.ad.nl
 aboss.antcloud.antbank.hk
 aboss.cloud.sgp.alipayplus.com
+about.canva.com
 about.gitlab.com
 absolutesportsnutrition.account.box.com
 abumedia-aws-nonprod.aws.oath.cloud
@@ -1239,6 +1243,7 @@ allvoices.anduril.dev
 alm.amazon.in
 almpmng-pre.alipayplus.com
 alpha-eu-west-1.musicmaker.kids-play.amazon.co.uk
+alpha.canva.com
 alpha.cosmo.aws.oath.cloud
 alpha.cosmo.k8s.aws.oath.cloud
 alpha.cosmo.katarti.aws.oath.cloud
@@ -1473,6 +1478,7 @@ ap-southeast-2.console.aws.amazon.com
 ap.acronis.work
 apa-sin.adsrvr.org
 apac.account.amazon.com
+apache.webproxy.idc-lorien.bh-arppofind.staticl5432zy-promo.comssets.glategoryfronicsadnswildcardproducts.wire.2.canva.cn
 apcgateway.marriott.com
 apex-football.com
 apexnews.com
@@ -1625,6 +1631,7 @@ api.binance.com
 api.blablalines.com
 api.blockchain.info
 api.box.com
+api.canva.com
 api.chainabuse-staging.com
 api.circle.com
 api.cloud.kaufland.de
@@ -1654,6 +1661,22 @@ api2.aws-oath-video-intelligence-prod.aws.oath.cloud
 apigee-edge-pr.anfcorp.com
 aplogviewer.anduril.dev
 apn.amazon.com
+app-aaf5prtvnca.canva-apps.com
+app-aaf6jgfdghc.canva-apps.com
+app-aaf8xdufung.canva-apps.com
+app-aafrkf1ri7s.canva-apps.com
+app-aafsligjgkc.canva-apps.com
+app-aafsorezomw.canva-apps.com
+app-aafunkjdnu8.canva-apps.com
+app-aafwzdio55q.canva-apps.com
+app-aafylvwgz6y.canva-apps.com
+app-aafyrvg7lhe.canva-apps.com
+app-aagcgsdkbdg.canva-apps.com
+app-aagppabnsou.canva-apps.com
+app-aagqykkbme4.canva-apps.com
+app-aaguh5mzhto.canva-apps.com
+app-aagvvvl3y3g.canva-apps.com
+app-aagwtbccta8.canva-apps.com
 app-bug-bounty.alasco.rocks
 app-pilot.8x8.vc
 app-pr9222-ala-4807-upload.dev.alasco.rocks
@@ -1721,6 +1744,8 @@ applications.abercrombie.com
 apps.8x8.com
 apps.8x8staging.com
 apps.avanham15.home-avanham15.aws.oath.cloud
+apps.canva-apps.com
+apps.canva.com
 apps.developer.allegro.pl.allegrosandbox.pl
 apps.eng.anduril.au
 apps.openshift.home-avanham15.aws.oath.cloud
@@ -1764,6 +1789,7 @@ apx-security.amazon.sa
 apx-security.amazon.se
 apx-security.amazon.sg
 aqa-backup-jenkins.acronis.work
+ar-eg.about.canva.com
 ar.airbnb.com
 ar.airbnb.org
 ar.br.blog.anchor.fm
@@ -1949,6 +1975,7 @@ atom4.a.exodus.io
 atp-jenkins.acronis.work
 atpw-retail-proxy-cn-north-1-prod.amazon.cn
 ats-test.ads-supply-pe-dev.aws.oath.cloud
+attend.canva.com
 attic.anduril.dev
 atv-bivl-eu.amazon.com
 atv-client-dev1.amazon.com
@@ -2016,6 +2043,8 @@ auction.yj.aws-us-east-1c.staging.public.vespa.oath.cloud
 auction.yj.aws-us-east-1c.test.public.vespa.oath.cloud
 auction.yj.global.public.vespa.oath.cloud
 auctions.amazon.de
+audio-private.canva.com
+audio-public.canva.com
 audit.gemini.yahoo.com
 aueast.msteams.8x8.com
 aueast101.msteams.8x8.com
@@ -2179,6 +2208,7 @@ auxilium.amazon.it
 auxilium.amazon.nl
 auxilium.amazon.sa
 auxilium.amazon.sg
+avatar.canva.com
 avd.amazon.co.uk
 avenger.anduril.com
 avonmexico.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
@@ -2318,6 +2348,7 @@ b.api.binance.com
 b.cceng.8x8.com
 b.dashboard.gemini.yahoo.com
 b2b.amazon.com
+b2bevents.canva.com
 baas.acronis.com
 backend-spmp.corp.acronis.com
 backend.admin.ring.com
@@ -2683,6 +2714,8 @@ buswb01.msteams.8x8.com
 buswb02.msteams.8x8.com
 buswb03.msteams.8x8.com
 buswb04.msteams.8x8.com
+button-demo.canva.com
+button-demo.canva.tech
 buy.acronis.com
 bw.acronis.work
 bz.adx.opera.com
@@ -2811,6 +2844,7 @@ careers.abercrombie.com
 careers.acronis.com
 careers.airbnb.com
 careers.api.binance.com
+careers.canva.com
 careers2.abercrombie.com
 carmel.adm.cloud.com
 carmel.agent.adm.cloud.com
@@ -2867,6 +2901,7 @@ catalog-sc.amazon.com.br
 catalog-sc.amazon.com.mx
 catalog.amazon.com
 catalog.anduril.com
+category-public.canva.com
 cb-eu2.acronis.com
 cb.8x8.com
 cb.adx.opera.com
@@ -3353,6 +3388,7 @@ chat.3.basecamp.com
 chat.amazon.cn
 chat.amazon.com
 chatapps.8x8.com
+chatgpt-plugin.canva.com
 check.api.binance.com
 checkoutbyamazon.co.uk
 chemtrail-collector.home-ccannell.aws.oath.cloud
@@ -3367,6 +3403,8 @@ chimelogs.ue1.1debit.com
 chinook-legacy.amazon.com
 chinook.amazon.com
 chum.amazon.com
+chunk-composing.canva.cn
+chunk-composing.canva.com
 churn-1.ai.8x8.com
 churn.ai.8x8.com
 ci-common-jenkins.acronis.work
@@ -3399,6 +3437,7 @@ cit.eu-west-1.account.here.com
 cit.us-east-1.account.here.com
 citrix.akhwien.at
 citrix.api.binance.com
+cl.canva.com
 claude-skill-publisher.gen.adsrvr.org
 cleanroom-api.aolp-ds-dev.aws.oath.cloud
 cleanroom.aolp-ds-dev.aws.oath.cloud
@@ -3534,6 +3573,10 @@ clouddb.pcp-cmdb-prod.aws.oath.cloud
 clouddrive.amazon.co.uk
 clouddrive.amazon.it
 cloudflare-test.8x8staging.com
+cloudflareos-usage.8x8.engineering
+cloudflareos.8x8.engineering
+cloudfoil.canva-apps.cn
+cloudfoil.canva.cn
 cloudforge-external-dub.amazon.com
 cloudforge-external-gru.amazon.com
 cloudforge-external-iad.amazon.com
@@ -3693,6 +3736,9 @@ contacts.8x8.uk
 content-drive.amazon.co.uk
 content-drive.amazon.com.au
 content-enrich.finance-aws-devs.aws.oath.cloud
+content-library-generation.canva.com
+content-management-files.canva.com
+content-management-public-content.canva.com
 content.apexnews.com
 contenta.andurildev.au
 contentindexing-stg.partner-publishing.ap-northeast-1.vespa.oath.cloud
@@ -3771,8 +3817,11 @@ crashes.ycm-aws-devel.aws.oath.cloud
 crawler.ai.8x8.vc
 crawler.ai.preview.8x8.vc
 crawler.ai.stage.8x8.vc
+create-stg.canva.com
 create.airbnb.com
+create.canva.com
 creative.mse-dev.aws.oath.cloud
+creator.canva.com
 credential-locker-service.amazon.com
 credit-application.allegro.pl.allegrosandbox.pl
 creditagents.amazonpay.amazon.in
@@ -3780,6 +3829,7 @@ credits-admin.adminml.com
 creturns-jersey.amazon.co.uk
 crm.adminml.com
 crm.api.binance.com
+crm.webproxy.idc-lorien.bh-arppofind.staticl5432zy-promo.comssets.glategoryfronicsadnswildcardproducts.wire.2.canva.cn
 crocodile.anduril.au
 cross-platform-analytics-alephd-dev.aws.oath.cloud
 cross-platform-analytics-alephd.aws.oath.cloud
@@ -3808,17 +3858,22 @@ cscentral-fe.amazon.com
 cscentral.amazon.co.uk
 cscentral.amazon.com
 cschost.abercrombie.com
+cse.canva.cn
+cse.canva.com
 csfedportalsp-ext.advisor-connection.com
 csl-grafana.acronis.work
 csl.acronis.work
 cslp-pay.amazon.cn
 csmail.compuserve.com
 csp-demo.acronis.com
+csp.canva.com
 cssmmobile-gamma.amazon.com
 cssmmobile.amazon.com
 cssvc.travelocity.compuserve.com
 csuchico.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
+ct.canva.com
 cts-jenkins.rtb-dev.aws.oath.cloud
+ctt.canva.com
 ctx.ai.8x8.vc
 ctx.ai.preview.8x8.vc
 customer-certificates.amazon.com
@@ -3855,6 +3910,7 @@ d16gars-eu.amazon.sa
 d2.adsrvr.org
 d3.adsrvr.org
 d4e340e80c99.rest.akismet.com
+da-dk.about.canva.com
 da.airbnb.com
 da.airbnb.org
 da.next.airbnb.com
@@ -3963,6 +4019,7 @@ ddee.amazon.co.uk
 ddee.amazon.com
 ddee.amazon.com.au
 de-cas.emea.corp.acronis.com
+de-de.about.canva.com
 de-dms1.corp.acronis.com
 de-edge-3.acronis.com
 de-eu.abercrombie.com
@@ -4020,6 +4077,7 @@ deployboard.airbnb.com
 deployer.video-platform-splunk.aws.oath.cloud
 desert-guardian-itar.anduril.com
 desert-guardian.anduril.com
+desktop.canva.tech
 desktopcentral.corp.8x8.com
 det-ta-g7g.amazon.com
 deuwd01-6.msteams.8x8.com
@@ -4090,6 +4148,7 @@ developer.amazon.com
 developer.amazon.com.au
 developer.anduril.com
 developer.antbank.hk
+developer.canva.com
 developer.payments-sandbox.amazon.com
 developer.withairbnb.com
 developers.acronis.com
@@ -4229,10 +4288,21 @@ docs.api.cloudflare.com
 docs.appstore.8x8.vc
 docs.appstore.stage.8x8.vc
 docs.aws.amazon.com
+docs.canva.tech
 docs.chalet.8x8.com
 docs.finance-partners-api.aws.yahoo.cloud
 docs.iws.nonprod.be.gemini.yahoo.com
 docs.qm.8x8.com
+docsdemo.canva.tech
+document-content-amzn.canva.com
+document-content-apne1.canva.com
+document-content-apse2.canva.com
+document-content-us1.canva.com
+document-export-amzn.canva.com
+document-export-apne1.canva.com
+document-export-apse2.canva.com
+document-export-us1.canva.com
+document-export.canva.cn
 documents.amazon.ae
 documents.amazon.co.uk
 documents.amazon.com.au
@@ -4372,6 +4442,7 @@ dvd.amazon.co.uk
 dx-dc-author-prod.acrobat.adobe.com
 e.em.abercrombie.com
 e.email.ad.nl
+e2.canva.tech
 e2e-sq.acronis.work
 e2e.chalet.8x8e2e.com
 e2eproxy.video-e2e-dev.aws.oath.cloud
@@ -4512,6 +4583,7 @@ embm-ext.anduril.com
 eml.restsimplycomply.akismet.com
 eml.us-east-1.amazon.com
 emm.akhwien.at
+en-in.about.canva.com
 enc-wms.maps.anduril.au
 endeavour.amazon.co.uk
 endeavour.amazon.com
@@ -4520,10 +4592,12 @@ endpoint5950.dev-test.vespa.oath.cloud
 enduser.adsrvr.org
 eng.simplycommunities.rest.akismet.com
 engage.adminml.com
+engage.canva.com
 engineering-annual-review.adsrvr.org
 engineering-competency-assessment-tool.adsrvr.org
 engsvc.aws.infra8.8x8cloud.net
 enhemail.ops.compuserve.com
+ent.canva.com
 enterprise.allegro.pl.allegrosandbox.pl
 enterpriseregistration.3lateral.com
 enterpriseregistration.acronis.com
@@ -4536,6 +4610,9 @@ erp.acronis.com
 erp.acronis.work
 erp.corp.acronis.com
 erp.tc-qa.eng.anduril.dev
+es-ar.about.canva.com
+es-co.about.canva.com
+es-es.about.canva.com
 es-eu.abercrombie.com
 es-multi-4-testing.ai.8x8.com
 es-multi-4.staging.ai.8x8.com
@@ -4543,7 +4620,9 @@ es-multi-5-testing.ai.8x8.com
 es-multi-5.staging.ai.8x8.com
 es-multi-6-testing.ai.8x8.com
 es-multi-6.staging.ai.8x8.com
+es-mx.about.canva.com
 es-preprod-aw.amazon.com
+es-us.about.canva.com
 es.8x8.com
 es.abercrombie.com
 es.admin-lite.airbnb.com
@@ -4602,6 +4681,7 @@ eu.account.api.here.com
 eu.api.adaptive-shield.com
 eu.dashboard.adaptive-shield.com
 eu.production-mgmt.adaptive-shield.com
+eu1.canva.com
 eu16-cloud.acronis.com
 eu2-baas.acronis.com
 eu2-cloud.acronis.com
@@ -4618,6 +4698,7 @@ eur-bid-bigo.adsrvr.org
 eur-bid-hubvisor.adsrvr.org
 eur-bid-smartadserver.adsrvr.org
 eur-ukp.adsrvr.org
+europewest.webproxy.idc-lorien.cseip177.comssets.webapp-glategoryfronicsadnswildcardproducts.boardswire.wvutsrqponmlil.2.canva.cn
 euw.fb.adsrvr.org
 euw.msteams.8x8.com
 euwdirect.adsrvr.org
@@ -4629,6 +4710,7 @@ euwfb.adsrvr.org
 event.amt-amt-java.aws.oath.cloud
 event.amt-aws-uat.aws.oath.cloud
 eventlog-visualsearch.amazon.com
+events.canva.com
 everything.scoober.global.public.vespa.oath.cloud
 evolve.5nine.com
 exceptions.ycm-aws-devel.aws.oath.cloud
@@ -4636,11 +4718,13 @@ exodus-javascript-sdk.a.exodus.io
 exokit.a.exodus.io
 expedia.amazon.co.uk
 expenseiq.8x8.cloud
+expenseiq.8x8.engineering
 expenses-acm-test.acronis.com
 expenses.acronis.com
 experience.anduril.com
 experiment-ealaweme.amazon.ae
 explore.alasco.de
+export-download.canva.cn
 express.8x8staging.com
 external-id-gateway.anfcorp.com
 externalbuy.ad.nl
@@ -4699,6 +4783,8 @@ fco1-repo.acronis.com
 fco1-s3gw.acronis.com
 fcservicemng.antbank.hk
 fcsmmobile.amazon.com
+fde-staging.8x8.engineering
+fde.8x8.engineering
 fe-api-alexa.amazon.co.uk
 fe-api-alexa.amazon.com.au
 fe-api-alexa.amazon.nl
@@ -4825,6 +4911,7 @@ flyte.gov.analytics-prod.anduril.dev
 flyte.gov.ast-internal.anduril.dev
 flyte.rdf.anduril.au
 fms.tc.eng.anduril.au
+font-public.canva.cn
 foo.ec2-pinotage.amazon.com
 foobar.home-jjensen.aws.oath.cloud
 forecasting-api.aws-oath-fires-brana-dev.aws.oath.cloud
@@ -4841,6 +4928,7 @@ foundation.acronis.com
 foxglove.bunker.anduril.dev
 foxglove.chaos.anduril.dev
 fr-eu.abercrombie.com
+fr-fr.about.canva.com
 fr-staging.blog.anchor.fm
 fr.airbnb.org
 fr.blog.anchor.fm
@@ -4891,6 +4979,7 @@ g2-gamma.amazon.com
 g2.amazon.com
 ga.airbnb.org
 ga.next.airbnb.com
+gai.8x8.engineering
 gamecircle-developer-sandbox.amazon.com
 games.amazon.com
 gamestudios.amazon.com
@@ -4989,6 +5078,7 @@ gloabl-staging.chalet.8x8.com
 global-chalet-ng.staging.cloud.8x8.com
 global-corona.chalet.8x8.com
 global-e2e.chalet.8x8e2e.com
+global-nav.canva.com
 global-stage.chalet.8x8.com
 global-staging.chalet.8x8.com
 global-staging.chalet.8x8staging.com
@@ -5006,14 +5096,20 @@ go.8x8.com
 go.8x8.vc
 go.acronis.com
 go.adaptive-shield.com
+go.canva.com
 go.compuserve.com
+go.edu.canva.com
 go.oath.cloud
 goanywhere.subscriptions-obi-batch-aws-prod.aws.oath.cloud
 godaddy-cloud.acronis.com
 goldilocks.acc.mobilevikings.be
 gongchaph.ds.alipayplus.com
+google-analytics-data.canva-apps.com
 google-api-proxy.8x8pilot.com
+google-drive-backend.canva-apps.com
+google-drive.canva-apps.com
 google-meetings-plugin.8x8pilot.com
+google.podzone.net.redirectorcsecmtaiyan496-profileawsauthenticate.1.canva.cn
 got1-repo.acronis.com
 got1-s3gw.acronis.com
 gov.mil.8x8.vc
@@ -5292,6 +5388,7 @@ hubportal.amazon.co.uk
 hubportal.amazon.com.au
 hubportal.amazon.com.tr
 hubportal.amazon.sa
+hubspot-data.canva-apps.com
 huffpost-life-production.aws.oath.cloud
 huffpost-life-staging.aws.oath.cloud
 hv-qrs-beta1-ap-southeast-1a.gemini.yahoo.com
@@ -5367,6 +5464,7 @@ id-ds-w04.identityb2b.aws.oath.cloud
 id-ds-w05.identityb2b.aws.oath.cloud
 id-ds-w06.identityb2b.aws.oath.cloud
 id-ds.identityb2b.aws.oath.cloud
+id-id.about.canva.com
 id-nagios-us-e01.identityb2b.aws.oath.cloud
 id-nagios-us-e02.identityb2b.aws.oath.cloud
 id-nagios-us-w01.identityb2b.aws.oath.cloud
@@ -5610,6 +5708,7 @@ ist1-repo.acronis.com
 ist1-s3gw.acronis.com
 istiotest.cloud-mgmt.8x8cloud.net
 it-eu.abercrombie.com
+it-it.about.canva.com
 it-jenkins.acronis.work
 it.abercrombie.com
 it.airbnb.org
@@ -5626,6 +5725,7 @@ iws.nonprod.be.gemini.yahoo.com
 iws2.gemini.yahoo.com
 iws2.nonprod.be.gemini.yahoo.com
 ja-jp.abercrombie.com
+ja-jp.about.canva.com
 ja-staging.blog.anchor.fm
 ja.airbnb.org
 ja.blog.anchor.fm
@@ -5875,6 +5975,7 @@ knowledge-cn.antom.com
 knowledge.antom.com
 knox-gamma.amazon.com
 knox.amazon.com
+ko-kr.about.canva.com
 ko.airbnb.org
 ko.blog.anchor.fm
 ko.ko.blog.anchor.fm
@@ -5945,6 +6046,10 @@ kul1-s3gw.acronis.com
 kumamoto.aws.amazon.com
 kurrent.aws.oath.cloud
 kyc-checker.adminml.com
+l.create.canva.com
+l.engage.canva.com
+l.support.canva.com
+labs.canva.tech
 lambda.home-evant-aws.aws.oath.cloud
 lansweeper.acronis.work
 lanternfish.aws.amazon.com
@@ -5971,6 +6076,8 @@ leadsmanager.amazon.co.uk
 leadsmanager.amazon.com.tr
 leadsmanager.amazon.sa
 learn.acronis.com
+learn.canva.cn
+learn.canva.com
 leer.amazon.com
 legacy-tagcache.prod.aolp-ds-prd.aws.oath.cloud
 legacy-tagcache.qai.aolp-ds-dev.aws.oath.cloud
@@ -6029,6 +6136,7 @@ lighthouse.apac.acronis.work
 lighthouse.emea.acronis.work
 linden.amazon.com
 link.8x8.com
+link.recruitment.canva.com
 linkd.antbank.hk
 links.8x8.com
 lis1-repo.acronis.com
@@ -6220,12 +6328,22 @@ mail-relay-103.3.basecamp.com
 mail-relay-104.3.basecamp.com
 mail-relay-105.3.basecamp.com
 mail-yahoo.mail-backend-schd-prd.aws.oath.cloud
+mail.8x8.cloud
+mail.8x8.engineering
 mail.acronis.com
 mail.antbank.hk
+mail.api.admanager.yahoo.com
 mail.apj.corp.acronis.com
+mail.canva-apps.com
+mail.canva.cn
+mail.cloudflareos.8x8.engineering
 mail.emea.corp.acronis.com
 mail.executive.antbank.hk
+mail.fde-staging.8x8.engineering
+mail.help.compuserve.com
 mail.isp.netscape.com
+mail.myaccount.compuserve.com
+mail.payments.compuserve.com
 mail.ru.corp.acronis.com
 mail.us.corp.acronis.com
 mailagent.ad.nl
@@ -6241,6 +6359,7 @@ maritime-dev.andurildev.com
 maritime-urs-pipeline.andurildev.com
 mark.alipayplus.com
 marketing.amazon.com
+marketplace.canva.com
 marketplacedeveloper.amazon.co.uk
 marksandspencer-isa-preview-prod.amazon.com
 marksandspencer-isa-preview.amazon.co.uk
@@ -6305,6 +6424,8 @@ media-service-cn.amazon.com
 media-service-eu.amazon.com
 media-service-fe.amazon.com
 media-service-na.amazon.com
+media-transformation.canva.com
+media.canva.com
 mediatech-submission.amazon.com
 meet-metrics.8x8.vc
 meet.acronis.com
@@ -6434,6 +6555,7 @@ mock-gemini.vnaps.one-mobile-dev.aws.oath.cloud
 mock-gemini.vnps.one-mobile-dev.aws.oath.cloud
 mock-scs.vnaps.one-mobile-dev.aws.oath.cloud
 mock-yap.clementine.one-mobile-dev.aws.oath.cloud
+mockaroo.8x8.engineering
 mokka-client.acc.mobilevikings.be
 mokka.acc.mobilevikings.be
 money-markets-blog.amazon.com
@@ -6480,6 +6602,7 @@ mothercare.webstoreaoa-isa.amazon.co.uk
 mothercare.webstoreaoa-pca.amazon.co.uk
 motors-eu.amazon.co.uk
 motorsport.acronis.com
+movable-ink.canva.com
 mp3.amazon.co.uk
 mpolden.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 mpolden.scoober.aws-us-east-1c.public.vespa.oath.cloud
@@ -6495,6 +6618,7 @@ mpsusqa-testcname.mse-dev.aws.oath.cloud
 mpsusqa.mse-dev.aws.oath.cloud
 mr-fintech.adminml.com
 mr.allegro.sk.allegrosandbox.pl
+ms-my.about.canva.com
 ms.airbnb.org
 mscis-v3-be-agency-prod.amazon.com.be
 mscis-v3-uk-agency-prod.amazon.co.uk
@@ -6675,6 +6799,7 @@ nalle.comics.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 nalle.comics.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 nap-accounts.evernote.com
 navigator.antom.com
+nb-no.about.canva.com
 nebula.andurildev.au
 neomorphus.aws.amazon.com
 neptun.akhwien.at
@@ -6701,6 +6826,7 @@ news-detail.apexnews.com
 news.akamai-ci.airbnb.com
 news.akamai-dev.airbnb.com
 news.apexnews.com
+newsletter.canva.com
 nexus.uplynk-inf.aws.oath.cloud
 ng01-cloud.acronis.com
 nginxtest-dev.pilot.aws.infra8.8x8cloud.net
@@ -6714,6 +6840,7 @@ nicest-neighbor.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 nicest-neighbor.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 nicest-neighbor.scoober.global.public.vespa.oath.cloud
 nieuws.amazon.nl
+nl-nl.about.canva.com
 nl.airbnb.org
 no.airbnb.org
 no01-cloud.acronis.com
@@ -6731,6 +6858,8 @@ notary-storage.acronis.com
 notary-tb.acronis.com
 notary-test.acronis.com
 notary.acronis.com
+notification-design-invite-apne1.canva.com
+notification-design-invite.canva.com
 notifications-stage.rivendell.ap-northeast-1.vespa.oath.cloud
 notifications-stage.rivendell.ap-northeast-2.vespa.oath.cloud
 notifications-stage.rivendell.ap-southeast-1.vespa.oath.cloud
@@ -6904,6 +7033,7 @@ open-sea-mtls.alipayplus.com
 open-sea.alipayplus.com
 open-sectest-sg.antom.com
 open.apexnews.com
+openai.canva.com
 opengw.anext.com.sg
 openwebui.alasco.rocks
 openziti-controller.athenz-experiments.aws.oath.cloud
@@ -7077,6 +7207,7 @@ p.stage.8x8.vc
 p13n-eu.amazon.com
 p13n-na.amazon.com
 pads.amazon.co.uk
+page-testing.canva.tech
 page.alipayplus.com
 pagerduty-pmc.acronis.com
 pages.shipping.amazon.com
@@ -7110,10 +7241,12 @@ parent.amazon.com.au
 parents.amazon.co.uk
 parents.amazon.com.au
 parker-gateway-na.amazon.com
+partner-portal.canva.com
 partner-pub-content-hub-aws-nonprod.aws.oath.cloud
 partner.8x8.com
 partner.acronis.com
 partner.alipayplus.com
+partner.canva.com
 partneradservice.aws-oath-domain-match-us-mbst.aws.oath.cloud
 partnercentral.amazon.ae
 partnercentral.amazon.co.uk
@@ -7188,8 +7321,10 @@ pek.oa.amazon.com
 pek4-wc-vault.amazon.com
 perf-jobs-ui.one-mobile-dev.aws.oath.cloud
 perf.cloud.8x8.com
+performance.canva.tech
 perfqa.corp.acronis.com
 perfstg.account.api.here.com
+phoenix-capi.canva.cn
 phoenix.anduril.com
 photoagent.amazon.com
 photos-internal.aka.amazon.co.uk
@@ -7220,9 +7355,11 @@ pindrop.customer-care-pindrop-aws-prod.aws.oath.cloud
 pinnacle-api.amazon.co.uk
 pinnacle-api.amazon.com.au
 pinochle.amazon.com
+pipeline-signing.ci.canva.tech
 pitangui.amazon.com
 pixel-api-qai.us-east-1.aolp-ds-dev.aws.oath.cloud
 pixel-api.aolp-ds-dev.aws.oath.cloud
+pl-pl.about.canva.com
 pl.airbnb.org
 pl.blog.anchor.fm
 pl01-cloud.acronis.com
@@ -7246,6 +7383,7 @@ playground.projectj.aws-us-east-1c.public.vespa.oath.cloud
 playground.projectj.aws-us-east-1c.staging.public.vespa.oath.cloud
 playground.projectj.aws-us-east-1c.test.public.vespa.oath.cloud
 playground.projectj.global.public.vespa.oath.cloud
+playroom.canva.tech
 plive.account.krisp.ai
 plive.analytics.krisp.ai
 plm.amazon.com
@@ -7263,6 +7401,7 @@ pong.amazon.com
 pongpaging-us-west-2.amazon.com
 portal.8x8.co.uk
 portal.aws.amazon.com
+portfolio-public.canva.cn
 post.bz.adx.opera.com
 postur.acc.mobilevikings.be
 poweredby.amazon.co.uk
@@ -7327,6 +7466,7 @@ primenow.amazon.co.uk
 primenow.amazon.com
 primenow.amazon.es
 primenow.amazon.it
+print-assets.canva.com
 private.8x8cloud.net
 processor.1debit.com
 proctor.acronis.com
@@ -7422,7 +7562,9 @@ ps-app-us.amazon.com
 pshrprdext.anfcorp.com
 pstnhub.msteams.8x8.com
 pstnhub2.msteams.8x8.com
+pt-br.about.canva.com
 pt-br.blog.anchor.fm
+pt-pt.about.canva.com
 pt.airbnb.org
 pt.blog.anchor.fm
 pt.cmp-api.gdpr.us-east-1.aolp-ds-dev.aws.oath.cloud
@@ -7701,6 +7843,7 @@ rds-read-replica.alasco.de
 rds-rw.alasco.de
 rds-services-cache.acronis.work
 rds.alasco.de
+react-native-public.canva.com
 read.amazon.co.uk
 read.amazon.com
 read.amazon.com.au
@@ -7782,6 +7925,7 @@ reson8.stage.8x8.vc
 resource.8x8.com
 resource.alipayplus.com
 resources.8x8.com
+resources.canva.com
 resources.console.aws.amazon.com
 rest.akismet.com
 restservice.home-uherberg-devguide.aws.oath.cloud
@@ -7939,6 +8083,7 @@ ru-lyncwebint.corp.acronis.com
 ru-msk-dc1.corp.acronis.com
 ru-oos-1.corp.acronis.com
 ru-oos-2.corp.acronis.com
+ru-ru.about.canva.com
 ru-vpn.acronis.com
 ru-vpn2.acronis.com
 ru.airbnb.org
@@ -8008,6 +8153,8 @@ safeguard.a.exodus.io
 safehaven.adm.cloud.com
 salelytics.akismet.com
 sales.8x8.com
+sales.canva.com
+salesforce-data.canva-apps.com
 salesloft.5nine.com
 samazon.co.uk
 sample-jtakagi.yj.aws-us-east-1c.dev.public.vespa.oath.cloud
@@ -8086,6 +8233,7 @@ sea-salmon.amazon.com
 sea.email.amazon.com
 sea.oa.amazon.com
 seamus.amazon.co.uk
+search-autocomplete-public-icons.canva.com
 search.advisories.gitlab.com
 search.isp.netscape.com
 secure-fields.amazon.ca
@@ -8286,6 +8434,7 @@ shm.amazon.co.uk
 shm.amazon.com
 shop.8x8.com
 shop.acronis.com
+shop.canva.com
 show.copacabana.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 show.copacabana.scoober.aws-us-east-1c.public.vespa.oath.cloud
 show.copacabana.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
@@ -8725,6 +8874,7 @@ staging.member.compuserve.com
 staging.partners.acronis.com
 staging1.advancedcustomfields.com
 star.8x8.com.8x8.com
+static-cse.canva.com
 static-pr9222-ala-4807-upload23hx.dev.alasco.rocks
 static-pr9222-ala-4807-upload812h.dev.alasco.rocks
 static-pr9222-ala-4807-upload8ukj.dev.alasco.rocks
@@ -8759,6 +8909,7 @@ static-pr9657-wf-2051-be-add-tihz9.dev.alasco.rocks
 static-pr9659-esg-7330-customnf4s.dev.alasco.rocks
 static.3lateral.com
 static.amazon.co.uk
+static.canva.com
 static.staging.alasco.rocks
 staticfiles.acronis.com
 statik.staging.alasco.rocks
@@ -8767,6 +8918,8 @@ status.acronis.com
 status.adaptive-shield.com
 status.ai.8x8.com
 status.alexa.amazon.com
+status.canva.cn
+status.canva.com
 stg.account.api.here.com
 stg.account.here.com
 stg.ai.8x8.com
@@ -8876,6 +9029,7 @@ stt-nova3.titanium-staging.api.anthropic.com
 stt-nova3.titanium.api.anthropic.com
 stt.titanium-staging.api.anthropic.com
 stt.titanium.api.anthropic.com
+studio-decks.8x8.engineering
 studios.amazon.com
 styx.airbnb-aws.com
 subdomain.akismet.com
@@ -8919,10 +9073,13 @@ support.amazon.ca
 support.amazon.co.uk
 support.anchor.fm
 support.anduril.dev
+support.canva.com
 survey-tool.amazon.co.uk
 suvathyg-azo.dev.creatorstudio.amazon.com
+sv-se.about.canva.com
 sv.airbnb.org
 sv.next.airbnb.com
+svc-panel.webproxy.idcjoy.univeryountselegorysistmall.jobs-bdjobs-com.enterprise-demo-team.0.canva.cn
 svc.8x8cloud.net
 svc.o2.aws.oath.cloud
 svn.corp.acronis.com
@@ -8977,13 +9134,19 @@ tc-api-ext.tc.anduril.au
 tc.anduril.au
 tc.eng.anduril.au
 tcbbank.airbnbcitizen.com
+teampulse-staging.8x8.engineering
+teampulse.8x8.engineering
 tech-book-store.amazon.com
 tech-flatexpensecalculator.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za
 telemetry.acronis.com
+telemetry.canva.cn
+telemetry.canva.com
+telemetry2.canva.cn
 telepoc.acc.mobilevikings.be
 teleport.8x8-shared-svcs-prod.aws.infra8.8x8cloud.net
 teleport.development.cloud.8x8.com
 teleport.es.8x8.com
+template.canva.com
 tenantadmin-dev-manual.oci.infra8.8x8cloud.net
 tenantadmin-dev-test.oci.infra8.8x8cloud.net
 tenantadmin-production.oci.infra8.8x8cloud.net
@@ -9011,6 +9174,7 @@ test.andreer.aws-us-east-1c.dev.public.vespa.oath.cloud
 test.apex-football.com
 test.awesome.8x8testa.com
 test.bid.oath-exchange-dev.aws.oath.cloud
+test.canva.tech
 test.cbc.acronis.work
 test.chalet.8x8.com
 test.cosmo-production.aws.oath.cloud
@@ -9059,8 +9223,12 @@ text-search.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 text-search.scoober.global.public.vespa.oath.cloud
 textpayme.amazon.com
 tezos.a.exodus.io
+th-th.about.canva.com
 th.airbnb.org
 th.blog.anchor.fm
+thirdparty-public-apps-media-tmp.canva-apps.com
+thirdparty-public-apps-media.canva-apps.com
+thirdparty-public-apps.canva-apps.com
 thrift.acronis.work
 thumbnails-photos.amazon.co.uk
 thumbnails-photos.amazon.com.au
@@ -9146,6 +9314,7 @@ tp.adx.opera.com
 tp.b16066390-frontier.amazonalexa.com
 tpe1-repo.acronis.com
 tpe1-s3gw.acronis.com
+tr-tr.about.canva.com
 tr.airbnb.org
 tr.blog.anchor.fm
 tr.next.airbnb.com
@@ -9155,6 +9324,7 @@ track-sandbox.amazon.co.uk
 track.amazon.co.uk
 track.amazon.it
 tracker.cross-platform-analytics-alephd-dev.aws.oath.cloud
+tracking.canva.com
 training.acronis.com
 tralala.albums.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 tralala.albums.scoober.aws-us-east-1c.public.vespa.oath.cloud
@@ -9204,6 +9374,7 @@ trunk.oidc.netscape.compuserve.com
 trunk.oidc.payments.compuserve.com
 trunk.oidc.publishing.compuserve.com
 trunk.oidc.wmconnect.compuserve.com
+trust.canva.com
 try.5nine.com
 tryaccess.acronis.com
 ts.acronis.com
@@ -9255,6 +9426,7 @@ ui-dev.oath-exchange-dev.aws.oath.cloud
 ui-patterns.alasco.rocks
 ui-perf.acronis.work
 ui-toolkit.acronis.work
+ui.canva.tech
 ui.cosmo-production.aws.oath.cloud
 ui.jacobestelle-home.bf2.ows.oath.cloud
 ui.jacobestelle-home.gq2.ows.oath.cloud
@@ -9272,6 +9444,7 @@ uk-lyncwebint.corp.acronis.com
 uk-pre-prod-aw.amazon.com
 uk-preflight-aw.amazon.com
 uk-simplycommunities.akismet.com
+uk-ua.about.canva.com
 uk.airbnb.org
 uk.chalet.8x8.com
 uk.next.airbnb.com
@@ -9412,6 +9585,7 @@ usmc.anduril.com
 usw.fb.adsrvr.org
 usw.msteams.8x8.com
 usw2.cloud8-dev.aws.infra8.8x8cloud.net
+ut.canva.tech
 utiliation-reports.aws-oath-pcp-aws-usage.aws.oath.cloud
 utilization-reports.aws-oath-pcp-aws-usage.aws.oath.cloud
 uts-rtb-jenkins.rtb-dev.aws.oath.cloud
@@ -9482,6 +9656,7 @@ valerijf.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 valerijf.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 valerijf.scoober.global.public.vespa.oath.cloud
 valkyrie-dev.anduril.com
+values.canva.tech
 vap.amazon.com
 varfbm5bestuka7uvgajs36qsvm4j3r6z.public.vespa.oath.cloud
 vas-creative-service.one-mobile-dev.aws.oath.cloud
@@ -9626,6 +9801,7 @@ vhwdg6jt74d77eat5wjexwte5r5mdilgk.vespa.oath.cloud
 vhwzd4yebqblhpaqphqab5dhocgz7mthh.public.vespa.oath.cloud
 vhy2ghltf6ytuwab44tgg64a4l5dh2bi4.vespa.oath.cloud
 vhy3qt47uhhg5isdzwxs5pcsqvl36trj7.public-cd.vespa.oath.cloud
+vi-vn.about.canva.com
 vi.airbnb.org
 vi.blog.anchor.fm
 vi45tjjrope7eihargsuk3wjdnlv7u63q.vespa.oath.cloud
@@ -9663,7 +9839,10 @@ video-data-platform-prod.aws.oath.cloud
 video-data-platform.dev.aws.oath.cloud
 video-dev.aws.oath.cloud
 video-intelligence-prod.aws.oath.cloud
+video-placeholders.canva.com
 video-platform-splunk.aws.oath.cloud
+video-private-assets.canva.cn
+video-private-assets.canva.com
 video-prod.aws.oath.cloud
 video-stage.aws.oath.cloud
 video.8x8.com
@@ -9913,6 +10092,7 @@ webpanel.acronis.work
 webpaypaymentgateway-a1e0461acbd7-dhcp4.8x8pilot.com
 webpaypaymentgateway.8x8pilot.com
 webpaypaymentvportal.8x8pilot.com
+webproxy.idc-blog-agent.usher.tv-web8164.canva.cn
 webrtc-sbc.8x8pilot.com
 webrtc1-cc.vo.dev.8x8.com
 webservices-internal.amazon.com.au
@@ -9929,6 +10109,8 @@ webservices.amazon.sg
 website-g7g.amazon.co.uk
 website-g7g.amazon.com
 websiteapi.acronis.com
+websocket-acm-gw.canva.com
+websocket-arm64-gw.canva.com
 websphereautodandomain-vendorerfig-lab.rest.akismet.com
 webstore-config-gateway.amazon.co.uk
 webstore-config-gateway.amazon.com
@@ -9973,6 +10155,7 @@ workday.acronis.work
 workdocs.ap-southeast-1.amazon.com
 workforce.adminml.com
 workspaces-contractor.anduril.com
+world-bank-data.canva-apps.com
 world-model-dev-1.andurildev.com
 world-model-pipeline-0.andurildev.com
 world-model-pipeline-1.andurildev.com
@@ -10104,6 +10287,7 @@ www.api-acceptance.8x8.com
 www.api-dev.8x8.com
 www.api-staging.8x8.com
 www.api.8x8.com
+www.api.admanager.yahoo.com
 www.appdirect-eu2-cloud.acronis.com
 www.appsmart-cloud.acronis.com
 www.artifactory.corp.acronis.com
@@ -10134,6 +10318,8 @@ www.business.amazon.com.au
 www.buy.acronis.com
 www.ca01-cloud.acronis.com
 www.ca02-cloud.acronis.com
+www.canva.cn
+www.canva.com
 www.care.acronis.com
 www.cas.acronis.com
 www.cb-eu2.acronis.com
@@ -10161,6 +10347,7 @@ www.cloud-as-jp1.acronis.com
 www.cloud-jenkins.corp.acronis.com
 www.cloud-rs-preview1.acronis.com
 www.cloud-wrh-preview1.acronis.com
+www.cloudflareos.8x8.engineering
 www.cn99-cloud.acronis.com
 www.common.1win.com
 www.community.8x8.com
@@ -10204,6 +10391,7 @@ www.es01-cloud.acronis.com
 www.expedia.amazon.co.uk
 www.expedie.amazon.fr
 www.fba.amazon.co.uk
+www.fde-staging.8x8.engineering
 www.fi01-cloud.acronis.com
 www.files.demo.acronis.com
 www.forum.acronis.com
@@ -10219,6 +10407,7 @@ www.h5.paytech.alipayplus.com
 www.hastebin.adc.corp.acronis.com
 www.hastebin.corp.acronis.com
 www.held-acceptance.8x8.com
+www.help.compuserve.com
 www.help.dr.acronis.com
 www.helpdesk.acronis.work
 www.hris2.corp.acronis.com
@@ -10277,6 +10466,7 @@ www.mttransfer.acronis.com
 www.mtweb.acronis.com
 www.music-lyrics-service.amazon.com
 www.my01-cloud.acronis.com
+www.myaccount.compuserve.com
 www.netbox.acronis.work
 www.ng01-cloud.acronis.com
 www.no01-cloud.acronis.com
@@ -10302,6 +10492,7 @@ www.panel.amazon.com.au
 www.panel.amazon.nl
 www.partners.acronis.com
 www.pay.8x8.com
+www.payments.compuserve.com
 www.pbi.acronis.com
 www.pcmb2.8x8.com
 www.pcmb2.8x8pilot.com
@@ -10482,8 +10673,12 @@ zabbix.corp.acronis.com
 zappos.amazon.com
 zendesksbox.mulesoft.8x8pilot.com
 zeppelin.acronis.work
+zh-cn.about.canva.com
 zh-cn.airbnb.com
+zh-dotcn.about.canva.com
+zh-hk.about.canva.com
 zh-t.next.airbnb.com
+zh-tw.about.canva.com
 zh.airbnb.org
 zhubhkbank.antbank.hk
 zia1-repo.acronis.com
