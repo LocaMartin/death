@@ -1116,7 +1116,6 @@ cms.nba.com
 cmtelecom.com
 co.mona.android
 co.uk.getmondo
-coaching.supernovas.indrive.com
 coalition-dev.nba.com
 coalition-qa.nba.com
 coban.pixiv.net
@@ -1512,6 +1511,7 @@ com.vimeocreate.videoeditor.moviemaker
 com.visma.blue
 com.vrbo.android
 com.wealthsimple
+com.wealthsimple.predict
 com.wealthsimple.wealthsimple
 com.wellsfargo.ceomobile
 com.wf.ceomobile
@@ -2598,7 +2598,6 @@ ir.bookingholdings.com
 ir.clearme.com
 ir.remitly.com
 ir.ui.com
-irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 irmg.nl
 iron.xyz
@@ -2763,7 +2762,6 @@ liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
-lists.wordpress.org
 live-backstage.tiktok.com
 live-service.whatnot.com
 livestream.com
@@ -3164,7 +3162,6 @@ msg.playcanvas.com
 msgsvc.io
 mta-sts.wearehackerone.com
 multimedia-delivery.esa.int
-munin.wordpress.org
 mus1.badoo.com
 muscache.com
 musta.ch
@@ -5206,7 +5203,6 @@ www.stradivarius.com
 www.stripe.partners
 www.superdrug.com
 www.superdrugmobile.com
-www.supernovas.indrive.com
 www.swiftcapital.com
 www.swiftfinancial.com
 www.swisstransfer.com
