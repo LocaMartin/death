@@ -8,3 +8,13 @@
 *.canva.com
 *.canva.tech
 *.compuserve.com
+*.gemini.yahoo.com
+*.gp.monash.edu
+*.isp.netscape.com
+*.lite.aol.com
+*.oath.cloud
+*.tw.news.yahoo.com
+*.yahoo.cloud
+- www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
+--your-own-1password-account--.1password.com
+10x.redoxengine.com
