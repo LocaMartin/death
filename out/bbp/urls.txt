@@ -687,8 +687,6 @@ https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://getflywheel.com
-https://github.com/afterpay/sdk-android
-https://github.com/afterpay/sdk-ios
 https://github.com/aiven
 https://github.com/aiven-open
 https://github.com/anthropics/claude-code
@@ -705,10 +703,6 @@ https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
 https://github.com/brave/%2A,%20https://github.com/brave-intl/%2A
-https://github.com/cashapp/cash-app-pay-android-sdk
-https://github.com/cashapp/cash-app-pay-ios-sdk
-https://github.com/cashapp/hermit
-https://github.com/cashapp/misk
 https://github.com/chia-network/chia-blockchain
 https://github.com/chia-network/chia-blockchain-gui
 https://github.com/chia-network/chia_rs
@@ -908,7 +902,6 @@ https://github.com/smartcontractkit/chainlink-solana/tree/develop/contracts
 https://github.com/smartcontractkit/external-adapters-js
 https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
 https://github.com/spotify/save-to-spotify
-https://github.com/square/wire
 https://github.com/sveltejs/svelte
 https://github.com/tempus-ex
 https://github.com/transferwise
@@ -1924,7 +1917,6 @@ https://portfolio-manager-sit.uat.proptrack.com/
 https://posti.com
 https://powerdms.com
 https://powerpak.com
-https://pprd.cybermalveillance.gouv.fr
 https://preprod-datahub.xelians.fr/
 https://preprod-xam.xelians.fr/
 https://priceless.com/golf
