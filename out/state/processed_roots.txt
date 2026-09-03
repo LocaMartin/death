@@ -18,3 +18,13 @@
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
 --your-own-1password-account--.1password.com
 10x.redoxengine.com
+1debit.com
+1pw-scim.prd.iat.it.xvservice.net
+1w.cash
+1w.run
+1win.com
+23andmeresearchinstitute.org
+3.0 api
+3d.cs.money
+3lateral.com
+3rdparty-apis.coinmarketcap.com

@@ -16579,6 +16579,10 @@ mail-relay-103.3.basecamp.com
 mail-relay-104.3.basecamp.com
 mail-relay-105.3.basecamp.com
 mail-yahoo.mail-backend-schd-prd.aws.oath.cloud
+mail.1w.cash
+mail.1w.run
+mail.1win.com
+mail.23andmeresearchinstitute.org
 mail.8x8.cloud
 mail.8x8.engineering
 mail.acronis.com
