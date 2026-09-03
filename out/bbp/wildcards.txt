@@ -527,8 +527,6 @@ insight.io
 instacart.com
 instacart.tools
 intercom.com
-intercomassets.com
-intercomcdn.com
 intergamma-test.nl
 intergamma.cloud
 intergamma.nl

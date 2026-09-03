@@ -10,8 +10,10 @@
 *.compuserve.com
 *.gemini.yahoo.com
 *.gp.monash.edu
+*.intercomassets.com / *.intercomcdn.com
 *.isp.netscape.com
 *.lite.aol.com
+*.mobile-messenger.intercom.com
 *.oath.cloud
 *.tw.news.yahoo.com
 *.yahoo.cloud
@@ -287,7 +289,6 @@ api.alasco.de
 api.anthropic.com
 api.arkane.network
 api.atg.se
-api.au.frontegg.com
 api.binance.com
 api.blablalines.com
 api.blockchain.info
@@ -2564,8 +2565,6 @@ insuritly.com
 int.32red.com
 intensedebate.com
 intercity.indrive.com
-intercomassets.com
-intercomcdn.com
 intergamma-test.nl
 intergamma.cloud
 intergamma.nl
@@ -3123,7 +3122,6 @@ mlstatic.com
 mmcdn.com
 mmwebc.dev
 mobile-api.coolblue-production.eu
-mobile-messenger.intercom.com
 mobile.clearme.com
 mobile.s-pankki.fi
 mobileapi.insightly.com
@@ -3612,7 +3610,6 @@ pontoon.allizom.org
 portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
-portal.au.frontegg.com
 portal.gofoodmerchant.co.id
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
