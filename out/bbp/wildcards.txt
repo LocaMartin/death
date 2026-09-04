@@ -68,7 +68,6 @@ amazon.pl
 amazon.sa
 amazon.se
 amazon.sg
-amazonalexa.com
 amplitude-game.com
 analytics-8x8.com
 anduril.au
@@ -563,9 +562,6 @@ kinepolis.fr
 kinepolis.lu
 kinepolis.nl
 kiwi.com
-klarna.com
-klarna.net
-klarnacdn.net
 klaviyo-dev.com
 klaviyo.com
 klaviyomsv.com
@@ -666,7 +662,6 @@ mercadopago.com.co
 mercadopago.com.mx
 mercadopago.com.pe
 mercadopago.com.uy
-metamask.io
 metronome.com
 mevo.com
 mgbcareconnect.org
@@ -852,7 +847,6 @@ ppbdev.com
 preempt.com
 preemptsecurity.com
 prelert.com
-pricerunner.com
 prijsmepper.nl
 primevideo.com
 privateinternetaccess.com

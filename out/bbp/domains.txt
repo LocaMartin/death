@@ -51,7 +51,6 @@
 8x8testb.com
 a.exodus.io
 a.root-servers.net
-a4k.amazon.com
 a5s.hackerone-ext-content.com
 ab-platform-api.eu-east-1.indriverapp.com
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
@@ -71,7 +70,6 @@ account.acronis.com
 account.api.here.com
 account.booking.com
 account.box.com
-account.deezer.com
 account.here.com
 account.kaufland.com
 account.kaufland.de
@@ -184,8 +182,6 @@ aleenote.cn
 aleenote.com
 alert.logitech.com
 alerts.ninjakiwi.com
-alexa.amazon.com
-alexaanswers.amazon.com
 alfred-uat-31.nonprod.syfe.com
 alfred.syfe.com
 alipayhk.com
@@ -218,7 +214,6 @@ amazon.com.co
 amazon.com.mx
 amazon.com.ng
 amazon.com.tr
-amazon.com/hz/mycd/*
 amazon.de
 amazon.eg
 amazon.es
@@ -231,7 +226,6 @@ amazon.sa
 amazon.se
 amazon.sg
 amazon.speech.sim
-amazonalexa.com
 amazonpay.in
 amazonpayinsurance.in
 amd.digitalocean.com
@@ -303,8 +297,6 @@ api.cmtelecom.com
 api.coindcx.com
 api.coinmarketcap.com
 api.creditkarma.com
-api.cx.metamask.io
-api.deezer.com
 api.deriv.com
 api.dev.lando.nonprod.cloudops.mozgcp.net
 api.developer.monespacesante.fr
@@ -423,7 +415,6 @@ api.privateinternetaccess.com
 api.privy.io
 api.prod.whoop.com
 api.qualified.com/v1
-api.qwant.com
 api.rapyd.net
 api.razorpay.com
 api.reddit.com
@@ -560,7 +551,6 @@ app.greenhouse.io
 app.iciparisxl.be
 app.iciparisxl.lu
 app.iciparisxl.nl
-app.klarna.com
 app.koho.ca
 app.krisp.ai
 app.kruidvat.be
@@ -845,7 +835,6 @@ blogs.esa.int
 blox.link
 bluecoats-qa.gleague.nba.com
 bluecoats.gleague.nba.com
-blueprints.amazon.com
 blueskytours.com
 blueskytours.globalbookingsolutions.com
 bma.badoo.com
@@ -1583,7 +1572,6 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network
-connect.deezer.com
 connect.posti.fi
 connect.secure.wellsfargo.com
 connect.venly.io
@@ -1659,7 +1647,6 @@ crash-reports.allizom.org
 crash-stats.allizom.org
 create.fortnite.com
 create.snapchat.com
-creator.amazon.com
 creatormarketplace.tiktok.com
 creditkarma.ca
 creditkarma.co.uk
@@ -1805,8 +1792,6 @@ dev2.grindr.io
 devcenter.unico.io
 developer-api.crypto.com
 developer-platform-api.crypto.com
-developer.amazon.com/alexa/*
-developer.amazon.com/apps-and-games/*
 developer.authorize.net
 developer.crypto.com
 developer.currencycloud.com
@@ -2679,9 +2664,6 @@ kinepolis.megatix.be
 kinepolis.nl
 kit.snapchat.com
 kiwi.com
-klarna.com
-klarna.net
-klarnacdn.net
 klaviyo-dev.com
 klaviyomsv.com
 klubcinema.fr
@@ -3056,10 +3038,6 @@ merch.23andme.com
 merchandise.opera-api.com
 merchant.crypto.com
 merchant.wolt.com
-merchantsignage.visa.com
-merchantsignageca.visa.com
-merchantsignageeu.visa.com
-merchantsignageglobal.visa.com
 mercury-dev.wnba.com
 mercury-qa.wnba.com
 mercury-qa2.wnba.com
@@ -3490,7 +3468,6 @@ paylution.com
 payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
-payment.deezer.com
 payment.kolikkopelit.com
 payment.mariacasino.com
 payment.mariacasino.dk
@@ -3562,7 +3539,6 @@ piaservers.net
 pigeon.swiftfinancial.com
 ping.pdst.fm
 pinterest.com
-pipe.deezer.com
 pipopay.com
 plaid.com
 planet.wordpress.org
@@ -3613,7 +3589,6 @@ portal.arkoselabs.com
 portal.gofoodmerchant.co.id
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
-portal.playground.klarna.com
 portal.polygon.technology
 portal.taxi.booking.com
 portalinmobiliario.cl
@@ -3666,7 +3641,6 @@ presentationtracking.netflix.com
 press.priceline.com
 preview.8x8.vc
 priceline.com
-pricerunner.com
 prijsmepper.nl
 primarycareondemand.mayoclinic.org
 primevideo.com
@@ -3735,7 +3709,6 @@ quip.com
 quixel.com
 quizlet.com
 quora.com
-qwantjunior.com
 ra.roblox.com
 radio.api.soundtrackyourbrand.com
 rafflee.co.uk
@@ -3757,7 +3730,6 @@ rbx.com
 rea-group.com
 reach.hostinger.com
 reachthefinals.com
-read.amazon.com
 readonly.fareharbor.com
 realestate.com.au
 reastatic.net
@@ -3910,9 +3882,6 @@ runnr.in
 rushbuy.buy.yahoo.com
 ryadom.kz
 s-cloud.net
-s.qwant.com
-s1.qwant.com
-s2.qwant.com
 s3p.cloud
 sa-tech.de
 safe.tumblr.com
@@ -4102,7 +4071,6 @@ site.rewire.com
 sites.fareharbor.com
 sketch.pixiv.net
 sketchfab.com
-skills-store.amazon.com
 skinfra.xyz
 sky-dev.wnba.com
 sky-qa.wnba.com
@@ -4568,7 +4536,6 @@ updates.forescout.com
 uphold.com
 upld.krisp.ai
 upload.box.com
-upload.deezer.com
 upsell.hyatt.com
 url-checker.indrive.com
 us.cloud.com
@@ -4768,8 +4735,6 @@ wechat.api.marriott.com
 weclapp.com
 wecosystem.com
 welcome.infomaniak.com
-wellbeing.deezer.com
-wellbeing.dzcdn.net
 wellsfargo.com
 wellsfargoadvisors.com
 welt.de
@@ -4849,7 +4814,6 @@ wps-cps.dmp.gouv.fr
 wps-cps.dmp.monespacesante.fr
 wpscan.com
 ws.blockchain.info
-ws.deezer.com
 ws.sorare.com
 wss://messaging.vrt.be/
 wss://socket.bitpanda.com
@@ -4942,7 +4906,6 @@ www.cybersource.com
 www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
-www.deezer.com
 www.delen.bank
 www.delen.be/en
 www.demorgen.be
@@ -5168,7 +5131,6 @@ www.prijsmepper.nl
 www.pullandbear.cn
 www.pullandbear.com
 www.qualified.com
-www.qwant.com
 www.redcare.it
 www.redoxengine.com
 www.s-pankki.fi
@@ -5450,7 +5412,6 @@ zelle.com
 zellepay.com
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
-zen.deezer.com
 ziekenhuisschool.be
 zimpler.com
 zimpler.net

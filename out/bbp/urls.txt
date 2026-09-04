@@ -197,7 +197,7 @@ https://api.neogov.com
 https://api.openai.com
 https://api.optimizely.com/
 https://api.paddle.com
-https://api.paymaya.com
+https://api.paymaya.com/
 https://api.pcrs.kape.com
 https://api.pinterest.com
 https://api.planethoster.net
@@ -279,7 +279,7 @@ https://app.wisdomtreeconnect.com
 https://app.wisdomtreeconnect.com/api
 https://app.wisdomtreeconnect.com/o/token
 https://appgallery.huawei.com/#/app/c102099703?locale=zh_cn&source=appshare&subsource=c102099703
-https://appgallery.huawei.com/app/c101186357
+https://appgallery.huawei.com/app/C101186357
 https://apphouse.underarmour.com/
 https://apps.8x8.com
 https://apps.facebook.com/pearls-peril
@@ -448,7 +448,7 @@ https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://confluence.requirementyogi.com
 https://connect.monash.edu
-https://connect.paymaya.com
+https://connect.paymaya.com/
 https://connect.soundcloud.com
 https://consensus2026.sandbox.events.coindesk.com/
 https://console-stage.neon.build/
@@ -1822,7 +1822,7 @@ https://one.newrelic.com
 https://oneview.threatdownstage.com
 https://online.monash.edu/
 https://online.srilankaevisa.lk/lka/en/login
-https://op.paymaya.com
+https://op.paymaya.com/
 https://open.sincera.io
 https://openai.com
 https://openai.com/
@@ -1865,13 +1865,13 @@ https://partnerselfservice.posti.fi
 https://passport.immutable.com/
 https://pay.payzippy.com
 https://pay.unity.com
-https://paymayabiller-prod.paymaya.com
+https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com
 https://payment-gateway.kronor.io
 https://payment.lafourchette.com
 https://payments.myntra.com
 https://payments.wpengine.com
-https://payoutapi.maya.ph
+https://payoutapi.maya.ph/
 https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
