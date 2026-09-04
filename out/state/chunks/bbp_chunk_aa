@@ -1,3 +1,5 @@
+*.intercomassets.com / *.intercomcdn.com
+*.mobile-messenger.intercom.com
 api.tumblr.com
 api.twilio.com
 api.ua.com
@@ -121,5 +123,3 @@ apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 apps.ort-one-pingone.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
-appt.healthclinics.superdrug.com
-aqtooling.com
