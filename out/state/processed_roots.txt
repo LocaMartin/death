@@ -10,8 +10,10 @@
 *.compuserve.com
 *.gemini.yahoo.com
 *.gp.monash.edu
+*.intercomassets.com / *.intercomcdn.com
 *.isp.netscape.com
 *.lite.aol.com
+*.mobile-messenger.intercom.com
 *.oath.cloud
 *.tw.news.yahoo.com
 *.yahoo.cloud
@@ -28,3 +30,11 @@
 3d.cs.money
 3lateral.com
 3rdparty-apis.coinmarketcap.com
+4njbets.com
+4njbets.us.betfair.com
+5k8vrbdyje.infomaniak.site
+5nine.com
+8x8.co.uk
+8x8.com
+8x8.id
+8x8.my.site.com

@@ -158,6 +158,7 @@
 1win.com
 20fe3fe3afac31.rest.akismet.com
 21cf.account.box.com
+22cc2d3a9803e15e18cccf9b426b424c104bff0b-ios.mobile-messenger.intercom.com
 23andmeresearchinstitute.org
 247-inc.account.box.com
 24g.account.box.com
@@ -215,6 +216,7 @@
 6dt-conseil.account.box.com
 6l4s43x2mv6oetxqq4h5h3a.public.vespa.oath.cloud
 6pm.amazon.com
+7497d660668819dc85f0da390095f485d8e89f97-ios.mobile-messenger.intercom.com
 775benefitsgroup.account.box.com
 7b49731fcbb9.rest.akismet.com
 8.canva-apps.cn
@@ -459,6 +461,7 @@ a4d5753b.z.vespa.oath.cloud
 a4dd5027.a.vespa.oath.cloud
 a4dd5027.g.vespa.oath.cloud
 a4dd5027.z.vespa.oath.cloud
+a4egfjdm-ios.mobile-messenger.intercom.com
 a4f8fd5c.a.vespa.oath.cloud
 a4f8fd5c.g.vespa.oath.cloud
 a4f8fd5c.z.vespa.oath.cloud
@@ -644,6 +647,7 @@ a7f30ede.z.vespa.oath.cloud
 a8395184.a.vespa.oath.cloud
 a8395184.g.vespa.oath.cloud
 a8395184.z.vespa.oath.cloud
+a8698bc6515e6cfe467e1112b14c53eb778800e7-ios.mobile-messenger.intercom.com
 a86b90d7.a.vespa.oath.cloud
 a86b90d7.g.vespa.oath.cloud
 a86b90d7.z.vespa.oath.cloud
@@ -837,9 +841,14 @@ aarpshare.account.box.com
 aasea01.msteams.8x8.com
 aassa01.msteams.8x8.com
 aassa02.msteams.8x8.com
+aassa03.msteams.8x8.com
+aassa05.msteams.8x8.com
 aatgbltd.account.box.com
 aauea02.msteams.8x8.com
+aauea03.msteams.8x8.com
+aauea05.msteams.8x8.com
 aauec01.msteams.8x8.com
+aauec03.msteams.8x8.com
 aax-cn.amazon.cn
 aax-eu-zaz.amazon.ae
 aax-eu-zaz.amazon.co.uk
@@ -1266,6 +1275,8 @@ ad3767ea151e.rest.akismet.com
 ad37d4bf.a.cd.vespa.oath.cloud
 ad37d4bf.g.cd.vespa.oath.cloud
 ad37d4bf.z.cd.vespa.oath.cloud
+ad6fskh4-android.mobile-messenger.intercom.com
+ad6fskh4-ios.mobile-messenger.intercom.com
 ad740cbd.a.vespa.oath.cloud
 ad740cbd.g.vespa.oath.cloud
 ad740cbd.z.vespa.oath.cloud
@@ -1553,6 +1564,9 @@ aeuwa30.msteams.8x8.com
 aeuwa51-4.msteams.8x8.com
 aeuwa51.msteams.8x8.com
 aeuwa60.msteams.8x8.com
+aeuwa62.msteams.8x8.com
+aeuwa63.msteams.8x8.com
+aeuwa64.msteams.8x8.com
 aeuwf01.msteams.8x8.com
 aeuwf02.msteams.8x8.com
 aeuwf03.msteams.8x8.com
@@ -1571,6 +1585,9 @@ aeuwf16.msteams.8x8.com
 aeuwf18.msteams.8x8.com
 aeuwf19.msteams.8x8.com
 aeuwf60.msteams.8x8.com
+aeuwf62.msteams.8x8.com
+aeuwf63.msteams.8x8.com
+aeuwf64.msteams.8x8.com
 af-mobile-api-preprod.amazon.co.uk
 af-mobile-api.amazon.co.uk
 af-mobile-api.amazon.com
@@ -1716,6 +1733,7 @@ africa.visa.com
 africom.anduril.com
 afs-portal-v2-gamma-iad.aka.amazon.com
 afs.airstarfinance.net
+afxggj99-ios.mobile-messenger.intercom.com
 agcod-cn-gamma.amazon.com
 agcod-cn.amazon.com
 agcod-eu-gamma.amazon.com
@@ -1856,6 +1874,8 @@ agora.aws.amazon.com
 ags-ext.amazon.com
 aguacaliente.gleague.nba.com
 agusgun.search.hiveosinc.aws-us-east-1c.dev.public.vespa.oath.cloud
+ahnp8yy2-android.mobile-messenger.intercom.com
+ahnp8yy2-ios.mobile-messenger.intercom.com
 ahp.security.anduril.dev
 ai-dev.andurildev.com
 ai-emr.unified-insights-ai-dev.aws.oath.cloud
@@ -1911,6 +1931,7 @@ aiv-clients-apps.amazon.com
 aiv-eu-blr-dev.amazon.com
 aiv-lrc-blr-gamma-qa.amazon.com
 aiv-lrc-blr-gamma.amazon.com
+aj46seek-ios.mobile-messenger.intercom.com
 ajoshi03.csp.gemini-native.aws-us-east-2a.dev.vespa.oath.cloud
 ajoshi03.csp.gemini-native.us-east-1.dev.vespa.oath.cloud
 ajoshi03.sol.blink-dpa.us-east-1.dev.vespa.oath.cloud
@@ -2253,6 +2274,8 @@ am.developer.monespacesante.fr
 am.editeur.preprod.monespacesante.fr
 am.monespacesante.fr
 am.preprod.monespacesante.fr
+am1jk5dk-android.mobile-messenger.intercom.com
+am1jk5dk-ios.mobile-messenger.intercom.com
 amapedia.amazon.com
 amarillo.amazon.com
 amazon.ae
@@ -2290,6 +2313,7 @@ amazonpay.in
 amazonpayinsurance.in
 amazonpayments.amazon.com
 amd.digitalocean.com
+amef0ikx-ios.mobile-messenger.intercom.com
 ameriprise.airbnbcitizen.com
 amf-prod.advgovernance-aws-prod.aws.oath.cloud
 amf-qa.advgovernance-aws-dev.aws.oath.cloud
@@ -2371,6 +2395,8 @@ analytics.aws-oath-fires-brana-dev.aws.oath.cloud
 analytics.aws-oath-fires-brana-prod.aws.oath.cloud
 analytics.krisp.ai
 analytics.ninjakiwi.com
+analytics.pilot-eks.ai.8x8.com
+analytics.pilot-eks.us-east-1.ai.8x8.com
 analytics.pinelabs.com
 anchor.fm
 anchore-api.paranoids-vuln-anchore-dev.aws.oath.cloud
@@ -2777,6 +2803,7 @@ api.coindcx.com
 api.content-ingestion.partner-pub-content-hub-aws-nonprod.aws.oath.cloud
 api.content-ingestion.partner-pub-content-hub-aws-prod.aws.oath.cloud
 api.dcs-metroplex-dev.aws.oath.cloud
+api.demo.rekap.8x8.com
 api.ednadruiddev.druid-ec2.pe-dba-aws-dba.aws.oath.cloud
 api.eu.amazonalexa.com
 api.fe.amazonalexa.com
@@ -2819,6 +2846,7 @@ api.pcp-keystonedb-dev.aws.yahoo.cloud
 api.pcp-keystonedb-prod.aws.yahoo.cloud
 api.pcp-keystonedb-stage.aws.yahoo.cloud
 api.rdf.anduril.au
+api.rekap.8x8.com
 api.release-ui.one-mobile-dev.aws.oath.cloud
 api.sandbox.amazon.co.uk
 api.sandbox.amazon.com
@@ -2834,11 +2862,13 @@ api.sre-tooling-prod.aws.oath.cloud
 api.srs-dev.pcp.aws.oath.cloud
 api.srs-prod.pcp.aws.oath.cloud
 api.stage.8x8.vc
+api.stage.rekap.8x8.com
 api.staging.alasco.rocks
 api.stave.github-ghec-aide.aws.oath.cloud
 api.subscriptions-cc-aws-dev.aws.oath.cloud
 api.umapi.identity-gcp-p-compute.gcp.yahoo.cloud
 api.umapi.identity-gcp-s-compute.gcp.yahoo.cloud
+api.us-east.chalet.8x8.com
 api.vespa-external-cd.aws.oath.cloud
 api.vespa-external.aws.oath.cloud
 api.vespa-vespa-cd.aws.oath.cloud
@@ -3012,6 +3042,7 @@ apx-security.amazon.pl
 apx-security.amazon.sa
 apx-security.amazon.se
 apx-security.amazon.sg
+apx97xbc-ios.mobile-messenger.intercom.com
 aqa-backup-jenkins.acronis.work
 ar-dev.album-recommendation.mindpalace.aws-us-east-1c.dev.public.vespa.oath.cloud
 ar-eg.about.canva.com
@@ -3025,9 +3056,11 @@ arap.amazon.co.uk
 arap.amazon.com.au
 aravinththangasami.album-recommendation.myfirstvespa.aws-us-east-1c.dev.public.vespa.oath.cloud
 arc-dev.8x8.com
+arc-test.8x8.com
 arc.8x8.com
 arcanist.andurildev.com
 arcgis.maps.anduril.au
+arch-dev.8x8.com
 archie-ops.us-east-1.aws.amazon.com
 archive-sites.archived-corpsites.ap-northeast-1.vespa.oath.cloud
 archive-sites.archived-corpsites.ap-northeast-2.vespa.oath.cloud
@@ -3246,16 +3279,21 @@ atenservice.amazon.com
 athenz.mortent.us-east-1.dev.vespa.oath.cloud
 atih-pushy.acronis.com
 atkumar.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
+atlantis-citrix-adc.us2.onpremadmin.cloud.8x8.com
+atlantis-citrix-test.en1.onpremadmin.cloud.8x8.com
+atlantis-compute-acc-sjc01.onpremadmin.cloud.8x8.com
 atlantis-compute.awesome.8x8testa.com
 atlantis-queue.atlantis.anduril.dev
 atlantis-test.en1.onpremadmin.cloud.8x8.com
 atlantis.anduril.dev
 atlantis.en1.onpremadmin.cloud.8x8.com
 atlantis.home-enygaard-development.aws.oath.cloud
+atlantis.qa.onpremadmin.cloud.8x8.com
 atlantis.sv2.onpremadmin.cloud.8x8.com
 atlantis.uplynk-inf.aws.oath.cloud
 atlantis.us2.onpremadmin.cloud.8x8.com
 atlantis.vespa-infrastructure-automation.aws.oath.cloud
+atlantis01-sjc01b.onpremadmin.cloud.8x8.com
 atlascore-ee-prod.arena-atlas.anduril.dev
 atlasdata-ee-prod.arena-atlas.anduril.dev
 atlaskb.bia-dna-atlas.aws.oath.cloud
@@ -3374,6 +3412,8 @@ auh1-aci.acronis.work
 auh1-repo.acronis.com
 auh1-s3gw.acronis.com
 aum-test.andurildev.com
+aurora-facts.rec.8x8.com
+aurora-slogans.rec.8x8.com
 ausea01.msteams.8x8.com
 ausea02.msteams.8x8.com
 ausea03.msteams.8x8.com
@@ -3392,8 +3432,12 @@ ausea17.msteams.8x8.com
 ausea18.msteams.8x8.com
 ausea19.msteams.8x8.com
 ausea30.msteams.8x8.com
+ausea31.msteams.8x8.com
 ausea51-4.msteams.8x8.com
 ausea51.msteams.8x8.com
+ausea60.msteams.8x8.com
+ausea61.msteams.8x8.com
+ausea62.msteams.8x8.com
 aused01.msteams.8x8.com
 aused02.msteams.8x8.com
 aused03.msteams.8x8.com
@@ -3410,6 +3454,9 @@ aused14.msteams.8x8.com
 aused15.msteams.8x8.com
 aused16.msteams.8x8.com
 aused17.msteams.8x8.com
+aused18.msteams.8x8.com
+aused19.msteams.8x8.com
+aused62.msteams.8x8.com
 ausnews.ausnews.aws-us-east-1c.public.vespa.oath.cloud
 ausnews.ausnews.aws-us-east-1c.staging.public.vespa.oath.cloud
 ausnews.ausnews.aws-us-east-1c.test.public.vespa.oath.cloud
@@ -3423,6 +3470,8 @@ auswa08.msteams.8x8.com
 auswa09.msteams.8x8.com
 auswa10.msteams.8x8.com
 auswa11.msteams.8x8.com
+auswa12.msteams.8x8.com
+auswa13.msteams.8x8.com
 auswc01.msteams.8x8.com
 auswc02.msteams.8x8.com
 auswc03.msteams.8x8.com
@@ -3431,6 +3480,8 @@ auswc05.msteams.8x8.com
 auswc06.msteams.8x8.com
 auswc07.msteams.8x8.com
 auswc08.msteams.8x8.com
+auswc09.msteams.8x8.com
+auswc10.msteams.8x8.com
 auth-6pm-na.amazon.com
 auth-alpha-1.andurildev.com
 auth-alpha-2.andurildev.com
@@ -3467,6 +3518,10 @@ auth.gen.adsrvr.org
 auth.mercadolibre.adminml.com
 auth.pcp-dataday-account-001.aws.oath.cloud
 auth.prod.sjc01.us-west.8x8cloud.net
+auth.rekap.8x8.com
+auth.resolve.8x8.com
+auth.signal.8x8.com
+auth.stage.rekap.8x8.com
 auth.staging.sjc01.us-west.8x8cloud.net
 auth.wakacje.allegro.pl.allegrosandbox.pl
 auth.ydata.data.home-zsaltys-consumer.aws.oath.cloud
@@ -4110,6 +4165,10 @@ awsdashboard.api.binance.com
 awsmpdisbursementworkflowsretailproxy-bjs-prod.amazon.cn
 awx-dev.acronis.work
 awx.acronis.work
+awx.en1.onpremadmin.cloud.8x8.com
+awx.qa.onpremadmin.cloud.8x8.com
+awx.sv2.onpremadmin.cloud.8x8.com
+awx.us2.onpremadmin.cloud.8x8.com
 axbcxhvizq.pyvespa-integration.vespa-team.aws-us-east-1c.dev.public.vespa.oath.cloud
 axon-insights.amazon.com
 axtest.acronis.com
@@ -4556,6 +4615,7 @@ b8469995.z.cd.vespa.oath.cloud
 b849dff8.a.vespa.oath.cloud
 b849dff8.g.vespa.oath.cloud
 b849dff8.z.vespa.oath.cloud
+b84ayfyf-ios.mobile-messenger.intercom.com
 b860bdbf.z.vespa.oath.cloud
 b878f4bb.a.cd.vespa.oath.cloud
 b878f4bb.g.cd.vespa.oath.cloud
@@ -5162,6 +5222,7 @@ bid.oath-exchange-dev.aws.oath.cloud
 bid.oath-exchange-prod.aws.oath.cloud
 bidding-editor.amazon.com
 bifrost-cx.adminml.com
+big5qq5k-ios.mobile-messenger.intercom.com
 bill.beta.compuserve.com
 bill.compuserve.com
 bill.qa.compuserve.com
@@ -5197,6 +5258,8 @@ birthcerts-prod.anduril.dev
 birthcerts.anduril.dev
 bitcoin.a.exodus.io
 bitcoincashnode.a.exodus.io
+biu7807g-android.mobile-messenger.intercom.com
+biu7807g-ios.mobile-messenger.intercom.com
 biweekly-dashboard.mediaplatform-monetization-ai-pilot.gcp.yahoo.cloud
 bjormel.clstrs-idxng-tf-idf.bjormel-vespa.us-east-1.dev.vespa.oath.cloud
 bjormel.ecsearch-staging.bjormel-vespa.us-east-1.dev.vespa.oath.cloud
@@ -5573,6 +5636,8 @@ by-erickuo.sandbox.us-east-1.dev.vespa.oath.cloud
 by-hyuzhen.by-hyuzhen.sandbox.us-east-1.dev.vespa.oath.cloud
 by-hyuzhen.sandbox.us-east-1.dev.vespa.oath.cloud
 by-rhsu02.canvass-search-stage.canvass-stage.us-east-1.dev.vespa.oath.cloud
+bynyo2yi-android.mobile-messenger.intercom.com
+bynyo2yi-ios.mobile-messenger.intercom.com
 byod-exgw-ext-fw1.gp.monash.edu
 byod-exgw-ext-fw2.gp.monash.edu
 byod-exgw-staff-fw1.gp.monash.edu
@@ -5744,6 +5809,7 @@ c2e290b3.z.cd.vespa.oath.cloud
 c2eddd81.a.vespa.oath.cloud
 c2eddd81.g.vespa.oath.cloud
 c2eddd81.z.vespa.oath.cloud
+c2lrh9fx-ios.mobile-messenger.intercom.com
 c2s-sa-production.aws.oath.cloud
 c2s-sa-test.aws.oath.cloud
 c3-na4.8x8.com
@@ -6044,6 +6110,7 @@ c8dca620.z.cd.vespa.oath.cloud
 c8dee467.a.vespa.oath.cloud
 c8dee467.g.vespa.oath.cloud
 c8dee467.z.vespa.oath.cloud
+c8ir3h9c-ios.mobile-messenger.intercom.com
 c900a48c.a.vespa.oath.cloud
 c900a48c.g.vespa.oath.cloud
 c900a48c.z.vespa.oath.cloud
@@ -6551,6 +6618,7 @@ cce44ebc.z.cd.vespa.oath.cloud
 cce80437.a.vespa.oath.cloud
 cce80437.g.vespa.oath.cloud
 cce80437.z.vespa.oath.cloud
+cceb-api.uk.chalet.8x8.com
 cceb-docs.chalet.8x8.com
 cceng.8x8.com
 ccf60bd6.a.cd.vespa.oath.cloud
@@ -8393,6 +8461,7 @@ cdn.acronis.com
 cdn.anext.com.sg
 cdn.api.binance.com
 cdn.commerce-k8s-nonprod.aws.oath.cloud
+cdn.cpaas.8x8.com
 cdn.home-uherberg-awsdev.aws.oath.cloud
 cdn.loyalty-gcp-dev.gcp.yahoo.cloud
 cdn.loyalty-gcp-plt.gcp.yahoo.cloud
@@ -8508,6 +8577,7 @@ cfd020c0.z.cd.vespa.oath.cloud
 cfd9f3e9.a.cd.vespa.oath.cloud
 cfd9f3e9.g.cd.vespa.oath.cloud
 cfd9f3e9.z.cd.vespa.oath.cloud
+cfoga0lf-ios.mobile-messenger.intercom.com
 cftest.home-crajasekar-awsdemo.aws.oath.cloud
 cftest1.home-crajasekar-awsdemo.aws.oath.cloud
 cftp-de.acronis.com
@@ -8659,6 +8729,7 @@ cit.us-east-1.account.here.com
 citrix.akhwien.at
 citrix.api.binance.com
 cl.canva.com
+cl6ngd8c-ios.mobile-messenger.intercom.com
 classification-task.pyvespa-integration.vespa-team.aws-us-east-1c.dev.public.vespa.oath.cloud
 classification.model-server.tgm-demo.aws-us-east-1c.dev.public.vespa.oath.cloud
 claude-llm-gateway.internal.streamline-egateway-dev.gcp.yahoo.cloud
@@ -8803,6 +8874,7 @@ cloud.amazon.it
 cloud.api.binance.com
 cloud.learn.ads.snapchat.com
 cloud.sgp.alipayplus.com
+cloud8-cc-geo.8x8.com
 cloud8-dev.aws.infra8.8x8cloud.net
 cloud8-staging.aws.infra8.8x8cloud.net
 cloud8-test.8x8staging.com
@@ -8860,6 +8932,8 @@ clusters-indexing-tf-idf.stream.us-east-1.test.vespa.oath.cloud
 clusters-indexing-tf-idf.stream.us-east-3.staging.vespa.oath.cloud
 clusters-indexing-tf-idf.stream.us-east-3.vespa.oath.cloud
 clusters-indexing-tf-idf.stream.us-west-1.vespa.oath.cloud
+clw598ee-android.mobile-messenger.intercom.com
+clw598ee-ios.mobile-messenger.intercom.com
 cm-ui.content-management-nonprod.aws.oath.cloud
 cmao.dictionary-vespa-app.dictionary-search.us-east-1.dev.vespa.oath.cloud
 cmao.nuwa-hv.nuwa-staging-aws.aws-us-east-2a.dev.vespa.oath.cloud
@@ -9137,6 +9211,8 @@ consumerdata-prod1-euwe1.omega.gcp.yahoo.cloud
 consumerdata-prod1-usea5.omega.gcp.yahoo.cloud
 consumerdata-prod1-uswe1.omega.gcp.yahoo.cloud
 contact-ldap-acceptance.8x8.com
+contact-ldap-geo.8x8.com
+contact-ldap-staging.8x8.com
 contact-ldap.8x8.com
 contact.akismet.com
 contact8x8.com
@@ -9184,6 +9260,7 @@ content-review-stage.news-ml-stage-gcp-use4.gcp.yahoo.cloud
 content-service.content-management-prod.aws.oath.cloud
 content-service.dev.content-management-dev.aws.oath.cloud
 content-service.stage.content-management-nonprod.aws.oath.cloud
+content.8x8.com
 content.apexnews.com
 contenta.andurildev.au
 contenthub-qa-us-east-1-content-ingestion-qa-content-ingestion.partner-pub-content-hub-aws-nonprod.aws.oath.cloud
@@ -9351,6 +9428,7 @@ couchbase-use5.sherpa-gcp-perf.gcp.yahoo.cloud
 couchbase-usw1.sherpa-gcp-nonprod.gcp.yahoo.cloud
 couchbase-usw1.sherpa-gcp-perf.gcp.yahoo.cloud
 coursematerials.amazon.com
+coverity.8x8.com
 covid1996.8x8.vc
 cowbell.corp-apps.aws.oath.cloud
 cowbell.github-dev.aws.oath.cloud
@@ -9361,11 +9439,13 @@ cox2-s3gw.acronis.com
 cp-eu2.acronis.com
 cp.partners.acronis.com
 cpaas-fax-monit.cloud-mgmt.8x8cloud.net
+cpaas-net.8x8.com
 cpaas.8x8.com
 cpanel.api.binance.com
 cps.corp.8x8.com
 cpt-a-orca.amazon.com
 cpt-b-orca.amazon.com
+cq9sxxvy-ios.mobile-messenger.intercom.com
 crashes.ycm-aws-devel.aws.oath.cloud
 crawler.ai.8x8.vc
 crawler.ai.preview.8x8.vc
@@ -9592,6 +9672,7 @@ cvs-api.10x.redoxengine.com
 cwan01.lumos.tw-media-wizardry.aws-use1-az1.dev.vespa.oath.cloud
 cwan01.myapp.sandbox.us-east-1.dev.vespa.oath.cloud
 cware01.abercrombie.com
+cwd4x10g-android.mobile-messenger.intercom.com
 cwlatticemeshcore.andurildev.com
 cwm-dev-use1.devpro-aux.aws.oath.cloud
 cwm-dev.devpro-aux.aws.oath.cloud
@@ -9738,6 +9819,8 @@ d1f58d00.z.cd.vespa.oath.cloud
 d1f8a740.a.vespa.oath.cloud
 d1f8a740.g.vespa.oath.cloud
 d1f8a740.z.vespa.oath.cloud
+d1mgbeuy-ios.mobile-messenger.intercom.com
+d1q2sn1w-android.mobile-messenger.intercom.com
 d2.adsrvr.org
 d20655b3.a.cd.vespa.oath.cloud
 d20655b3.g.cd.vespa.oath.cloud
@@ -9748,6 +9831,7 @@ d20b8207.z.vespa.oath.cloud
 d228276c.a.vespa.oath.cloud
 d228276c.g.vespa.oath.cloud
 d228276c.z.vespa.oath.cloud
+d22z94a9-android.mobile-messenger.intercom.com
 d231fe13.a.vespa.oath.cloud
 d231fe13.g.vespa.oath.cloud
 d231fe13.z.vespa.oath.cloud
@@ -9792,6 +9876,8 @@ d386008d.z.vespa.oath.cloud
 d38743e4.a.cd.vespa.oath.cloud
 d38743e4.g.cd.vespa.oath.cloud
 d38743e4.z.cd.vespa.oath.cloud
+d39vsdc8-android.mobile-messenger.intercom.com
+d39vsdc8-ios.mobile-messenger.intercom.com
 d3a639ed.a.vespa.oath.cloud
 d3a639ed.g.vespa.oath.cloud
 d3a639ed.z.vespa.oath.cloud
@@ -10019,6 +10105,7 @@ d88632a9.z.vespa.oath.cloud
 d88e4260.a.vespa.oath.cloud
 d88e4260.g.vespa.oath.cloud
 d88e4260.z.vespa.oath.cloud
+d89bb09b8dd1e9d2ca3070b697a15059d6fbcc8b-ios.mobile-messenger.intercom.com
 d89cbf16.a.vespa.oath.cloud
 d89cbf16.g.vespa.oath.cloud
 d89cbf16.z.vespa.oath.cloud
@@ -10070,6 +10157,7 @@ d969d7dc.z.vespa.oath.cloud
 d972e4a0.a.cd.vespa.oath.cloud
 d972e4a0.g.cd.vespa.oath.cloud
 d972e4a0.z.cd.vespa.oath.cloud
+d97m90f7-ios.mobile-messenger.intercom.com
 d985353d.z.vespa.oath.cloud
 d9861d6e.a.vespa.oath.cloud
 d9861d6e.g.vespa.oath.cloud
@@ -10157,10 +10245,12 @@ dap.antcloud.antbank.hk
 darshan-sonagara.album-recommendation.mindpalace.aws-us-east-1c.dev.public.vespa.oath.cloud
 dash.adsrvr.org
 dashboard-dancezone.data-ysports-s.gcp.yahoo.cloud
+dashboard.8x8.com
 dashboard.adaptive-shield.com
 dashboard.admanager.yahoo.com
 dashboard.developer.anduril.com
 dashboard.gemini.yahoo.com
+dashboard.pilot-eks.ai.8x8.com
 dashboard.qa.ai.8x8.com
 dashboard.yxslive.aws.oath.cloud
 dassc01-6.msteams.8x8.com
@@ -10482,11 +10572,15 @@ delta21.csp.gemini-native.aws-us-west-2a.vespa.oath.cloud
 delta21.csp.gemini-native.global.vespa.oath.cloud
 delta21.csp.gemini-native.us-east-1.test.vespa.oath.cloud
 delta21.csp.gemini-native.us-east-3.staging.vespa.oath.cloud
+demo-acceptance-vistabank.corp.8x8.com
+demo-acceptance.corp.8x8.com
 demo-cm.central-splunk-fleks-demo.aws.oath.cloud
 demo-deployer.central-splunk-fleks-demo.aws.oath.cloud
 demo-lm.central-splunk-fleks-demo.aws.oath.cloud
 demo-mc.central-splunk-fleks-demo.aws.oath.cloud
 demo-search.central-splunk-fleks-demo.aws.oath.cloud
+demo-staging-vistabank.corp.8x8.com
+demo-staging.corp.8x8.com
 demo-ui.payments-aws-services-dev.aws.oath.cloud
 demo-ui.payments-aws-services-prod.aws.oath.cloud
 demo-ui.payments-aws-services-stg.aws.oath.cloud
@@ -10673,6 +10767,7 @@ dev1.tc.eng.andurildev.au
 dev2.tc.eng.andurildev.au
 develocity.adminml.com
 develop-immersive-neo4j-bolt.ryot-dev.aws.oath.cloud
+developer-int.8x8.com
 developer.8x8.com
 developer.acronis.com
 developer.airbnb.com
@@ -10790,6 +10885,7 @@ dgupta.stream-ranking-aol.stream.aws-use1-az1.dev.vespa.oath.cloud
 dh.home-tolar.bf2.ows.oath.cloud
 dh.home-tolar.gq2.ows.oath.cloud
 dh.home-tolar.ne1.ows.oath.cloud
+dh2r043p-ios.mobile-messenger.intercom.com
 dharmendra.image-search.sandbox.us-east-1.dev.vespa.oath.cloud
 dharmendra.image-search.tnv-image-similarity.us-east-1.dev.vespa.oath.cloud
 dharmendra.music.sandbox.us-east-1.dev.vespa.oath.cloud
@@ -10876,6 +10972,7 @@ digital-design-bookstore.amazon.com
 digital-music-delivery-fe.amazon.com
 digital-music-delivery-na.amazon.com
 digital-music-origin-test-na.amazon.com
+digital-support.8x8.com
 digitalekrant.ad.nl
 digitalriver.acronis.com
 digitalriver.webdev.acronis.com
@@ -10893,6 +10990,7 @@ discovery.addons.allizom.org
 dive-mfg-test.andurildev.com
 divexl.anduril.com
 divyansh-bhatt.album-recommendation.pretest.aws-us-east-1c.dev.public.vespa.oath.cloud
+dj0yptcm-android.mobile-messenger.intercom.com
 dk01-cloud.acronis.com
 dkim01.myapp.sandbox.us-east-1.dev.vespa.oath.cloud
 dkim01.questionsearch.sandbox.us-east-1.dev.vespa.oath.cloud
@@ -11176,6 +11274,7 @@ ds-dev-ats-test.aolp-ds-dev.aws.oath.cloud
 ds-ui-sample.aolp-ds-dev.aws.oath.cloud
 ds-ui.aolp-ds-dev.aws.oath.cloud
 ds.alipayplus.com
+ds.webdev.8x8.com
 dsp-api-advertiser-persona-gw.dsp-plus-api-dev.aws.oath.cloud
 dsp-api-advertiser-persona-gw.dsp-plus-api-prod.aws.oath.cloud
 dsp-api-opensearch.dsp-plus-api-dev.aws.oath.cloud
@@ -11229,6 +11328,8 @@ dv-msg.amazon.com
 dv-partner.acronis.com
 dv.rd.account.here.com
 dvd.amazon.co.uk
+dw6k0lv9-android.mobile-messenger.intercom.com
+dw6k0lv9-ios.mobile-messenger.intercom.com
 dx-dc-author-prod.acrobat.adobe.com
 e.em.abercrombie.com
 e.email.ad.nl
@@ -11324,6 +11425,7 @@ e1decef2.z.vespa.oath.cloud
 e1e57c10.a.vespa.oath.cloud
 e1e57c10.g.vespa.oath.cloud
 e1e57c10.z.vespa.oath.cloud
+e1lzm5au-ios.mobile-messenger.intercom.com
 e2.canva.tech
 e20db4b2.a.cd.vespa.oath.cloud
 e20db4b2.g.cd.vespa.oath.cloud
@@ -11411,6 +11513,7 @@ e3mzr.acronis.com
 e40bd0a6.a.vespa.oath.cloud
 e40bd0a6.g.vespa.oath.cloud
 e40bd0a6.z.vespa.oath.cloud
+e42b6bn3-android.mobile-messenger.intercom.com
 e431c3d7.a.cd.vespa.oath.cloud
 e431c3d7.g.cd.vespa.oath.cloud
 e431c3d7.z.cd.vespa.oath.cloud
@@ -11830,6 +11933,7 @@ ebfc9628.a.cd.vespa.oath.cloud
 ebfc9628.g.cd.vespa.oath.cloud
 ebfc9628.z.cd.vespa.oath.cloud
 ebfs-proxy.amazon.com
+eblpqpe0-ios.mobile-messenger.intercom.com
 ebookers.amazon.co.uk
 ebus-nonprod.aws.infra8.8x8cloud.net
 ec-auction-qa.ec-auction-qa.ap-northeast-1.vespa.oath.cloud
@@ -12210,6 +12314,7 @@ eeeb64d8.z.vespa.oath.cloud
 eef20776.a.cd.vespa.oath.cloud
 eef20776.g.cd.vespa.oath.cloud
 eef20776.z.cd.vespa.oath.cloud
+eevcziuc-android.mobile-messenger.intercom.com
 ef1b09f3.z.vespa.oath.cloud
 ef2a8e78.z.vespa.oath.cloud
 ef318ed6.a.vespa.oath.cloud
@@ -12238,7 +12343,9 @@ efef777f.z.cd.vespa.oath.cloud
 eff0fb2d.a.cd.vespa.oath.cloud
 eff0fb2d.g.cd.vespa.oath.cloud
 eff0fb2d.z.cd.vespa.oath.cloud
+efzlcy6l-ios.mobile-messenger.intercom.com
 egilad.domain-rec.tgt-aud-rec.us-east-1.dev.vespa.oath.cloud
+eh9byr4a-ios.mobile-messenger.intercom.com
 ehou.affiliate-beta.intl-commerce.aws-use1-az1.dev.vespa.oath.cloud
 ehsu02.music.sandbox.us-east-1.dev.vespa.oath.cloud
 einvoice.abucommon.ap-northeast-1.vespa.oath.cloud
@@ -12264,6 +12371,8 @@ einvoice.abucommon.us-west-1.vespa.oath.cloud
 einvoice.bjormel-vespa.us-east-1.dev.vespa.oath.cloud
 eip.oath.cloud
 eiportal.amazon.com
+ejqd9gjg-android.mobile-messenger.intercom.com
+ejqd9gjg-ios.mobile-messenger.intercom.com
 ekpoule.ad.nl
 eks-auto.alasco.de
 eks-int.8x8.com
@@ -12297,6 +12406,7 @@ email.account.acronis.com
 email.airbnb.com
 email.amazon.com
 email.cloud.acronis.com
+email.cx-events.8x8.com
 emailsemanticsearch.aimail.aws-us-west-2a.staging.vespa.oath.cloud
 emailsemanticsearch.aimail.aws-us-west-2a.test.vespa.oath.cloud
 emailsemanticsearch.aimail.gcp-us-east5-a.staging.vespa.oath.cloud
@@ -12332,7 +12442,9 @@ employee-search.employee-directory.us-east-3.staging.vespa.oath.cloud
 employee-search.employee-directory.us-east-3.vespa.oath.cloud
 employee-search.employee-directory.us-west-1.vespa.oath.cloud
 en-in.about.canva.com
+en1pdns-atlantis.us2.onpremadmin.cloud.8x8.com
 enc-wms.maps.anduril.au
+ence4x9h-ios.mobile-messenger.intercom.com
 encore-hello-pverkhogliad.commerce-ai.gcp.yahoo.cloud
 endeavour.amazon.co.uk
 endeavour.amazon.com
@@ -12427,6 +12539,7 @@ enygaard.ml-inference.enygaard.us-east-1.dev.vespa.oath.cloud
 eo.es.blog.anchor.fm
 eoy.ad.nl
 ep-cockpit.alipayplus.com
+ep9em2nj-ios.mobile-messenger.intercom.com
 eps-module-ranking.eps.eu-west-1.vespa.oath.cloud
 eps-module-ranking.eps.global.vespa.oath.cloud
 eps-module-ranking.eps.us-central-1.vespa.oath.cloud
@@ -12439,6 +12552,7 @@ erichilarysmithsr.cosinemudbox.math4youbyusgroupil.aws-us-east-1c.dev.public.ves
 erickuo.monalixa.sandbox.us-east-1.dev.vespa.oath.cloud
 erickuo.music.sandbox.us-east-1.dev.vespa.oath.cloud
 ericl.cosmo-development.aws.oath.cloud
+eriojnh3-ios.mobile-messenger.intercom.com
 ernest.ernest.meetkai.aws-us-east-1c.dev.public.vespa.oath.cloud
 ernest.meetkai.aws-us-east-1c.public.vespa.oath.cloud
 ernest.meetkai.aws-us-east-1c.staging.public.vespa.oath.cloud
@@ -12458,6 +12572,7 @@ es-aws-dev.home-crajasekar-awsdemo.aws.oath.cloud
 es-co.about.canva.com
 es-es.about.canva.com
 es-eu.abercrombie.com
+es-multi-3.staging.ai.8x8.com
 es-multi-4-testing.ai.8x8.com
 es-multi-4.staging.ai.8x8.com
 es-multi-5-testing.ai.8x8.com
@@ -12700,6 +12815,7 @@ f0f21832.z.cd.vespa.oath.cloud
 f0fa1518.a.vespa.oath.cloud
 f0fa1518.g.vespa.oath.cloud
 f0fa1518.z.vespa.oath.cloud
+f0t2ntjs-ios.mobile-messenger.intercom.com
 f105619d.z.vespa.oath.cloud
 f1059c02.a.cd.vespa.oath.cloud
 f1059c02.g.cd.vespa.oath.cloud
@@ -12912,6 +13028,7 @@ f5c9e17b.z.vespa.oath.cloud
 f5ecf051.a.vespa.oath.cloud
 f5ecf051.g.vespa.oath.cloud
 f5ecf051.z.vespa.oath.cloud
+f5zzthqk-android.mobile-messenger.intercom.com
 f6064a5a.a.vespa.oath.cloud
 f6064a5a.g.vespa.oath.cloud
 f6064a5a.z.vespa.oath.cloud
@@ -13023,6 +13140,8 @@ f8df741c.a.cd.vespa.oath.cloud
 f8df741c.g.cd.vespa.oath.cloud
 f8df741c.z.cd.vespa.oath.cloud
 f8e37725.z.vespa.oath.cloud
+f8sm0x1k-android.mobile-messenger.intercom.com
+f8sm0x1k-ios.mobile-messenger.intercom.com
 f905f8ee.a.vespa.oath.cloud
 f905f8ee.g.vespa.oath.cloud
 f905f8ee.z.vespa.oath.cloud
@@ -13663,6 +13782,7 @@ flyte.gov.analytics-prod.anduril.dev
 flyte.gov.ast-internal.anduril.dev
 flyte.rdf.anduril.au
 fms.tc.eng.anduril.au
+fnfjgdmz-ios.mobile-messenger.intercom.com
 foglight.uup-uup-dev.gcp.yahoo.cloud
 font-public.canva.cn
 foo.ec2-pinotage.amazon.com
@@ -13851,6 +13971,7 @@ gateway-entrypoint.api.cloudflare.com
 gateway.acronis.com
 gateway.browserapps.amazon.co.uk
 gateway.gen.adsrvr.org
+gateway.pilot-eks.us-east-1.ai.8x8.com
 gb-console.eu-west-1.aws.amazon.com
 gb-console.us-east-1.aws.amazon.com
 gb-console.us-west-2.aws.amazon.com
@@ -13983,6 +14104,7 @@ gen-chat-call.allegro.pl.allegrosandbox.pl
 gen.adsrvr.org
 geneva-api.one-mobile-dev.aws.oath.cloud
 geneva-server.one-mobile-dev.aws.oath.cloud
+geo.8x8.com
 geo.account.api.here.com
 geo.search-web-dm-node-dm-prod.aws.oath.cloud
 geo.search-web-dm-node-dm-staging.aws.oath.cloud
@@ -14054,6 +14176,7 @@ global-chalet-ng.staging.cloud.8x8.com
 global-corona.chalet.8x8.com
 global-e2e.chalet.8x8e2e.com
 global-nav.canva.com
+global-pre-prod.chalet.8x8.com
 global-stage.chalet.8x8.com
 global-staging.chalet.8x8.com
 global-staging.chalet.8x8staging.com
@@ -14264,6 +14387,7 @@ grype.paranoids-vuln-container-scanning-prod.aws.oath.cloud
 grype.paranoids-vuln-containers.aws.oath.cloud
 gs.amazon.cn
 gsnlink.acronis.com
+gu7svw1k-android.mobile-messenger.intercom.com
 guce-dev.aws.oath.cloud
 guce.compuserve.com
 guce.isp.netscape.com
@@ -14279,6 +14403,8 @@ gv-albums-java.scoober.aws-us-east-1c.public.vespa.oath.cloud
 gv-albums-java.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 gv-albums-java.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 gv-albums-java.scoober.global.public.vespa.oath.cloud
+gvo6qakk-ios.mobile-messenger.intercom.com
+gw2wbwl7-ios.mobile-messenger.intercom.com
 gwang02.music.sandbox.us-east-1.dev.vespa.oath.cloud
 gwang02.video.gwang02.us-east-1.dev.vespa.oath.cloud
 gws.amazon.com
@@ -14290,6 +14416,7 @@ gzegoz-jurgo.album-recommendation.testas.aws-us-east-1c.dev.public.vespa.oath.cl
 h17.anduril.com
 h3j3-g7g.amazon.com
 h5.paytech.alipayplus.com
+h69nsblw-ios.mobile-messenger.intercom.com
 ha1.awesome.8x8testa.com
 ha2.awesome.8x8testa.com
 ha3.awesome.8x8testa.com
@@ -14298,6 +14425,7 @@ ha45.awesome.8x8testa.com
 ha46.awesome.8x8testa.com
 hack-day-build-board.home-ppaul.aws.oath.cloud
 hadoop-aws.aws.oath.cloud
+hako.8x8.com
 hakon-scoober.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 hakon-scoober.scoober.aws-us-east-1c.public.vespa.oath.cloud
 hakon-scoober.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
@@ -14328,6 +14456,7 @@ hcheng02.ngcc-beta.intl-commerce.aws-use1-az1.dev.vespa.oath.cloud
 hd-trial.corp.acronis.com
 hd.acronis.work
 hd.corp.acronis.com
+hdnt6ewl-ios.mobile-messenger.intercom.com
 hdtrial.acronis.work
 he.airbnb.com
 he.airbnb.org
@@ -14371,6 +14500,7 @@ hello.8x8.com
 hello.alasco.de
 hello.mobileplatforms-orion.gcp.yahoo.cloud
 hello.paranoids-cloudsec-sandbox.aws.oath.cloud
+help.8x8.com
 help.amazon.ca
 help.amazon.cn
 help.amazon.co.uk
@@ -14448,6 +14578,7 @@ history.rivendell.us-east-3.staging.vespa.oath.cloud
 hivemind-1.guce-privacysdk-firebase.gcp.yahoo.cloud
 hivemind.guce-privacysdk-firebase.gcp.yahoo.cloud
 hk.abercrombie.com
+hk1pdns-atlantis.us2.onpremadmin.cloud.8x8.com
 hkcaptchamng-uat.antbank.hk
 hkwad.antbank.hk
 hli09.affiliate-beta.intl-commerce.aws-us-east-2a.dev.vespa.oath.cloud
@@ -14593,6 +14724,7 @@ hpjbdrnolk.pyvespa-integration.vespa-team.aws-us-east-1c.dev.public.vespa.oath.c
 hr.airbnb.org
 hr.next.airbnb.com
 hris2.corp.acronis.com
+hrwncnb0-android.mobile-messenger.intercom.com
 hsun01.affiliate-beta.intl-commerce.us-east-1.dev.vespa.oath.cloud
 http-feeding-aws.by-andreer.aws-us-east-1a.vespa.oath.cloud
 http-feeding-aws.by-andreer.aws-us-east-1b.vespa.oath.cloud
@@ -15068,6 +15200,7 @@ identity-nonprod1-use1.omega.gcp.yahoo.cloud
 identity-snds-cn.amazon.com
 identity-snds.amazon.com
 identity-wallet-dev.aws.oath.cloud
+identity.8x8.com
 identity.amazon.com
 identity.browserapps.amazon.cn
 identity.browserapps.amazon.co.uk
@@ -15115,6 +15248,7 @@ iframely.publishing.oath-publishing.aws.oath.cloud
 iframes-dev.airbnbpayments.com
 iframes.airbnbpayments.com
 iiqtest.corp-identity-sp-qa.aws.oath.cloud
+ikgdh6ph-ios.mobile-messenger.intercom.com
 ikstaindekrant.ad.nl
 il01-cloud-cloud.acronis.com
 il01-cloud.acronis.com
@@ -15270,6 +15404,7 @@ insight-dev.aws.oath.cloud
 insight-happypath.aws.oath.cloud
 insight-staging.aws.oath.cloud
 insight.aws.oath.cloud
+insightiq.8x8.com
 insights-dev.acrobat.adobe.com
 insights-lab.userdata-insights-d.gcp.yahoo.cloud
 insights-lab.userdata-insights-p.gcp.yahoo.cloud
@@ -15436,6 +15571,7 @@ ipv6.amazon.sa
 ir.abercrombie.com
 ir.gemini.yahoo.com
 ir.stage.gemini.yahoo.com
+iris.8x8.com
 is.airbnb.org
 is.next.airbnb.com
 is01-cloud.acronis.com
@@ -15579,6 +15715,7 @@ jhuang02.spa.gemini-serving.us-east-1.dev.vespa.oath.cloud
 jhuang04.image-search.sandbox.us-east-1.dev.vespa.oath.cloud
 jim-web.acc.mobilevikings.be
 jim-web.internal.acc.mobilevikings.be
+jira-proxy.ociadmin.cloud.8x8.com
 jira-proxy.vespa-vespa-cd.aws.oath.cloud
 jira-proxy.vespa.aws.oath.cloud
 jira.anduril.au
@@ -15647,6 +15784,7 @@ jonmv.debug.vespa.us-east-1.dev.vespa.oath.cloud
 jonmv.factory.vespa.us-east-1.dev.vespa.oath.cloud
 josephk.josephk-music.sandbox.us-east-1.dev.vespa.oath.cloud
 josephk.music.sandbox.us-east-1.dev.vespa.oath.cloud
+journey-iq-cdn.8x8.com
 journey-iq-cdn.8x8pilot.com
 jp-baas.acronis.com
 jp-cloud.acronis.com
@@ -16041,6 +16179,7 @@ l.create.canva.com
 l.engage.canva.com
 l.support.canva.com
 labriedion.album-recommendation.gsoft.aws-us-east-1c.dev.public.vespa.oath.cloud
+labs.8x8.com
 labs.canva.tech
 labs.home-suneil.aws.oath.cloud
 labs.platx-nonprod.aws.oath.cloud
@@ -16551,6 +16690,7 @@ madam.amazon.com
 madev-portal.home-marora-aws.aws.oath.cloud
 madev.madev-api.home-marora-aws.aws.oath.cloud
 mads.amazon.com
+maestro-sdk.8x8.com
 maestro.8x8.cloud
 maestro.paranoids-fire-prod-maestro.aws.oath.cloud
 mag-cn.amazon.cn
@@ -16585,7 +16725,11 @@ mail.1win.com
 mail.23andmeresearchinstitute.org
 mail.8x8.cloud
 mail.8x8.engineering
+mail.aauea02.msteams.8x8.com
+mail.acceptance.cloud.8x8.com
 mail.acronis.com
+mail.aeuwa03.msteams.8x8.com
+mail.aeuwf01.msteams.8x8.com
 mail.antbank.hk
 mail.api.admanager.yahoo.com
 mail.api.asc.identity-gcp-p-compute.gcp.yahoo.cloud
@@ -16594,6 +16738,9 @@ mail.api.gemini.yahoo.com
 mail.api.mock.identity-gcp-s-compute.gcp.yahoo.cloud
 mail.apj.corp.acronis.com
 mail.asc.identity-gcp-p-compute.gcp.yahoo.cloud
+mail.ausea02.msteams.8x8.com
+mail.ausea31.msteams.8x8.com
+mail.auswa03.msteams.8x8.com
 mail.canva-apps.com
 mail.canva.cn
 mail.cloudflareos.8x8.engineering
@@ -16601,9 +16748,11 @@ mail.commerce-next-dev-aws-use1.aws.oath.cloud
 mail.comms-notifications-prod.aws.oath.cloud
 mail.corp-apps-ofa-fis-dev.aws.oath.cloud
 mail.corp-apps-ofa-fis-prod.aws.oath.cloud
+mail.development.cloud.8x8.com
 mail.dsp-plus-backend-prod-private.aws.yahoo.cloud
 mail.dsp-plus-backend.aws.oath.cloud
 mail.emea.corp.acronis.com
+mail.es.8x8.com
 mail.executive.antbank.hk
 mail.fde-staging.8x8.engineering
 mail.help.compuserve.com
@@ -16614,17 +16763,24 @@ mail.myaccount.compuserve.com
 mail.ncg-prod.aws.oath.cloud
 mail.news-games-prod-aws-apse1.aws.oath.cloud
 mail.news-mobile-prod-aws-use1.aws.oath.cloud
+mail.ociadmin.cloud.8x8.com
 mail.one-reporting-dev.aws.oath.cloud
 mail.one-reporting-prod.aws.oath.cloud
 mail.oob.nucleonics-prod.paranoids-vuln-nucleonics.aws.oath.cloud
 mail.ows.oath.cloud
 mail.payments.compuserve.com
 mail.pcp-cloud-lens-prod.aws.oath.cloud
+mail.prod.cloud.8x8.com
+mail.pstnhub.msteams.8x8.com
+mail.pstnhub2.msteams.8x8.com
 mail.report.gemini.yahoo.com
 mail.ru.corp.acronis.com
 mail.sapi.authnapi.identity-gcp-s-compute.gcp.yahoo.cloud
 mail.sdd.wallet-passes-prod.aws.oath.cloud
 mail.stage.report.gemini.yahoo.com
+mail.staging.cloud.8x8.com
+mail.tls.msteams.8x8.com
+mail.us.8x8.com
 mail.us.corp.acronis.com
 mailagent.ad.nl
 mailapi-mcp-gke.home-divanov.gcp.yahoo.cloud
@@ -16652,8 +16808,10 @@ man-gp-int-fw1.gp.monash.edu
 man-gp-int-fw2.gp.monash.edu
 management-alert.8x8.com
 management-pm.office.compuserve.com
+map.8x8.com
 map.8x8pilot.com
 map.8x8staging.com
+map.corp.8x8.com
 maps.anduril.au
 maps.anduril.com
 marfeelcupid.cupid.marfeel.aws-us-east-1c.dev.public.vespa.oath.cloud
@@ -16726,6 +16884,7 @@ matterhorn.amazon.com
 maud-reporting.dcs-modeling-scoring-dev.aws.oath.cloud
 mayafashioncover.8x8.vc
 mb-vespa-app.gemini-native-aws-core-dev.aws.oath.cloud
+mbdwkcq4-ios.mobile-messenger.intercom.com
 mc-abv-external-esxi.acronis.work
 mc-beta-baas.acronis.com
 mc-beta-cloud.acronis.com
@@ -16758,6 +16917,7 @@ mcp-staging.alasco.rocks
 mcp-tools.finance-mad-infra-nonprod.aws.oath.cloud
 mcp-tools.finance-mad-infra-prod.aws.oath.cloud
 mcp-workforce-proxy.us-west1.home-skodityala16.gcp.yahoo.cloud
+mcp.8x8.com
 mcp.ai.8x8.vc
 mcp.ai.preview.8x8.vc
 mcp.ai.stage.8x8.vc
@@ -17046,8 +17206,10 @@ mobile-eu2-cloud.acronis.com
 mobile-horizontal-aem.aws.oath.cloud
 mobile-identity.browserapps.amazon.co.uk
 mobile-meli-gpt.adminml.com
+mobile-passkeys.8x8.com
 mobile-passkeys.8x8staging.com
 mobile-report.acronis.com
+mobile-services.8x8.com
 mobile-ts.anfcorp.com
 mobile.anfcorp.com
 mobileapi-enterprise.acronis.com
@@ -17179,6 +17341,7 @@ mpsusprd2.mse-prd.aws.oath.cloud
 mpsusqa-testcname.mse-dev.aws.oath.cloud
 mpsusqa.mse-dev.aws.oath.cloud
 mpsusqa.mse-mpsusqa.mse-dev.aws.oath.cloud
+mq44cv6t-ios.mobile-messenger.intercom.com
 mr-fintech.adminml.com
 mr.allegro.sk.allegrosandbox.pl
 mravivarma.music.sandbox.us-east-1.dev.vespa.oath.cloud
@@ -18010,6 +18173,7 @@ oauth.accounts.firefox.com
 obar.sol.blink-dpa.us-east-1.dev.vespa.oath.cloud
 obiardb1.subscriptions.obi-db.aws.prod.private.aws.oath.cloud
 obiardb2.subscriptions.obi-db.aws.prod.private.aws.oath.cloud
+obicfg.8x8.com
 ocean.home-cankola.gcp.yahoo.cloud
 ociadmin.cloud.8x8.com
 oct.paranoids-fire-prod-tools.aws.oath.cloud
@@ -18045,6 +18209,7 @@ ofadida.csp.gemini-native.aws-us-east-2a.dev.vespa.oath.cloud
 office.acronis.com
 office2.acronis.com
 ofp.adx.opera.com
+ofsach05-ios.mobile-messenger.intercom.com
 og-blog.anchor.fm
 ogr.album-rec-searcher.ogrtest.aws-us-east-1c.dev.public.vespa.oath.cloud
 ogr.album-recommendation.donaldtenant.aws-us-east-1c.dev.public.vespa.oath.cloud
@@ -18140,6 +18305,7 @@ oms-attachment-service.dsp-plus-api-dev.aws.oath.cloud
 oms-contract-service.dsp-plus-api-dev.aws.oath.cloud
 oms-salesforce-service.dsp-plus-api-dev.aws.oath.cloud
 oms-workflow-service.dsp-plus-api-dev.aws.oath.cloud
+on1pdns-atlantis.us2.onpremadmin.cloud.8x8.com
 onar.aws-oath-dsp-plus-api-sonarqube.aws.oath.cloud
 onboarding.acronis.work
 one-central-api-prd-mse-eks.mse-prd.aws.oath.cloud
@@ -18248,6 +18414,11 @@ opensearch.observability-aws-central.aws.oath.cloud
 opensearch.pcp-cmdb-prod.aws.oath.cloud
 opensearch.pcp-cmdb-qa.aws.oath.cloud
 opensearch.subscriptions-devops-aws-dev.aws.oath.cloud
+openunison-api.development.cloud.8x8.com
+openunison-dash.development.cloud.8x8.com
+openunison.development.cloud.8x8.com
+openunisonapi.development.cloud.8x8.com
+openuniusonapi.development.cloud.8x8.com
 openwebui.alasco.rocks
 openziti-console.athenz-experiments.aws.oath.cloud
 openziti-controller.athenz-experiments.aws.oath.cloud
@@ -18504,6 +18675,7 @@ panopticum.acronis.work
 paragon-eu.amazon.com
 paragon-fe.amazon.com
 paragon-na.amazon.com
+paralus.development.cloud.8x8.com
 paranoids-cloudsec-fail.aws.oath.cloud
 paranoids-cloudsec-sandbox.aws.oath.cloud
 paranoids-countermeasures-dev.aws.oath.cloud
@@ -18635,6 +18807,8 @@ pd-experimental.affiliate-beta.intl-commerce.us-east-3.perf.vespa.oath.cloud
 pda-as.amazon.com
 pda-bes.amazon.com
 pdjuan.music.sandbox.us-east-1.dev.vespa.oath.cloud
+peeps-staging.8x8.com
+peeps.8x8.com
 peiyun.canvass-search.sandbox.us-east-1.dev.vespa.oath.cloud
 peiyun.ec-canary.stream.us-east-1.dev.vespa.oath.cloud
 peiyun.lumos-canary.tw-media-wizardry.us-east-1.dev.vespa.oath.cloud
@@ -18744,6 +18918,8 @@ piano.corp-apps.aws.oath.cloud
 piano.github-dev.aws.oath.cloud
 pick-em.sports-internal.gcp.yahoo.cloud
 pico.amazon.co.uk
+pilot-eks.ai.8x8.com
+pilot-eks.us-east-1.ai.8x8.com
 pilot.ai-int.8x8.com
 pilot.ai.8x8.com
 pilot.aws.infra8.8x8cloud.net
@@ -18782,6 +18958,7 @@ pipeline-signing.ci.canva.tech
 pitangui.amazon.com
 pixel-api-qai.us-east-1.aolp-ds-dev.aws.oath.cloud
 pixel-api.aolp-ds-dev.aws.oath.cloud
+pkucd0o6-ios.mobile-messenger.intercom.com
 pl-pl.about.canva.com
 pl.airbnb.org
 pl.blog.anchor.fm
@@ -18974,6 +19151,7 @@ prebid.one-mobile-dev.aws.oath.cloud
 prebid.one-mobile-prod.aws.oath.cloud
 prebid.prebid-dev.aws.oath.cloud
 predictor.apex-football.com
+preferences.8x8.com
 prenta.acc.mobilevikings.be
 preprod-azure.account.adobe.com
 preprod-opensearch.dsp-plus-api-dev.aws.oath.cloud
@@ -19186,6 +19364,7 @@ prod.prostore-auditlog.gcp-us-east5-a.test.vespa.oath.cloud
 prod.prostore-auditlog.global.vespa.oath.cloud
 prod.prostore-auditlog.us-east-1.test.vespa.oath.cloud
 prod.prostore-auditlog.us-east-3.staging.vespa.oath.cloud
+prod.rec.8x8.com
 prod.reporting-api.one-mobile-prod.aws.oath.cloud
 prod.sp-api.ap-southeast-1.aolp-ds-prd.aws.oath.cloud
 prod.sp-api.eu-central-1.aolp-ds-prd.aws.oath.cloud
@@ -19831,6 +20010,7 @@ push.amazon.com
 pushgateway.eks.paranoids-peng-tetradio-stage.aws.oath.cloud
 pvardi.sol.blink-dpa.us-east-1.dev.vespa.oath.cloud
 pvidpqrfmg.pyvespa-integration.vespa-team.aws-us-east-1c.dev.public.vespa.oath.cloud
+pvp.8x8.com
 pwang02-demo-test.ranking-index.mlplatform.aws-use1-az1.dev.vespa.oath.cloud
 pwang02-demo.ranking-index.mlplatform.aws-use1-az1.dev.vespa.oath.cloud
 pwang02-functest.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
@@ -19853,6 +20033,7 @@ pxn-notifications.frontpage.us-west-1.vespa.oath.cloud
 pypi.corp.acronis.com
 pypi.paranoids-ce-patdown.gcp.yahoo.cloud
 pypi.uplynk-inf.aws.oath.cloud
+pz6cvnbp-ios.mobile-messenger.intercom.com
 qa-backup.testrail.one-mobile-dev.aws.oath.cloud
 qa-connectid-s2s-analytics.aolp-ds-dev.aws.oath.cloud
 qa-evaluator.home-agupta15.gcp.yahoo.cloud
@@ -19899,11 +20080,15 @@ qai.tagcache.aolp-ds-dev.aws.oath.cloud
 qai.taxonomy-audit.aolp-ds-dev.aws.oath.cloud
 qai.taxonomy-search.aolp-ds-dev.aws.oath.cloud
 qb9.paranoids-fire-prod-tools.aws.oath.cloud
+qbr.8x8.com
 qdqcawcymh.pyvespa-integration.vespa-team.aws-us-east-1c.dev.public.vespa.oath.cloud
 qlik.corp.acronis.com
+qm-eu-west.8x8.com
 qm-production.oci.infra8.8x8cloud.net
 qm-staging.oci.infra8.8x8cloud.net
+qm-us-phoenix.8x8.com
 qm.8x8.com
+qmdeaj0t-ios.mobile-messenger.intercom.com
 qpod.8x8.com
 qr.alipayplus.com
 qrs-proxy.statcloud-stage.sports.us-west-1.fantasy-sports-np.aws.oath.cloud
@@ -19913,6 +20098,7 @@ qrs-proxy.statcloud.sports.us-west-1.fantasy-sports-prod.aws.oath.cloud
 qrs.vespa-stage.sports-nonprod1-use1.omega.aws.yahoo.cloud
 qrs.vespa.sports-prod1-use1.omega.aws.yahoo.cloud
 qrs.vespa.sports-prod1-usw2.omega.aws.yahoo.cloud
+qs976j62-ios.mobile-messenger.intercom.com
 quant.data-ysports-s.gcp.yahoo.cloud
 quantum.corp-apps-ofa-fis-prod.aws.oath.cloud
 query-probe-index.commerce-ai-prod.aws-us-west-2a.staging.vespa.oath.cloud
@@ -19938,6 +20124,7 @@ r.amazon.co.uk
 r.amazon.com
 r.amazon.com.tr
 r.amazon.sg
+r2store01.8x8.com
 ra.1debit.com
 ra2.1debit.com
 rabbitamqp.corp.acronis.com
@@ -20068,6 +20255,7 @@ redirect.restsimplycomply.akismet.com
 redirectsap.acronis.com
 reductions.acc.mobilevikings.be
 refer.8x8.com
+referto8.8x8.com
 region-api.classifier.identity-gcp-p-compute.gcp.yahoo.cloud
 region-api.oauth.identity-gcp-p-compute.gcp.yahoo.cloud
 region-api.partner.identity-gcp-p-compute.gcp.yahoo.cloud
@@ -20085,6 +20273,7 @@ regusprov01-cc.8x8pilot.com
 reinstate.amazon.ae
 reinstate.amazon.co.uk
 reinstate.amazon.com.au
+rekap.8x8.com
 related.image.tbda.aws-us-east-1c.dev.public.vespa.oath.cloud
 relay-dqs.account.booking.com
 relay.account.booking.com
@@ -20540,6 +20729,7 @@ sage-sitemap.news-core-stage-aws-use1.aws.oath.cloud
 salelytics.akismet.com
 sales.8x8.com
 sales.canva.com
+salesdemo.corp.8x8.com
 salesforce-data.canva-apps.com
 salesloft.5nine.com
 salestools-api-prd.mse-prd.aws.oath.cloud
@@ -20640,6 +20830,7 @@ scooby-dooby-doo.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 scooby-dooby-doo.scoober.global.public.vespa.oath.cloud
 score.pentest-donutbot-stage.aws.oath.cloud
 score.pentest-donutbot.aws.oath.cloud
+scqsfzqy-ios.mobile-messenger.intercom.com
 scr.yk-image.yk-serving.us-east-1.dev.vespa.oath.cloud
 scr.yk-incremental.sandbox.us-east-1.dev.vespa.oath.cloud
 scr.ykimage-staging-test.yk-serving.us-east-1.dev.vespa.oath.cloud
@@ -21117,11 +21308,15 @@ simulator.payments-aws-services-stg.aws.oath.cloud
 sin.fb.adsrvr.org
 sin1-repo.acronis.com
 single-origin-cdn.taiwan-testapp-nonprod.aws.oath.cloud
+sip.8x8.com
 sip.acronis.com
 sip.msteams.8x8.com
 sip.test.chalet.8x8.com
 sip0.test.chalet.8x8.com
 sip1.sw.us-east.chalet.8x8.com
+sip233.cceng.8x8.com
+sip234.cceng.8x8.com
+sip237.cceng.8x8.com
 sipconf.8x8pilot.com
 sipconf2.8x8pilot.com
 sircat2.sircat.aws-us-east-1c.public.vespa.oath.cloud
@@ -21155,6 +21350,7 @@ sjc01a-block01.staging.sjc01.us-west.8x8cloud.net
 sjc01b-block01.staging.sjc01.us-west.8x8cloud.net
 sk.airbnb.org
 sk.next.airbnb.com
+sk1pdns-atlantis.us2.onpremadmin.cloud.8x8.com
 sketchy.paranoids-fire-prod-tools.aws.oath.cloud
 skg1-repo.acronis.com
 skg1-s3gw.acronis.com
@@ -22098,6 +22294,7 @@ staging-elk-logstash.huffpost-utils.aws.oath.cloud
 staging-immersive-neo4j-bolt.ryot-dev.aws.oath.cloud
 staging-snactivation.acronis.com
 staging-test.autoblog-aws-prod.aws.oath.cloud
+staging-www.8x8.com
 staging.3.basecamp.com
 staging.5nine.com
 staging.airbnbcitizen.com
@@ -22137,6 +22334,7 @@ staging.music.bjormel-vespa.us-east-1.test.vespa.oath.cloud
 staging.music.bjormel-vespa.us-east-3.staging.vespa.oath.cloud
 staging.music.bjormel-vespa.us-west-1.vespa.oath.cloud
 staging.partners.acronis.com
+staging.qm.8x8.com
 staging.video.video-search.ap-northeast-1.vespa.oath.cloud
 staging.video.video-search.aws-us-west-2a.staging.vespa.oath.cloud
 staging.video.video-search.aws-us-west-2a.test.vespa.oath.cloud
@@ -22145,6 +22343,7 @@ staging.video.video-search.gcp-us-east5-a.test.vespa.oath.cloud
 staging.video.video-search.global.vespa.oath.cloud
 staging.video.video-search.us-east-1.test.vespa.oath.cloud
 staging.video.video-search.us-east-3.staging.vespa.oath.cloud
+staging.webdev.8x8.com
 staging1-omerl01.csp.gemini-native.aws-us-east-2a.dev.vespa.oath.cloud
 staging1.advancedcustomfields.com
 staging1.csp.gemini-native.aws-us-east-2a.dev.vespa.oath.cloud
@@ -22239,6 +22438,7 @@ status.ai.8x8.com
 status.alexa.amazon.com
 status.canva.cn
 status.canva.com
+status.cpaas.8x8.com
 stephen-test.taiwan-aws-nonprod-omega.aws.oath.cloud
 stg-selene-api.eu-central-1.reserved-adserver-prd.aws.oath.cloud
 stg-selene-api.reserved-adserver-prd.aws.oath.cloud
@@ -22540,6 +22740,7 @@ studio-cm-prod.content-management-nonprod.aws.oath.cloud
 studio-cm-qa.content-management-nonprod.aws.oath.cloud
 studio-cm-staging.content-management-nonprod.aws.oath.cloud
 studio-decks.8x8.engineering
+studio.8x8.com
 studio.gw.prod.cm.content-management-nonprod.aws.oath.cloud
 studio.gw.qa.cm.content-management-nonprod.aws.oath.cloud
 studio.gw.staging.cm.content-management-nonprod.aws.oath.cloud
@@ -22667,11 +22868,13 @@ support.amazon.co.uk
 support.anchor.fm
 support.anduril.dev
 support.canva.com
+support.cpaas.8x8.com
 survey-tool.amazon.co.uk
 suvathyg-azo.dev.creatorstudio.amazon.com
 sv-se.about.canva.com
 sv.airbnb.org
 sv.next.airbnb.com
+sv2whr-atlantis-dns.sv2.onpremadmin.cloud.8x8.com
 svc-panel.webproxy.idcjoy.univeryountselegorysistmall.jobs-bdjobs-com.enterprise-demo-team.0.canva.cn
 svc.8x8cloud.net
 svc.o2.aws.oath.cloud
@@ -22684,6 +22887,7 @@ svuquerytool-prod.subscriptions-svu-aws-prod.aws.oath.cloud
 sw.airbnb.org
 sw1.us-east.chalet.8x8.com
 swagger.5nine.com
+swaggerhub.es.8x8.com
 swaldy42.album-recommendation.awadawd.aws-us-east-1c.dev.public.vespa.oath.cloud
 swang05.clusters-indexing-tf-idf.stream.us-east-1.dev.vespa.oath.cloud
 swang12.ecsearch.ect-srch.aws-us-east-2a.perf.vespa.oath.cloud
@@ -22693,6 +22897,7 @@ switch.account.adobe.com
 swvgdtt-gateway-eu.amazon.com
 swvgdtt-gateway-fe.amazon.com
 swvgdtt-gateway.amazon.com
+sy1pdns-atlantis.us2.onpremadmin.cloud.8x8.com
 syang07-1.affiliate-beta.intl-commerce.us-east-1.dev.vespa.oath.cloud
 syang07.affiliate-beta.intl-commerce.aws-us-east-2a.dev.vespa.oath.cloud
 syang07.affiliate-beta.intl-commerce.aws-use1-az1.dev.vespa.oath.cloud
@@ -22882,6 +23087,8 @@ telemetry.canva.cn
 telemetry.canva.com
 telemetry2.canva.cn
 telepoc.acc.mobilevikings.be
+teleport-026454894052.es.8x8.com
+teleport-new.es.8x8.com
 teleport.8x8-shared-svcs-prod.aws.infra8.8x8cloud.net
 teleport.development.cloud.8x8.com
 teleport.es.8x8.com
@@ -23293,6 +23500,7 @@ trunk.oidc.netscape.compuserve.com
 trunk.oidc.payments.compuserve.com
 trunk.oidc.publishing.compuserve.com
 trunk.oidc.wmconnect.compuserve.com
+trust.8x8.com
 trust.canva.com
 try.5nine.com
 tryaccess.acronis.com
@@ -23421,6 +23629,7 @@ ue.tw.news.yahoo.com
 ueba-dashboards.adminml.com
 uedata.amazon.co.uk
 uedata.amazon.com
+ueg2aytx-android.mobile-messenger.intercom.com
 uelyrzusox.pyvespa-integration.vespa-team.aws-us-east-1c.dev.public.vespa.oath.cloud
 ui-dev.oath-exchange-dev.aws.oath.cloud
 ui-patterns.alasco.rocks
@@ -23469,6 +23678,8 @@ uk.airbnb.org
 uk.chalet.8x8.com
 uk.next.airbnb.com
 uk01-cloud.acronis.com
+uk2pdns-atlantis.us2.onpremadmin.cloud.8x8.com
+uk3pdns-atlantis.us2.onpremadmin.cloud.8x8.com
 uk99-cloud.acronis.com
 uklyncweb.acronis.com
 uksip.acronis.com
@@ -23514,11 +23725,38 @@ uniopen-midas.ect-srch.gcp-us-east5-a.test.vespa.oath.cloud
 uniopen-midas.ect-srch.global.vespa.oath.cloud
 uniopen-midas.ect-srch.us-east-1.test.vespa.oath.cloud
 uniopen-midas.ect-srch.us-east-3.staging.vespa.oath.cloud
+unique.016010e4.development.cloud.8x8.com
+unique.08c8b8a7.prod.cloud.8x8.com
+unique.08e0d400.staging.cloud.8x8.com
+unique.12b7d542.development.cloud.8x8.com
+unique.1a6102ba.staging.cloud.8x8.com
 unique.1eb636d7.acceptance.cloud.8x8.com
+unique.26d02127.prod.cloud.8x8.com
+unique.2d90dcdd.prod.cloud.8x8.com
 unique.38f4b287.acceptance.cloud.8x8.com
+unique.428bf971.development.cloud.8x8.com
+unique.4fddab73.development.cloud.8x8.com
+unique.5d87c687.staging.cloud.8x8.com
+unique.65e998f6.staging.cloud.8x8.com
+unique.67b04ab5.prod.cloud.8x8.com
+unique.68b713e5.development.cloud.8x8.com
+unique.6fe079fe.staging.cloud.8x8.com
+unique.71ed20e5.development.cloud.8x8.com
+unique.76e84d90.prod.cloud.8x8.com
+unique.77a5b10f.staging.cloud.8x8.com
 unique.7930f96d.acceptance.cloud.8x8.com
+unique.7bc76229.es.8x8.com
+unique.815832bd.es.8x8.com
+unique.8c0e40e7.staging.cloud.8x8.com
+unique.8d815a84.es.8x8.com
+unique.96ca564f.staging.cloud.8x8.com
 unique.c6a531bf.acceptance.cloud.8x8.com
+unique.c6f5f752.development.cloud.8x8.com
 unique.c7929844.acceptance.cloud.8x8.com
+unique.c9108532.prod.cloud.8x8.com
+unique.d7507e15.es.8x8.com
+unique.daec424b.development.cloud.8x8.com
+unique.df2019db.development.cloud.8x8.com
 unique.f30c1714.acceptance.cloud.8x8.com
 unique.f6d99789.acceptance.cloud.8x8.com
 uniyksearch-dev.yk-serving-ehonsey.aws-use1-az1.dev.vespa.oath.cloud
@@ -23653,14 +23891,19 @@ us-west-2.finance-partners-api.aws.yahoo.cloud
 us-west-2.gemini-reporting-aws-eks1-prod.aws.oath.cloud
 us-west-2.geo.account.api.here.com
 us-west-2.pr.p.account.here.com
+us-west-2.prod.cloud.8x8.com
 us-west-2.st.p.account.here.com
+us.8x8.com
 us.ads.temu.com
 us.amazon.com
 us11-cloud.acronis.com
 us12-cloud.acronis.com
 us14-cloud.acronis.com
 us15-cloud.acronis.com
+us1pdns-atlantis.us2.onpremadmin.cloud.8x8.com
 us2-s3gw.acronis.com
+us2pdns-atlantis.us2.onpremadmin.cloud.8x8.com
+us2whr-atlantis-dns.us2.onpremadmin.cloud.8x8.com
 us4-baas.acronis.com
 us4-cloud.acronis.com
 us5-baas.acronis.com
@@ -24444,11 +24687,23 @@ vc6oix4mrpleefvj2bbmgozjwx7yao5q4.vespa.oath.cloud
 vc7po2t7qm2kqb3gecfplm4fkolfrmmes.vespa.oath.cloud
 vcbc4j6ephabhoyiyfasv2ezryro4zdnt.public.vespa.oath.cloud
 vcbiohhzrrzkovzgnhljitirgdm3x2hss.vespa.oath.cloud
+vcc-ap1.8x8.com
+vcc-assets.8x8.com
 vcc-dev.aws.infra8.8x8cloud.net
 vcc-development.oci.infra8.8x8cloud.net
+vcc-eu10.8x8.com
+vcc-eu8-cf.8x8.com
+vcc-eu9-cf.8x8.com
 vcc-gps-staging.8x8pilot.com
 vcc-gps.8x8pilot.com
 vcc-gps.webpaypaymentgateway.8x8pilot.com
+vcc-na1.8x8.com
+vcc-na11.8x8.com
+vcc-na15-cf.8x8.com
+vcc-na28-cf.8x8.com
+vcc-na5-cf.8x8.com
+vcc-na7.8x8.com
+vcc-na9.8x8.com
 vcc-prod.aws.infra8.8x8cloud.net
 vcc-production.oci.infra8.8x8cloud.net
 vcc-staging.aws.infra8.8x8cloud.net
@@ -25659,6 +25914,7 @@ vnz5nhnjlyrdabs3fuhzogesxjhv2az2i.vespa.oath.cloud
 vnzuq6d6qilgicujedtooa6eaxqv56x4s.vespa.oath.cloud
 vo-cm.8x8pilot.com
 vo-ops.aws.infra8.8x8cloud.net
+vo.8x8.com
 vo2aflbstisoeaittbnglwochh7op5i4d.vespa.oath.cloud
 vo2i4e66wimg42in6xxb7q7a4kdccalsj.vespa.oath.cloud
 vo2otcspgjgjtqzhekjlpa6e3tv3ix2nz.public.vespa.oath.cloud
@@ -25801,6 +26057,7 @@ vpc-dsp-api-persona-opensearch.dsp-plus-api-dev.aws.oath.cloud
 vpc-dsp-api-persona-opensearch.dsp-plus-api-prod.aws.oath.cloud
 vpc-preprod-opensearch.dsp-plus-api-dev.aws.oath.cloud
 vpcjt6rjv3mnth2xilqpqqracnyblidw4.vespa.oath.cloud
+vpckdrm2-ios.mobile-messenger.intercom.com
 vpdcvccy7h2njnsewf242uyec5qc666xe.public.vespa.oath.cloud
 vpdgxpkzwvoz72kvw44r7eqncisgut7t2.vespa.oath.cloud
 vpehrwj7pdhpida7eoq6kiyyxbz7oqdi3.vespa.oath.cloud
@@ -25811,6 +26068,7 @@ vpikezqrzcqrsy4stwpsh6lw3pnxwuta3.vespa.oath.cloud
 vpikqgaazixjuvywjwbqmvru4tavrlfzl.public.vespa.oath.cloud
 vpj3z2yz6fljg6ucrzrozlhl23mxwj5m2.vespa.oath.cloud
 vpj6s2so56pazgkzn6whsabfx7nvawwzr.vespa.oath.cloud
+vpjw8loj-android.mobile-messenger.intercom.com
 vpky3usvkjiy6bzdr5c7emm3qn7kfbqvn.vespa.oath.cloud
 vpljlfiopk4ipt6rukh7mjrudslxvmkqk.vespa.oath.cloud
 vpma7ayvgl6z5sj6wpp74kss2g6p5wxm7.vespa.oath.cloud
@@ -26160,6 +26418,7 @@ vtluazja2iulndpz4veowpfqaw5yt6he3.cd.vespa.oath.cloud
 vtluazja2iulndpz4veowpfqaw5yt6he3.vespa.oath.cloud
 vtlvlmsibeiqxaunckfnsphjlsehrjbhp.vespa.oath.cloud
 vtm42gz3fulszdimaroydenho3zcmpfpk.vespa.oath.cloud
+vtm81di8-ios.mobile-messenger.intercom.com
 vtmepzzrsftiebazx7rbdrdydnisq7rp5.vespa.oath.cloud
 vtmkew6ufuwn6uxp4jmljdm72z6ueovnn.vespa.oath.cloud
 vtmkzwvnbaw52kmatjlmtps4exnpjdwz2.vespa.oath.cloud
@@ -26843,6 +27102,14 @@ widgets.amazon.com
 wiki-acx.amazon.co.uk
 wiki-acx.amazon.com
 wiki.platformdevops.8x8cloud.net
+wildcard.jaascpuse101.es.8x8.com
+wildcard.pr01cpfra.prod.cloud.8x8.com
+wildcard.pr01cpiad.prod.cloud.8x8.com
+wildcard.pr01cplhr.prod.cloud.8x8.com
+wildcard.pr01cpphx.prod.cloud.8x8.com
+wildcard.pr01cpsyd.prod.cloud.8x8.com
+wildcard.pr01cpyul.prod.cloud.8x8.com
+wildcard.prod01cpams.prod.cloud.8x8.com
 willlee.bunker-dev.bunker-staging.aws-use1-az1.dev.vespa.oath.cloud
 willlee.clusters-indexing-tf-idf.stream.us-east-1.dev.vespa.oath.cloud
 willlee.ranking-index.mlplatform.aws-use1-az1.dev.vespa.oath.cloud
@@ -26868,6 +27135,7 @@ wmconnect-preview.compuserve.com
 wmconnect-qa-preview.compuserve.com
 wmconnect-qa.compuserve.com
 wms.adminml.com
+work-fe-p01-iad.8x8.com
 work.8x8staging.com
 work.acc.mobilevikings.be
 work.dev.pixie.home-schen07-aws.aws.oath.cloud
@@ -26930,11 +27198,13 @@ www.8x8testa.com
 www.a.corp.acronis.com
 www.aaa.8x8.com
 www.aamazon.co.uk
+www.aauea02.msteams.8x8.com
 www.ab-jenkins.corp.acronis.com
 www.abercrombie.com
 www.about.gitlab.com
 www.academy.acronis.com
 www.acc.mobilevikings.be
+www.acceptance.cloud.8x8.com
 www.account.acronis.com
 www.account.magento.com
 www.account.mongodb.com
@@ -26954,6 +27224,8 @@ www.advancedcustomfields.com
 www.advertising.amazon.ae
 www.advertising.amazon.co.uk
 www.advertising.amazon.in
+www.aeuwa03.msteams.8x8.com
+www.aeuwf01.msteams.8x8.com
 www.africa.visa.com
 www.ahp.security.anduril.dev
 www.airbnb.com
@@ -27030,10 +27302,14 @@ www.artistcentral.amazon.com
 www.asc.identity-gcp-p-compute.gcp.yahoo.cloud
 www.at01-cloud.acronis.com
 www.au-vpn.acronis.com
+www.ausea02.msteams.8x8.com
+www.ausea31.msteams.8x8.com
+www.auswa03.msteams.8x8.com
 www.auth.acronis.com
 www.awesome.8x8testa.com
 www.axtest.acronis.com
 www.bauprojekte.akhwien.at
+www.bbb.8x8.com
 www.bestantivirussoftware.8x8.vc
 www.beta-s3gw.acronis.com
 www.bg-edge-1.acronis.com
@@ -27060,6 +27336,7 @@ www.cb-eu2.acronis.com
 www.cdn.amazon.ca
 www.cdn.amazon.es
 www.cdn.amazon.nl
+www.celab.8x8.com
 www.ces.acronis.com
 www.cestest.corp.acronis.com
 www.cftp.acronis.com
@@ -27101,6 +27378,7 @@ www.corp.8x8.com
 www.cp-eu2.acronis.com
 www.cp.partners.acronis.com
 www.crs.corp.acronis.com
+www.cx-events.8x8.com
 www.cz01-cloud.acronis.com
 www.datageddon.acronis.com
 www.de-dms1.corp.acronis.com
@@ -27109,6 +27387,7 @@ www.de-vpn.acronis.com
 www.de99-cloud.acronis.com
 www.defect-dojo.anduril.au
 www.dev-cloud.acronis.com
+www.development.cloud.8x8.com
 www.digitalriver.acronis.com
 www.dk01-cloud.acronis.com
 www.dl.acronis.com
@@ -27127,9 +27406,12 @@ www.ee99-cloud.acronis.com
 www.elearning.acronis.com
 www.erp.acronis.work
 www.erp.corp.acronis.com
+www.es.8x8.com
 www.es01-cloud.acronis.com
+www.events.8x8.com
 www.expedia.amazon.co.uk
 www.expedie.amazon.fr
+www.experience-survey.8x8.com
 www.fba.amazon.co.uk
 www.fde-staging.8x8.engineering
 www.fi01-cloud.acronis.com
@@ -27162,6 +27444,7 @@ www.imap.corp.acronis.com
 www.in01-cloud.acronis.com
 www.info.acronis.com
 www.intranet.acronis.work
+www.investors.8x8.com
 www.io99-cloud.acronis.com
 www.is01-cloud.acronis.com
 www.isp.netscape.com
@@ -27223,6 +27506,8 @@ www.notary-test.acronis.com
 www.notary.acronis.com
 www.nps.acronis.com
 www.nz01-cloud.acronis.com
+www.obicfg.8x8.com
+www.ociadmin.cloud.8x8.com
 www.oem.acronis.com
 www.office.acronis.com
 www.okta-test.acronis.com
@@ -27240,6 +27525,7 @@ www.panel.amazon.co.uk
 www.panel.amazon.com.au
 www.panel.amazon.nl
 www.partners.acronis.com
+www.partners.training.8x8.com
 www.paw-exfw-t0-fw1.gp.monash.edu
 www.paw-exfw-t1-fw1.gp.monash.edu
 www.paw.gp.monash.edu
@@ -27253,13 +27539,17 @@ www.pl01-cloud.acronis.com
 www.pmc.acronis.work
 www.pmctest.acronis.work
 www.prf.corp.acronis.com
+www.prod.cloud.8x8.com
 www.promo.acronis.com
+www.pstnhub.msteams.8x8.com
+www.pstnhub2.msteams.8x8.com
 www.pt01-cloud.acronis.com
 www.qlik.corp.acronis.com
 www.rabbitamqp.corp.acronis.com
 www.rabbitmq.corp.acronis.com
 www.rapid7.8x8.com
 www.refer.8x8.com
+www.referto8.8x8.com
 www.registry.corp.acronis.com
 www.registry.platform.corp.acronis.com
 www.remotesupport.8x8.com
@@ -27301,6 +27591,7 @@ www.spmp.corp.acronis.com
 www.sso.8x8pilot.com
 www.stage.report.gemini.yahoo.com
 www.staging.api.jr.airstarfinance.net
+www.staging.cloud.8x8.com
 www.staging.help.jr.airstarfinance.net
 www.staging.m.jr.airstarfinance.net
 www.store.acronis.com
@@ -27313,8 +27604,10 @@ www.thrift.acronis.work
 www.ticket.amazon.co.uk
 www.ticketing.amazon.co.uk
 www.tickets.amazon.co.uk
+www.tls.msteams.8x8.com
 www.tools.akismet.com
 www.tr01-cloud.acronis.com
+www.training.8x8.com
 www.trial.cp-eu2.acronis.com
 www.trials.cp-eu2.acronis.com
 www.try.5nine.com
@@ -27334,6 +27627,7 @@ www.us-ma-vpn.acronis.com
 www.us-ma-vpn2.acronis.com
 www.us-rnd-grafana.corp.acronis.com
 www.us-ts.acronis.com
+www.us.8x8.com
 www.us11-cloud.acronis.com
 www.us12-cloud.acronis.com
 www.us2-s3gw.acronis.com
@@ -27394,9 +27688,11 @@ xn-fgtsj-1qa.vdms-portals-spaceballone.aws.oath.cloud
 xo-docs-s.a.exodus.io
 xo-docs.a.exodus.io
 xseries.8x8.com
+xstxtwfr-android.mobile-messenger.intercom.com
 xuewu.clusters-indexing-tf-idf.stream.us-east-1.dev.vespa.oath.cloud
 xuewu.music.sandbox.us-east-1.dev.vespa.oath.cloud
 xuewu.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
+xw73g4tb-ios.mobile-messenger.intercom.com
 xwang04.nuwa-hv.nuwa-staging.us-east-1.dev.vespa.oath.cloud
 xxkey.next.airbnb.com
 xzhou.music.sandbox.us-east-1.dev.vespa.oath.cloud
