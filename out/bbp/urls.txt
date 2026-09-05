@@ -703,8 +703,8 @@ https://github.com/auth0/nextjs-auth0
 https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
+https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
-https://github.com/brave/%2A,%20https://github.com/brave-intl/%2A
 https://github.com/chia-network/chia-blockchain
 https://github.com/chia-network/chia-blockchain-gui
 https://github.com/chia-network/chia_rs
