@@ -10,8 +10,10 @@
 *.compuserve.com
 *.gemini.yahoo.com
 *.gp.monash.edu
+*.intercomassets.com / *.intercomcdn.com
 *.isp.netscape.com
 *.lite.aol.com
+*.mobile-messenger.intercom.com
 *.oath.cloud
 *.tw.news.yahoo.com
 *.yahoo.cloud
