@@ -544,6 +544,7 @@ app.drogas.lv
 app.expressmailguard.com
 app.files.com
 app.fing.com
+app.fizzy.do
 app.frontapp.com
 app.geneva-staging.chat
 app.geneva-staging.com
@@ -2121,7 +2122,6 @@ fiscaalgemak.nl
 fishbowlapp.com
 fit.nba.com
 fitbook.de
-fizzy.do
 flickr.com
 flights.booking.com
 flipkey.com
