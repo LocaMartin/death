@@ -1,3 +1,12 @@
+*.bridge.8x8pilot.com
+*.deploy-ops.8x8.studio
+*.deploy-ops.preview.8x8.studio
+*.mcp.meet-metrics.8x8.vc
+*.p.8x8.studio
+*.p.preview.8x8.studio
+*.snoreduty.8x8.vc
+*.sync8.stage.8x8.vc
+*.tollgate.8x8.studio
 22cc2d3a9803e15e18cccf9b426b424c104bff0b-ios.mobile-messenger.intercom.com
 7497d660668819dc85f0da390095f485d8e89f97-ios.mobile-messenger.intercom.com
 a4egfjdm-ios.mobile-messenger.intercom.com
@@ -489,12 +498,3 @@ ae8fe099.a.vespa.oath.cloud
 ae8fe099.g.vespa.oath.cloud
 ae8fe099.z.vespa.oath.cloud
 ae9f4313.a.cd.vespa.oath.cloud
-ae9f4313.g.cd.vespa.oath.cloud
-ae9f4313.z.cd.vespa.oath.cloud
-aea08516.a.cd.vespa.oath.cloud
-aea08516.g.cd.vespa.oath.cloud
-aea08516.z.cd.vespa.oath.cloud
-aea0e680.a.vespa.oath.cloud
-aea0e680.g.vespa.oath.cloud
-aea0e680.z.vespa.oath.cloud
-aea16431.z.vespa.oath.cloud
