@@ -1335,6 +1335,7 @@ admin-portal.api-xperience.com
 admin-resolve.8x8.com
 admin-shell.8x8staging.com
 admin-staging.airbnb.com
+admin-staging.corporate.abercrombie.com
 admin-ui.mediaplatform-pfs-dev.gcp.yahoo.cloud
 admin-ui.mediaplatform-pfs-prd.gcp.yahoo.cloud
 admin-vnext.8x8staging.com
@@ -3157,6 +3158,7 @@ aressem.smurf.scoober.global.public.vespa.oath.cloud
 aressem.stream-ranking.aressem.us-east-1.dev.vespa.oath.cloud
 aressem.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
 arex.akhwien.at
+areyouin.abercrombie.com
 argileto.amazon.ca
 argileto.amazon.co.jp
 argileto.amazon.co.uk
@@ -8538,9 +8540,34 @@ cerberus.paranoids-fire-prod-cerberus.aws.oath.cloud
 ceres.dive-xl.andurildev.au
 cert-1.es.8x8.com
 cert-2.es.8x8.com
+cert-ca.abercrombie.com
+cert-ca.m.abercrombie.com
+cert-de-eu.abercrombie.com
+cert-de-eu.m.abercrombie.com
+cert-es-eu.abercrombie.com
+cert-es-eu.m.abercrombie.com
+cert-es.abercrombie.com
+cert-es.m.abercrombie.com
+cert-eu.abercrombie.com
+cert-eu.m.abercrombie.com
+cert-fr-ca.abercrombie.com
+cert-fr-ca.m.abercrombie.com
+cert-fr-eu.abercrombie.com
+cert-fr-eu.m.abercrombie.com
+cert-giftcards-egapi.abercrombie.com
 cert-giftcards.abercrombie.com
+cert-it-eu.abercrombie.com
+cert-it-eu.m.abercrombie.com
+cert-nl-eu.abercrombie.com
+cert-nl-eu.m.abercrombie.com
 cert-testing018.es.8x8.com
+cert-uk.abercrombie.com
+cert-uk.m.abercrombie.com
+cert-wd.abercrombie.com
+cert-wd.m.abercrombie.com
+cert.abercrombie.com
 cert.api.binance.com
+cert.m.abercrombie.com
 certauth.fs.acronis.com
 certauth.fs.acronis.work
 certificate.api.binance.com
@@ -8656,6 +8683,7 @@ check.api.binance.com
 checkmarx.paranoids-vuln-checkmarx.aws.oath.cloud
 checkout-app.payments-aws-services-dev.aws.oath.cloud
 checkout-app.payments-aws-services-stg.aws.oath.cloud
+checkout.abercrombie.com
 checkoutbyamazon.co.uk
 chemtrail-4317.oath-publishing-non-prod.aws.oath.cloud
 chemtrail-collector-grpc.oath-publishing-non-prod.aws.oath.cloud
@@ -9550,6 +9578,7 @@ ctchou.topics-index.mlplatform.aws-use1-az1.dev.vespa.oath.cloud
 cting02.lumos.tw-media-wizardry.aws-use1-az1.dev.vespa.oath.cloud
 cting02.lumos.tw-media-wizardry.us-east-1.dev.vespa.oath.cloud
 cting02.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
+ctr.a.exodus.io
 ctrl.spa.gemini-serving.us-east-3.perf.vespa.oath.cloud
 cts-aero-dev.tgt-platform-cts-dev.bf2.ows.oath.cloud
 cts-aero-dev.tgt-platform-cts-dev.gq2.ows.oath.cloud
@@ -9677,6 +9706,7 @@ customerservice.amazon.ca
 customerservice.amazon.cn
 customerservice.amazon.co.uk
 customerservice.amazon.com.br
+customfierce.abercrombie.com
 cveapi.api.binance.com
 cvs-api.10x.redoxengine.com
 cwan01.lumos.tw-media-wizardry.aws-use1-az1.dev.vespa.oath.cloud
@@ -10692,6 +10722,7 @@ dev-use1-simon-simonweb.svc.use1.grid-aws-dev.aws.yahoo.cloud
 dev.3lateral.com
 dev.8x8.com
 dev.8x8.studio
+dev.abercrombie.com
 dev.account.adobe.com
 dev.account.krisp.ai
 dev.acrobat.adobe.com
@@ -10778,7 +10809,9 @@ dev2.tc.eng.andurildev.au
 develocity.adminml.com
 develop-immersive-neo4j-bolt.ryot-dev.aws.oath.cloud
 developer-int.8x8.com
+developer-qa.abercrombie.com
 developer.8x8.com
+developer.abercrombie.com
 developer.acronis.com
 developer.airbnb.com
 developer.alasco.de
@@ -11001,6 +11034,7 @@ dive-mfg-test.andurildev.com
 divexl.anduril.com
 divyansh-bhatt.album-recommendation.pretest.aws-us-east-1c.dev.public.vespa.oath.cloud
 dj0yptcm-android.mobile-messenger.intercom.com
+dk.abercrombie.com
 dk01-cloud.acronis.com
 dkim01.myapp.sandbox.us-east-1.dev.vespa.oath.cloud
 dkim01.questionsearch.sandbox.us-east-1.dev.vespa.oath.cloud
@@ -11343,6 +11377,7 @@ dvd.amazon.co.uk
 dw6k0lv9-android.mobile-messenger.intercom.com
 dw6k0lv9-ios.mobile-messenger.intercom.com
 dx-dc-author-prod.acrobat.adobe.com
+e.abercrombie.com
 e.em.abercrombie.com
 e.email.ad.nl
 e00a5fb5.a.cd.vespa.oath.cloud
@@ -11438,6 +11473,7 @@ e1e57c10.a.vespa.oath.cloud
 e1e57c10.g.vespa.oath.cloud
 e1e57c10.z.vespa.oath.cloud
 e1lzm5au-ios.mobile-messenger.intercom.com
+e2.abercrombie.com
 e2.canva.tech
 e20db4b2.a.cd.vespa.oath.cloud
 e20db4b2.g.cd.vespa.oath.cloud
@@ -12454,6 +12490,7 @@ employee-search.employee-directory.us-east-3.staging.vespa.oath.cloud
 employee-search.employee-directory.us-east-3.vespa.oath.cloud
 employee-search.employee-directory.us-west-1.vespa.oath.cloud
 en-in.about.canva.com
+en-jp.abercrombie.com
 en1pdns-atlantis.us2.onpremadmin.cloud.8x8.com
 enc-wms.maps.anduril.au
 ence4x9h-ios.mobile-messenger.intercom.com
@@ -13576,6 +13613,8 @@ fghaderi.ranking-index.mlplatform.aws-use1-az1.dev.vespa.oath.cloud
 fi.airbnb.org
 fi01-cloud.acronis.com
 fiat-d.a.exodus.io
+fiat-p.a.exodus.io
+fiat-prod-fallback.a.exodus.io
 fiat.a.exodus.io
 fiftyone.anduril.au
 fiftyone.gov.anduril.dev
@@ -13821,6 +13860,7 @@ forums.developer.amazon.com
 foundation.acronis.com
 foxglove.bunker.anduril.dev
 foxglove.chaos.anduril.dev
+fr-ca.abercrombie.com
 fr-eu.abercrombie.com
 fr-fr.about.canva.com
 fr-staging.blog.anchor.fm
@@ -14150,6 +14190,7 @@ ghec-metadata-service-dev.github-dev.aws.oath.cloud
 ghec-metadata-service.github-ghec-aide.aws.oath.cloud
 ghost.anduril.com
 ghuang.affiliate-beta.intl-commerce.aws-use1-az1.dev.vespa.oath.cloud
+giftcards-egapi.abercrombie.com
 giftcards.abercrombie.com
 gil-test-app.gil-test.aws-us-east-1c.dev.public.vespa.oath.cloud
 gio-catalog-cn.amazon.com
@@ -14743,6 +14784,7 @@ http-feeding-aws.by-andreer.aws-us-east-1b.vespa.oath.cloud
 http-feeding-aws.by-andreer.aws-us-east-2a.dev.vespa.oath.cloud
 http-feeding-aws.by-andreer.aws-us-west-2a.vespa.oath.cloud
 http-feeding-aws.by-andreer.global.vespa.oath.cloud
+http2.abercrombie.com
 httpbin.home-evant-aws.aws.oath.cloud
 https-basic-sedi-devo.amazon.com
 https-basic-sedi-qa.amazon.com
@@ -15806,6 +15848,7 @@ jp-cloud.acronis.com
 jp-pre-prod-aw.amazon.com
 jp-preflight-aw.amazon.com
 jp-vpn.acronis.com
+jp.abercrombie.com
 jp03-cloud.acronis.com
 jp2-s3gw.acronis.com
 jr.airstarfinance.net
@@ -16188,6 +16231,7 @@ kumamoto.aws.amazon.com
 kurrent.aws.oath.cloud
 kwu05.nuwa-hv.nuwa-staging.us-east-1.dev.vespa.oath.cloud
 kyc-checker.adminml.com
+kyc.a.exodus.io
 kyle.ernest.meetkai.aws-us-east-1c.dev.public.vespa.oath.cloud
 kyle.simple-vespa.meetkai.aws-us-east-1c.dev.public.vespa.oath.cloud
 l.create.canva.com
@@ -16452,6 +16496,7 @@ loghost.staging.sjc01.us-west.8x8cloud.net
 login-4njbets.us.betfair.com
 login-bug-bounty.alasco.rocks
 login.8x8pilot.com
+login.abercrombie.com
 login.acronis.com
 login.ad.nl
 login.alasco.de
@@ -16679,18 +16724,25 @@ lyris.advisor-connection.com
 lyrisnew.advisor-connection.com
 lyrisnewox.advisor-connection.com
 m.4njbets.com
+m.abercrombie.com
 m.ad.nl
 m.amazon.cn
 m.amazon.co.uk
 m.cn-hk.abercrombie.com
 m.de-eu.abercrombie.com
 m.es-eu.abercrombie.com
+m.es.abercrombie.com
 m.eu.abercrombie.com
 m.fr-eu.abercrombie.com
 m.hk.abercrombie.com
+m.http2.abercrombie.com
 m.it-eu.abercrombie.com
+m.ja-jp.abercrombie.com
+m.jp.abercrombie.com
 m.jr.airstarfinance.net
+m.nl-eu.abercrombie.com
 m.settings.accounts.realestate.com.au
+m.sg.abercrombie.com
 m1.model.vector-corp.aws-us-east-1c.perf.public.vespa.oath.cloud
 m365-jenkins.acronis.work
 ma-ex1.us.corp.acronis.com
@@ -16742,7 +16794,9 @@ mail.8x8.cloud
 mail.8x8.engineering
 mail.8x8.studio
 mail.8x8pilot.com
+mail.a.exodus.io
 mail.aauea02.msteams.8x8.com
+mail.about.gitlab.com
 mail.acceptance.cloud.8x8.com
 mail.acronis.com
 mail.aeuwa03.msteams.8x8.com
@@ -17160,6 +17214,7 @@ mft-qa.anfcorp.com
 mft.anfcorp.com
 mft1.anfcorp.com
 mg.em.abercrombie.com
+mg.tm.abercrombie.com
 mgm.acc.mobilevikings.be
 mgmt-vpn.acronis.com
 mgw.antcloud.antbank.hk
@@ -17934,6 +17989,7 @@ nieuws.amazon.nl
 niru.ranking-index.mlplatform.aws-use1-az1.dev.vespa.oath.cloud
 niru.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
 nisse.albums.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
+nl-eu.abercrombie.com
 nl-nl.about.canva.com
 nl.airbnb.org
 nlb-apse1.mspp-prod.search.aws.yahoo.cloud
@@ -18122,6 +18178,8 @@ nsabahi.monalixa.sandbox.us-east-1.dev.vespa.oath.cloud
 nswc-crane.anduril.com
 ntdyalf1.aws.amazon.com
 ntdyalf2.us-east-1.amazon.com
+ntravel.abercrombie.com
+ntravel2.abercrombie.com
 nucleonics-dev-api.paranoids-vuln-nucleonics.aws.oath.cloud
 nucleonics-dev-ui.paranoids-vuln-nucleonics.aws.oath.cloud
 nucleonics-prod-agent.paranoids-vuln-nucleonics.aws.oath.cloud
@@ -18615,6 +18673,7 @@ origin-setup-firetv.amazon.pl
 origin-setup-firetv.amazon.se
 origin-setup-firetv.amazon.sg
 origin-smile.amazon.co.uk
+origin-staging.corporate.abercrombie.com
 origin-supplychainconnect.amazon.co.uk
 origin-supplychainconnect.amazon.com.au
 origin-transparency.amazon.com
@@ -19276,6 +19335,8 @@ print-assets.canva.com
 private.8x8cloud.net
 private.studios-farmerswife.aws.oath.cloud
 privbin.paranoids-privbin.gcp.yahoo.cloud
+privilege.abercrombie.com
+privileged.abercrombie.com
 processor.1debit.com
 proctor.acronis.com
 prod-api-global.notificationsystems-mbp-prod.aws.oath.cloud
@@ -20106,6 +20167,8 @@ qa-connectid-s2s-analytics.aolp-ds-dev.aws.oath.cloud
 qa-evaluator.home-agupta15.gcp.yahoo.cloud
 qa-jef-api.dmp.us-east-1.aolp-ds-dev.aws.oath.cloud
 qa-jef-ui.dmp.us-east-1.aolp-ds-dev.aws.oath.cloud
+qa-privilege.abercrombie.com
+qa-privileged.abercrombie.com
 qa-pseservices.subscriptions-frontends-aws-dev.aws.oath.cloud
 qa-pseservices.subscriptions-services-aws-dev.aws.oath.cloud
 qa-srs-api.pcp.aws.oath.cloud
@@ -20119,6 +20182,7 @@ qa.anchor.fm
 qa.aol-help.subscriptions-frontends-aws-dev.aws.oath.cloud
 qa.api.eu-west-1.account.here.com
 qa.api.us-east-1.account.here.com
+qa.areyouin.abercrombie.com
 qa.creative-api.onecreative.aws.oath.cloud
 qa.eu-west-1.account.here.com
 qa.feedvalidator.partner-pub-content-hub-aws-nonprod.aws.oath.cloud
@@ -20809,6 +20873,7 @@ sample-jtakagi.yj.aws-us-east-1c.public.vespa.oath.cloud
 sample-jtakagi.yj.aws-us-east-1c.staging.public.vespa.oath.cloud
 sample-jtakagi.yj.aws-us-east-1c.test.public.vespa.oath.cloud
 sample-jtakagi.yj.global.public.vespa.oath.cloud
+sand.abercrombie.com
 sandbox-api.admanager.yahoo.com
 sandbox-api.gemini.yahoo.com
 sandbox-chs2.staging.api.anthropic.com
@@ -21179,6 +21244,7 @@ sg-passport.acronis.work
 sg-rnd-ovirt.corp.acronis.com
 sg-vpn.acronis.com
 sg-vpn2.acronis.com
+sg.abercrombie.com
 sg.home-pclin.sg3.ows.oath.cloud
 sg2-s3gw.acronis.com
 sg3.ows.oath.cloud
@@ -21537,6 +21603,7 @@ smarthub.amazon.in
 smarthub.amazon.it
 smarthub.amazon.sa
 smartsend.home-ntraj.gcp.yahoo.cloud
+smetrics.abercrombie.com
 smetrics.flex.amazon.co.uk
 smetrics.flex.amazon.com.au
 smile.amazon.co.uk
@@ -22575,6 +22642,7 @@ storeadmin.amazon.com
 storedesignproxy-eu.amazon.com
 storefront.amazon.com
 storepickup.amazon.co.uk
+stores.abercrombie.com
 stories-d.apexnews.com
 stories-local.apexnews.com
 storm-nonprod-aws.aws.oath.cloud
@@ -23067,6 +23135,7 @@ tacocorp-ecs-cluster.one-mobile-dev.aws.oath.cloud
 tacocorp-ecs-cluster.one-mobile-prod.aws.oath.cloud
 tagcache.one-mobile-prod.aws.oath.cloud
 tagcache.prod.aolp-ds-prd.aws.oath.cloud
+tags.abercrombie.com
 taiwan-aws-nonprod-bigdata.aws.oath.cloud
 taiwan-aws-nonprod-bigdata.aws.yahoo.cloud
 taiwan-aws-nonprod-omega.aws.oath.cloud
@@ -23206,6 +23275,7 @@ test-virtualagent-api.ai.8x8.com
 test-wp.1debit.com
 test-ykimage.sandbox-ykimage-dev.us-east-1.dev.vespa.oath.cloud
 test.1debit.com
+test.abercrombie.com
 test.abuec-aws-storage-dev.aws.oath.cloud
 test.affiliate-api.ec-horizontal-rewards.aws.oath.cloud
 test.andreer.aws-us-east-1c.dev.public-cd.vespa.oath.cloud
@@ -23316,6 +23386,7 @@ tests.debug.vespa.us-east-3.staging.vespa.oath.cloud
 tests.debug.vespa.us-west-1.vespa.oath.cloud
 tests3https.home-shanch.aws.oath.cloud
 testservice.image-search.tnvvespa-prod.us-east-1.dev.vespa.oath.cloud
+testslot.abercrombie.com
 testslx.vespatest.personaluse.aws-us-east-1c.dev.public.vespa.oath.cloud
 testwebapp.acc.mobilevikings.be
 testybesty.acc.mobilevikings.be
@@ -23346,6 +23417,7 @@ tgt-platform-cts-prd.tp2.ows.oath.cloud
 th-th.about.canva.com
 th.airbnb.org
 th.blog.anchor.fm
+theclub.abercrombie.com
 thinktank-hive.frontpage.global.vespa.oath.cloud
 thinktank-hive.frontpage.us-east-1.test.vespa.oath.cloud
 thinktank-hive.frontpage.us-east-3.staging.vespa.oath.cloud
@@ -23514,11 +23586,14 @@ tr.next.airbnb.com
 tr01-cloud.acronis.com
 trabaja.amazon.com.mx
 track-sandbox.amazon.co.uk
+track.abercrombie.com
 track.amazon.co.uk
 track.amazon.it
 track.datahub-compliance-report.aws.oath.cloud
 tracker.cross-platform-analytics-alephd-dev.aws.oath.cloud
 tracking.canva.com
+trackuk.abercrombie.com
+trackukqa.abercrombie.com
 training.acronis.com
 tralala.albums.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
 tralala.albums.scoober.aws-us-east-1c.public.vespa.oath.cloud
@@ -27368,6 +27443,7 @@ www.api.authnapi.identity-gcp-s-compute.gcp.yahoo.cloud
 www.api.gemini.yahoo.com
 www.api.mock.identity-gcp-s-compute.gcp.yahoo.cloud
 www.appdirect-eu2-cloud.acronis.com
+www.applications.abercrombie.com
 www.appsmart-cloud.acronis.com
 www.artifactory.corp.acronis.com
 www.artifactorytest.corp.acronis.com
@@ -27405,6 +27481,8 @@ www.ca02-cloud.acronis.com
 www.canva.cn
 www.canva.com
 www.care.acronis.com
+www.careers.abercrombie.com
+www.careers2.abercrombie.com
 www.cas.acronis.com
 www.cb-eu2.acronis.com
 www.cdn.amazon.ca
@@ -27595,6 +27673,8 @@ www.notary-preview.acronis.com
 www.notary-test.acronis.com
 www.notary.acronis.com
 www.nps.acronis.com
+www.ntravel.abercrombie.com
+www.ntravel2.abercrombie.com
 www.nz01-cloud.acronis.com
 www.o11y-nonprod.oci.infra8.8x8cloud.net
 www.o11y-prod.oci.infra8.8x8cloud.net
@@ -27691,6 +27771,7 @@ www.sg-edge-1.acronis.com
 www.sg-vpn.acronis.com
 www.sg-vpn2.acronis.com
 www.shop.8x8.com
+www.smetrics.abercrombie.com
 www.smile.amazon.co.uk
 www.snoreduty.8x8.vc
 www.snoreduty.stage.8x8.vc
@@ -27760,16 +27841,22 @@ www.wwwamazon.co.uk
 www.wwwlamazon.co.uk
 www.za01-cloud.acronis.com
 www.zeppelin.acronis.work
+www01.abercrombie.com
+www02.abercrombie.com
+www03.abercrombie.com
+www04.abercrombie.com
 www1.amazon.co.uk
 www1.amazon.com
 www10.amazon.co.uk
 www14.amazon.co.uk
 www14.amazon.com
 www15.amazon.co.uk
+www2.abercrombie.com
 www2.amazon.com
 www20.amazon.co.uk
 www22.amazon.co.uk
 www22.amazon.com.au
+www3.abercrombie.com
 www3.amazon.com
 www4.amazon.com
 www6.amazon.co.uk
@@ -27805,6 +27892,8 @@ xn--oo-yjab.vdms-portals-spaceballone.aws.oath.cloud
 xn-fgtsj-1qa.vdms-portals-spaceballone.aws.oath.cloud
 xo-docs-s.a.exodus.io
 xo-docs.a.exodus.io
+xoswap-graphql-p.a.exodus.io
+xoswap-graphql.a.exodus.io
 xseries.8x8.com
 xstxtwfr-android.mobile-messenger.intercom.com
 xuewu.clusters-indexing-tf-idf.stream.us-east-1.dev.vespa.oath.cloud
@@ -28183,6 +28272,7 @@ zero-dark-thirty.finance-alphaspace.aws.oath.cloud
 zh-cn.about.canva.com
 zh-cn.airbnb.com
 zh-dotcn.about.canva.com
+zh-hk.abercrombie.com
 zh-hk.about.canva.com
 zh-t.next.airbnb.com
 zh-tw.about.canva.com
