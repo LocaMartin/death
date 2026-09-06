@@ -1,5 +1,3 @@
-*.intercomassets.com / *.intercomcdn.com
-*.mobile-messenger.intercom.com
 cart.starbucks.co.jp
 cart.tw.coupang.com
 cas.tomorrowland.com
@@ -221,8 +219,6 @@ com.boozt.app
 com.boozt.booztlet
 com.booztlet
 com.box.android
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -498,3 +494,7 @@ com.tumblr
 com.tumblr.tumblr
 com.twitter.android
 com.ubnt.discovery.app
+com.ubnt.easyunifi
+com.ubnt.ucrm
+com.ubnt.umobile
+com.urbanclap.provider

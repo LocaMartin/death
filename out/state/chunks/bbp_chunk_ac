@@ -1,7 +1,3 @@
-com.dropbox.android
-com.dropbox.dash
-com.dyson.mobile.android
-com.ebookers
 com.eero.android
 com.einnovation.temu
 com.enjin.mobile.wallet
@@ -123,3 +119,7 @@ com.mi.health
 com.milink.service
 com.miui.analytics
 com.miui.android.fashiongallery
+com.miui.backup
+com.miui.bugreport
+com.miui.cit
+com.miui.cleanmaster
