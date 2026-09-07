@@ -1498,3 +1498,7 @@ com.tumblr
 com.tumblr.tumblr
 com.twitter.android
 com.ubnt.discovery.app
+com.ubnt.easyunifi
+com.ubnt.ucrm
+com.ubnt.umobile
+com.urbanclap.provider
