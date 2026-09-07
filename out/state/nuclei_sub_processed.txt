@@ -1,7 +1,10 @@
 *.admin.spaces.8x8.vc
 *.advisor.ai.preview.8x8.vc
+*.bridge.8x8pilot.com
 *.cast.8x8.vc
 *.cf2loki.8x8.vc
+*.deploy-ops.8x8.studio
+*.deploy-ops.preview.8x8.studio
 *.developer.allegro.pl.allegrosandbox.pl
 *.docs.acc.mobilevikings.be
 *.docs.appstore.8x8.vc
@@ -10,10 +13,14 @@
 *.grafana-mcp.8x8.vc
 *.jr.airstarfinance.net
 *.llm.ai.preview.8x8.vc
+*.mcp.meet-metrics.8x8.vc
 *.ms.allegro.pl.allegrosandbox.pl
+*.p.8x8.studio
+*.p.preview.8x8.studio
 *.platformdevops.8x8cloud.net
 *.reseller-docs.appstore.8x8.vc
 *.rosy.sync8.8x8.vc
+*.snoreduty.8x8.vc
 *.spaces.8x8.vc
 *.stage-business.amazon.co.uk
 *.stage.8x8.vc
@@ -21,7 +28,9 @@
 *.store.ai.stage.8x8.vc
 *.svc.8x8cloud.net
 *.sync8.8x8.vc
+*.sync8.stage.8x8.vc
 *.sys.ai.stage.8x8.vc
+*.tollgate.8x8.studio
 *.tools.ai.stage.8x8.vc
 *.txt.stage.8x8.vc
 *.widget.ai.preview.8x8.vc
