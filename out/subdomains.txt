@@ -2426,6 +2426,7 @@ andre-olaisen.andre-cord-19.tmartins-ntnu.aws-us-east-1c.dev.public.vespa.oath.c
 andre-olaisen.andre-lyrics.tmartins-ntnu.aws-us-east-1c.dev.public.vespa.oath.cloud
 andre-olaisen.andre-msmarco.tmartins-ntnu.aws-us-east-1c.dev.public.vespa.oath.cloud
 andre-olaisen.andre-test-loud.tmartins-ntnu.aws-us-east-1c.dev.public.vespa.oath.cloud
+andre.acc-pub.mobilevikings.be
 andre.acc.mobilevikings.be
 andreer.album-recommendation.andreer.aws-us-east-1c.dev.public.vespa.oath.cloud
 andreer.chunkier.sandbox.us-east-1.dev.vespa.oath.cloud
@@ -2750,6 +2751,7 @@ api-yahoo.mail-backend-schd-prd.aws.oath.cloud
 api.23andme.com
 api.5nine.com
 api.8x8.com
+api.access-sandbox.remitly.com
 api.access.remitly.com
 api.account.adobe.com
 api.accounts.firefox.com
@@ -5238,6 +5240,7 @@ bill.beta.compuserve.com
 bill.compuserve.com
 bill.qa.compuserve.com
 bill.qh.compuserve.com
+billie-webhook.acc-pub.mobilevikings.be
 billing-hubportal.amazon.co.uk
 billing-kep-eu.amazon.co.uk
 billing-kep.amazon.co.uk
@@ -6282,6 +6285,7 @@ callbacks.airbnb.com
 calliv-api.subscriptions-cc-aws-dev.aws.oath.cloud
 calvi.agent.adm.cloud.com
 camo.nuwa-hv.nuwa-aws.us-east-1.dev.vespa.oath.cloud
+campaigner.acc-pub.mobilevikings.be
 campaigner.acc.mobilevikings.be
 camphor.anduril.com
 canary-grid-aws.vespa.aws-us-east-1a.vespa.oath.cloud
@@ -11114,6 +11118,7 @@ docker-search.rafan-vespa.us-east-1.test.vespa.oath.cloud
 docker-search.rafan-vespa.us-east-3.staging.vespa.oath.cloud
 docker.uplynk-inf.aws.oath.cloud
 docker.vz.sj.prod-mec.bf2.ows.oath.cloud
+docs.acc.mobilevikings.be
 docs.acronis.com
 docs.akismet.com
 docs.alipayplus.com
@@ -13308,6 +13313,7 @@ faf037fe.z.cd.vespa.oath.cloud
 fafbb2a2.a.cd.vespa.oath.cloud
 fafbb2a2.g.cd.vespa.oath.cloud
 fafbb2a2.z.cd.vespa.oath.cloud
+fakta.acc-pub.mobilevikings.be
 fakta.acc.mobilevikings.be
 falco-test.paranoids-cloudsec-containers.aws.oath.cloud
 falcon-peak.anduril.com
@@ -27351,6 +27357,7 @@ www.about.gitlab.com
 www.academy.acronis.com
 www.acc.mobilevikings.be
 www.acceptance.cloud.8x8.com
+www.account-sprint.dynatracelabs.com
 www.account.acronis.com
 www.account.magento.com
 www.account.mongodb.com
