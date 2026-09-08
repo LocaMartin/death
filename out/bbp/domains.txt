@@ -7,6 +7,7 @@
 *.apexnews.com
 *.apexscores.io
 *.api.originenergy.com.au
+*.assurancewireless.com
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -20,6 +21,8 @@
 *.gp.monash.edu
 *.intercomassets.com / *.intercomcdn.com
 *.isp.netscape.com
+*.kiln.it
+*.linktree-extensions.com
 *.lite.aol.com
 *.mercadolibre.com.ve
 *.mobile-messenger.intercom.com
@@ -36,6 +39,8 @@
 *.origindigital-pac.com.au
 *.osite99.com
 *.osp.opera.software
+*.pinterest.com web apps
+*.plannthat.com
 *.quizlet.com
 *.rtbscale.com
 *.s-cloud.net
@@ -44,8 +49,12 @@
 *.services.repostnetwork.com
 *.soundcloud.org
 *.support.originenergy.com.au
+*.swaps.xyz
 *.tucarro.com.ve
 *.tw.news.yahoo.com
+*.uscc.com
+*.uscc.net
+*.uscellular.com
 *.yahoo.cloud
 *.yoyogames.com
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
@@ -1021,7 +1030,6 @@ cas.tomorrowland.com
 cash.tw.coupang.com
 cashier.deriv.com
 cashier.robinhood.com
-cashstaging.app
 castor.vinci.com
 cb.dev
 cbhq.net
@@ -1236,6 +1244,8 @@ com.boozt.app
 com.boozt.booztlet
 com.booztlet
 com.box.android
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -1270,7 +1280,6 @@ com.einnovation.temu
 com.enjin.mobile.wallet
 com.etoro.openbook
 com.etoro.wallet
-com.eufylife.eufyhome
 com.evernote
 com.exness.android.pa
 com.expedia.bookings
@@ -1431,7 +1440,6 @@ com.netease.my.nearme.gamecenter
 com.netflix.mediaclient
 com.newegg.app
 com.oceanwing.battery.cam
-com.oceanwing.care.cam
 com.oceanwing.fdmprint
 com.oplus.accesscard
 com.oplus.account
@@ -1469,7 +1477,6 @@ com.robinhood.global
 com.robinhood.money
 com.romwe
 com.security.batterycam
-com.security.care
 com.seriously.bestfiends
 com.seriously.phoenix
 com.shopai.apps
@@ -2674,7 +2681,6 @@ khealth-test.com
 khealth.com
 kibana.wtf
 kidswebservices.com
-kiln.it
 kinepolis-studio.be
 kinepolis.be
 kinepolis.ch
@@ -2758,7 +2764,6 @@ linkpop.com
 links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
-linktree-extensions.com
 liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
@@ -3551,7 +3556,6 @@ pipopay.com
 plaid.com
 planet.wordpress.org
 plannerrequest.hyatt.com
-plannthat.com
 platacard.mx
 platform.8x8.com
 platform.8x8pilot.com
@@ -4056,7 +4060,6 @@ signalpath.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
 signin.telenor.se
-signrequest.com
 signup.sendgrid.com
 siilo.com
 simperium.com
@@ -4193,7 +4196,6 @@ sprint.dynatracelabs.com
 sqills-bugbounty-test.cloud.sqills.com
 sqills.com
 sqills.team
-sr-staging-1.com
 src.mastercard.com
 srvcs.tumblr.com
 sso-sprint.dynatracelabs.com
@@ -4352,7 +4354,6 @@ tax.audible.com
 tax.crypto.com
 taxi.booking.com
 taxis.booking.com
-tdl.sh
 team.swapcard.com
 teamapps.nba.com
 teamdirectory.nba.com
@@ -4406,9 +4407,6 @@ tickets.kinepolis.es
 tickets.kinepolis.fr
 tickets.kinepolis.lu
 tickets.kinepolis.nl
-tidal official clients (e.g. sonos integration, tesla integration, etc.)
-tidalhi.fi
-tidalhifi.com
 tiktok.com
 tiktokcdn.com
 tiktokpublishers.com
@@ -4761,7 +4759,6 @@ wiki.portofantwerp.com
 wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
-wimpmusic.com
 windycity-dev.gleague.nba.com
 windycity-qa.gleague.nba.com
 windycity.gleague.nba.com
