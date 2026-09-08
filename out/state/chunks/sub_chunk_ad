@@ -1,12 +1,3 @@
-agg-api-stg.mail-tools-cyclops-aws.aws.oath.cloud
-agg-api.mail-tools-cyclops-aws-prod.aws.oath.cloud
-agg-api.mail-tools-cyclops-aws.aws.oath.cloud
-agile.8x8.com
-agile.8x8staging.com
-agile.corp.8x8.com
-agora.amazon.com
-agora.aws.amazon.com
-ags-ext.amazon.com
 aguacaliente.gleague.nba.com
 agusgun.search.hiveosinc.aws-us-east-1c.dev.public.vespa.oath.cloud
 ahnp8yy2-android.mobile-messenger.intercom.com
@@ -123,3 +114,12 @@ album-rec-searcher.vespa-team.aws-us-east-1c.staging.public.vespa.oath.cloud
 album-rec-searcher.vespa-team.aws-us-east-1c.test.public.vespa.oath.cloud
 album-rec-searcher.vespa-team.global.public.vespa.oath.cloud
 album-rec-searcher.xandreerx.aws-us-east-1c.dev.public.vespa.oath.cloud
+album-rec-searcher.xandreerx.aws-us-east-1c.public.vespa.oath.cloud
+album-rec-searcher.xandreerx.aws-us-east-1c.staging.public.vespa.oath.cloud
+album-rec-searcher.xandreerx.aws-us-east-1c.test.public.vespa.oath.cloud
+album-rec-searcher.xandreerx.global.public.vespa.oath.cloud
+album-rec-valerijf.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
+album-rec-valerijf.scoober.aws-us-east-1c.public.vespa.oath.cloud
+album-rec-valerijf.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
+album-rec-valerijf.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
+album-rec-valerijf.scoober.global.public.vespa.oath.cloud
