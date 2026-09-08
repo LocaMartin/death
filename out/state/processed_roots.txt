@@ -2,19 +2,29 @@
 *.8x8.cloud
 *.8x8.engineering
 *.admanager.yahoo.com
+*.adx.opera.com
+*.apex-football.com
+*.apexnews.com
+*.apexscores.io
+*.api.originenergy.com.au
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
 *.canva.com
 *.canva.tech
 *.compuserve.com
+*.dailyadvent.com
+*.download.originenergy.com.au
+*.feednews.com
 *.gemini.yahoo.com
 *.gp.monash.edu
 *.intercomassets.com / *.intercomcdn.com
 *.isp.netscape.com
 *.lite.aol.com
+*.mercadolibre.com.ve
 *.mobile-messenger.intercom.com
 *.oath.cloud
+*.odcdn.com.au
 *.tw.news.yahoo.com
 *.yahoo.cloud
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
