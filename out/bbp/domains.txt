@@ -2,21 +2,52 @@
 *.8x8.cloud
 *.8x8.engineering
 *.admanager.yahoo.com
+*.adx.opera.com
+*.apex-football.com
+*.apexnews.com
+*.apexscores.io
+*.api.originenergy.com.au
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
 *.canva.com
 *.canva.tech
 *.compuserve.com
+*.dailyadvent.com
+*.download.originenergy.com.au
+*.feednews.com
 *.gemini.yahoo.com
 *.gp.monash.edu
 *.intercomassets.com / *.intercomcdn.com
 *.isp.netscape.com
 *.lite.aol.com
+*.mercadolibre.com.ve
 *.mobile-messenger.intercom.com
 *.oath.cloud
+*.odcdn.com.au
+*.opera-mini.net
+*.opera.com
+*.opera.news
+*.opera.software
+*.opera.technology
+*.operafootball.com
+*.operanewsapp.com
+*.opr.news
+*.origindigital-pac.com.au
+*.osite99.com
+*.osp.opera.software
+*.quizlet.com
+*.rtbscale.com
+*.s-cloud.net
+*.savi.xyz
+*.sec-tunnel.com
+*.services.repostnetwork.com
+*.soundcloud.org
+*.support.originenergy.com.au
+*.tucarro.com.ve
 *.tw.news.yahoo.com
 *.yahoo.cloud
+*.yoyogames.com
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
 --your-own-1password-account--.1password.com
 10x.redoxengine.com
@@ -139,7 +170,6 @@ advancedcustomfields.com
 advisor-connection.com
 advisories.gitlab.com
 advisorsolutions.gs.com
-adx.opera.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aff.capital.com
 affiliate-id.tokopedia.com
@@ -257,9 +287,7 @@ any other applications found here: https://security-en.alipay.com/home
 any verified dell-controlled endpoint (domains/ip space/etc.)
 ap-s.cloud.com
 apcgateway.marriott.com
-apex-football.com
-apexnews.com
-apexscores.io
+api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-app.telenor.se
@@ -397,7 +425,6 @@ api.neon.opera.com/pub
 api.netlify.com
 api.ninjakiwi.com
 api.notion.com
-api.originenergy.com.au
 api.ort-one-pingone.com
 api.ovh.com
 api.paybox.sh
@@ -640,7 +667,6 @@ assets.hyatt.com
 assets.koho.ca
 assets.spotify.com
 assets.tumblr.com
-assurancewireless.com
 astronauts.esa.int
 at.marionnaud.customer
 atairbnb.com
@@ -1700,7 +1726,6 @@ cyberghostvpn.com
 cyrus-security.com
 cz.skodaauto.myskoda
 daily.blablacar.fr
-dailyadvent.com
 danalock.com
 danalock.dk
 danalock.eu
@@ -1866,7 +1891,6 @@ download-installer.cdn.mozilla.net
 download.esa.int
 download.krisp.ai
 download.mozilla.org
-download.originenergy.com.au
 downloads.varonis.com
 dpgmedia.be
 dpgmedia.nl
@@ -2074,7 +2098,6 @@ faucet.polygon.technology
 fb.lansweeper.com
 feed-web.tw.coupang.com
 feedback.logitech.com
-feednews.com
 fetlife.com
 fetlifemail.com
 fever-dev.wnba.com
@@ -3313,7 +3336,6 @@ observability.embark.net
 ociadmin.cloud.8x8.com
 ocijlbex1prd.marriott.com
 octopus.com
-odcdn.com.au
 odoo14.notebleue.pro
 odul.watsons.com.tr
 official-dev.nba.com
@@ -3355,16 +3377,8 @@ openfinance.unico.io
 openidconnect.net
 opensource.epam.com
 openvela.com
-opera-mini.net
-opera.com
-opera.news
-opera.software
-opera.technology
-operafootball.com
-operanewsapp.com
 operationstechnology.io
 opposhop.cn
-opr.news
 oprc.portofantwerpbruges.com
 ops.lime.bike
 ops.netlify.com
@@ -3384,13 +3398,10 @@ origenbanking.com
 origencard.com
 origendebit.com
 origenfinance.com
-origindigital-pac.com.au
 ort-admin.pingone.com
 ort-authenticator.pingone.com
 ort-desktop.pingone.com
-osite99.com
 oslo.io
-osp.opera.software
 otherside.xyz
 outage.logitech.com
 outagehistory.logitech.com
@@ -3536,7 +3547,6 @@ piaservers.com
 piaservers.net
 pigeon.swiftfinancial.com
 ping.pdst.fm
-pinterest.com
 pipopay.com
 plaid.com
 planet.wordpress.org
@@ -3705,7 +3715,6 @@ qm-8x8.com
 quintoandar.com.br
 quip.com
 quixel.com
-quizlet.com
 quora.com
 ra.roblox.com
 radio.api.soundtrackyourbrand.com
@@ -3875,11 +3884,9 @@ rpc.testnet.arc.network
 rs-open-api.tw.coupang.com
 rs.visa.com
 rt.playcanvas.com
-rtbscale.com
 runnr.in
 rushbuy.buy.yahoo.com
 ryadom.kz
-s-cloud.net
 s3p.cloud
 sa-tech.de
 safe.tumblr.com
@@ -3911,7 +3918,6 @@ santacruz-qa.gleague.nba.com
 santacruz.gleague.nba.com
 sap.api-xperience.com
 savers.co.uk
-savi.xyz
 say.rocks
 saytechnologies.com
 sba.marriott.com
@@ -3936,7 +3942,6 @@ screenshot-proxy.netlify.app
 scripts.developersites.com.au
 scrutiny.swiftfinancial.com
 se.bingo.com
-sec-tunnel.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
 secure.booking.com
@@ -3993,7 +3998,6 @@ services-prod.nsvcs.net
 services.addons.allizom.org
 services.klaviyo.com
 services.netlify.com
-services.repostnetwork.com
 services.shop-apotheke.com
 session-share.playstation.com
 sftp.reports.truelayer.com
@@ -4126,8 +4130,6 @@ sonalytic.com
 sonyentertainmentnetwork.com
 sophos.com
 sorare.com
-soundcloud.com
-soundcloud.org
 soundon.global
 southbay-dev.gleague.nba.com
 southbay-qa.gleague.nba.com
@@ -4318,7 +4320,6 @@ support.link.com
 support.logi.com
 support.monespacesante.fr
 support.mozilla.org
-support.originenergy.com.au
 support.rockstargames.com
 support.steampowered.com
 support.varonis.com
@@ -4542,9 +4543,6 @@ us.identity.konghq.com
 us.louisvuitton.com
 us1.badoo.com
 usa.visa.com
-uscc.com
-uscc.net
-uscellular.com
 user-authentication-api.truelayer-sandbox.com
 user-authentication-api.truelayer.com
 user-lookup-api.embark.net
@@ -5010,6 +5008,7 @@ www.inditex.com
 www.infomaniak.com
 www.instacart.com
 www.intigriti.com
+www.ipbooster.com
 www.itscope.com
 www.itscope.de
 www.jaybirdsport.com
@@ -5139,6 +5138,7 @@ www.sbb.ch
 www.sbbcargo.com
 www.schoenentorfs.be
 www.schoenentorfs.nl
+www.semrush.com
 www.sheer.com
 www.shop-apotheke.at
 www.shop-apotheke.com
@@ -5385,7 +5385,6 @@ yourdomain.freshdesk.com
 yourdomain.freshrelease.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
-yoyogames.com
 yritysmuutto.posti.fi
 ys7.com
 yuga.com
