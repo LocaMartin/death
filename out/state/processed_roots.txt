@@ -7,6 +7,7 @@
 *.apexnews.com
 *.apexscores.io
 *.api.originenergy.com.au
+*.assurancewireless.com
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -20,11 +21,20 @@
 *.gp.monash.edu
 *.intercomassets.com / *.intercomcdn.com
 *.isp.netscape.com
+*.kiln.it
+*.linktree-extensions.com
 *.lite.aol.com
 *.mercadolibre.com.ve
 *.mobile-messenger.intercom.com
 *.oath.cloud
 *.odcdn.com.au
+*.opera-mini.net
+*.opera.com
+*.opera.news
+*.opera.software
+*.opera.technology
+*.operafootball.com
+*.operanewsapp.com
 *.tw.news.yahoo.com
 *.yahoo.cloud
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
