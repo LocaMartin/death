@@ -1998,3 +1998,12 @@ album-rec-searcher.vespa-team.aws-us-east-1c.staging.public.vespa.oath.cloud
 album-rec-searcher.vespa-team.aws-us-east-1c.test.public.vespa.oath.cloud
 album-rec-searcher.vespa-team.global.public.vespa.oath.cloud
 album-rec-searcher.xandreerx.aws-us-east-1c.dev.public.vespa.oath.cloud
+album-rec-searcher.xandreerx.aws-us-east-1c.public.vespa.oath.cloud
+album-rec-searcher.xandreerx.aws-us-east-1c.staging.public.vespa.oath.cloud
+album-rec-searcher.xandreerx.aws-us-east-1c.test.public.vespa.oath.cloud
+album-rec-searcher.xandreerx.global.public.vespa.oath.cloud
+album-rec-valerijf.scoober.aws-us-east-1c.dev.public.vespa.oath.cloud
+album-rec-valerijf.scoober.aws-us-east-1c.public.vespa.oath.cloud
+album-rec-valerijf.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
+album-rec-valerijf.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
+album-rec-valerijf.scoober.global.public.vespa.oath.cloud
