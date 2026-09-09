@@ -18,6 +18,7 @@
 8x8staging.com
 8x8testa.com
 8x8testb.com
+abritel.fr
 acronis.com
 acronis.work
 ad.nl
@@ -151,6 +152,7 @@ blofin.com
 boardkingsgame.com
 bokundemo.com
 bokuntest.com
+bookabach.co.nz
 booking.com
 boozt.com
 booztlet.com
@@ -281,6 +283,7 @@ duokan.com
 dynatracelabs.com
 dyson.com
 e2ro.com
+ean.com
 earlywarning.com
 easy.ac
 easy4ipcloud.com
@@ -337,7 +340,13 @@ exodus.com
 exodus.io
 exoscale.ch
 exoscale.com
+expedia-aarp.com
+expedia.com
+expediaagents.com
+expediacruises.com
+expediagroup.com
 expediapartnercentral.com
+expediapartnersolutions.com
 expressvpn.com
 eziot.com
 ezviz.com
@@ -351,6 +360,7 @@ fareharbor.com
 fareharbor.engineering
 feednews.com
 fetlife.com
+fewo-direkt.de
 files.com
 findaya.co.id
 findaya.com
@@ -359,6 +369,7 @@ fiscaalgemak.nl
 fishbowlapp.com
 fitbook.de
 flickr.com
+flights.com
 flipkey.com
 floqast.app
 floqast.engineering
@@ -480,8 +491,11 @@ holidaylettings.com
 honestdollar.com
 hongyuanib.com
 horeko.com
+hotels.com
 hoteltonight-test.com
 hoteltonight.com
+hotwire.com
+hotwirepartnercentral.com
 houseoffun.com
 housetrip.com
 hs-sites-eu1.com
@@ -772,6 +786,7 @@ opr.news
 opsgenie.com
 optimuscards.com
 optus.com.au
+orbitz.com
 origindigital-pac.com.au
 originenergy.com.au
 osite99.com
@@ -939,6 +954,8 @@ sbgtest.net
 sc-core.net
 sc-corp.net
 scatec.io
+scopely.com
+scopely.io
 sec-tunnel.com
 securecircle.com
 securegatewayaccess.com
@@ -1016,6 +1033,7 @@ sqills.com
 sqills.team
 staging-airtableblocks.com
 statuspage.io
+stayz.com.au
 steamstatic.com
 stradivarius.cn
 stradivarius.com
@@ -1058,6 +1076,7 @@ tiktokv.com
 tinder.com
 tinderops.net
 tinderwebstaging.com
+tiqets.com
 tktnew.com
 toast.org
 toasttab.com
@@ -1188,6 +1207,7 @@ wienkav.at
 wise.com
 wissen-sie-mehr.de
 withairbnb.com
+withbuddies.com
 withspotify.com
 wlo.link
 wmconnect.com

@@ -1156,6 +1156,7 @@ https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-use
 https://marketplace.atlassian.com/apps/1211976/gauge-gadget?hosting=cloud
 https://marketplace.atlassian.com/apps/1212078/easy-agile-user-story-maps-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1212120/agile-reports-and-gadgets?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212126/k-sso-saml-sso-oauth-kerberos-user-management-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1212129/saml-single-sign-on-sso-confluence?hosting=datacenter&tab=overview
@@ -1816,7 +1817,6 @@ https://online.monash.edu/
 https://online.srilankaevisa.lk/lka/en/login
 https://op.paymaya.com/
 https://open.sincera.io
-https://openai.com
 https://openai.com/
 https://openapi.pulsepoint.com
 https://openapitest.pulsepoint.com
