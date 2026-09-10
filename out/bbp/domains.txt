@@ -2737,6 +2737,7 @@ kinepolis.lu
 kinepolis.megatix.be
 kinepolis.nl
 kit.snapchat.com
+kiteworks desktop client 2.0
 kiwi.com
 klaviyo-dev.com
 klaviyomsv.com
@@ -5012,7 +5013,6 @@ www.fi.dyson.com
 www.files.com
 www.firefox.com
 www.fiscaalgemak.nl
-www.flights.com
 www.fondation-vinci.com
 www.fortress.com.hk
 www.funjet.com
@@ -5034,7 +5034,6 @@ www.hotelscombined.co.kr
 www.hotelscombined.com
 www.hotelscombined.com.au
 www.hoteltonight.com
-www.hotwirepartnercentral.com
 www.humo.be
 www.humo.be/abonnementen
 www.hyattconnect.com
