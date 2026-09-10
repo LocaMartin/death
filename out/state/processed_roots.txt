@@ -1,6 +1,7 @@
 ## notes  only use this asset when nothing else can be reasonably selected.    bugs with yahoo! that are not listed in scope of our other yahoo-related assets can still be submitted to this asset and **_*might*_** be eligible for award, at the sole discretion of the yahoo bug bounty team
 *.8x8.cloud
 *.8x8.engineering
+*.abritel.fr
 *.admanager.yahoo.com
 *.adx.opera.com
 *.apex-football.com
@@ -8,6 +9,7 @@
 *.apexscores.io
 *.api.originenergy.com.au
 *.assurancewireless.com
+*.bookabach.co.nz
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -16,7 +18,15 @@
 *.compuserve.com
 *.dailyadvent.com
 *.download.originenergy.com.au
+*.ean.com
+*.expedia-aarp.com
+*.expedia.com
+*.expediaagents.com
+*.expediacruises.com
+*.expediagroup.com
+*.expediapartnersolutions.com
 *.feednews.com
+*.fewo-direkt.de
 *.gemini.yahoo.com
 *.gp.monash.edu
 *.intercomassets.com / *.intercomcdn.com
