@@ -1,6 +1,7 @@
 ## notes  only use this asset when nothing else can be reasonably selected.    bugs with yahoo! that are not listed in scope of our other yahoo-related assets can still be submitted to this asset and **_*might*_** be eligible for award, at the sole discretion of the yahoo bug bounty team
 *.8x8.cloud
 *.8x8.engineering
+*.abritel.fr
 *.admanager.yahoo.com
 *.adx.opera.com
 *.apex-football.com
@@ -8,6 +9,7 @@
 *.apexscores.io
 *.api.originenergy.com.au
 *.assurancewireless.com
+*.bookabach.co.nz
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -16,9 +18,21 @@
 *.compuserve.com
 *.dailyadvent.com
 *.download.originenergy.com.au
+*.ean.com
+*.expedia-aarp.com
+*.expedia.com
+*.expediaagents.com
+*.expediacruises.com
+*.expediagroup.com
+*.expediapartnersolutions.com
 *.feednews.com
+*.fewo-direkt.de
+*.flights.com
 *.gemini.yahoo.com
 *.gp.monash.edu
+*.hotels.com
+*.hotwire.com
+*.hotwirepartnercentral.com
 *.intercomassets.com / *.intercomcdn.com
 *.isp.netscape.com
 *.kiln.it
@@ -28,6 +42,8 @@
 *.mobile-messenger.intercom.com
 *.oath.cloud
 *.odcdn.com.au
+*.openai.com
+*.openai.org
 *.opera-mini.net
 *.opera.com
 *.opera.news
@@ -36,25 +52,39 @@
 *.operafootball.com
 *.operanewsapp.com
 *.opr.news
+*.orbitz.com
 *.origindigital-pac.com.au
 *.osite99.com
 *.osp.opera.software
 *.pinterest.com web apps
 *.plannthat.com
+*.prd.aser.simplisafe.com
+*.prd.cam.simplisafe.com (app endpoints)
+*.prd.cam.simplisafe.com (hsp endpoints)
+*.prd.platform.simplisafe.com (app endpoints)
+*.prd.platform.simplisafe.com (hsp endpoints)
+*.prd.services.simplisafe.com (app endpoints)
+*.prd.services.simplisafe.com (hsp endpoints)
+*.prd.webapps.simplisafe.com
 *.quizlet.com
 *.rtbscale.com
 *.s-cloud.net
 *.savi.xyz
+*.scopely.com
+*.scopely.io
 *.sec-tunnel.com
 *.services.repostnetwork.com
 *.soundcloud.org
+*.stayz.com.au
 *.support.originenergy.com.au
 *.swaps.xyz
+*.tiqets.com
 *.tucarro.com.ve
 *.tw.news.yahoo.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
+*.withbuddies.com
 *.yahoo.cloud
 *.yoyogames.com
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
@@ -199,6 +229,7 @@ ai.portswigger.net
 ai.x.grok
 ai.x.grokapp
 aips-internal.com
+air.com.bitrhymes.bingo
 air.com.buffalo_studios.newflashbingo
 air.com.playtika.cvs
 air.com.playtika.slotomania
@@ -477,9 +508,13 @@ api.savers.co.uk
 api.segment.io
 api.sendgrid.com
 api.services.simplisafe.com
+api.services.simplisafe.com (app endpoints)
+api.services.simplisafe.com (hsp endpoints)
 api.shop-apotheke.at
 api.shop-apotheke.com
 api.simplisafe.com
+api.simplisafe.com (app endpoints)
+api.simplisafe.com (hsp endpoints)
 api.slack.com
 api.smtp2go.com
 api.sonantic.io
@@ -1270,6 +1305,7 @@ com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
 com.capital.trading
+com.carrentals
 com.cheaptickets
 com.citymapper.app.release
 com.clay.ios
@@ -1312,6 +1348,7 @@ com.fanduel.sportsbook
 com.finshell.finance
 com.finshell.wallet
 com.fintech.life
+com.foxnextgames.m3
 com.freshchat.agent.android
 com.freshdesk.helpdesk
 com.freshservice.helpdesk
@@ -1336,6 +1373,9 @@ com.gs.mobile.trader
 com.gs.pfmg.wellness
 com.gs.pwmdigital.external
 com.gs.pwmdigital.external.android
+com.gsn.android.casino
+com.gsn.android.tripeaks
+com.gsn.grandcasino
 com.hcom.android
 com.here.app.maps
 com.hey.app.ios
@@ -1367,6 +1407,7 @@ com.heytap.wearable.research
 com.heytap.wearable.themestore
 com.heytap.xgame
 com.hilton.android.hhonors
+com.homeaway.android
 com.hotornot.app
 com.hotwire.hotels
 com.hyatt
@@ -1383,6 +1424,7 @@ com.katanlabs.matchballgame
 com.katanlabs.worm.ioeatemall
 com.kayak.android
 com.kayak.travel
+com.kitkagames.fallbuddies
 com.konylabs.capitalone
 com.larksuite.suite
 com.linkedin.android
@@ -1479,6 +1521,7 @@ com.pacificinteractive.houseoffun
 com.paypal.android.p2pmobile
 com.paypal.merchant
 com.paypal.merchant.client
+com.pieyel.scrabble
 com.playtika.caesarscasino
 com.playtika.wsop.gp
 com.priceline.android.negotiator
@@ -1497,6 +1540,9 @@ com.robinhood.gateway
 com.robinhood.global
 com.robinhood.money
 com.romwe
+com.scopely.monopolygo
+com.scopely.startrek
+com.scopely.yux
 com.security.batterycam
 com.security.care
 com.seriously.bestfiends
@@ -1566,6 +1612,7 @@ com.whoop.android
 com.whoop.iphone
 com.wikibuy.prod.main
 com.wisdomtree.wtprime
+com.withbuddies.dice.free
 com.wolt.android
 com.wolt.courierapp
 com.wooga.pearlsperil
