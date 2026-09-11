@@ -27,8 +27,12 @@
 *.expediapartnersolutions.com
 *.feednews.com
 *.fewo-direkt.de
+*.flights.com
 *.gemini.yahoo.com
 *.gp.monash.edu
+*.hotels.com
+*.hotwire.com
+*.hotwirepartnercentral.com
 *.intercomassets.com / *.intercomcdn.com
 *.isp.netscape.com
 *.kiln.it
@@ -38,6 +42,8 @@
 *.mobile-messenger.intercom.com
 *.oath.cloud
 *.odcdn.com.au
+*.openai.com
+*.openai.org
 *.opera-mini.net
 *.opera.com
 *.opera.news
@@ -45,6 +51,10 @@
 *.opera.technology
 *.operafootball.com
 *.operanewsapp.com
+*.opr.news
+*.orbitz.com
+*.origindigital-pac.com.au
+*.osite99.com
 *.tw.news.yahoo.com
 *.yahoo.cloud
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
