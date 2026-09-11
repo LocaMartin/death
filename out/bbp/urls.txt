@@ -271,6 +271,7 @@ https://app.staging.luno.com/
 https://app.staging.saltlabs.com/
 https://app.taxjar.com
 https://app.thousandeyes.com/
+https://app.web.com
 https://app.welcomesoftware.com/
 https://app.wisdomtreeconnect.com
 https://app.wisdomtreeconnect.com/api
@@ -463,8 +464,6 @@ https://converse.8x8.com
 https://coral.20min.ch
 https://core-prod.uidapi.com
 https://cp.expressapisv2.net
-https://crash-reports.allizom.org/
-https://crash-stats.allizom.org/
 https://create.gx.games
 https://creative.infinity.blismedia.com
 https://creatives.vistarmedia.com
@@ -502,11 +501,9 @@ https://desk.thetradedesk.com
 https://desktop-sit.uat.proptrack.com
 https://desktop.github.com
 https://desktop.water-link.be
-https://dev.fxprivaterelay.nonprod.cloudops.mozgcp.net/api/v1/docs
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
 https://developer.8x8.com
-https://developer.allizom.org
 https://developer.ifood.com.br
 https://developer.mastercard.com
 https://developer.newrelic.com/
@@ -654,7 +651,6 @@ https://fileshare.ze.monash.edu
 https://fin.ai/
 https://financeiro.hostgator.com.br
 https://financialforce.com
-https://firefox.settings.services.allizom.org/v1
 https://fivetran.com/login
 https://flags.expeng.optimizely.com
 https://flo.uri.sh
@@ -1030,7 +1026,6 @@ https://knowledge.newrelic.com/
 https://kronor.io/cde/gql
 https://kronor.io/v1/graphql
 https://kucoin.com
-https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://kyc.ripio.com/
 https://l.usaa.com/
 https://lab.epam.com
@@ -2085,8 +2080,6 @@ https://src.mastercard.com/profile/enroll
 https://ssu.staging.myconnect.com.au/get-connected
 https://stadtwien-my.sharepoint.com/
 https://staff.monash
-https://stage.fxprivaterelay.nonprod.cloudops.mozgcp.net
-https://stage.merino.nonprod.cloudops.mozgcp.net/api/v1/suggest
 https://staging-api.bany.dev/
 https://staging-login.vistarmedia.com
 https://staging-trafficking.vistarmedia.com
@@ -2446,7 +2439,6 @@ https://www.etsy.com/mobile
 https://www.exoscale.com/
 https://www.figma.com
 https://www.files.com/docs/client-apps/command-line-interface-cli-app
-https://www.files.com/docs/client-apps/desktop-app
 https://www.files.com/docs/client-apps/desktop-v6-app
 https://www.files.com/docs/client-apps/mobile-app
 https://www.files.com/docs/on-premise/agent

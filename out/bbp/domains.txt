@@ -76,6 +76,7 @@
 *.services.repostnetwork.com
 *.soundcloud.org
 *.stayz.com.au
+*.super.xyz
 *.support.originenergy.com.au
 *.swaps.xyz
 *.tiqets.com
@@ -151,7 +152,6 @@ accounts.cloud.com
 accounts.cloud.databricks.com
 accounts.creditkarma.com
 accounts.evernote.com
-accounts.firefox.com
 accounts.insightly.com
 accounts.logi.com
 accounts.pixiv.net
@@ -175,7 +175,6 @@ ad.nl
 adaptive-shield.com
 adayevrak.watsons.com.tr
 adb.nba.com
-addons.allizom.org
 adm.cloud.com
 admin-portal.api-xperience.com
 admin-resolve.8x8.com
@@ -194,11 +193,7 @@ adminml.com
 adminstore.developer.monespacesante.fr
 adminstore.monespacesante.fr
 admintool.lime.bike
-ads-img.allizom.org
-ads-img.mozilla.org
 ads-partners.tw.coupang.com
-ads.allizom.org
-ads.mozilla.org
 ads.reddit.com
 ads.snapchat.com
 ads.temu.com
@@ -240,9 +235,6 @@ airstar.com
 airstarfinance.net
 airtable.js sdk (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
-ak-static.cms-dev.nba.com
-ak-static.cms-qa.nba.com
-ak-static.cms.nba.com
 akhwien.at
 akismet.com
 alasco.de
@@ -344,7 +336,6 @@ api-wallet.venly.io
 api-wallet.web3auth.io
 api.23andme.com
 api.8x8.com
-api.accounts.firefox.com
 api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
@@ -366,7 +357,6 @@ api.coindcx.com
 api.coinmarketcap.com
 api.creditkarma.com
 api.deriv.com
-api.dev.lando.nonprod.cloudops.mozgcp.net
 api.developer.monespacesante.fr
 api.digili.s-cloud.fi
 api.digital.delen.be
@@ -431,7 +421,6 @@ api.instacart.com
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
-api.lando.services.mozilla.com
 api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
@@ -505,7 +494,6 @@ api.sorare.com
 api.soundtrackyourbrand.com
 api.sporza.be
 api.sqills-bugbounty-test.cloud.sqills.com
-api.stage.lando.nonprod.cloudops.mozgcp.net
 api.staging-enviso.io/authenticationapi
 api.staging-enviso.io/basketcenterapi
 api.staging-enviso.io/bookingapi
@@ -688,7 +676,6 @@ aquiris.com.br
 aquiris.studio
 aquiristech.com
 arc.net
-archive.mozilla.org
 arcraiders.com
 arlo.com
 arlocloud.com
@@ -733,7 +720,6 @@ audible.in
 audible.it
 audicagame.com
 auroratechaward.com
-aus5.mozilla.org
 austin-dev.gleague.nba.com
 austin-qa.gleague.nba.com
 austin.gleague.nba.com
@@ -954,8 +940,6 @@ bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 bugcrowd.com
-bugzilla-dev.allizom.org
-bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
 builds.soundtrackyourbrand.com
@@ -1170,7 +1154,6 @@ cm.com/app/messagingtrial
 cmapi.tw.coupang.com
 cmcom.atlassian.net
 cms.monespacesante.fr
-cms.nba.com
 cmtelecom.com
 co.mona.android
 co.uk.getmondo
@@ -1684,7 +1667,6 @@ content-service-live-testing.bfda.live.use1a.on.epicgames.com
 content-service.bfda.live.use1a.on.epicgames.com
 contentportal.marriott.com
 contentportalauth.marriott.com
-contile.services.mozilla.com
 core assets in-scope products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 core-api-aws-dev.nba.com
 core-api-aws-prod-east1.nba.com
@@ -1720,8 +1702,6 @@ cpp.marriott.com
 cpskyhawks-dev.gleague.nba.com
 cpskyhawks-qa.gleague.nba.com
 cpskyhawks.gleague.nba.com
-crash-reports.allizom.org
-crash-stats.allizom.org
 create.fortnite.com
 create.snapchat.com
 creatormarketplace.tiktok.com
@@ -1876,7 +1856,6 @@ developer.gocardless.com
 developer.gs.com
 developer.infomaniak.com
 developer.konghq.com
-developer.mozilla.org
 developer.playcanvas.com
 developer.plus.authorize.net
 developer.posti.com
@@ -1939,10 +1918,8 @@ dojo.me
 donations.livestream.com
 doordash.doordashconsumer
 doppler.team
-download-installer.cdn.mozilla.net
 download.esa.int
 download.krisp.ai
-download.mozilla.org
 downloads.varonis.com
 dpgmedia.be
 dpgmedia.nl
@@ -2174,7 +2151,7 @@ file.larksuite.com
 files-stg.inspectorio.com
 files.com
 files.com rest api
-files.com sdk's
+files.com sdks and mcp
 files.uzleuven.be
 fileupload-video.tw.coupang.com
 fileupload.tw.coupang.com
@@ -2190,9 +2167,6 @@ fintech-aml-kyc-tw.coupang.com
 fire-dev.wnba.com
 fire-qa.wnba.com
 fire.wnba.com
-firefox-ci-tc.services.mozilla.com
-firefox-settings-attachments.cdn.mozilla.net
-firefox.settings.services.mozilla.com
 fiscaalgemak.nl
 fishbowlapp.com
 fit.nba.com
@@ -2385,7 +2359,6 @@ grammarlyaws.com
 grandrapids-dev.gleague.nba.com
 grandrapids-qa.gleague.nba.com
 grandrapids.gleague.nba.com
-graphql.accounts.firefox.com
 gravatar.com
 green.nba.com
 greenhouse.io
@@ -2458,7 +2431,6 @@ hey.app
 hey.bild.de
 hey.com
 hey.exe
-hg.mozilla.org
 hhc247.org
 hicloudcam.com
 highwebmedia.com
@@ -2772,8 +2744,6 @@ lakeland-qa.gleague.nba.com
 lakeland.gleague.nba.com
 landing.ryadom.kz
 landmarkcinemas.com
-lando.moz.tools
-lando.services.mozilla.com
 lansweeper.com
 lark-frontier.byteoversea.com
 larksuite.com
@@ -2838,7 +2808,6 @@ login-api.truelayer-sandbox.com
 login-api.truelayer.com
 login-dev.nba.com
 login-qa.nba.com
-login-sandbox.nba.com
 login-test.portofantwerpbruges.com
 login-uat.nba.com
 login.arkane.network
@@ -2991,9 +2960,6 @@ marquee.gs.com
 marriott.com
 marriottfranchisetransactions.marriott.com
 marrtool.com
-mars.prod.ads.prod.webservices.mozgcp.net
-mars.qa.ads.nonprod.webservices.mozgcp.net
-mars.stage.ads.nonprod.webservices.mozgcp.net
 mas.mobilevikings.be
 massimodutti.cn
 massimodutti.com
@@ -3116,7 +3082,6 @@ mercury-dev.wnba.com
 mercury-qa.wnba.com
 mercury-qa2.wnba.com
 mercury.wnba.com
-merino.services.mozilla.com
 messenger.eu-east-1.indriverapp.com
 meta-api.reddit.com
 metahuman.unrealengine.com
@@ -3193,7 +3158,6 @@ moneyback.com.hk
 moneybird.com
 moneybirdstorage.com
 mongodb.com
-monitor.mozilla.org
 monopoly-poker.com
 monzo.com
 moobicast.com
@@ -3379,7 +3343,6 @@ nycbasketball.nba.com
 nz.co.vista.android.movie.mjrtheatres
 oasisprod.marriott.com
 oauth-sandbox.gocardless.com
-oauth.accounts.firefox.com
 oauth.deriv.com
 oauth.ring.com
 ob.gocardless.com
@@ -3587,8 +3550,6 @@ personio.tools
 personiowhistleblowing.com
 petbook-magazine.com
 petbook.de
-phabricator-dev.allizom.org
-phabricator.allizom.org
 phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
@@ -3641,7 +3602,6 @@ poly-control.dk
 poly-lock.dk
 polycontrol.dk
 polymoon.it
-pontoon.allizom.org
 portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
@@ -3726,7 +3686,6 @@ profiel.vrt.be
 profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-profile.accounts.firefox.com
 profile.playstation.com
 profile.telenor.se
 profiles-api.datacamp.com
@@ -3812,7 +3771,6 @@ registre.notebleue.pro
 registry.eu
 registry.gitlab.com
 rei.com
-relay.firefox.com
 relay.playcanvas.com
 releasor.payworks.com
 remilty.net
@@ -3923,9 +3881,7 @@ rosetta.esa.int
 router.geneva-staging.com
 router.hereapi.com
 row.pro
-rpc.blockdaemon.testnet.arc.network
 rpc.drpc.testnet.arc.network
-rpc.quicknode.testnet.arc.network
 rpc.testnet.arc.network
 rs-open-api.tw.coupang.com
 rs.visa.com
@@ -4041,7 +3997,6 @@ servicefr.kruidvat.be
 servicenl.iciparisxl.be
 services-acc22.shop-apotheke.com/subse/backoffice/index
 services-prod.nsvcs.net
-services.addons.allizom.org
 services.klaviyo.com
 services.netlify.com
 services.shop-apotheke.com
@@ -4207,10 +4162,6 @@ speelgoedfolder.kruidvat.nl
 spiketrap.io
 spinaway.com
 splunk-phantom-nlb.marriott.com
-spocs.allizom.net
-spocs.getpocket.com
-spocs.getpocket.dev
-spocs.mozilla.net
 sportbild.de
 sportinglife.com
 sporza.be
@@ -4333,7 +4284,6 @@ style.23andme.org
 stylebook.de
 subdomain takeover - konghq.com
 subp-router.hereapi.com
-subscriptions.firefox.com
 sun-dev.wnba.com
 sun-qa.wnba.com
 sun-qa2.wnba.com
@@ -4353,7 +4303,6 @@ supplier.meesho.com
 supply-xml.booking.com
 support-api.airbnb.com
 support-portal.8x8.com
-support.allizom.org
 support.anthropic.com
 support.creditkarma.ca
 support.cs.money
@@ -4363,7 +4312,6 @@ support.jbl.com
 support.link.com
 support.logi.com
 support.monespacesante.fr
-support.mozilla.org
 support.rockstargames.com
 support.steampowered.com
 support.varonis.com
@@ -4382,7 +4330,6 @@ swisspass.ch
 swisstransfer.infomaniak.com
 sync.infomaniak.com
 sync.logitech.com
-sync.services.mozilla.com
 syndication-dev.nba.com
 syndication-qa.nba.com
 syndication.nba.com
@@ -4465,7 +4412,6 @@ toast.org
 toasttab.com
 toasttakeout.com
 todo.notebleue.pro
-token.services.mozilla.com
 tomorrowland.com
 tools.thefork.tech
 toolsforhumanity.com
@@ -4492,7 +4438,6 @@ travelocity.ca
 travelocity.com
 travix.com
 travix.io
-treeherder.mozilla.org
 trekpleister.nl
 trello.com
 trello.services
@@ -4555,8 +4500,6 @@ uc.8x8pilot.com
 ucverse.com
 uesmartradio.com
 ui.com
-ui.dev.lando.nonprod.cloudops.mozgcp.net
-ui.stage.lando.nonprod.cloudops.mozgcp.net
 uisp.com
 uk.bingo.com
 uk.forescout.cloud
@@ -4619,13 +4562,10 @@ vennhypotheken.nl
 veriff.com
 verified.clearme.com
 verified.clearme.com/v1/verification_sessions
-verifier.accounts.firefox.com
 verify.arkoselabs.com
 verify.rapyd.net
 verilyme.com
 verisign-grs.com
-versioncheck-bg.addons.allizom.org
-versioncheck.addons.allizom.org
 vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
@@ -4686,7 +4626,6 @@ volkswagen.de
 vote.nba.com
 vpn.intigriti.rocks
 vpn.mobilevikings.be
-vpn.mozilla.org
 vpn01.syd.optusnet.com.au
 vrbo.com
 vroid.com
@@ -4870,7 +4809,6 @@ www.4njbets.com
 www.ad.nl
 www.ad.nl/abonnementen
 www.airbnb.com
-www.allizom.org
 www.am.monespacesante.fr
 www.analvids.com
 www.applevacations.com
@@ -5011,7 +4949,6 @@ www.fareharbor.com
 www.fewo-direkt.de
 www.fi.dyson.com
 www.files.com
-www.firefox.com
 www.fiscaalgemak.nl
 www.fondation-vinci.com
 www.fortress.com.hk
@@ -5130,7 +5067,6 @@ www.momondo.dk
 www.momondo.se
 www.monespacesante.fr
 www.moneyback.com.hk
-www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
 www.nba.com
@@ -5184,7 +5120,6 @@ www.shop-apotheke.com
 www.six-group.com
 www.socialdeal.nl
 www.soundon.global
-www.springfield.moz.works
 www.staatsloterij.nederlandseloterij.nl
 www.starbucks.ca
 www.starbucks.co.jp
