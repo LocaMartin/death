@@ -1,50 +1,5 @@
-*.abritel.fr
-*.bookabach.co.nz
-*.ean.com
-*.expedia-aarp.com
-*.expedia.com
-*.expediaagents.com
-*.expediacruises.com
-*.expediagroup.com
-*.expediapartnersolutions.com
-*.fewo-direkt.de
-*.flights.com
-*.hotels.com
-*.hotwire.com
-*.hotwirepartnercentral.com
-*.openai.com
-*.openai.org
-*.orbitz.com
-*.prd.aser.simplisafe.com
-*.prd.cam.simplisafe.com (app endpoints)
-*.prd.cam.simplisafe.com (hsp endpoints)
-*.prd.platform.simplisafe.com (app endpoints)
-*.prd.platform.simplisafe.com (hsp endpoints)
-*.prd.services.simplisafe.com (app endpoints)
-*.prd.services.simplisafe.com (hsp endpoints)
-*.prd.webapps.simplisafe.com
-*.scopely.com
-*.scopely.io
-*.stayz.com.au
-*.tiqets.com
-*.withbuddies.com
-air.com.bitrhymes.bingo
-api.services.simplisafe.com (app endpoints)
-api.services.simplisafe.com (hsp endpoints)
-api.simplisafe.com (app endpoints)
-api.simplisafe.com (hsp endpoints)
-com.carrentals
-com.foxnextgames.m3
-com.gsn.android.casino
-com.gsn.android.tripeaks
-com.gsn.grandcasino
-com.homeaway.android
-com.kitkagames.fallbuddies
-com.pieyel.scrabble
-com.scopely.monopolygo
-com.scopely.startrek
-com.scopely.yux
-com.withbuddies.dice.free
+*.super.xyz
+files.com sdks and mcp
 hyperpure.com
 hyperwallet.com
 hypr workforce access.app
@@ -123,3 +78,48 @@ indicative-pricing.taxi.booking.com
 inditexcareers.com
 indrive.com
 indriver.com
+indriver.io
+indriverapp.com
+inf.fndlsb.net
+inference.do-ai.run
+influencers.tw.coupang.com
+info.authorize.net
+info.shop-apotheke.com
+infomaniak.com
+infomaniak.events
+infra-prod.nsvcs.net
+ingest.clairvoyance.indrive.tech
+innersloth.kidswebservices.com
+innogames.com
+innogames.de
+innovation.superdrug.com
+innovexperiments.com
+inpli.se
+insider.in
+insight.io
+insight2.tradepmr.com
+insights.deribit.com
+insights.judgeme.dev
+instacart.com
+instacart.tools
+insuritly.com
+int.32red.com
+intensedebate.com
+intercity.indrive.com
+intergamma-test.nl
+intergamma.cloud
+intergamma.nl
+internal-api-drive-stream.larksuite.com
+internal-api-lark-api.larksuite.com
+internal-api.larksuite.com
+internal-docs.netlify.com
+internal.exoscale.ch
+internal.netlify.com
+interseller.io
+intigriti.me
+investor.meesho.com
+investors.semrush.com
+invisionu.education
+invitation.infomaniak.com
+invoices.razorpay.com
+io.coda
