@@ -226,7 +226,6 @@ https://api.thousandeyes.com/
 https://api.toom.de
 https://api.tripadvisor.com
 https://api.unity.com
-https://api.upwork.com/graphql
 https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
@@ -693,7 +692,6 @@ https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
-https://github.com/brave/%2A,%20https://github.com/brave-intl/%2A
 https://github.com/chia-network/chia-blockchain
 https://github.com/chia-network/chia-blockchain-gui
 https://github.com/chia-network/chia_rs
@@ -2628,6 +2626,7 @@ https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
 https://www.sourcetreeapp.com/
 https://www.tagesanzeiger.ch
+https://www.tdfitloan.com/#!/
 https://www.teamviewer.com/en/products/teamviewer
 https://www.thecurrent.com
 https://www.thefork.com
@@ -2654,8 +2653,6 @@ https://www.underarmour.com
 https://www.underarmournext.co.uk
 https://www.unscreen.com
 https://www.upwork.com
-https://www.upwork.com/api
-https://www.upwork.com/downloads
 https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.venturatvos.com

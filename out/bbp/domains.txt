@@ -4,6 +4,7 @@
 *.abritel.fr
 *.admanager.yahoo.com
 *.adx.opera.com
+*.aips-internal.com
 *.apex-football.com
 *.apexnews.com
 *.apexscores.io
@@ -19,6 +20,7 @@
 *.dailyadvent.com
 *.download.originenergy.com.au
 *.ean.com
+*.employer.seek.com
 *.expedia-aarp.com
 *.expedia.com
 *.expediaagents.com
@@ -35,11 +37,15 @@
 *.hotwirepartnercentral.com
 *.intercomassets.com / *.intercomcdn.com
 *.isp.netscape.com
+*.jobapi.net
+*.jobsdb.com
+*.jobstreet.com
 *.kiln.it
 *.linktree-extensions.com
 *.lite.aol.com
 *.mercadolibre.com.ve
 *.mobile-messenger.intercom.com
+*.myseek.xyz
 *.oath.cloud
 *.odcdn.com.au
 *.openai.com
@@ -56,6 +62,7 @@
 *.origindigital-pac.com.au
 *.osite99.com
 *.osp.opera.software
+*.outfra.xyz
 *.pinterest.com web apps
 *.plannthat.com
 *.prd.aser.simplisafe.com
@@ -73,7 +80,11 @@
 *.scopely.com
 *.scopely.io
 *.sec-tunnel.com
+*.seek.com
+*.seekpass.co
 *.services.repostnetwork.com
+*.skinfra.xyz
+*.sol-data.com
 *.soundcloud.org
 *.stayz.com.au
 *.super.xyz
@@ -220,7 +231,6 @@ ai.8x8.vc
 ai.portswigger.net
 ai.x.grok
 ai.x.grokapp
-aips-internal.com
 air.com.bitrhymes.bingo
 air.com.buffalo_studios.newflashbingo
 air.com.playtika.cvs
@@ -551,6 +561,7 @@ api.tumblr.com
 api.twilio.com
 api.ua.com
 api.unleashed.be
+api.upwork.com/graphql
 api.us.veriff.me
 api.vault.chiatest.net
 api.veriff.me
@@ -1260,8 +1271,6 @@ com.boozt.app
 com.boozt.booztlet
 com.booztlet
 com.box.android
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -2039,7 +2048,6 @@ emarketer.com
 embark-studios.com
 embed.tumblr.com
 embed.vhx.tv
-employer.seek.com
 en.casinohuone.com
 en.kolikkopelit.com
 en.ottokasino.com
@@ -2657,12 +2665,9 @@ jira.logitech.io
 jit.si
 jitsi.net
 job.ryadom.kz
-jobapi.net
 jobs.kiwi.com
 jobs.marriott.com
 jobs.vinci.com
-jobsdb.com
-jobstreet.com
 join.marriott.com
 join.whoop.com
 joinmarriottbonvoy.com
@@ -3231,7 +3236,6 @@ mylock.dk
 mynexuz.be
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
-myseek.xyz
 myself.tw.coupang.com
 myservices-api.stage.vismaonline.com
 mysqueezebox.com
@@ -3420,7 +3424,6 @@ oslo.io
 otherside.xyz
 outage.logitech.com
 outagehistory.logitech.com
-outfra.xyz
 outlook.insightly.com
 outpost42.esa.int
 ovo.id
@@ -3961,8 +3964,6 @@ securegatewayaccess.com
 secureui.starbucks.com
 securite.monespacesante.fr
 securityservices.io
-seek.com
-seekpass.co
 select open source projects are now eligible for bounties.  the [rest of our open source projects](https://developer.yahoo.com/opensource/projectindex/) are technically in scope, but at a reduced rate for the time being
 select.logitech.com
 sell.moonpay.com
@@ -4073,7 +4074,6 @@ site.rewire.com
 sites.fareharbor.com
 sketch.pixiv.net
 sketchfab.com
-skinfra.xyz
 sky-dev.wnba.com
 sky-qa.wnba.com
 sky-qa2.wnba.com
@@ -4123,7 +4123,6 @@ socialclub.rockstargames.com
 socialimpact.nba.com
 sockets.geneva-staging.chat
 sockets.geneva-staging.com
-sol-data.com
 solarcity.com
 solutions-environnement.vinci.com
 sonalytic.com
@@ -4519,6 +4518,8 @@ uphold.com
 upld.krisp.ai
 upload.box.com
 upsell.hyatt.com
+upwork - api.upwork.com/graphql
+upwork dash messenger desktop version (www.upwork.com/downloads)
 url-checker.indrive.com
 us.cloud.com
 us.forescout.cloud
@@ -5185,6 +5186,7 @@ www.unibet.ro
 www.unibet.se
 www.universalorlandovacations.com
 www.uphold.com
+www.upwork.com/api
 www.urbanclap.com
 www.urbancompany.com
 www.uzleuven.be
