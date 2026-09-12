@@ -55,6 +55,16 @@
 *.orbitz.com
 *.origindigital-pac.com.au
 *.osite99.com
+*.osp.opera.software
+*.pinterest.com web apps
+*.plannthat.com
+*.prd.aser.simplisafe.com
+*.prd.cam.simplisafe.com (app endpoints)
+*.prd.cam.simplisafe.com (hsp endpoints)
+*.prd.platform.simplisafe.com (app endpoints)
+*.prd.platform.simplisafe.com (hsp endpoints)
+*.prd.services.simplisafe.com (app endpoints)
+*.prd.services.simplisafe.com (hsp endpoints)
 *.tw.news.yahoo.com
 *.yahoo.cloud
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
