@@ -4,6 +4,7 @@
 *.abritel.fr
 *.admanager.yahoo.com
 *.adx.opera.com
+*.aips-internal.com
 *.apex-football.com
 *.apexnews.com
 *.apexscores.io
@@ -19,6 +20,7 @@
 *.dailyadvent.com
 *.download.originenergy.com.au
 *.ean.com
+*.employer.seek.com
 *.expedia-aarp.com
 *.expedia.com
 *.expediaagents.com
@@ -35,11 +37,15 @@
 *.hotwirepartnercentral.com
 *.intercomassets.com / *.intercomcdn.com
 *.isp.netscape.com
+*.jobapi.net
+*.jobsdb.com
+*.jobstreet.com
 *.kiln.it
 *.linktree-extensions.com
 *.lite.aol.com
 *.mercadolibre.com.ve
 *.mobile-messenger.intercom.com
+*.myseek.xyz
 *.oath.cloud
 *.odcdn.com.au
 *.openai.com
@@ -56,6 +62,7 @@
 *.origindigital-pac.com.au
 *.osite99.com
 *.osp.opera.software
+*.outfra.xyz
 *.pinterest.com web apps
 *.plannthat.com
 *.prd.aser.simplisafe.com
@@ -65,6 +72,9 @@
 *.prd.platform.simplisafe.com (hsp endpoints)
 *.prd.services.simplisafe.com (app endpoints)
 *.prd.services.simplisafe.com (hsp endpoints)
+*.prd.webapps.simplisafe.com
+*.quizlet.com
+*.rtbscale.com
 *.tw.news.yahoo.com
 *.yahoo.cloud
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
