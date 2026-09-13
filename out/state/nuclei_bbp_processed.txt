@@ -76,6 +76,7 @@
 *.services.repostnetwork.com
 *.soundcloud.org
 *.stayz.com.au
+*.super.xyz
 *.support.originenergy.com.au
 *.swaps.xyz
 *.tiqets.com
@@ -2201,6 +2202,7 @@ files-stg.inspectorio.com
 files.com
 files.com rest api
 files.com sdk's
+files.com sdks and mcp
 files.uzleuven.be
 fileupload-video.tw.coupang.com
 fileupload.tw.coupang.com
@@ -2998,3 +3000,51 @@ marcus.com
 marionnaud.at
 marionnaud.ch
 marionnaud.com
+marionnaud.cz
+marionnaud.de
+marionnaud.es
+marionnaud.fr
+marionnaud.hu
+marionnaud.it
+marionnaud.paris
+marionnaud.ro
+marionnaud.sk
+mark8.syfe.com
+marketing.fareharbor.com
+marketing.na1.insightly.com
+marketplace.gamemaker.io
+marketplace.tw.coupangcorp.com
+marketplaceworld.de
+marquee.gs.com
+marriott.com
+marriottfranchisetransactions.marriott.com
+marrtool.com
+mas.mobilevikings.be
+massimodutti.cn
+massimodutti.com
+matomo.cloud
+matrix.redditspace.com
+mauth.tw.coupang.com
+mavenlab.com
+maximo-accpt.portofantwerp.com
+maximo-accpt.portofantwerpbruges.com
+maximo.portofantwerp.com
+maximo.portofantwerpbruges.com
+mb-cosmos.com
+mbamupdates.com
+mc.sendgrid.com
+mc.tw.coupang.com
+mcd-dev.nba.com
+mcd-devint.nba.com
+mcd-perf.nba.com
+mcd-qa.nba.com
+mcd-uat.nba.com
+mcd.nba.com
+mcdalerts-dev.nba.com
+mcdalerts-devint.nba.com
+mcdalerts-perf.nba.com
+mcdalerts-qa.nba.com
+mcdalerts-uat.nba.com
+mcdalerts.nba.com
+mclead.com.au
+mcp.8x8.com
