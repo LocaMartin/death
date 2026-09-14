@@ -75,6 +75,16 @@
 *.prd.webapps.simplisafe.com
 *.quizlet.com
 *.rtbscale.com
+*.s-cloud.net
+*.savi.xyz
+*.scopely.com
+*.scopely.io
+*.sec-tunnel.com
+*.seek.com
+*.seekpass.co
+*.services.repostnetwork.com
+*.skinfra.xyz
+*.sol-data.com
 *.tw.news.yahoo.com
 *.yahoo.cloud
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
