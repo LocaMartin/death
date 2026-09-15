@@ -10,6 +10,7 @@
 *.apexscores.io
 *.api.originenergy.com.au
 *.assurancewireless.com
+*.boltable.eu
 *.bookabach.co.nz
 *.canva-apps.cn
 *.canva-apps.com
@@ -549,6 +550,7 @@ api.staging-enviso.io/ticketwidgetapi
 api.steampowered.com
 api.stg.inspectorio.com
 api.stripe.com
+api.super-id.net
 api.superdrug.com
 api.swapcard.com
 api.swiftfinancial.com
@@ -1271,6 +1273,8 @@ com.boozt.app
 com.boozt.booztlet
 com.booztlet
 com.box.android
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -1312,7 +1316,6 @@ com.expedia.bookings
 com.expediapartnercentral
 com.fanduel.android.self
 com.fanduel.casino
-com.fanduel.flywheelnativecontainer.picks
 com.fanduel.racing
 com.fanduel.sportsbook
 com.finshell.finance
@@ -1974,6 +1977,7 @@ ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecommerceday.de
+ecosystem-experience.super-id.net
 ecrf.uzleuven.be
 edge.blablacar.be
 edge.blablacar.co.uk
@@ -3061,9 +3065,8 @@ mercadolibre.com.co
 mercadolibre.com.mx
 mercadolibre.com.pe
 mercadolibre.com.uy
-mercadolibreexperience.cl
+mercadolibreexperience.com.*
 mercadolivre.com.br
-mercadolivreexperience.com.br
 mercadopago.cl
 mercadopago.com
 mercadopago.com.ar
@@ -3884,8 +3887,6 @@ rosetta.esa.int
 router.geneva-staging.com
 router.hereapi.com
 row.pro
-rpc.drpc.testnet.arc.network
-rpc.testnet.arc.network
 rs-open-api.tw.coupang.com
 rs.visa.com
 rt.playcanvas.com
@@ -4288,6 +4289,7 @@ sun-qa.wnba.com
 sun-qa2.wnba.com
 sun.wnba.com
 super6.skysports.com
+superbank.id
 superbet.bet.br
 superbet.com
 superbet.gr

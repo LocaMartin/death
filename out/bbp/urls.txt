@@ -15,6 +15,7 @@ http://artists.soundcloud.com/
 http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bumba.global
+http://chatbot.super-id.net
 http://cloud.konghq.com
 http://collaboration.rei.com
 http://data-api.coindesk.com/
@@ -69,6 +70,7 @@ http://secure-iphone-xml.booking.com/json
 http://socialdeal.nl/inspirations/bluemonday
 http://sso-demo.gocardless-staging.io
 http://streamer.finance.yahoo.com
+http://super.xyz
 http://testnet.bybit.eu
 http://tsock.us1.twilio.com
 http://twilio.com/blog
@@ -692,6 +694,7 @@ https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
+https://github.com/brave/%2A,%20https://github.com/brave-intl/%2A
 https://github.com/chia-network/chia-blockchain
 https://github.com/chia-network/chia-blockchain-gui
 https://github.com/chia-network/chia_rs
@@ -699,14 +702,11 @@ https://github.com/chia-network/chiapos
 https://github.com/chia-network/chiavdf
 https://github.com/chia-network/clvm_rs
 https://github.com/circlefin/aptos-cctp
-https://github.com/circlefin/arc-node
-https://github.com/circlefin/arc-remote-signer
 https://github.com/circlefin/buidl-wallet-contracts
 https://github.com/circlefin/evm-cctp-contracts
 https://github.com/circlefin/evm-cpn-contracts
 https://github.com/circlefin/evm-gateway-contracts
 https://github.com/circlefin/evm-xreserve-contracts
-https://github.com/circlefin/malachite
 https://github.com/circlefin/noble-cctp
 https://github.com/circlefin/noble-fiattokenfactory
 https://github.com/circlefin/solana-cctp-contracts
