@@ -1,4 +1,5 @@
 *.aips-internal.com
+*.boltable.eu
 *.employer.seek.com
 *.jobapi.net
 *.jobsdb.com
@@ -9,7 +10,9 @@
 *.seekpass.co
 *.skinfra.xyz
 *.sol-data.com
+api.super-id.net
 api.upwork.com/graphql
+ecosystem-experience.super-id.net
 mcp.staging.airtable.com
 mcp.stripe.com
 mds.marriott.com
@@ -77,9 +80,8 @@ mercadolibre.com.co
 mercadolibre.com.mx
 mercadolibre.com.pe
 mercadolibre.com.uy
-mercadolibreexperience.cl
+mercadolibreexperience.com.*
 mercadolivre.com.br
-mercadolivreexperience.com.br
 mercadopago.cl
 mercadopago.com
 mercadopago.com.ar
@@ -121,5 +123,3 @@ mgmt-sensors.iris.acceptance.forescoutcloud.net
 mgmt-sensors.iris.production.forescoutcloud.net
 mgmt.fndlsb.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
-mgmtpod-1.production.forescoutcloud.net
-mgs.dana.id
