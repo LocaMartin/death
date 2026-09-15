@@ -10,6 +10,7 @@
 *.apexscores.io
 *.api.originenergy.com.au
 *.assurancewireless.com
+*.boltable.eu
 *.bookabach.co.nz
 *.canva-apps.cn
 *.canva-apps.com
@@ -85,7 +86,16 @@
 *.services.repostnetwork.com
 *.skinfra.xyz
 *.sol-data.com
+*.soundcloud.org
+*.stayz.com.au
+*.super.xyz
+*.support.originenergy.com.au
+*.swaps.xyz
+*.tiqets.com
+*.tucarro.com.ve
 *.tw.news.yahoo.com
+*.uscc.com
+*.uscc.net
 *.yahoo.cloud
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
 --your-own-1password-account--.1password.com
