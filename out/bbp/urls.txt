@@ -1082,6 +1082,7 @@ https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
 https://lsagentrelay.lansweeper.com/
+https://m.csqtrk.net
 https://m.thefork.com
 https://m.tw.buy.yahoo.com/
 https://maf-holding-prod.apigee.net
@@ -1763,6 +1764,7 @@ https://mintmobile.com
 https://mlife.mo
 https://mlivetickets.monash.edu
 https://mmp.otto.de
+https://mobile-production.content-square.net/
 https://mobile.monash/
 https://mobile.ooredoo.qa
 https://mobile.usaa.com
@@ -1866,7 +1868,6 @@ https://paasportal.episerver.net/
 https://paasportal.episerver.net/api/v1.0
 https://packages.cortexpowered.com
 https://paddle.net
-https://parcelhubeurope.com
 https://partner-feeds.20min.ch
 https://partner.apps.monash.edu
 https://partner.myopenpass.com
@@ -1885,7 +1886,7 @@ https://passport.immutable.com/
 https://pay.payzippy.com
 https://pay.unity.com
 https://paymayabiller-prod.paymaya.com/
-https://payment-connectors.vendhq.com
+https://payment-connectors.vendhq.com/
 https://payment-gateway.kronor.io
 https://payment.lafourchette.com
 https://payments.myntra.com
@@ -1987,6 +1988,7 @@ https://retail-api.otto.de
 https://rivian.com/api/gql/content/graphql
 https://rivian.com/api/gql/gateway/graphql
 https://rivian.com/api/gql/orders/graphql
+https://s.contentsquare.net
 https://s.usaa.com/
 https://s1.utv.usaa.com
 https://s2.utv.usaa.com

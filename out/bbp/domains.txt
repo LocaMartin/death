@@ -18,6 +18,7 @@
 *.canva.com
 *.canva.tech
 *.compuserve.com
+*.contentsquare.com
 *.dailyadvent.com
 *.download.originenergy.com.au
 *.ean.com
@@ -5356,6 +5357,7 @@ yelpwifi.com
 yimg.com
 you.23andme.com
 youpin.cn
+your-assigned-subdomain.hosted-by-files.com
 your-store.myshopify.com
 yourcompany.udemy.com
 yourdomain.freshcaller.com
