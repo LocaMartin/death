@@ -10,6 +10,7 @@
 *.apexscores.io
 *.api.originenergy.com.au
 *.assurancewireless.com
+*.boltable.eu
 *.bookabach.co.nz
 *.canva-apps.cn
 *.canva-apps.com
@@ -580,6 +581,7 @@ api.staging-enviso.io/ticketwidgetapi
 api.steampowered.com
 api.stg.inspectorio.com
 api.stripe.com
+api.super-id.net
 api.superdrug.com
 api.swapcard.com
 api.swiftfinancial.com
@@ -2027,6 +2029,7 @@ ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecommerceday.de
+ecosystem-experience.super-id.net
 ecrf.uzleuven.be
 edge.blablacar.be
 edge.blablacar.co.uk
@@ -3128,6 +3131,7 @@ mercadolibre.com.mx
 mercadolibre.com.pe
 mercadolibre.com.uy
 mercadolibreexperience.cl
+mercadolibreexperience.com.*
 mercadolivre.com.br
 mercadolivreexperience.com.br
 mercadopago.cl
