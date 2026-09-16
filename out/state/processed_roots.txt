@@ -18,6 +18,7 @@
 *.canva.com
 *.canva.tech
 *.compuserve.com
+*.contentsquare.com
 *.dailyadvent.com
 *.download.originenergy.com.au
 *.ean.com
@@ -96,7 +97,10 @@
 *.tw.news.yahoo.com
 *.uscc.com
 *.uscc.net
+*.uscellular.com
+*.withbuddies.com
 *.yahoo.cloud
+*.yoyogames.com
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
 --your-own-1password-account--.1password.com
 10x.redoxengine.com
@@ -148,3 +152,9 @@ accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
 account.api.here.com
+account.booking.com
+account.box.com
+account.here.com
+account.kaufland.com
+account.kaufland.de
+account.krisp.ai
