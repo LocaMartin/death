@@ -1,8 +1,12 @@
-*.boltable.eu
+*.arc.io
 *.contentsquare.com
-api.super-id.net
-ecosystem-experience.super-id.net
-mercadolibreexperience.com.*
+*.klarna.com
+*.klarna.net
+*.klarnacdn.net
+*.pricerunner.com
+klarna android app (com.myklarnamobile)
+klarna ios app (com.klarna.app)
+metrocompetitions.com
 pay.truelayer-sandbox.com
 pay.truelayer.com
 pay.tw.coupang.com
@@ -119,7 +123,3 @@ pns.hk
 podcast-graph-dot-adaptive-growth.appspot.com
 podsights.com
 poe.com
-points.com
-politico.eu
-poly-control.com
-poly-control.dk

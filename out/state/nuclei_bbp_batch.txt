@@ -1,8 +1,12 @@
-*.boltable.eu
+*.arc.io
 *.contentsquare.com
-api.super-id.net
-ecosystem-experience.super-id.net
-mercadolibreexperience.com.*
+*.klarna.com
+*.klarna.net
+*.klarnacdn.net
+*.pricerunner.com
+klarna android app (com.myklarnamobile)
+klarna ios app (com.klarna.app)
+metrocompetitions.com
 pay.truelayer-sandbox.com
 pay.truelayer.com
 pay.tw.coupang.com
@@ -405,6 +409,8 @@ rosetta.esa.int
 router.geneva-staging.com
 router.hereapi.com
 row.pro
+rpc.drpc.testnet.arc.network
+rpc.testnet.arc.network
 rs-open-api.tw.coupang.com
 rs.visa.com
 rt.playcanvas.com
@@ -492,9 +498,3 @@ sellerapi.kaufland.com
 sellerportal.kaufland.de
 sellerportal.newegg.com
 sellzone.com
-selt.languagecert.org
-semrush.com
-semrush.net
-sems.nba.com
-sendgrid.com
-sensei.pixiv.net
