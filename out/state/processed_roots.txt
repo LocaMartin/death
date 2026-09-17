@@ -9,6 +9,7 @@
 *.apexnews.com
 *.apexscores.io
 *.api.originenergy.com.au
+*.arc.io
 *.assurancewireless.com
 *.boltable.eu
 *.bookabach.co.nz
@@ -43,6 +44,9 @@
 *.jobsdb.com
 *.jobstreet.com
 *.kiln.it
+*.klarna.com
+*.klarna.net
+*.klarnacdn.net
 *.linktree-extensions.com
 *.lite.aol.com
 *.mercadolibre.com.ve
@@ -75,6 +79,7 @@
 *.prd.services.simplisafe.com (app endpoints)
 *.prd.services.simplisafe.com (hsp endpoints)
 *.prd.webapps.simplisafe.com
+*.pricerunner.com
 *.quizlet.com
 *.rtbscale.com
 *.s-cloud.net
@@ -158,3 +163,8 @@ account.here.com
 account.kaufland.com
 account.kaufland.de
 account.krisp.ai
+account.mongodb.com
+account.roon.app
+account.ui.com
+accounts.cloud.com
+accounts.cloud.databricks.com
