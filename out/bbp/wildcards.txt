@@ -84,6 +84,7 @@ apexnews.com
 apexscores.io
 apple.com
 appmiral.com
+arc.io
 arlo.com
 arlocloud.com
 arloxcld.com
@@ -146,7 +147,6 @@ bionic.ai
 bitdefender.com
 bitdefender.net
 bitgo.com
-bitoasis.net
 blinkforhome.com
 blofin.com
 boardkingsgame.com
@@ -216,7 +216,6 @@ cognitec.com
 cognitiveperformer.com
 coinbase-corp.com
 coinbase.com
-coindcx.com
 com.com
 comcast.net
 compuserve.com
@@ -578,6 +577,9 @@ kinepolis.fr
 kinepolis.lu
 kinepolis.nl
 kiwi.com
+klarna.com
+klarna.net
+klarnacdn.net
 klaviyo-dev.com
 klaviyo.com
 klaviyomsv.com
@@ -864,6 +866,7 @@ ppbdev.com
 preempt.com
 preemptsecurity.com
 prelert.com
+pricerunner.com
 prijsmepper.nl
 primevideo.com
 privateinternetaccess.com
@@ -1146,7 +1149,6 @@ varonis.com
 varonis.io
 vayama.com
 venmo.com
-vennhypotheken.nl
 veriff.com
 verilyme.com
 verisign-grs.com
