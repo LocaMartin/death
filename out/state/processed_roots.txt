@@ -30,6 +30,8 @@
 *.expediacruises.com
 *.expediagroup.com
 *.expediapartnersolutions.com
+*.expediataap.com
+*.expediataaprewards.com
 *.feednews.com
 *.fewo-direkt.de
 *.flights.com
@@ -168,3 +170,11 @@ account.roon.app
 account.ui.com
 accounts.cloud.com
 accounts.cloud.databricks.com
+accounts.creditkarma.com
+accounts.evernote.com
+accounts.insightly.com
+accounts.logi.com
+accounts.pixiv.net
+accounts.realestate.com.au
+accounts.reddit.com
+accounts.shopify.com

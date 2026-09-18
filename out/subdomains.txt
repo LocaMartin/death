@@ -7717,6 +7717,7 @@ ausnews.ausnews.aws-us-east-1c.test.public.vespa.oath.cloud
 ausnews.ausnews.global.public.vespa.oath.cloud
 austin-env.ap-southeast-2.discover.dev.outfra.xyz
 australia.expedia.com
+australia.expediataap.com
 australia.hotels.com
 australiaconcierge.expedia.com
 auswa01.msteams.8x8.com
@@ -10132,6 +10133,7 @@ bfbbd342.z.vespa.oath.cloud
 bfdc697c.a.vespa.oath.cloud
 bfdc697c.g.vespa.oath.cloud
 bfdc697c.z.vespa.oath.cloud
+bff-settings.accounts.realestate.com.au
 bff.traffic-test-backend-ksdjn012.s-cloud.net
 bflmr-nonprod.uscellular.com
 bflmr.uscellular.com
@@ -18560,6 +18562,7 @@ demostore.klarna.com
 demostore.playground.klarna.com
 denaliai.account.box.com
 denfsqhp-e2e-certificate-test.e2e.klarna.net
+denmark.expediataap.com
 dennis-test-2.nonprod.eu1.infrasec-tooling.klarna.net
 dennispoe.nonprod.eu1.poe.klarna.net
 dennispoe2.nonprod.eu1.poe.klarna.net
@@ -33224,6 +33227,7 @@ link.dev.account.playgami.scopely.com
 link.dice-with-buddies.scopely.com
 link.ean.com
 link.expedia.com
+link.expediataap.com
 link.hotels.com
 link.hotwire.com
 link.mailer.orbitz.com
@@ -34334,6 +34338,7 @@ mail.event.collector.scopely.io
 mail.executive.antbank.hk
 mail.expedia.biz.ar.expedia.com
 mail.expedia.com
+mail.expediataaprewards.com
 mail.fde-staging.8x8.engineering
 mail.fde.openai.com
 mail.feather.openai.com
@@ -34584,6 +34589,7 @@ mail.ociadmin.cloud.8x8.com
 mail.old.account.krisp.ai
 mail.one-reporting-dev.aws.oath.cloud
 mail.one-reporting-prod.aws.oath.cloud
+mail.oneclick.accounts.logi.com
 mail.onlineauth.dev.outfra.xyz
 mail.onlineauth.prod.outfra.xyz
 mail.onprem.infra8.8x8cloud.net
@@ -47559,6 +47565,7 @@ swang05.clusters-indexing-tf-idf.stream.us-east-1.dev.vespa.oath.cloud
 swang12.ecsearch.ect-srch.aws-us-east-2a.perf.vespa.oath.cloud
 swang12.ecsearch.ect-srch.us-east-3.perf.vespa.oath.cloud
 swap.savi.xyz
+sweden.expediataap.com
 sweeps.uscellular.com
 sweepstakes.amazon.com
 sweepstakes.expedia.com
@@ -49077,6 +49084,7 @@ tracing.production.eu1.langfuse.klarna.net
 tracing.production.langfuse.klarna.com
 track-sandbox.amazon.co.uk
 track.abercrombie.com
+track.accounts.realestate.com.au
 track.amazon.co.uk
 track.amazon.it
 track.bird.expediagroup.com
@@ -51138,6 +51146,7 @@ us4-cloud.acronis.com
 us5-baas.acronis.com
 us5-backup.acronis.com
 us5-cloud.acronis.com
+usa.expediataap.com
 usaf.anduril.com
 usc-postpaid-possiblenow-prod.uscellular.com
 usc-prepaid-possiblenow-prod.uscellular.com
@@ -55814,6 +55823,8 @@ www.expediaagents.com
 www.expediacruises.com
 www.expediagroup.com
 www.expediapartnersolutions.com
+www.expediataap.com
+www.expediataaprewards.com
 www.expedie.amazon.fr
 www.experience-survey.8x8.com
 www.exploremexicancaribbean.expedia.com
@@ -56269,6 +56280,7 @@ www.omni1.pte.uscellular.com
 www.omni1.uscellular.com
 www.one-reporting-dev.aws.oath.cloud
 www.one-reporting-prod.aws.oath.cloud
+www.oneclick.accounts.logi.com
 www.onlineauth.dev.outfra.xyz
 www.onlineauth.prod.outfra.xyz
 www.onlineorderfulfillment.uscellular.com
