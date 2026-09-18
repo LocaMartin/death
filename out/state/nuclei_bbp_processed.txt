@@ -9,6 +9,7 @@
 *.apexnews.com
 *.apexscores.io
 *.api.originenergy.com.au
+*.arc.io
 *.assurancewireless.com
 *.boltable.eu
 *.bookabach.co.nz
@@ -43,6 +44,9 @@
 *.jobsdb.com
 *.jobstreet.com
 *.kiln.it
+*.klarna.com
+*.klarna.net
+*.klarnacdn.net
 *.linktree-extensions.com
 *.lite.aol.com
 *.mercadolibre.com.ve
@@ -75,6 +79,7 @@
 *.prd.services.simplisafe.com (app endpoints)
 *.prd.services.simplisafe.com (hsp endpoints)
 *.prd.webapps.simplisafe.com
+*.pricerunner.com
 *.quizlet.com
 *.rtbscale.com
 *.s-cloud.net
@@ -2783,6 +2788,8 @@ kinepolis.nl
 kit.snapchat.com
 kiteworks desktop client 2.0
 kiwi.com
+klarna android app (com.myklarnamobile)
+klarna ios app (com.klarna.app)
 klaviyo-dev.com
 klaviyomsv.com
 klubcinema.fr
@@ -3165,6 +3172,7 @@ metamask.io
 metarouter.pdst.io
 metasearch-api.booking.com
 metrics.int.remitly.com
+metrocompetitions.com
 meu1.badoo.com
 mevo.com
 mexicogames.nba.com
@@ -3955,6 +3963,8 @@ rosetta.esa.int
 router.geneva-staging.com
 router.hereapi.com
 row.pro
+rpc.drpc.testnet.arc.network
+rpc.testnet.arc.network
 rs-open-api.tw.coupang.com
 rs.visa.com
 rt.playcanvas.com
