@@ -349,6 +349,8 @@ expediacruises.com
 expediagroup.com
 expediapartnercentral.com
 expediapartnersolutions.com
+expediataap.com
+expediataaprewards.com
 expressvpn.com
 eziot.com
 ezviz.com
@@ -610,7 +612,6 @@ libelle.nl
 link.co
 link.com
 linktree-extensions.com
-livestream.com
 localwp.com
 logi.com
 logicool.co.jp

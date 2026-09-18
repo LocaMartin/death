@@ -30,6 +30,8 @@
 *.expediacruises.com
 *.expediagroup.com
 *.expediapartnersolutions.com
+*.expediataap.com
+*.expediataaprewards.com
 *.feednews.com
 *.fewo-direkt.de
 *.flights.com
@@ -147,7 +149,6 @@ abercrombie.com
 ablink.info.remitly.com
 about.gitlab.com
 academy-outbound-ads.tiktok.com
-academy.infomaniak.com
 acc-pub.mobilevikings.be
 acc.mobilevikings.be
 acceptance.cloud.8x8.com
@@ -204,7 +205,6 @@ admin.ring.com
 admin.shopify.com
 admin.sqills-bugbounty-test.cloud.sqills.com
 admin.wickr.com
-admin2.infomaniak.com
 admincms.developer.monespacesante.fr
 admincms.monespacesante.fr
 adminml.com
@@ -233,7 +233,6 @@ aguacaliente-dev.gleague.nba.com
 aguacaliente-qa.gleague.nba.com
 aguacaliente.gleague.nba.com
 ai-testing.maventa.com
-ai-tools.infomaniak.com
 ai.8x8.vc
 ai.portswigger.net
 ai.x.grok
@@ -485,7 +484,10 @@ api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.privy.io
+api.pro.faraday.ai
 api.prod.whoop.com
+api.pub1.infomaniak.cloud
+api.pub2.infomaniak.cloud
 api.qualified.com/v1
 api.rapyd.net
 api.razorpay.com
@@ -493,6 +495,7 @@ api.reddit.com
 api.remitly.io
 api.ring.com
 api.robinhood.com
+api.row.pro
 api.ryadom.kz
 api.savers.co.uk
 api.segment.io
@@ -974,7 +977,6 @@ business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
-buy.faraday.ai
 buy.logitech.com
 buy.moonpay.com
 by.visa.com
@@ -1405,7 +1407,6 @@ com.kitkagames.fallbuddies
 com.konylabs.capitalone
 com.larksuite.suite
 com.linkedin.android
-com.livestream.livestream
 com.localqueen
 com.logitech.circle
 com.logitech.logue
@@ -1870,7 +1871,6 @@ developer.currencycloud.com
 developer.cybersource.com
 developer.gocardless.com
 developer.gs.com
-developer.infomaniak.com
 developer.konghq.com
 developer.playcanvas.com
 developer.plus.authorize.net
@@ -1931,7 +1931,6 @@ doctolib.net
 docuflow.stg.inspectorio.com
 doj.io
 dojo.me
-donations.livestream.com
 doordash.doordashconsumer
 doppler.team
 download.esa.int
@@ -2627,7 +2626,6 @@ intigriti.me
 investor.meesho.com
 investors.semrush.com
 invisionu.education
-invitation.infomaniak.com
 invoices.razorpay.com
 io.coda
 io.coda.codaapp
@@ -2709,6 +2707,8 @@ kayak.ai
 kayak.com
 kchat.infomaniak.com
 kdrive.infomaniak.com
+kdrive.infomaniak.com/app/*/preview/*
+kdrive.infomaniak.com/app/office*/*
 khealth-test.com
 khealth.com
 kibana.wtf
@@ -2744,6 +2744,7 @@ kruidvat.be
 kruidvat.nl
 kruidvatkids.nl
 ksuite.infomaniak.com
+ksuite.infomaniak.com/*/kdrive/*/preview/*
 kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be
@@ -2804,7 +2805,6 @@ lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
 live-backstage.tiktok.com
 live-service.whatnot.com
-livestream.com
 ljc-test.tw.coupang.com
 ljc.tw.coupang.com
 loanbuilder.com
@@ -2925,7 +2925,6 @@ magazine.kruidvat.be
 magic.veriff.me
 magisto.com
 magwien.gv.at
-mail-builder.infomaniak.com
 mail.hostinger.com/v2
 mail.infomaniak.com
 mail.notion.so
@@ -2945,7 +2944,6 @@ manage-teams.nba.com
 manage-uat.nba.com
 manage.grab.co
 manage.nba.com
-manager.infomaniak.com
 manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.8x8.com
@@ -3004,6 +3002,7 @@ mcdalerts-uat.nba.com
 mcdalerts.nba.com
 mclead.com.au
 mcp.8x8.com
+mcp.faraday.ai
 mcp.staging.airtable.com
 mcp.stripe.com
 mds.marriott.com
@@ -3293,7 +3292,6 @@ netlify-rum.netlify.app
 network-auth.com
 networkguard.com
 new-order.eu-east-1.indriverapp.com
-new.livestream.com
 new.reddit.com
 new.www.vaxvacationaccess.com
 newegg.ca
@@ -3302,7 +3300,6 @@ news.remitly.com
 news.yahoo.com
 newsletter-feedback.iciparisxl.nl
 newsletter.iciparisxl.nl
-newsletter.infomaniak.com
 newsos.com
 newsroom.images.hyatt.com
 nexotrack-p.exodus.io
@@ -3679,6 +3676,7 @@ pro.coinmarketcap.com
 pro.doctolib.de
 pro.doctolib.fr
 pro.doctolib.it
+pro.faraday.ai
 pro.posti.fi
 prod-.nu.com.co
 prod-.nu.com.mx
@@ -4118,7 +4116,6 @@ smartline.com.au
 smarttrader.deriv.com
 smetrics.marriott.com
 sms.8x8.com
-sms.infomaniak.com
 sms.kaufland.de
 smtp.sendgrid.net
 smtp2go.com
@@ -5027,7 +5024,6 @@ www.lastminute.com.au
 www.lefties.com
 www.libelle.nl
 www.linkedin.com
-www.livestream.com
 www.loanbuilder.com
 www.logicool.co.jp
 www.logitech-partner.com
