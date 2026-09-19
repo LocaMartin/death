@@ -1,24 +1,20 @@
-*.arc.io
+*.dell.com/*
+*.delltechnologies.com/*
 *.expediataap.com
 *.expediataaprewards.com
-*.klarna.com
-*.klarna.net
-*.klarnacdn.net
-*.pricerunner.com
+*.tools.thefork.tech
 api.pro.faraday.ai
 api.pub1.infomaniak.cloud
 api.pub2.infomaniak.cloud
 api.row.pro
+ecommerce.hostinger.com
+hostinger.com
 kdrive.infomaniak.com/app/*/preview/*
 kdrive.infomaniak.com/app/office*/*
-klarna android app (com.myklarnamobile)
-klarna ios app (com.klarna.app)
 ksuite.infomaniak.com/*/kdrive/*/preview/*
+mail.hostinger.com
 mcp.faraday.ai
-metrocompetitions.com
 pro.faraday.ai
-rpc.drpc.testnet.arc.network
-rpc.testnet.arc.network
 seoab.io
 seoquake.com
 serious.li
@@ -452,7 +448,6 @@ toasttab.com
 toasttakeout.com
 todo.notebleue.pro
 tomorrowland.com
-tools.thefork.tech
 toolsforhumanity.com
 topperpay.com
 tospotify.com
@@ -498,3 +493,8 @@ trust.23andme.com
 try.discourse.org
 tstaging.com
 tstaging.tools
+tucarro.com
+tucarro.com.co
+tumblr.com
+tumoto.com
+turing.exodus.io
