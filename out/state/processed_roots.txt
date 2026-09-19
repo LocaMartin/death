@@ -21,6 +21,8 @@
 *.compuserve.com
 *.contentsquare.com
 *.dailyadvent.com
+*.dell.com/*
+*.delltechnologies.com/*
 *.download.originenergy.com.au
 *.ean.com
 *.employer.seek.com
@@ -100,6 +102,7 @@
 *.support.originenergy.com.au
 *.swaps.xyz
 *.tiqets.com
+*.tools.thefork.tech
 *.tucarro.com.ve
 *.tw.news.yahoo.com
 *.uscc.com
@@ -178,3 +181,10 @@ accounts.pixiv.net
 accounts.realestate.com.au
 accounts.reddit.com
 accounts.shopify.com
+accounts.snapchat.com
+accounts.x.ai
+accountshomolog.acesso.io
+aces-dev.wnba.com
+aces-qa.wnba.com
+aces-qa2.wnba.com
+aces.wnba.com
