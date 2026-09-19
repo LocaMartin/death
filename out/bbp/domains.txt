@@ -21,6 +21,8 @@
 *.compuserve.com
 *.contentsquare.com
 *.dailyadvent.com
+*.dell.com/*
+*.delltechnologies.com/*
 *.download.originenergy.com.au
 *.ean.com
 *.employer.seek.com
@@ -100,6 +102,7 @@
 *.support.originenergy.com.au
 *.swaps.xyz
 *.tiqets.com
+*.tools.thefork.tech
 *.tucarro.com.ve
 *.tw.news.yahoo.com
 *.uscc.com
@@ -1279,8 +1282,6 @@ com.boozt.app
 com.boozt.booztlet
 com.booztlet
 com.box.android
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -1832,8 +1833,6 @@ delaware-qa.gleague.nba.com
 delaware.gleague.nba.com
 deliciousbrains.com
 delivery-webview.indrive.com
-dell.com
-delltechnologies.com
 delphidisplay.com
 demo.arkoselabs.com
 demo.bp.mortgagechoice.com.au
@@ -1979,6 +1978,7 @@ ecom-data.theperfumeshop.com
 ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
+ecommerce.hostinger.com
 ecommerceday.de
 ecosystem-experience.super-id.net
 ecrf.uzleuven.be
@@ -2473,6 +2473,7 @@ horizonchase.com.br
 horizonchaseturbo.com
 horizons.hostinger.com
 hosting-ik.com
+hostinger.com
 hotel-deals.marriott.com
 hotel-development.marriott.com
 hoteltonight-test.com
@@ -2925,7 +2926,7 @@ magazine.kruidvat.be
 magic.veriff.me
 magisto.com
 magwien.gv.at
-mail.hostinger.com/v2
+mail.hostinger.com
 mail.infomaniak.com
 mail.notion.so
 mail.superhuman.com
@@ -4420,7 +4421,6 @@ toasttab.com
 toasttakeout.com
 todo.notebleue.pro
 tomorrowland.com
-tools.thefork.tech
 toolsforhumanity.com
 topperpay.com
 tospotify.com
@@ -4973,7 +4973,6 @@ www.gripp.com
 www.habileoh.com
 www.hln.be
 www.horeko.com
-www.hostinger.com
 www.hotels.com
 www.hotelscombined.co.kr
 www.hotelscombined.com

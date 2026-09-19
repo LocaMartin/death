@@ -347,7 +347,7 @@ https://blofin.com
 https://blog.bitpanda.com/en
 https://blog.etsy.com
 https://blog.lastpass.com
-https://blog.thefork.com
+https://blog.thefork.com/
 https://blog.verisign.com
 https://bluetooth-events.onecloud.harman.com
 https://board.pinelabs.com
@@ -694,7 +694,6 @@ https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
-https://github.com/brave/%2A,%20https://github.com/brave-intl/%2A
 https://github.com/chia-network/chia-blockchain
 https://github.com/chia-network/chia-blockchain-gui
 https://github.com/chia-network/chia_rs
