@@ -21,6 +21,8 @@
 *.compuserve.com
 *.contentsquare.com
 *.dailyadvent.com
+*.dell.com/*
+*.delltechnologies.com/*
 *.download.originenergy.com.au
 *.ean.com
 *.employer.seek.com
@@ -100,6 +102,7 @@
 *.support.originenergy.com.au
 *.swaps.xyz
 *.tiqets.com
+*.tools.thefork.tech
 *.tucarro.com.ve
 *.tw.news.yahoo.com
 *.uscc.com
@@ -2040,6 +2043,7 @@ ecom-data.theperfumeshop.com
 ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
+ecommerce.hostinger.com
 ecommerceday.de
 ecosystem-experience.super-id.net
 ecrf.uzleuven.be
@@ -2541,6 +2545,7 @@ horizonchase.com.br
 horizonchaseturbo.com
 horizons.hostinger.com
 hosting-ik.com
+hostinger.com
 hotel-deals.marriott.com
 hotel-development.marriott.com
 hoteltonight-test.com
@@ -3002,6 +3007,7 @@ magic.veriff.me
 magisto.com
 magwien.gv.at
 mail-builder.infomaniak.com
+mail.hostinger.com
 mail.hostinger.com/v2
 mail.infomaniak.com
 mail.notion.so
@@ -4548,3 +4554,8 @@ trust.23andme.com
 try.discourse.org
 tstaging.com
 tstaging.tools
+tucarro.com
+tucarro.com.co
+tumblr.com
+tumoto.com
+turing.exodus.io
