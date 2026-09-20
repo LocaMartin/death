@@ -1686,6 +1686,8 @@ abnuflrr-e2e-certificate-test.e2e.klarna.net
 abonnement-acc.ad.nl
 abonnement-test.ad.nl
 abonnement.ad.nl
+abonnement2.ad.nl
+abonnementen.ad.nl
 aboss.antcloud.antbank.hk
 aboss.cloud.sgp.alipayplus.com
 about.canva.com
@@ -1762,12 +1764,19 @@ acb7850a.g.cd.vespa.oath.cloud
 acb7850a.z.cd.vespa.oath.cloud
 acb924f3.z.vespa.oath.cloud
 acba879c.z.vespa.oath.cloud
+acc-abonnement.ad.nl
 acc-mobile.dell.com
 acc-mobile.ecomm.euro.dell.com
+acc-mobilebackend.ad.nl
+acc-webshop.ad.nl
 acc-webwinkel.ad.nl
 acc.ad.nl
+acc.club.ad.nl
 acc.kcc.ad.nl
 acc.mobilevikings.be
+acc.secure.ad.nl
+acc.voordeel.ad.nl
+acc.webwinkel.ad.nl
 accademia-gallery.tiqets.com
 accaglobal.account.box.com
 accelerate.opera.com
@@ -1787,7 +1796,10 @@ accelerator.amazon.in
 accelerator.amazon.it
 accelerator.amazon.nl
 accelerator.aws.oath.cloud
+acceptance-abonnement.ad.nl
 acceptance-mark.alipayplus.com
+acceptance-opzeggen.ad.nl
+acceptance-wijzigen.ad.nl
 acceptance.cloud.8x8.com
 access-alexa-na.amazon.com
 access-alienware.dell.com
@@ -1996,6 +2008,8 @@ accounts.expediagroup.com
 accounts.firefox.com
 accounts.insightly.com
 accounts.logi.com
+accounts.myaccount.ad.nl
+accounts.nieuw-demo.ad.nl
 accounts.openai.com
 accounts.opera.com
 accounts.pixiv.net
@@ -2227,6 +2241,7 @@ ade-stg.us.dell.com
 adeexuzl-e2e-certificate-test.e2e.klarna.net
 adellchat.ins.dell.com
 adev.scopely.io
+adextra.ad.nl
 adf485fe.z.vespa.oath.cloud
 adf79394.a.vespa.oath.cloud
 adf79394.g.vespa.oath.cloud
@@ -2360,6 +2375,8 @@ adposting.jobstreet.com
 adpqjwlt-e2e-certificate-test.e2e.klarna.net
 adqa-testrail.anduril.dev
 adr.acronis.com
+adrvideoweb-acc.ad.nl
+adrvideoweb.ad.nl
 ads-0.gateway.internal.api.openai.org
 ads-0.internal.api.openai.org
 ads-0s.gateway.internal.api.openai.org
@@ -2487,6 +2504,8 @@ advertising.tucarro.com.ve
 advertisingconnect.amazon.in
 advertize.amazon.com
 advertizing.amazon.com
+advertorial.ad.nl
+advertorials.ad.nl
 advgovernance-aws-dev.aws.oath.cloud
 advinsights-nonprod.aws.oath.cloud
 advinsights-prod.aws.oath.cloud
@@ -6536,6 +6555,7 @@ app.performance.eu1.klapp.klarna.net
 app.performance.klarna.net
 app.plannthat.com
 app.playground.klarna.com
+app.proctor.acronis.com
 app.production.eu1.cb-closed-loop-website.klarna.net
 app.pulumi.common.openai.org
 app.quizlet.com
@@ -13646,6 +13666,7 @@ autopilot-dit.dell.com
 autopilot.dell.com
 autorecorder.contentsquare.com
 autoscribe.dell.com
+autotrack.ad.nl
 autoupdate.geo.opera.com
 autoupdate.opera.com
 auxilium-extern-preprod-pt.amazon.es
@@ -13885,6 +13906,7 @@ aws-ise01.infra.prod.skinfra.xyz
 aws-ise02.infra.prod.skinfra.xyz
 aws-ise03.infra.prod.skinfra.xyz
 aws-ise04.infra.prod.skinfra.xyz
+aws-marketplace-register.adaptive-shield.com
 aws-messaging-test.amazon.com
 aws-messaging.amazon.com
 aws-nac01.infra.prod.skinfra.xyz
@@ -14157,6 +14179,7 @@ aws-us-west-2b.vespa.oath.cloud
 aws-us-west-2c.vespa.oath.cloud
 aws-verify.spa-aws.gemini-serving.aws-us-east-2a.dev.vespa.oath.cloud
 aws.acronis.com
+aws.acronis.work
 aws.amazon.co.uk
 aws.amazon.com
 aws.amazon.fr
@@ -15865,6 +15888,8 @@ beta.spa.gemini-serving.us-east-3.staging.vespa.oath.cloud
 beta.sure.ean.com
 beta.sure.expediapartnersolutions.com
 beta.tw.news.yahoo.com
+beta.verkiezingen.ad.nl
+beta.www.ad.nl
 beta.yopass.klarna.net
 beta1-device.manage.dell.com
 beta1.csp.gemini-native.aws-ap-southeast-1a.vespa.oath.cloud
@@ -15889,6 +15914,7 @@ beta2.csp.gemini-native.us-east-3.staging.vespa.oath.cloud
 beta42.api.openai.com
 beta42.api.openai.org
 beta42.openai.com
+betaald.ad.nl
 betasearch.dell.com
 betterbythebeach.expedia.com
 bettertogether.uscellular.com
@@ -15960,6 +15986,7 @@ bg-ex-1.corp.acronis.com
 bg-ex-2.corp.acronis.com
 bg-freeradius.corp.acronis.com
 bg-it-aci.corp.acronis.com
+bg-it-nextcloud.corp.acronis.com
 bg-it-s3.corp.acronis.com
 bg-oauthproxy.corp.acronis.com
 bg-passport.acronis.work
@@ -15967,6 +15994,7 @@ bg-rnd-aci01.acronis.work
 bg-rnd-aci02.acronis.work
 bg-rnd-ovirt.corp.acronis.com
 bg-smtprelay.corp.acronis.com
+bg-vpn-qa.acronis.com
 bg-vpn.acronis.com
 bg-vpn2.acronis.com
 bg.airbnb.com
@@ -16253,6 +16281,7 @@ blink-system-aws.sol.blink-dpa.aws-us-west-2a.vespa.oath.cloud
 blink-system-aws.sol.blink-dpa.global.vespa.oath.cloud
 blink-system-aws.sol.blink-dpa.us-east-1.test.vespa.oath.cloud
 blink-system-aws.sol.blink-dpa.us-east-3.staging.vespa.oath.cloud
+bll1-aci.acronis.work
 bll1-repo.acronis.com
 bll1-s3gw.acronis.com
 blob.core.az.dell.com
@@ -16432,6 +16461,7 @@ bodelltravelz.test.epssecure.expedia.com
 boe.fms.dell.com
 bogey.anduril.com
 boltable-demo-playground.sandbox.boltable.eu
+bom1-aci.acronis.work
 bom1-repo.acronis.com
 bom1-s3gw.acronis.com
 bomgar-ic.klarna.net
@@ -16664,6 +16694,7 @@ branded-eu8-cloud.acronis.com
 branded-fi01-cloud.acronis.com
 branded-id01-cloud.acronis.com
 branded-in01-cloud.acronis.com
+branded-sg-cloud.acronis.com
 branded-tr01-cloud.acronis.com
 branded-us-cloud.acronis.com
 branded.ad.nl
@@ -18013,6 +18044,7 @@ callback.payments.prod.outfra.xyz
 callback.restsimplycomply.web.akismet.com
 callbacks.airbnb.com
 calliv-api.subscriptions-cc-aws-dev.aws.oath.cloud
+callprep.acronis.work
 caltex-de.dell.com
 calvi.agent.adm.cloud.com
 cam.software.dell.com
@@ -18238,6 +18270,8 @@ capgemini.anfcorp.com
 capig-test.orbitz.com
 capig.expedia.com
 capistrano-preview.amazon.com
+caps-acc.ad.nl
+caps.ad.nl
 capsearch.bjormel-vespa.us-east-1.dev.vespa.oath.cloud
 capsearch.sieve-contentsearch.global.vespa.oath.cloud
 capsearch.sieve-contentsearch.us-east-1.test.vespa.oath.cloud
@@ -18327,6 +18361,7 @@ careers.orbitz.com
 careers.scopely.com
 careers.staging.klarna.com
 careers2.abercrombie.com
+cargo-proxy.corp.acronis.com
 carhire.stayz.com.au
 carmel.adm.cloud.com
 carmel.agent.adm.cloud.com
@@ -20830,6 +20865,7 @@ cftp.acronis.com
 cghelper.commerce-k8s-nonprod.aws.oath.cloud
 cghknq1.server.oob.devops.dell.com
 cgi.ad.nl
+cgk1-aci.acronis.work
 cgk1-repo.acronis.com
 cgk1-s3gw.acronis.com
 cgql-dev.sg.mobile.dev.outfra.xyz
@@ -21203,6 +21239,7 @@ chq2.uscellular.com
 chr-mtpvea01.ar.expedia.com
 chr-mtpveb01.ar.expedia.com
 chris-test.it-dev.openai.org
+chronisch.ad.nl
 chronon-feature-ingestor-grpc.kf.unified-0s.internal.api.openai.org
 chronon-feature-ingestor-grpc.kf.unified-30.internal.api.openai.org
 chronon-feature-ingestor-grpc.kf.unified-8.internal.api.openai.org
@@ -21897,6 +21934,7 @@ cmirules-qa.subscriptions-services-aws-dev.aws.oath.cloud
 cmirules-stage.subscriptions-services-aws-prod.aws.oath.cloud
 cmirules.subscriptions-services-aws-prod.aws.oath.cloud
 cmp-sqa.uscellular.com
+cmp.ad.nl
 cmp.uscellular.com
 cmpdev.us.dell.com
 cmpnwatappsit01.amer.dell.com
@@ -22580,6 +22618,7 @@ confclientmedia.uscc.com
 confidence-datadog-kepp-backend.nonprod.klarna.com
 config-stage.csb.dell.com
 config.csb.dell.com
+config.proctor.acronis.com
 configbatch.csb.dell.com
 configure-cdn.ap.dell.com
 configure-cdn.apj.dell.com
@@ -23331,6 +23370,7 @@ couchbase-usw1.sherpa-gcp-nonprod.gcp.yahoo.cloud
 couchbase-usw1.sherpa-gcp-perf.gcp.yahoo.cloud
 country-id-1.mini5.opera-mini.net
 country-ng-1.mini5.opera-mini.net
+coupa-acm.acronis.work
 coupon-admin-tool.prod.coupons.expedia.com
 coupon-admin-tool.test.coupons.expedia.com
 coursematerials.amazon.com
@@ -23493,6 +23533,7 @@ create.canva.com
 creative-qa.aws.oath.cloud
 creative.aws.oath.cloud
 creative.mse-dev.aws.oath.cloud
+creator.ai.acronis.com
 creator.canva.com
 creator.expedia.com
 creator.expediagroup.com
@@ -23575,6 +23616,7 @@ crowd.gtie.dell.com
 crowdtech.ad.nl
 crp-prod.aws.oath.cloud
 crp-qa.aws.oath.cloud
+crp.acronis.work
 crs-dev.aws.oath.cloud
 crs-jenkins.crs-dev.aws.oath.cloud
 crs-prd.aws.oath.cloud
@@ -24111,6 +24153,7 @@ customerservice.dell.com
 customershop.agent.uscc.com
 customfierce.abercrombie.com
 customization-cdn.dell.com
+cv-scoring.acronis.work
 cv3k02.expedia.biz.ar.expedia.com
 cv3kvip.expedia.biz.ar.expedia.com
 cvc-chc.expedia.biz.ar.expedia.com
@@ -24174,6 +24217,7 @@ cxm-sqa.uscellular.com
 cxm.uscellular.com
 cxmlabcaretech.uscc.com
 cxrs3v1.server.oob.devops.dell.com
+cyberapp-jenkins.acronis.work
 cyberark-breakglass-api.nonprod.eu1.kep-pam-aws.klarna.net
 cyberark-breakglass-api.nonprod.eu1.pam.klarna.net
 cyberark-breakglass-api.production.eu1.kep-pam-aws.klarna.net
@@ -24742,6 +24786,7 @@ daf3dd2b.a.cd.vespa.oath.cloud
 daf3dd2b.g.cd.vespa.oath.cloud
 daf3dd2b.z.cd.vespa.oath.cloud
 dagdtner-e2e-certificate-test.e2e.klarna.net
+dagkrant.ad.nl
 daisy.us.dell.com
 daiweitest-sg-test-001.alipayplus.com
 daiweitest-sg-test-002.alipayplus.com
@@ -25119,6 +25164,7 @@ data-tw-bi-aws-int.aws.oath.cloud
 data-tw-bi-aws-prod.aws.oath.cloud
 data-warden-ue1-lb.mediaplatform-pfs-dev.gcp.yahoo.cloud
 data-warden-ue1-lb.mediaplatform-pfs-prd.gcp.yahoo.cloud
+data.ad.nl
 data.adsrvr.org
 data.amazon.ae
 data.amazon.cl
@@ -25210,8 +25256,56 @@ db.at01-cloud.acronis.work
 db.au1-cloud.acronis.work
 db.beta-cloud.acronis.work
 db.bg01-cloud.acronis.work
+db.bg92-cloud.acronis.work
+db.bg94-cloud.acronis.work
+db.br01-cloud.acronis.work
+db.br02-cloud.acronis.work
+db.ca01-cloud.acronis.work
+db.ca02-cloud.acronis.work
 db.cross-platform-analytics-alephd.aws.oath.cloud
+db.cz01-cloud.acronis.work
+db.dk01-cloud.acronis.work
+db.es01-cloud.acronis.work
+db.eu-cloud.acronis.work
+db.eu16-cloud.acronis.work
+db.eu2-cloud.acronis.work
+db.eu4-cloud.acronis.work
+db.eu5-cloud.acronis.work
+db.eu8-cloud.acronis.work
+db.fi01-cloud.acronis.work
 db.godaddy-cloud.acronis.work
+db.gr01-cloud.acronis.work
+db.heg-cloud.acronis.work
+db.hu01-cloud.acronis.work
+db.id01-cloud.acronis.work
+db.il01-cloud.acronis.work
+db.in01-cloud.acronis.work
+db.it01-cloud.acronis.work
+db.jp-cloud.acronis.work
+db.jp03-cloud.acronis.work
+db.kaseya-cloud.acronis.work
+db.kr01-cloud.acronis.work
+db.lh-cloud.acronis.work
+db.li01-cloud.acronis.work
+db.mx01-cloud.acronis.work
+db.my01-cloud.acronis.work
+db.no01-cloud.acronis.work
+db.nz01-cloud.acronis.work
+db.pl01-cloud.acronis.work
+db.pt01-cloud.acronis.work
+db.ro01-cloud.acronis.work
+db.se01-cloud.acronis.work
+db.sg-cloud.acronis.work
+db.tr01-cloud.acronis.work
+db.tw01-cloud.acronis.work
+db.uk01-cloud.acronis.work
+db.us-cloud.acronis.work
+db.us11-cloud.acronis.work
+db.us14-cloud.acronis.work
+db.us15-cloud.acronis.work
+db.us4-cloud.acronis.work
+db.us5-cloud.acronis.work
+db.za01-cloud.acronis.work
 db06cf15.z.vespa.oath.cloud
 db221bea.a.cd.vespa.oath.cloud
 db221bea.g.cd.vespa.oath.cloud
@@ -25298,6 +25392,7 @@ dcfredis-prf.us.dell.com
 dcgw.dell.com
 dchaturvedi.music.sandbox.us-east-1.dev.vespa.oath.cloud
 dcig-dev.home-akumar22.aws.oath.cloud
+dcm-jenkins.acronis.work
 dcm-lab.expedia.com
 dcm.cloudmarketplace.dell.com
 dcm.expedia.com
@@ -25307,6 +25402,7 @@ dcm.service.staging.dccrm.dell.com
 dcms-service.dccrm-ccs.dell.com
 dcnyunxw-e2e-certificate-test.e2e.klarna.net
 dco-cloud.acronis.com
+dco-jenkins.acronis.work
 dcp-eltorg-pc1.pcf.dell.com
 dcp-eltorg-s3b.pcf.dell.com
 dcp-eltorg.pcf.dell.com
@@ -26273,6 +26369,7 @@ describerfdb1ab032404.pavedroad.int.outfra.xyz
 describerfe8c32a14.pavedroad.int.outfra.xyz
 desert-guardian-itar.anduril.com
 desert-guardian.anduril.com
+design-tools.acronis.work
 design.odyssey.withbuddies.com
 design.playgami.scopely.com
 design.pricerunner.com
@@ -27712,6 +27809,7 @@ dictionary-vespa-app.dictionary-search.us-east-3.perf.vespa.oath.cloud
 dictionary-vespa-app.dictionary-search.us-east-3.staging.vespa.oath.cloud
 dictionary-vespa-app.dictionary-search.us-east-3.vespa.oath.cloud
 dictionary-vespa-app.dictionary-search.us-west-1.vespa.oath.cloud
+didata.ad.nl
 didfp.klarna.com
 didtkpqu-e2e-certificate-test.e2e.klarna.net
 digateway-lb-pc1.dell.com
@@ -28218,6 +28316,7 @@ dnstest.expedia.biz.ar.expedia.com
 dnstest2.ai.preview.8x8.vc
 dntuvbee-e2e-certificate-test.e2e.klarna.net
 doc-isilon-pc1.us.dell.com
+doc-jenkins.acronis.work
 doc-search.vespa.oath.cloud
 doc.adx.opera.com
 docapi-proxy.statcloud-stage.sports.us-west-1.fantasy-sports-np.aws.oath.cloud
@@ -28621,6 +28720,7 @@ dr-ccb.amds.dell.com
 dr-cms.amds.dell.com
 dr-coresvcs.amds.dell.com
 dr-dam.delltechnologies.com
+dr-jenkins.acronis.work
 dr-pns-cms.amds.dell.com
 dr-portal.amds.dell.com
 dr-test1.kcmatic.nonprod.klarna.net
@@ -28878,6 +28978,7 @@ drgpwpenprx02.apac.dell.com
 drgpwpenprx04.apac.dell.com
 drgpwxmnprx01.apac.dell.com
 drgpwxmnprx02.apac.dell.com
+dri-admin.lh-cloud.acronis.work
 drimpervaclientexternal.uscellular.com
 drive-to-store-ads.klarna.com
 drivein.uscellular.com
@@ -30672,6 +30773,7 @@ elastic-dfslogs-rr2.dell.com
 elastic-wiki-service.ingress.owl.sci.openai.org
 elastic-wiki-staging-service.ingress.owl.sci.openai.org
 elastic-wiki-trial-service.ingress.owl.sci.openai.org
+elastic.corp.acronis.com
 elastic.quizlet.com
 elasticloadbalancing.ap-southeast-2.amazon.com
 elasticsearch.production.eu1.influencer-platform.klarna.net
@@ -30809,6 +30911,7 @@ emailsemanticsearch.mail.us-east-3.vespa.oath.cloud
 emailsemanticsearch.mail.us-west-1.vespa.oath.cloud
 ematxskr-e2e-certificate-test.e2e.klarna.net
 emb-ex.emailsemanticsearch.aimail.us-east-1.dev.vespa.oath.cloud
+embed.ad.nl
 embedded.alexa.amazon.com
 embedding-generator-blossom-grpc.kf.unified-8.internal.api.openai.org
 embedding-generator-sora-backfill-grpc.kf.unified-1s.internal.api.openai.org
@@ -31385,6 +31488,8 @@ es.partners.acronis.com
 es.production.eu1.click-tracking.klarna.net
 es.service.hotels.com
 es01-cloud.acronis.com
+esales-test.ad.nl
+esales.ad.nl
 esaplinbpc120.us.dell.com
 esaplinbpc121.us.dell.com
 esaplinbpc122.us.dell.com
@@ -31745,6 +31850,7 @@ euro-account-signups.production.eu1.payments.klarna.net
 euro-account-signups.staging.eu1.payments.klarna.net
 euro.dell.com
 euro.expert.expedia.com
+europa.verkiezingen.ad.nl
 europewest.webproxy.idc-lorien.cseip177.comssets.webapp-glategoryfronicsadnswildcardproducts.boardswire.wvutsrqponmlil.2.canva.cn
 euw.fb.adsrvr.org
 euw.msteams.8x8.com
@@ -31887,6 +31993,7 @@ exams.dell.com
 exceptions.ycm-aws-devel.aws.oath.cloud
 exch07mail.expedia.com
 exchange.opera.com
+exectask.acronis.work
 execution-ci360-nonprod.uscellular.com
 execution-ci360.uscellular.com
 exgwilqz-e2e-certificate-test.e2e.klarna.net
@@ -32756,6 +32863,7 @@ fbk9082.server.oob.devops.dell.com
 fbm8082.server.oob.devops.dell.com
 fbqcmxfv-e2e-certificate-test.e2e.klarna.net
 fbsnlfbesoapp02.us.dell.com
+fbweb.ad.nl
 fc07958c.a.vespa.oath.cloud
 fc07958c.g.vespa.oath.cloud
 fc07958c.z.vespa.oath.cloud
@@ -32817,6 +32925,7 @@ fceaf420.z.cd.vespa.oath.cloud
 fcf03f60.z.vespa.oath.cloud
 fcgotonemng.antbank.hk
 fcko.chase-test.expedia.com
+fco1-aci.acronis.work
 fco1-repo.acronis.com
 fco1-s3gw.acronis.com
 fcqktoqu-e2e-certificate-test.e2e.klarna.net
@@ -33509,6 +33618,7 @@ fr.service.hotels.com
 fra2-repo.acronis.com
 fra20-repo.acronis.com
 fra20-s3gw.acronis.com
+fra4-kibana.acronis.work
 fra4-repo.acronis.com
 franchise.anfcorp.com
 frankfurt-stage.8x8.vc
@@ -33575,6 +33685,7 @@ frontend-spmp.corp.acronis.com
 frontend-staging.nonprod.us1.kcp-frontend.klarna.net
 frontend-transition-page.production.us1.fd.klarna.net
 frontend-transition-page.staging.us1.fd.klarna.net
+frontend.acronis.work
 frontend.amt-aws-uat.aws.oath.cloud
 frontend.authn.identity-gcp-s-compute.gcp.yahoo.cloud
 frontend.production.us1.influencer-platform.klarna.net
@@ -33637,6 +33748,7 @@ ftcsdzverrec01.us.dell.com
 ftcsdzverrec02.us.dell.com
 fte-connecthq.uscellular.com
 fth.airstar.com
+ftp-in.ad.nl
 ftp-tmp.anfcorp.com
 ftp-ts.anfcorp.com
 ftp.1debit.com
@@ -36389,6 +36501,7 @@ gitserver12g.pgre.dell.com
 gitserver14g.pgre.dell.com
 gitserver15g.pgre.dell.com
 gitserver16g.pgre.dell.com
+gittest.acronis.com
 gittest.acronis.work
 giv-myfinancials-pc1.dell.com
 giv-myfinancials.dell.com
@@ -36585,6 +36698,7 @@ goss.us.dell.com
 gossrepo.ins.dell.com
 gossrepo.sit.us.dell.com
 gossrepo.us.dell.com
+got1-aci.acronis.work
 got1-repo.acronis.com
 got1-s3gw.acronis.com
 gotostore.klarna.com
@@ -36666,7 +36780,9 @@ grafana.au1-cloud.acronis.work
 grafana.beta-baas.acronis.work
 grafana.beta-cloud.acronis.work
 grafana.bg01-cloud.acronis.work
+grafana.bg91-cloud.acronis.work
 grafana.bg92-cloud.acronis.work
+grafana.bg94-cloud.acronis.work
 grafana.br01-cloud.acronis.work
 grafana.br02-cloud.acronis.work
 grafana.ca01-cloud.acronis.work
@@ -36723,6 +36839,7 @@ grafana.mx01-cloud.acronis.work
 grafana.my01-cloud.acronis.work
 grafana.ng01-cloud.acronis.work
 grafana.no01-cloud.acronis.work
+grafana.notary-tb.acronis.work
 grafana.nz01-cloud.acronis.work
 grafana.paranoids-vuln-anchore-prod.aws.oath.cloud
 grafana.pl01-cloud.acronis.work
@@ -36732,6 +36849,7 @@ grafana.pt01-cloud.acronis.work
 grafana.rdf.anduril.au
 grafana.ro01-cloud.acronis.work
 grafana.sci.openai.org
+grafana.sdt.acronis.work
 grafana.se01-cloud.acronis.work
 grafana.sg-cloud.acronis.work
 grafana.sqe.dell.com
@@ -37105,8 +37223,10 @@ grr.prod.outfra.xyz
 grstaging.amazon.com
 gru-a-orca.amazon.com
 gru-b-orca.amazon.com
+gru1-aci.acronis.work
 gru1-repo.acronis.com
 gru1-s3gw.acronis.com
+gru2-aci.acronis.work
 gru2-repo.acronis.com
 gru2-s3gw.acronis.com
 grup.hotels.com
@@ -37596,6 +37716,7 @@ h07-21-01.osp.opera.software
 h07-21-02.osp.opera.software
 h07-21-03.osp.opera.software
 h07-21-04.osp.opera.software
+h1-beta-cloud.acronis.work
 h17.anduril.com
 h18-01-06.opera-mini.net
 h3j3-g7g.amazon.com
@@ -37848,6 +37969,7 @@ heighliner.us-west-2.prodp.runtimecde.expedia.com
 heighliner.us-west-2.test.runtime.expedia.com
 heimdall-siteconfig.aprod.scopely.io
 heimdall.aprod.scopely.io
+hel1-aci.acronis.work
 hel1-repo.acronis.com
 hel1-s3gw.acronis.com
 held-acceptance.8x8.com
@@ -37989,6 +38111,7 @@ hh2.amazon.com
 hhsinhao.ec-canary.abu-p13n.us-east-1.dev.vespa.oath.cloud
 hhsinhao.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
 hi.airbnb.org
+hiddenkingdoms.ad.nl
 high-risk-attributes-ap.production.c2c.klarna.net
 high-risk-attributes-ap.staging.c2c.klarna.net
 high-risk-attributes-eu.production.c2c.klarna.net
@@ -38163,6 +38286,7 @@ hmm.sean1.global.public.vespa.oath.cloud
 hmvjibla-e2e-certificate-test.e2e.klarna.net
 hmwqqrog-e2e-certificate-test.e2e.klarna.net
 hnbc.antbank.hk
+hnd1-aci.acronis.work
 hnd1-repo.acronis.com
 hnd1-s3gw.acronis.com
 hne.edigateway.dell.com
@@ -38328,6 +38452,8 @@ horizonws1-osp-podc-pc1.us.dell.com
 horizonws1-osp-podc-ps3.us.dell.com
 horizonws1-podb-pc1.us.dell.com
 horizonws1-podb-ps3.us.dell.com
+horoscoop.ad.nl
+horoscoop.www.ad.nl
 horoscope.news-astronomer-dev-aws-use1.aws.oath.cloud
 hos.fewo-direkt.de
 host-loyalty-services.us-west-2.prod-p.expedia.com
@@ -38891,6 +39017,7 @@ iad1-repo.acronis.com
 iad1-s3gw.acronis.com
 iad10-repo.acronis.com
 iad10-s3gw.acronis.com
+iad2-kibana.acronis.work
 iad2-repo.acronis.com
 iad2-s3gw.acronis.com
 iam-dev-ig1.int.klarna.net
@@ -39142,6 +39269,7 @@ icinga.mcsgcloudops.dell.com
 icinga.mcsgcloudopsdev.dell.com
 icinga.opera-mini.net
 icjjgeob-e2e-certificate-test.e2e.klarna.net
+icn1-aci.acronis.work
 icn1-repo.acronis.com
 icn1-s3gw.acronis.com
 icorp-atl-apis.dell.com
@@ -39518,6 +39646,7 @@ idemitsu.account.box.com
 ident.klarna.com
 ident.playground.klarna.com
 ident.sofort.nonprod.klarna.net
+identificatie.ad.nl
 identity-0.gateway.internal.api.openai.org
 identity-0.internal.api.openai.org
 identity-0s.gateway.internal.api.openai.org
@@ -40108,6 +40237,7 @@ infohub.delltechnologies.com
 infolink.dell.com
 information.abercrombie.com
 information.dell.com
+infostrada.ad.nl
 infra-dev.8x8cloud.net
 infra-monitoring.auth.ingress.infra-dev.dev.openai.org
 infra-monitoring.auth.ingress.infra-sci.sci.openai.org
@@ -41340,6 +41470,7 @@ irecruitment.orbitz.com
 irecruitmenttest.orbitz.com
 ireland.dell.com
 iris.8x8.com
+iris.acronis.work
 iris.klarna.net
 irisanalytics-dev.dell.com
 irisanalytics.dell.com
@@ -41387,6 +41518,7 @@ isp-apj.us.dell.com
 isp-outside.us.dell.com
 isp.us.dell.com
 issuer.playground.klarna.com
+ist1-aci.acronis.work
 ist1-repo.acronis.com
 ist1-s3gw.acronis.com
 istiogateway.admin-0.internal.api.openai.org
@@ -41401,6 +41533,8 @@ iswebapi-sqa.uscellular.com
 iswebapi.uscellular.com
 it-agent-ingress.api.openai.com
 it-eu.abercrombie.com
+it-git.acronis.work
+it-grafana.acronis.work
 it-it.about.canva.com
 it-jenkins.acronis.work
 it.abercrombie.com
@@ -41437,6 +41571,7 @@ itaasstg.dell.com
 itaasstgdr01.dell.com
 itaasstgprd01.dell.com
 itaasuat3.dell.com
+itam.acronis.work
 itcloud.dell.com
 itdlog-democenter.delltechnologies.com
 itdlog.democenter.delltechnologies.com
@@ -41462,6 +41597,7 @@ itp-web-staging.nonprod.us1.influencer-platform.klarna.net
 itportal.federal.dell.com
 itrforxn-e2e-certificate-test.e2e.klarna.net
 itsupport.opera.com
+itv.ad.nl
 itzgyuop-e2e-certificate-test.e2e.klarna.net
 iueeokug-e2e-certificate-test.e2e.klarna.net
 iuuibsvc-e2e-certificate-test.e2e.klarna.net
@@ -41827,6 +41963,7 @@ jliao.music.sandbox.us-east-1.dev.vespa.oath.cloud
 jliao.xobnisearch.xobnicab.us-east-1.dev.vespa.oath.cloud
 jmanzano.nuwa-hv.nuwa-staging.us-east-1.dev.vespa.oath.cloud
 jminfobj-e2e-certificate-test.e2e.klarna.net
+jnb1-aci.acronis.work
 jnb1-repo.acronis.com
 jnb1-s3gw.acronis.com
 jnoronha.finance-samsung-nonprod.aws.oath.cloud
@@ -42630,15 +42767,66 @@ k8s.ae01-cloud.acronis.work
 k8s.at01-cloud.acronis.work
 k8s.au1-cloud.acronis.work
 k8s.beta-cloud.acronis.work
+k8s.bg01-cloud.acronis.work
+k8s.bg92-cloud.acronis.work
+k8s.bg94-cloud.acronis.work
+k8s.br01-cloud.acronis.work
+k8s.br02-cloud.acronis.work
+k8s.ca01-cloud.acronis.work
+k8s.ca02-cloud.acronis.work
+k8s.cloud.acronis.work
+k8s.cz01-cloud.acronis.work
+k8s.dk01-cloud.acronis.work
+k8s.es01-cloud.acronis.work
+k8s.eu-cloud.acronis.work
+k8s.eu16-cloud.acronis.work
+k8s.eu2-cloud.acronis.work
+k8s.eu4-cloud.acronis.work
+k8s.eu5-cloud.acronis.work
+k8s.eu8-cloud.acronis.work
+k8s.fi01-cloud.acronis.work
 k8s.godaddy-cloud.acronis.work
+k8s.gr01-cloud.acronis.work
+k8s.heg-cloud.acronis.work
 k8s.home-tnimni.aws.oath.cloud
+k8s.hu01-cloud.acronis.work
+k8s.id01-cloud.acronis.work
+k8s.il01-cloud.acronis.work
+k8s.in01-cloud.acronis.work
 k8s.it01-cloud.acronis.work
+k8s.jp-cloud.acronis.work
+k8s.jp03-cloud.acronis.work
+k8s.kaseya-cloud.acronis.work
+k8s.kr01-cloud.acronis.work
+k8s.lh-cloud.acronis.work
+k8s.li01-cloud.acronis.work
+k8s.mx01-cloud.acronis.work
+k8s.my01-cloud.acronis.work
+k8s.no01-cloud.acronis.work
+k8s.notary-tb.acronis.work
+k8s.nz01-cloud.acronis.work
+k8s.pl01-cloud.acronis.work
+k8s.pt01-cloud.acronis.work
+k8s.ro01-cloud.acronis.work
+k8s.sdt.acronis.work
+k8s.se01-cloud.acronis.work
+k8s.sg-cloud.acronis.work
 k8s.test.nimbus.expedia.com
 k8s.tiqets.com
+k8s.tr01-cloud.acronis.work
+k8s.tw01-cloud.acronis.work
+k8s.uk01-cloud.acronis.work
+k8s.us-cloud.acronis.work
 k8s.us-west-2.prodp.gcotechp.expedia.com
 k8s.us-west-2.test.expsuggestservice.expedia.com
 k8s.us-west-2.test.gcotechp.expedia.com
 k8s.us-west-2.test.nimbus.expedia.com
+k8s.us11-cloud.acronis.work
+k8s.us14-cloud.acronis.work
+k8s.us15-cloud.acronis.work
+k8s.us4-cloud.acronis.work
+k8s.us5-cloud.acronis.work
+k8s.za01-cloud.acronis.work
 k8sfu.home-albertoc-aws.aws.oath.cloud
 ka-staging.af.contentsquare.com
 ka.airbnb.org
@@ -43658,6 +43846,7 @@ kong.prodp.localexpertp.expedia.com
 konka.tvstore.opera.com
 konto.wysylam.allegro.pl.allegrosandbox.pl
 kor.dell.com
+kortingscodes.ad.nl
 kosma-preview.production.eu1.klarna-web.klarna.net
 kosma.nonprod.us1.klarna-web.klarna.net
 koster.klarna.net
@@ -43849,6 +44038,7 @@ kube2.pgre.dell.com
 kubecost.tiqets.com
 kubernetes-dashboard-ops.es.8x8.com
 kubernetes.koa.delltechnologies.com
+kul1-aci.acronis.work
 kul1-repo.acronis.com
 kul1-s3gw.acronis.com
 kulcas.ap.dell.com
@@ -44137,6 +44327,7 @@ lambda.home-evant-aws.aws.oath.cloud
 lamxakqw-e2e-certificate-test.e2e.klarna.net
 lana-api.aws-oath-fires-brana-dev.aws.oath.cloud
 landing.plannthat.com
+landingpage.ad.nl
 lando.eks.int.app.us-east-1.prd.aser.simplisafe.com
 lando.us-east-1.prd.aser.simplisafe.com
 landscape.jobapi.net
@@ -44586,10 +44777,12 @@ links.8x8.com
 links.contentsquare.com
 links.openai.com
 linter.nativeedge.dell.com
+lintjesregen.ad.nl
 linux-repo-nonprod.klarna.net
 linux.dell.com
 lionsgate.account.box.com
 liqbpfoe-e2e-certificate-test.e2e.klarna.net
+lis1-aci.acronis.work
 lis1-repo.acronis.com
 lis1-s3gw.acronis.com
 lisbon-city-card.tiqets.com
@@ -44688,6 +44881,7 @@ listresources.pavedroad.int.outfra.xyz
 listresourcestt.pavedroad.int.outfra.xyz
 lists.dell.com
 lists.us.dell.com
+listserv.ad.nl
 lite.apex-football.com
 lite.apexscores.io
 lite.dailyadvent.com
@@ -44821,9 +45015,11 @@ local-ssd.bjormel.global.public.vespa.oath.cloud
 local-test.acrobat.adobe.com
 local.amazon.co.uk
 local.amazon.com
+local.kcc.ad.nl
 local.music.amazon.com.au
 local.odyssey.withbuddies.com
 local.uscellular.com
+local.webwinkel.ad.nl
 local0006.webpaypaymentgateway.8x8pilot.com
 localamazon.co.uk
 localgenai.commerce-k8s-nonprod.aws.oath.cloud
@@ -45109,6 +45305,8 @@ loisweb.ausvpc.pcf.dell.com
 loisweb.g3p.pcf.dell.com
 loiswebsit1.ausvdc02.pcf.dell.com
 lokeshareddy.affiliate-beta.intl-commerce.us-east-1.dev.vespa.oath.cloud
+loki-cf.acronis.work
+loki-receiver-sif.acronis.work
 loki-receiver.acronis.work
 loki-thor.staging.us1.fd-dev.klarna.net
 loki.acronis.work
@@ -45710,6 +45908,7 @@ magg.frontpage.us-east-3.vespa.oath.cloud
 magg.frontpage.us-west-1.vespa.oath.cloud
 magicalkenya.expedia.com
 magiceden-bitcoin.a.exodus.io
+magiclink.ad.nl
 magptcapp.us.dell.com
 maha.api.report.gemini.yahoo.com
 mai.amazon.cn
@@ -45750,6 +45949,8 @@ mail.aauea02.msteams.8x8.com
 mail.about.gitlab.com
 mail.acceptance.cloud.8x8.com
 mail.acronis.com
+mail.ad.nl
+mail.adaptive-shield.com
 mail.adncntxt.fde.openai.com
 mail.ads.openai.com
 mail.adx.opera.com
@@ -45815,6 +46016,7 @@ mail.copilot.ai.stage.8x8.vc
 mail.corp-apps-ofa-fis-dev.aws.oath.cloud
 mail.corp-apps-ofa-fis-prod.aws.oath.cloud
 mail.crawler.ai.stage.8x8.vc
+mail.creator.ai.acronis.com
 mail.dailyadvent.com
 mail.dell.com
 mail.deploy-ops.8x8.studio
@@ -46236,6 +46438,7 @@ mail.photon.withbuddies.com
 mail.plannthat.com
 mail.playground.c2c.klarna.net
 mail.playground.eu1.cb-sta-account-lookup.klarna.net
+mail.portal.ai.acronis.com
 mail.presence.openai.com
 mail.preview.8x8.studio
 mail.prism.openai.com
@@ -46458,6 +46661,7 @@ marketing.amazon.com
 marketing.dell.com
 marketing.expedia.com
 marketing.expediagroup.com
+marketingactie.ad.nl
 marketingb2bcampaigns.expediagroup.com
 marketingrally.klarna.com
 marketo-landing.tiqets.com
@@ -46648,6 +46852,7 @@ mcp.ai.preview.8x8.vc
 mcp.ai.stage.8x8.vc
 mcp.alasco.de
 mcp.alasco.rocks
+mcp.corp.acronis.com
 mcp.dev.partnerportal.scopely.com
 mcp.feather.openai.com
 mcp.meet-metrics.8x8.vc
@@ -46771,6 +46976,7 @@ mediaplatform-prod1-uswe1.omega.gcp.yahoo.cloud
 mediaplatform-uifoundations-dev.aws.oath.cloud
 mediasolutionsevents.expedia.com
 mediatech-submission.amazon.com
+mediathrive.acronis.com
 mediation-spike.sports-seal-dev.aws.oath.cloud
 mediation.az.dell.com
 mediation.sports-seal-dev.aws.oath.cloud
@@ -47212,6 +47418,8 @@ migration.nonprod.ap1.marking-service.klarna.net
 migration.production.eu1.marking-service.klarna.net
 migrator.github-ghec-aide.aws.oath.cloud
 miinaklarissa.album-recommendation.vespatest.aws-us-east-1c.dev.public.vespa.oath.cloud
+mijn.ad.nl
+mijnomgeving-acc.ad.nl
 mijnomgeving.ad.nl
 mikeg98.album-recommendation.mg-ten.aws-us-east-1c.dev.public.vespa.oath.cloud
 mil.8x8.vc
@@ -47258,6 +47466,7 @@ mirror.nonprod.bitbucket.klarna.net
 mirror.nonprod.eu1.bitbucket.klarna.net
 mirrors.ean.com
 misentry.acronis.com
+misp.acronis.work
 missingassets.production.eu1.vulnmgmt.klarna.net
 misv2-dal-gamma.corp.amazon.com
 misv2-dal.corp.amazon.com
@@ -47375,11 +47584,14 @@ mobile.ecomm.euro.dell.com
 mobile.federal.dell.com
 mobile.orbitz.com
 mobile.prod.outfra.xyz
+mobileapi-acc.ad.nl
+mobileapi-demo.ad.nl
 mobileapi-enterprise.acronis.com
 mobileapi.acronis.com
 mobileapi.ad.nl
 mobileapi.tiqets.com
 mobileappdistribution.amazon.com
+mobilebackend.ad.nl
 mobiledistributionstore.dell.com
 mobileftf.dell.com
 mobileiron-ts.anfcorp.com
@@ -47503,6 +47715,7 @@ moodle.dell.com
 moody.production.eu1.panda.klarna.net
 moody.production.us1.panda.klarna.net
 moogsoft.dell.com
+mooisteshirt.ad.nl
 mooothweek.production.eu1.klarna-web.klarna.net
 mop-us-east-1.athenz-k8s-prod.aws.yahoo.cloud
 mop-us-west-2.athenz-k8s-prod.aws.yahoo.cloud
@@ -47785,6 +47998,7 @@ mta6.eg.orbitz.com
 mta7.email.seek.com
 mta8.email.seek.com
 mta9.email.seek.com
+mtc.ad.nl
 mtcetqor-e2e-certificate-test.e2e.klarna.net
 mtls-eu.api.openai.com
 mtls-orchestrator.sqe.dell.com
@@ -48037,6 +48251,7 @@ myaccount-ql6.assurancewireless.com
 myaccount-ql7.assurancewireless.com
 myaccount-stage.assurancewireless.com
 myaccount.8x8.com
+myaccount.ad.nl
 myaccount.assurancewireless.com
 myaccount.compuserve.com
 myaccount.dev.compuserve.com
@@ -48560,6 +48775,7 @@ new-origin.ap-southeast-2.production.external.seek.com
 new-origin.ap-southeast-2.sandbox.external.seek.com
 new-simplycommunities.akismet.com
 new.account.krisp.ai
+new.ad.nl
 new.auth.opera.com
 new.chat.openai.com
 new.ecsearch-staging.ect-srch.us-east-3.perf.vespa.oath.cloud
@@ -48753,6 +48969,8 @@ nginxtest.pilot.aws.infra8.8x8cloud.net
 nginxtestdev.pilot.aws.infra8.8x8cloud.net
 nginxtwo-cml.dell.com
 nginxudience.webpaypaymentgateway.8x8pilot.com
+ngmp-hash-db.acronis.work
+ngmp-share.acronis.work
 ngmt-rmq-np.us.dell.com
 ngmt-rmq-perf.us.dell.com
 ngmtil-services-pc1.us.dell.com
@@ -48838,6 +49056,8 @@ nicest-neighbor.scoober.aws-us-east-1c.public.vespa.oath.cloud
 nicest-neighbor.scoober.aws-us-east-1c.staging.public.vespa.oath.cloud
 nicest-neighbor.scoober.aws-us-east-1c.test.public.vespa.oath.cloud
 nicest-neighbor.scoober.global.public.vespa.oath.cloud
+nieuw-demo.ad.nl
+nieuw.ad.nl
 nieuws.amazon.nl
 nifrqbkl-e2e-certificate-test.e2e.klarna.net
 niitsfcl-e2e-certificate-test.e2e.klarna.net
@@ -49967,6 +50187,7 @@ ohs.soaohs.services.dit.osb.us.dell.com
 ohs.soaohs.services.sit.osb.us.dell.com
 oia.dcca.dell.com
 oibkp.home-arivera.ne1.ows.oath.cloud
+oidc.ad.nl
 oidc.compuserve.com
 oidc.member.compuserve.com
 oidc.mk8s.klarna.net
@@ -50587,12 +50808,16 @@ opus-transcriber-proxy.stage.8x8.vc
 opus.soundcloud.org
 opvufctg-e2e-certificate-test.e2e.klarna.net
 opxyrnam-e2e-certificate-test.e2e.klarna.net
+opzeggen-acc.ad.nl
+opzeggen-test.ad.nl
+opzeggen.ad.nl
 oqadvbkr-e2e-certificate-test.e2e.klarna.net
 oracle.tc.anduril.au
 orange.nonprod.eu1.smog.klarna.net
 orange.production.eu1.smog.klarna.net
 orangecrush.one-mobile-dev.aws.oath.cloud
 orangecrush.one-mobile-prod.aws.oath.cloud
+oranjeboven.ad.nl
 orbiter.scopely.io
 orca.amazon.com
 orca.nonprod.eu3.artifacts-proxy.klarna.net
@@ -50810,6 +51035,7 @@ oscprod.federal.dell.com
 osctest.federal.dell.com
 osis-rw-us.staging.klarna.com
 osis-us.staging.klarna.com
+osl1-aci.acronis.work
 osl1-repo.acronis.com
 osl1-s3gw.acronis.com
 oslo-service-external-eu.production.c2c.klarna.net
@@ -51308,6 +51534,7 @@ partnercentral.amazon.sa
 partnercompass.orbitz.com
 partnerconnect.ean.com
 partnerconnect.expediapartnersolutions.com
+partnercontent.ad.nl
 partnerdemos.dell.com
 partnerdirect.dell.com
 partnerfinderdev7.dell.com
@@ -52262,6 +52489,7 @@ pg-codecollab-stage.us.dell.com
 pg-codecollab.aus.amer.dell.com
 pg-codecollab.us.dell.com
 pg-rally.us.dell.com
+pg.ad.nl
 pgnet.connect.dell.com
 pgp.int.klarna.net
 pgp.klarna.net
@@ -52394,6 +52622,7 @@ phx1-repo.acronis.com
 phx1-s3gw.acronis.com
 phx10-repo.acronis.com
 phx10-s3gw.acronis.com
+phx11-aci.acronis.work
 phx11-repo.acronis.com
 phx11-s3gw.acronis.com
 phxsbcexternal.expedia.com
@@ -52885,6 +53114,7 @@ pmacdp10.int.klarna.net
 pmacdp11.int.klarna.net
 pmacdp12.int.klarna.net
 pmacdp13.int.klarna.net
+pmail.ad.nl
 pmareedu.ann-filters-stress.sports-ranking.us-east-1.dev.vespa.oath.cloud
 pmareedu.emailsemanticsearch.insights.us-east-1.dev.vespa.oath.cloud
 pmareedu.emailsemanticsearch.mail-insights.us-east-1.dev.vespa.oath.cloud
@@ -52937,6 +53167,7 @@ pns-cms.amds.dell.com
 pns-cms2.amds.dell.com
 pns-cms3.amds.dell.com
 pntdcylr-e2e-certificate-test.e2e.klarna.net
+po-parser.acronis.work
 po01.isg.connect.dell.com
 poapwlyncfe101.poa.amer.dell.com
 poapwlyncfe102.poa.amer.dell.com
@@ -53053,6 +53284,7 @@ portal-permissions.expediapartnersolutions.com
 portal-service.dccrm-ccs.dell.com
 portal.8x8.co.uk
 portal.adev.scopely.io
+portal.ai.acronis.com
 portal.amds.dell.com
 portal.arc.io
 portal.aws.amazon.com
@@ -53339,6 +53571,7 @@ preprod-tdw.dell.com
 preprod-tdw.us.dell.com
 preprod-theocp.dell.com
 preprod.account.adobe.com
+preprod.ad.nl
 preprod.alexa.amazon.ca
 preprod.alexa.amazon.co.jp
 preprod.alexa.amazon.co.uk
@@ -53465,6 +53698,7 @@ pricingstudioperf-es.dell.com
 pricingstudioperf-es.ins.dell.com
 pricingstudiosit-es.dell.com
 pricingstudiosit-es.ins.dell.com
+prikwijzer.ad.nl
 primary-mirror-dev.bitbucket.nonprod.klarna.net
 primary-mirror-dev.nonprod.eu1.bitbucket.klarna.net
 primary-mirror-stg.bitbucket.nonprod.klarna.net
@@ -54592,6 +54826,8 @@ productos-patrocinados.amazon.es
 productstudio.dell.com
 prodvcc.us.dell.com
 prodviatordandomainsma-cfmichaels.rest.akismet.com
+proefabonnement.ad.nl
+profcoach.ad.nl
 profile-elastic-indexing-inactive.profilesearch.dev.outfra.xyz
 profile-elastic-indexing.profilesearch.dev.outfra.xyz
 profile-elastic-search-inactive.profilesearch.dev.outfra.xyz
@@ -54628,8 +54864,29 @@ prometheus.ae01-cloud.acronis.work
 prometheus.at01-cloud.acronis.work
 prometheus.au1-cloud.acronis.work
 prometheus.beta-cloud.acronis.work
+prometheus.bg01-cloud.acronis.work
+prometheus.bg94-cloud.acronis.work
+prometheus.br01-cloud.acronis.work
+prometheus.br02-cloud.acronis.work
+prometheus.ca01-cloud.acronis.work
+prometheus.ca02-cloud.acronis.work
+prometheus.cloud.acronis.work
 prometheus.corp-apps-awsdevops.aws.oath.cloud
+prometheus.cz01-cloud.acronis.work
 prometheus.dev.security.openai.org
+prometheus.dk01-cloud.acronis.work
+prometheus.es01-cloud.acronis.work
+prometheus.eu-cloud.acronis.work
+prometheus.eu16-cloud.acronis.work
+prometheus.eu2-cloud.acronis.work
+prometheus.eu4-cloud.acronis.work
+prometheus.eu5-cloud.acronis.work
+prometheus.eu8-cloud.acronis.work
+prometheus.fi01-cloud.acronis.work
+prometheus.gr01-cloud.acronis.work
+prometheus.id01-cloud.acronis.work
+prometheus.il01-cloud.acronis.work
+prometheus.in01-cloud.acronis.work
 prometheus.ingress.dill.dev.openai.org
 prometheus.ingress.eggplant.dev.openai.org
 prometheus.ingress.fig.dev.openai.org
@@ -54641,9 +54898,36 @@ prometheus.ingress.owl.sci.openai.org
 prometheus.ingress.panda.sci.openai.org
 prometheus.ingress.quail.sci.openai.org
 prometheus.ingress.raven.sci.openai.org
+prometheus.it01-cloud.acronis.work
+prometheus.jp-cloud.acronis.work
+prometheus.jp03-cloud.acronis.work
+prometheus.kaseya-cloud.acronis.work
+prometheus.kr01-cloud.acronis.work
+prometheus.lh-cloud.acronis.work
+prometheus.li01-cloud.acronis.work
+prometheus.mx01-cloud.acronis.work
+prometheus.my01-cloud.acronis.work
+prometheus.no01-cloud.acronis.work
+prometheus.notary-tb.acronis.work
+prometheus.nz01-cloud.acronis.work
 prometheus.paranoids-vuln-anchore-dev.aws.oath.cloud
 prometheus.paranoids-vuln-anchore-prod.aws.oath.cloud
 prometheus.pgre.dell.com
+prometheus.pl01-cloud.acronis.work
+prometheus.pt01-cloud.acronis.work
+prometheus.sdt.acronis.work
+prometheus.se01-cloud.acronis.work
+prometheus.sg-cloud.acronis.work
+prometheus.tr01-cloud.acronis.work
+prometheus.tw01-cloud.acronis.work
+prometheus.uk01-cloud.acronis.work
+prometheus.us-cloud.acronis.work
+prometheus.us11-cloud.acronis.work
+prometheus.us14-cloud.acronis.work
+prometheus.us15-cloud.acronis.work
+prometheus.us4-cloud.acronis.work
+prometheus.us5-cloud.acronis.work
+prometheus.za01-cloud.acronis.work
 prometheus2.pgre.dell.com
 prometheusreg.account.box.com
 promo.acronis.com
@@ -55523,6 +55807,7 @@ push.amazon.com
 pushgateway.eks.paranoids-peng-tetradio-stage.aws.oath.cloud
 puuzwfle-e2e-bouncer-custom-domain-name-test.puuzwfle.klarna.net
 puvdiban-e2e-certificate-test.e2e.klarna.net
+puzzels.ad.nl
 pvardi.sol.blink-dpa.us-east-1.dev.vespa.oath.cloud
 pvidpqrfmg.pyvespa-integration.vespa-team.aws-us-east-1c.dev.public.vespa.oath.cloud
 pvp.8x8.com
@@ -55770,6 +56055,7 @@ qr.alipayplus.com
 qrdwkovo-e2e-certificate-test.e2e.klarna.net
 qrl-ind-sit.dell.com
 qrl.dell.com
+qro1-aci.acronis.work
 qrs-proxy.statcloud-stage.sports.us-west-1.fantasy-sports-np.aws.oath.cloud
 qrs-proxy.statcloud.sports.us-central-1.fantasy-sports-prod.aws.oath.cloud
 qrs-proxy.statcloud.sports.us-east-3.fantasy-sports-prod.aws.oath.cloud
@@ -56107,8 +56393,10 @@ rdoc-np.us.dell.com
 rdoc-ui-ge1-external.ausvt1z01.pcf.dell.com
 rdoc.us.dell.com
 rdocsit.us.dell.com
+rds-grafana.acronis.work
 rds-hashicorp-vault.acronis.work
 rds-hashicorp-vault.corp.acronis.com
+rds-prometheus.acronis.work
 rds-proxy-rw.alasco.de
 rds-proxy.alasco.de
 rds-read-replica.alasco.de
@@ -56625,6 +56913,7 @@ regvax.dell.com
 reinstate.amazon.ae
 reinstate.amazon.co.uk
 reinstate.amazon.com.au
+reizen.ad.nl
 rekap.8x8.com
 related.image.tbda.aws-us-east-1c.dev.public.vespa.oath.cloud
 relay-dev.account.booking.com
@@ -57117,8 +57406,10 @@ rmlockenvedcc44366663.pavedroad.int.outfra.xyz
 rmlockenvedcc44369555.pavedroad.int.outfra.xyz
 rmlockenvedcc44370720.pavedroad.int.outfra.xyz
 rmlockenvfdb1ab018596.pavedroad.int.outfra.xyz
+rmm-qaboard.acronis.work
 rmq-pks-np.us.dell.com
 rmq-pks-prd.us.dell.com
+rmq.acronis.work
 rmq.corp.acronis.com
 rmqcgxnn-e2e-certificate-test.e2e.klarna.net
 rmqvip-ausvdc02.pcf.dell.com
@@ -57160,6 +57451,7 @@ roemklhi-e2e-certificate-test.e2e.klarna.net
 rofs8u.instance.centralised-hiring.prod.outfra.xyz
 rohkjkxt-e2e-certificate-test.e2e.klarna.net
 roleinsights.corpincubator.dev.outfra.xyz
+rondemaster.ad.nl
 ronnyc.lsbe-hv-api.local-search.aws-us-east-2a.dev.vespa.oath.cloud
 ronnyc.lsbe-hv-api.local-search.aws-use1-az1.dev.vespa.oath.cloud
 ronnyc.lsbe-hv-api.local-search.us-east-1.dev.vespa.oath.cloud
@@ -57844,9 +58136,12 @@ ryot-staging-us-east-1-neo4j-neo4j.ryot-dev.aws.oath.cloud
 ryot.aws.oath.cloud
 rzpwnuag06.apac.dell.com
 rzracnjj-e2e-certificate-test.e2e.klarna.net
+s-acc.ad.nl
 s-acmatic-dns-validation.sandbox.eu1.core-platform.klarna.net
+s-nieuw-demo.ad.nl
 s-odx.osite99.com
 s-pre.adx.opera.com
+s.ad.nl
 s.admin.persaas.dell.com
 s.adx.opera.com
 s.antom.com
@@ -57858,12 +58153,21 @@ s.opr.news
 s.product.persaas.dell.com
 s.sandbox.eu1.core-platform.klarna.net
 s.update.expedia.com
+s0-acc.ad.nl
+s0-demo.ad.nl
+s0.ad.nl
 s01ns02.akhwien.at
+s1-acc.ad.nl
+s1-demo.ad.nl
+s1.ad.nl
 s1.amazon.co.jp
 s1.amazon.co.uk
 s1.amazon.com
 s1.pcf.dell.com
 s1.pks.dell.com
+s2-acc.ad.nl
+s2-demo.ad.nl
+s2.ad.nl
 s2.pcf.dell.com
 s2s-ext-kgraph-ecs.dsp-knowledge-graph-dev.aws.oath.cloud
 s2s-ext-kgraph.dcs-poseidon-dev.aws.oath.cloud
@@ -57873,6 +58177,7 @@ s2s-ext-kgraph.dsp-knowledge-graph-prd.aws.oath.cloud
 s2s3-maui-s2s3.us-west-2.test.payments.expedia.com
 s2s3-prod-s2s3.us-west-2.prod.payments.expedia.com
 s2wl.sit8.uscc.com
+s3-acc.ad.nl
 s3-au2-acs1.acronis.com
 s3-ber1-acs01.acronis.com
 s3-console-ap-northeast-1.console.aws.amazon.com
@@ -57884,6 +58189,7 @@ s3-console-sa-east-1.console.aws.amazon.com
 s3-console-us-standard.console.aws.amazon.com
 s3-console-us-west-1.console.aws.amazon.com
 s3-console-us-west-2.console.aws.amazon.com
+s3-demo.ad.nl
 s3-eu3-acs1.acronis.com
 s3-eu5-acs1.acronis.com
 s3-eu6.acronis.com
@@ -57893,6 +58199,7 @@ s3-fra2-acs4.acronis.com
 s3-fra2-acs5.acronis.com
 s3-gateway.staging.us1.fd.klarna.net
 s3-gru2-acs01.acronis.com
+s3-gru2-acs02.acronis.com
 s3-httpd-2.home-avanham15.aws.oath.cloud
 s3-httpd-test.home-avanham15.aws.oath.cloud
 s3-httpd.home-avanham15.aws.oath.cloud
@@ -57900,6 +58207,7 @@ s3-httpd.home-marora-aws.aws.oath.cloud
 s3-iad2-acs01.acronis.com
 s3-jp2-acs1.acronis.com
 s3-lhr3-acs1.acronis.com
+s3-mmj1-acs02.acronis.com
 s3-nissan-jp2.acronis.com
 s3-phx1-acs10.acronis.com
 s3-phx1-acs3.acronis.com
@@ -57916,6 +58224,7 @@ s3-viewer.home-cmao.aws.oath.cloud
 s3-vytalink-acs1.acronis.com
 s3-yyz2-acs01.acronis.com
 s3-zrh1-acs2.acronis.com
+s3.ad.nl
 s3.am4.opera.technology
 s3.ams.opera.technology
 s3.int.klarna.net
@@ -57940,6 +58249,9 @@ s3bexf900c3-ssl-ns.ddobs-exf900-c3-s3batl-s3b.dell.com
 s3upload.payments-aws-services-dev.aws.oath.cloud
 s3upload.payments-aws-services-prod.aws.oath.cloud
 s3upload.payments-aws-services-stg.aws.oath.cloud
+s4-acc.ad.nl
+s4-demo.ad.nl
+s4.ad.nl
 s4.pcf.dell.com
 sa-caja.dev.outfra.xyz
 sa-caja.prod.outfra.xyz
@@ -58048,6 +58360,7 @@ sales-pc1-vpod1.dell.com
 sales-pc1-vpod3.dell.com
 sales-perf.dell.com
 sales-ps3-vip.us.dell.com
+sales-renewal-agent.acronis.work
 sales-s3b-vpod1.dell.com
 sales-s3b-vpod2.dell.com
 sales-s3b-vpod4.dell.com
@@ -58602,7 +58915,11 @@ script-public-test-dummy.expedia.com
 script-test-dummy.expedia.com
 scriptorium-node.eks.int.app.us-east-1.prd.aser.simplisafe.com
 scriptorium.eks.int.app.us-east-1.prd.aser.simplisafe.com
+scripts.ad.nl
+scs-ab-jenkins.acronis.work
 scs-cf.subscriptions-scs-aws-prod.aws.oath.cloud
+scs-jenkins.acronis.work
+scs-sign-jenkins.acronis.work
 scs.ops.dev.playgami.scopely.com
 scs.ops.prod.playgami.scopely.com
 scs.vnaps.one-mobile-dev.aws.oath.cloud
@@ -58871,9 +59188,11 @@ secret-manager.us-west-2.finance-k8s-ftx-creator.aws.oath.cloud
 secret.opera.software
 secrets-manager-api.nonprod.klarna.net
 section9.s-cloud.net
+secure-acc.ad.nl
 secure-fields.amazon.ca
 secure-fields.amazon.co.uk
 secure-mail.federal.dell.com
+secure.ad.nl
 secure.amazon.co.uk
 secure.amazon.com
 secure.compuserve.com
@@ -58881,6 +59200,7 @@ secure.ean.com
 secure.expedia.com
 secure.info.seek.com
 secure.pricerunner.com
+secure.webwinkel.ad.nl
 secured.dfs.dell.com
 securedwebservices.dev4.uscc.com
 securedwebservices.dev5.uscc.com
@@ -59107,6 +59427,8 @@ sentinelrabbitmqprod.dell.com
 sentry-am3-01.osp.opera.software
 sentry-ul.uplynk-inf.aws.oath.cloud
 sentry.acc.mobilevikings.be
+sentry.acronis.work
+sentry.corp.acronis.com
 sentry.uplynk-inf.aws.oath.cloud
 sentry.ycm-aws-sentry-devel.aws.oath.cloud
 ser-lookup.dtc-sit-api.us.dell.com
@@ -59207,6 +59529,7 @@ services-s3b.dell.com
 services-s3b.pcf.dell.com
 services.access.expedia.com
 services.account.adobe.com
+services.ad.nl
 services.addons.allizom.org
 services.amazon.ae
 services.amazon.co.uk
@@ -59500,6 +59823,7 @@ shop-admin-api.sports-fandom-perf.aws.oath.cloud
 shop-admin-api.sports-fandom.aws.oath.cloud
 shop.8x8.com
 shop.acronis.com
+shop.ad.nl
 shop.assurancewireless.com
 shop.canva.com
 shop.creator.klarna.com
@@ -59654,6 +59978,7 @@ signup.klarna.com
 sim-pub-ph2sg-bancnet.alipayplus.com
 sim-pub-sg2ph-bancnet.alipayplus.com
 simba.acc.mobilevikings.be
+simims-renderer.ad.nl
 simon.nuwa-hv.nuwa-staging.us-east-3.perf.vespa.oath.cloud
 simple-apigw-example.adev.scopely.io
 simpledaas1.dell.com
@@ -59895,10 +60220,12 @@ skan-gateway.dell.com
 skan.klarna.net
 skan.npp1.pks.dell.com
 sketchy.paranoids-fire-prod-tools.aws.oath.cloud
+skg1-aci.acronis.work
 skg1-repo.acronis.com
 skg1-s3gw.acronis.com
 skhnvklh-e2e-certificate-test.e2e.klarna.net
 skhurana01.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
+skills-marketplace.corp.acronis.com
 skills-store-eu.amazon.co.uk
 skills-store-eu.amazon.com.au
 skills-store-fe.amazon.co.uk
@@ -59907,6 +60234,8 @@ skills-store-na.amazon.co.uk
 skills-store-na.amazon.com.au
 skills-store.amazon.co.uk
 skills-store.amazon.com.au
+skills.acronis.work
+skills.corp.acronis.com
 skillusage.cds-aws-nonprod.aws.oath.cloud
 skimlinks.external-feeds.aws-us-east-1a.vespa.oath.cloud
 skimlinks.external-feeds.aws-us-east-1b.vespa.oath.cloud
@@ -60450,10 +60779,12 @@ soc-log-infra.eu1.production.mk8s.klarna.net
 soc-log-infra.eu1.staging.mk8s.klarna.net
 social-photo-gen.data-ysports-s.gcp.yahoo.cloud
 social-simplycommunities.rest.akismet.com
+social.ad.nl
 social.dell.com
 social.uscellular.com
 socialcrm.dell.com
 socialhub.expediacruises.com
+socialize.ad.nl
 socialize.dell.com
 sociallogin.jobstreet.com
 socketlink.eks.ext.app.us-east-1.prd.aser.simplisafe.com
@@ -60465,6 +60796,7 @@ socmate-docs.8x8cloud.net
 socmate.8x8cloud.net
 soe-gp-ext-fw1.gp.monash.edu
 soe-gp-ext-fw2.gp.monash.edu
+sof1-aci.acronis.work
 sof1-repo.acronis.com
 sof1-s3gw.acronis.com
 sof8-repo.acronis.com
@@ -61050,6 +61382,7 @@ sponsored-ads.amazon.se
 sponsored-prod.rtang-spa-dev.us-east-1.dev.vespa.oath.cloud
 sponsored-prod.rtang-spa-dev.us-east-3.perf.vespa.oath.cloud
 spoons.github-prod.aws.oath.cloud
+sportquiz.ad.nl
 sports-aws-nonprod-omega.aws.oath.cloud
 sports-aws-prod-omega.aws.oath.cloud
 sports-content-algo-tester.sports-internal.gcp.yahoo.cloud
@@ -61082,6 +61415,7 @@ spotless-de.dell.com
 spp-beta.dell.com
 spr01wrp01.uscc.com
 spr01wrp02.uscc.com
+sprint.ad.nl
 spsawslab.expedia.com
 spthomas.i.test.payments.expedia.com
 spwac.one.dell.com
@@ -61516,6 +61850,7 @@ st.p.account.here.com
 st.taiwan-billing-pci-nonprod.aws.oath.cloud
 st1gateway.dell.com
 st1portal.dell.com
+st2-dev.acronis.work
 st2.acronis.work
 st2.home-apapaleo.aws.oath.cloud
 sta-lab.test.securityengineering.expedia.com
@@ -62180,6 +62515,7 @@ staging.kep-log-router.production.eu1.logging.klarna.net
 staging.kep-log-router.production.eu2.logging.klarna.net
 staging.kep-log-router.production.eu3.logging.klarna.net
 staging.kep-log-router.production.us1.logging.klarna.net
+staging.kieswijzer.ad.nl
 staging.lbi.odcdn.com.au
 staging.lite.aol.com
 staging.lulu.klarna.net
@@ -62431,8 +62767,12 @@ static.stayz.com.au
 static.techconcierge.dell.com
 static.test.pay.expedia.com
 staticfiles.acronis.com
+statics-acc.ad.nl
+statics.ad.nl
 staticsite-cdn-staging.origindigital-pac.com.au
 statik.staging.alasco.rocks
+stats.acronis.work
+stats.ad.nl
 stats.dell.com
 stats.scopely.io
 statsigcdn.openai.com
@@ -62560,6 +62900,7 @@ stor.perf.g2.ph.dell.com
 stor.perf.g3.ph.dell.com
 stor.uat.g2.ph.dell.com
 stor.uat.g3.ph.dell.com
+storage-admin.lh-cloud.acronis.work
 storage-api-okta.mulesoft-aws.aws.oath.cloud
 storage-api.mulesoft-aws-sandbox.aws.oath.cloud
 storage-api.mulesoft-aws.aws.oath.cloud
@@ -62620,8 +62961,10 @@ stories-local.apexnews.com
 stories-ng.feednews.com
 stories-za.feednews.com
 stories.6chcdn.feednews.com
+stories.ad.nl
 stories.feednews.com
 storm-nonprod-aws.aws.oath.cloud
+story.ad.nl
 storybook.alasco.rocks
 storyplayer-photos.amazon.co.uk
 storyplayerbeta-photos.amazon.co.uk
@@ -62955,6 +63298,7 @@ super-github-bot.ingress.infra-sci.sci.openai.org
 super-github-bot.ingress.owl.sci.openai.org
 super-github-bot2.ingress.infra-sci.sci.openai.org
 superassistant.ingress.quail.sci.openai.org
+supercoach.ad.nl
 supercomputing-docs.ingress.dill.dev.openai.org
 supercomputing-docs.ingress.infra-dev.dev.openai.org
 supercomputing-docs.ingress.infra-sci.sci.openai.org
@@ -63054,6 +63398,7 @@ supplynet.us.dell.com
 supplyservice-docs.prodp.localexpertp.expedia.com
 supplyservice.prodp.localexpertp.expedia.com
 support-api.contentsquare.com
+support-archive-wizard.acronis.work
 support-automation.openai.com
 support-chat-webhooks-ap.production.c2c.klarna.net
 support-chat-webhooks-ap.production.us1.fd.klarna.net
@@ -63080,6 +63425,7 @@ support-jp.cloudstore.dell.com
 support-monitoring.api.openai.com
 support-portal.8x8.com
 support-preview.aws.amazon.com
+support-sandbox-esxi.acronis.work
 support-test.8x8.com
 support-uat.gtie.dell.com
 support.8x8.com
@@ -63151,6 +63497,7 @@ survey-tool.amazon.co.uk
 survey.klarna.com
 survey.klarna.net
 surveys-staging.contentsquare.com
+suskewiskegame.ad.nl
 suspend-account-service.playground2.eu1.risk.klarna.net
 suspend-account-service.playground2.us1.risk.klarna.net
 suspend-account-service.production.eu1.risk.klarna.net
@@ -63424,6 +63771,7 @@ syang07.music.sandbox.us-east-1.dev.vespa.oath.cloud
 syang07.ngcc-beta.intl-commerce.aws-use1-az1.dev.vespa.oath.cloud
 syang07.ngcc-staging.intl-commerce.aws-use1-az1.dev.vespa.oath.cloud
 syd1-repo.acronis.com
+syd2-repo.acronis.com
 syddsc.apj.dell.com
 sydney-dev.pavedroad.int.outfra.xyz
 sydney.8x8.vc
@@ -63503,6 +63851,7 @@ szqtllce-e2e-certificate-test.e2e.klarna.net
 t-odx.geo2.op-mobile.opera.com
 t.ac.orbitz.com
 t.acweb.orbitz.com
+t.ad.nl
 t.adx.opera.com
 t.ai-int.8x8.com
 t.allegro.cz.allegrosandbox.pl
@@ -63934,6 +64283,7 @@ teamcity-hooks.poe-dev.scopely.com
 teamcity-redirect.poe-dev.scopely.com
 teamcity.dev.poe.withbuddies.com
 teamcity.poe-dev.scopely.com
+teammaster.ad.nl
 teamnstest.ap-southeast-2.pavedroadlabs.test.outfra.xyz
 teampulse-staging.8x8.engineering
 teampulse.8x8.engineering
@@ -64045,6 +64395,7 @@ temporal.us.dell.com
 temporary.blink-aws.blink-dpa.aws-us-east-2a.dev.vespa.oath.cloud
 temporary.klarna.com
 temporary.nonprod.klarna.com
+temptation.ad.nl
 temptest.dev.pavedroad.dev.outfra.xyz
 tenantadmin-dev-manual.oci.infra8.8x8cloud.net
 tenantadmin-dev-test.oci.infra8.8x8cloud.net
@@ -64180,6 +64531,7 @@ test-jenkins.pgre.dell.com
 test-jira.cpg.dell.com
 test-jsissue-longnameissue.amazon.com.au
 test-k8s.chalet.8x8.com
+test-kcc.ad.nl
 test-lattice.staging.eu1.klarnabox.klarna.net
 test-load.pavedroad.dev.outfra.xyz
 test-load2.pavedroad.dev.outfra.xyz
@@ -64247,6 +64599,8 @@ test-vcd1.dell.com
 test-virtualagent-api.ai.8x8.com
 test-vuln-management.production.eu1.kvp.klarna.net
 test-vv-22.staging.eu1.bastion.klarna.net
+test-webshop.ad.nl
+test-webwinkel.ad.nl
 test-wp.1debit.com
 test-wp.delltechnologies.com
 test-xm.amds.dell.com
@@ -64530,6 +64884,7 @@ test.internationalisation.expedia.com
 test.iram1026.expedia.com
 test.jpmc.evcgateway.expedia.com
 test.k8sfu.home-albertoc-aws.aws.oath.cloud
+test.kcc.ad.nl
 test.klarna.net
 test.linter.nativeedge.dell.com
 test.llm.nativeedge.dell.com
@@ -64658,6 +65013,7 @@ test.ugc.expedia.com
 test.us-west-2.cosmo-production.aws.oath.cloud
 test.vault.tophat.withbuddies.com
 test.vespa.oath.cloud
+test.webwinkel.ad.nl
 test.wedsegment.expedia.com
 test.wheel.withbuddies.com
 test.xm.dell.com
@@ -64880,6 +65236,7 @@ testingstuff.pavedroad.int.outfra.xyz
 testjakartapatch8.expedia.com
 testjakartapatch9.expedia.com
 testlogdataservices-jenkins.aolp-ds-dev.aws.oath.cloud
+testmee.ad.nl
 testnet.arc.io
 testnewbizappssrvcs-cml.dell.com
 testnewcfy.frontier.dell.com
@@ -64978,6 +65335,7 @@ thack.klarna.net
 thanos-compactor-oscore.opera-mini.net
 thanos-oscore.opera-mini.net
 thanos-store-oscore.opera-mini.net
+thanos.lh-cloud.acronis.work
 theatre.tiqets.com
 thecheckout.klarna.com
 theclub.abercrombie.com
@@ -65056,6 +65414,7 @@ timlee.lumos.tw-media-wizardry.aws-use1-az1.dev.vespa.oath.cloud
 timlee.lumos.tw-media-wizardry.us-east-1.dev.vespa.oath.cloud
 timlee.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
 tinyaudio.amazon.co.uk
+tinytools.acronis.work
 tiotpgdm-e2e-certificate-test.e2e.klarna.net
 tip-dev.dell.com
 tip-ge1.dell.com
@@ -65090,6 +65449,7 @@ tls-test.supplycicd-dev.aws.oath.cloud
 tls.msteams.8x8.com
 tls.subscriptions-devops-aws-dev.aws.oath.cloud
 tltbxour-e2e-certificate-test.e2e.klarna.net
+tlv1-aci.acronis.work
 tlv1-repo.acronis.com
 tlv1-s3gw.acronis.com
 tlvswvpnpgnet01-dmz.dell.com
@@ -65132,6 +65492,7 @@ tokenauth.service.staging.dtd.dell.com
 tokenauth.service.test.dtd.dell.com
 tokenauth.service.uat.dtd.dell.com
 tokyo.8x8.vc
+tollbit.ad.nl
 tollgate.8x8.studio
 toms.federal.dell.com
 tomtqnno-e2e-certificate-test.e2e.klarna.net
@@ -65187,6 +65548,7 @@ tools.uat.ph.dell.com
 tools.us1.card-acquiring-pci.klarna.net
 tools.us1.prometheus.klarna.net
 tools2.tophat.withbuddies.com
+toonvandriel.ad.nl
 tophat-vpn.scopely.io
 topic-status.pgre.dell.com
 topichub-staging.topichub.ap-northeast-1.vespa.oath.cloud
@@ -65258,6 +65620,7 @@ touchstone-dashboard.finance-mad-infra-nonprod.aws.oath.cloud
 touchstone-dashboard.finance-mad-infra-prod.aws.oath.cloud
 touchstone-receiver.finance-mad-infra-nonprod.aws.oath.cloud
 touchstone-receiver.finance-mad-infra-prod.aws.oath.cloud
+tourspel.ad.nl
 tower-v2.eu3.nonprod.mk8s.klarna.net
 tower.eu3.nonprod.mk8s.klarna.net
 tower.eu3.production.mk8s.klarna.net
@@ -65275,6 +65638,7 @@ tp-aws-usw2-08.staging.cloud.8x8.com
 tp-eght-cp-cn1-01.prod.cloud.8x8.com
 tp-eght-cp-us1-01.prod.cloud.8x8.com
 tp-jenkins.acronis.work
+tp-manager.acronis.work
 tp-oci-cp-ams-01.prod.cloud.8x8.com
 tp-oci-cp-fra-01.prod.cloud.8x8.com
 tp-oci-cp-iad-01.prod.cloud.8x8.com
@@ -65299,6 +65663,7 @@ tpam2dpe1.us.dell.com
 tpam2dpe2.us.dell.com
 tpasslvpn.dell.com
 tpdreturn.agent.uscc.com
+tpe1-aci.acronis.work
 tpe1-repo.acronis.com
 tpe1-s3gw.acronis.com
 tpepwcrep01.dell.com
@@ -65376,9 +65741,14 @@ tr01-cloud.acronis.com
 trabaja.amazon.com.mx
 tracing.production.eu1.langfuse.klarna.net
 tracing.production.langfuse.klarna.com
+track-acc.ad.nl
+track-nieuw-demo.ad.nl
+track-nieuw.ad.nl
 track-sandbox.amazon.co.uk
+track-test.ad.nl
 track.abercrombie.com
 track.accounts.realestate.com.au
+track.ad.nl
 track.amazon.co.uk
 track.amazon.it
 track.bird.expediagroup.com
@@ -65633,6 +66003,7 @@ tsprodbg.expedia.com
 tsrrjhwo-e2e-certificate-test.e2e.klarna.net
 tst-coresvcs.amds.dell.com
 tst-okta-aws.cloud-mgmt.8x8cloud.net
+tst-webwinkel.ad.nl
 tst1-coresvcs.amds.dell.com
 tst2-coresvcs.amds.dell.com
 tstnlecssizi11.amer.dell.com
@@ -65661,6 +66032,7 @@ tv-schdule.tw-sports.us-east-1.dev.vespa.oath.cloud
 tv-schdule.tw-sports.us-east-1.test.vespa.oath.cloud
 tv-schdule.tw-sports.us-east-3.staging.vespa.oath.cloud
 tv-schdule.tw-sports.us-west-1.vespa.oath.cloud
+tv.ad.nl
 tvfnexdi-e2e-certificate-test.e2e.klarna.net
 tw.hotels.com
 tw.premier.dell.com
@@ -66969,6 +67341,7 @@ uniyksearch.yk-serving.us-west-1.vespa.oath.cloud
 unramuyr-e2e-bouncer-custom-domain-name-test.unramuyr.klarna.net
 unreal-agents.8x8pilot.com
 unstable.cts-api.internal.dcs-online-targeting-dev.aws.oath.cloud
+unsubscribe.ad.nl
 uobcareers.jobstreet.com
 uoojphwg-e2e-certificate-test.e2e.klarna.net
 up.quizlet.com
@@ -68151,6 +68524,7 @@ utilization-reports.aws-oath-pcp-aws-usage.aws.oath.cloud
 utrpzvew-e2e-certificate-test.e2e.klarna.net
 uts-read-ap-northeast-1a.rtb-prod.aws.oath.cloud
 uts-rtb-jenkins.rtb-dev.aws.oath.cloud
+uts.ad.nl
 uts.amazon.com
 utygeowk-e2e-certificate-test.e2e.klarna.net
 uubingwm-e2e-certificate-test.e2e.klarna.net
@@ -68764,6 +69138,8 @@ validator.adposting.prod.outfra.xyz
 validator.indirect-ads.dev.outfra.xyz
 validator.indirect-ads.prod.outfra.xyz
 valkyrie-dev.anduril.com
+valley.ad.nl
+valtaf.ad.nl
 valuechain.dell.com
 values.canva.tech
 valxnhyiruucomborjfvozepfmtje33g4.vespa.oath.cloud
@@ -68788,6 +69164,7 @@ vanity3.expediacruises.com
 vanity4.expediacruises.com
 vanity5.expediacruises.com
 vannnc5oi5jqobq5wcmw5xqcqnoobb75l.vespa.oath.cloud
+vanuwkrant.ad.nl
 vanzmiiouyqk2yo3fythnasfwv24rd7ni.vespa.oath.cloud
 vap-e2e-prod-vac.expedia.com
 vap-e2e-prod.expedia.com
@@ -69321,6 +69698,7 @@ verizon-identity.enterprise-worker-sandbox.eip.oath.cloud
 verizon-identity.enterprise-worker.eip.oath.cloud
 verizon-native-protocol-service.one-mobile-dev.aws.oath.cloud
 verizon-native-protocol-service.one-mobile-prod.aws.oath.cloud
+verkiezingen.ad.nl
 versioncheck.addons.allizom.org
 vertexlite.payments-aws-services-dev.aws.oath.cloud
 vertexlite.payments-aws-services-prod.aws.oath.cloud
@@ -69329,6 +69707,7 @@ vertica-eu.beta.contentsquare.com
 vertica-us.beta.contentsquare.com
 vertica.db.one-mobile-prod.aws.oath.cloud
 very.long.url.with.subdomains.klarna.net
+verzekeringen.ad.nl
 vesoas6ptmkamm7ehnmuvizp35djzp6es.vespa.oath.cloud
 vespa-8-test.bjormel-vespa.us-east-1.dev.vespa.oath.cloud
 vespa-documentation-search.vespa.ap-northeast-1.vespa.oath.cloud
@@ -69813,6 +70192,7 @@ video-quic2.feednews.com
 video-stage.aws.oath.cloud
 video-upnext.vid-search.us-east-1.dev.vespa.oath.cloud
 video.8x8.com
+video.ad.nl
 video.amazon.co.uk
 video.bjormel-vespa.us-east-1.dev.vespa.oath.cloud
 video.cascade.anduril.com
@@ -69854,6 +70234,7 @@ vidftzqeib7wydc2nkgq557fwfir2rfvh.cd.vespa.oath.cloud
 vidftzqeib7wydc2nkgq557fwfir2rfvh.vespa.oath.cloud
 vidofm6rjflqpmemljlep34igob2thqtw.vespa.oath.cloud
 vidzz7pjt2ic4xpzvtypxqfwpkqypftwm.vespa.oath.cloud
+vie1-aci.acronis.work
 vie1-repo.acronis.com
 vie1-s3gw.acronis.com
 viea3ayj3makzp3webs23jop2fpycyt2k.vespa.oath.cloud
@@ -69951,6 +70332,7 @@ visa.production.us1.connected-card-transaction-listener.klarna.net
 visa.staging.us1.connected-card-transaction-listener.klarna.net
 visg5dhgeqqynpkyg4eucxtqrkmqgwbuc.vespa.oath.cloud
 vishrlizfehi5im7qp6kdj2wyaurf3k56.vespa.oath.cloud
+vision.acronis.work
 visitaccount.ui.com
 visitarizona.expedia.com
 visitbarbados.expedia.com
@@ -70172,8 +70554,10 @@ vlb7nvdstusynp5pusd6625ymdqztfcbp.vespa.oath.cloud
 vlbjqkfrs5yzsh6bdl6msbintm3jsuu3x.vespa.oath.cloud
 vlbwzuulzotuntezxfpcx7hvq3ijfqb5q.public-cd.vespa.oath.cloud
 vlbzuo5pbfmztdhwihboqw4r4uds5vbgf.vespa.oath.cloud
+vlc1-aci.acronis.work
 vlc1-repo.acronis.com
 vlc1-s3gw.acronis.com
+vlc1-zta.acronis.work
 vlc4dulzjtefyp65mhsj3llxha4qffhyf.vespa.oath.cloud
 vlc5ftxfk4idedh5x6bqhmjmpkxlw6xb6.public.vespa.oath.cloud
 vldaasyw2izkx7rl2i34ksfkr7zfil7bx.cd.vespa.oath.cloud
@@ -70420,6 +70804,7 @@ vocq.ai.8x8.com
 vocrmapi.8x8pilot.com
 vocrmint.8x8pilot.com
 vocuyyk3kq5vmz6hkixl5mcvcd53vgsip.vespa.oath.cloud
+vodafoon.ad.nl
 vodcgfrxm5tfbpclsdli5tbbrj2vncya6.public-cd.vespa.oath.cloud
 vodeye7luuviidwwmpo7f2uym4fbd3tjg.public.vespa.oath.cloud
 vodp635yljr2gr4mm76srapbi6vw7rfrl.vespa.oath.cloud
@@ -70459,6 +70844,7 @@ voo.8x8pilot.com
 voofwqeq-e2e-certificate-test.e2e.klarna.net
 voohope7o3digxf233ycfgccnlzefuobx.vespa.oath.cloud
 voolmalddgecxlsxnxnwixxlp3cazrt2i.vespa.oath.cloud
+voordeel.ad.nl
 vop4djpu4h4c6n7hf24ypnflqcitzacw4.vespa.oath.cloud
 vopci-cc.8x8pilot.com
 voqetwv34lkvzxesdw3ie4yw7kxluzycn.vespa.oath.cloud
@@ -71041,6 +71427,7 @@ vud72owai6vcjyygyumtsflo56j6axkgj.vespa.oath.cloud
 vudedy37t33ka2bq5w54fnkwqunbigb23.public.vespa.oath.cloud
 vuebkzx3pfoe2e4w3h43yt3scha5v24vn.vespa.oath.cloud
 vueieqgtqib57koatfcrueisb6je3te7s.vespa.oath.cloud
+vueltaspel.ad.nl
 vuevem6nndetkdoyv5t2tk6nhf3zytwft.vespa.oath.cloud
 vuf3pbs77spkz6bm5hsvucj5ttit672b4.vespa.oath.cloud
 vufal35juf56y35bxprfy7curib46cpce.vespa.oath.cloud
@@ -71262,6 +71649,7 @@ vwyktxrutoagf3wcobhf3hu77uvgvc4mo.public.vespa.oath.cloud
 vwz3lsusdf7x6ryzxfopt3lnmotb3ne3o.vespa.oath.cloud
 vwzgx4c3x4qfwkwxpcx4sg76ia72ddbwa.public.vespa.oath.cloud
 vwzhww5fkrdc3xqwrknrbc2zh5x4s7knj.vespa.oath.cloud
+vx.ad.nl
 vx2cq3gg5dw3kkjm42iq3fmtjqoc75gxd.vespa.oath.cloud
 vx2jgnn57da54iar4rrdp6uemxnnj5h7f.vespa.oath.cloud
 vx2lcxkb2u5xo6oc5l2wcy2bpsrs3v46r.vespa.oath.cloud
@@ -71586,6 +71974,7 @@ wausaugiveaway.uscellular.com
 wave14.us.dell.com
 wavefront-prometheus-ec2-dev.platformdevops.8x8cloud.net
 wavy.klarna.com
+waw1-aci.acronis.work
 waw1-repo.acronis.com
 waw1-s3gw.acronis.com
 wayfarer.scopely.com
@@ -71654,6 +72043,7 @@ web-staging.plannthat.com
 web-staging.sol-data.com
 web-stg.contentsquare.com
 web-ui.mediaplatform-mlplatform-qa.aws.oath.cloud
+web.ad.nl
 web.caidentia-za1-np.kob.dell.com
 web.caidentia-zcha1.kob.dell.com
 web.caidentia-zchs1.kob.dell.com
@@ -71978,6 +72368,7 @@ webservices-internal.amazon.com.au
 webservices-internal.amazon.com.be
 webservices-pte.uscc.com
 webservices-sqa.uscc.com
+webservices.ad.nl
 webservices.amazon.ae
 webservices.amazon.co.uk
 webservices.amazon.co.za
@@ -72068,6 +72459,8 @@ webservices2way.sqt29.uscc.com
 webservices2way.sup1.uscc.com
 webservices2way.uscc.com
 webservicesgfx.dell.com
+webshop.ad.nl
+webshopredirect.ad.nl
 website-g7g.amazon.co.uk
 website-g7g.amazon.com
 website.plannthat.com
@@ -72099,12 +72492,17 @@ webtrends-sdc.us.dell.com
 webwinkel.ad.nl
 weddings.expedia.com
 wedr-author.uscellular.com
+wedstrijd.ad.nl
 wedzdraa-e2e-certificate-test.e2e.klarna.net
+weer.ad.nl
+weer.www.ad.nl
 wehapi-argo.eu-west-1.production.contentsquare.com
 wehapi.eu-west-1.production.contentsquare.com
 welcome-to-implementation.contentsquare.com
 welcome.expediagroup.com
 welcomevideo.expedia.com
+welkom.ad.nl
+welkom.staging.ad.nl
 wellfleet.aws.amazon.com
 wells-fargo-sandbox.debai-backend.klarna.com
 wells-fargo.debai-backend.klarna.com
@@ -72233,6 +72631,8 @@ widgets.k8s.tiqets.com
 widgets.partners.expedia.com
 widgets.staging.tiqets.com
 widgets.tiqets.com
+wijzigen-acc.ad.nl
+wijzigen.ad.nl
 wiki-acx.amazon.co.uk
 wiki-acx.amazon.com
 wiki-browser-contractors.auth.ingress.dill.dev.openai.org
@@ -72333,6 +72733,7 @@ wingmate-serving.wingmate.global.vespa.oath.cloud
 wingmate-serving.wingmate.us-east-1.dev.vespa.oath.cloud
 wingmate-serving.wingmate.us-east-1.test.vespa.oath.cloud
 wingmate-serving.wingmate.us-east-3.staging.vespa.oath.cloud
+winkel.ad.nl
 winwithservices.dell.com
 winwithus.uscellular.com
 wip.ap.dell.com
@@ -72540,6 +72941,7 @@ wwhite.builds.tophat.scopely.io
 wwko2023.contentsquare.com
 wwnbypxa-e2e-certificate-test.e2e.klarna.net
 wwnsfoul-e2e-certificate-test.e2e.klarna.net
+www-acc.ad.nl
 www-amazon.co.uk
 www-apj-csb.dell.com
 www-apj.csb.dell.com
@@ -72650,6 +73052,8 @@ www.aamazon.co.uk
 www.aauea02.msteams.8x8.com
 www.ab-jenkins.corp.acronis.com
 www.abercrombie.com
+www.abonnement.ad.nl
+www.abonnementen.ad.nl
 www.about.gitlab.com
 www.abritel.fr
 www.ac.orbitz.com
@@ -72670,6 +73074,7 @@ www.acmrnd.corp.acronis.com
 www.acronis.com
 www.acronis.work
 www.acroshare.ru.corp.acronis.com
+www.actie.ad.nl
 www.activities.marriott.com
 www.acweb.orbitz.com
 www.ad.nl
@@ -73054,6 +73459,7 @@ www.cp.cloudstore.dell.com
 www.cp.partners.acronis.com
 www.cp.staging.cloud.dell.com
 www.crawler.ai.stage.8x8.vc
+www.creator.ai.acronis.com
 www.creator.expediagroup.com
 www.creator.klarna.com
 www.credit.klarnacdn.net
@@ -73168,6 +73574,7 @@ www.dk.digitalfulfillment.dell.com
 www.dk01-cloud.acronis.com
 www.dl.acronis.com
 www.dl2.acronis.com
+www.dms.acronis.work
 www.docker.openai.com
 www.docker2-dev.openai.com
 www.docker2.openai.com
@@ -74005,6 +74412,7 @@ www.playground.eu1.merchant-portal.klarna.net
 www.plmsp-sit.us.dell.com
 www.pmc.acronis.work
 www.pmctest.acronis.work
+www.portal.ai.acronis.com
 www.portalselfservice.federal.dell.com
 www.prd.apigateway.uscc.com
 www.premierhelpdesk.dell.com
@@ -74185,6 +74593,7 @@ www.smile.amazon.co.uk
 www.snoreduty.8x8.vc
 www.snoreduty.stage.8x8.vc
 www.socialhub.expediacruises.com
+www.socialize.ad.nl
 www.sociallogin.jobstreet.com
 www.som.fewo-direkt.de
 www.sonata.api.openai.com
@@ -74281,6 +74690,7 @@ www.test.opera-website.route53.opera.com
 www.test.share.software.dell.com
 www.test.vault.tophat.withbuddies.com
 www.testconnect.expedia.com
+www.testmee.ad.nl
 www.testrail.corp.acronis.com
 www.testrail.maxstudio.scopely.com
 www.testvault.dell.com
@@ -74372,6 +74782,7 @@ www.verintlab.uscc.com
 www.verintlab.uscellular.com
 www.verintprod.uscc.com
 www.verintprod.uscellular.com
+www.verzekeringen.ad.nl
 www.videos.8x8.com
 www.videos.openai.com
 www.view.syddsc.apj.dell.com
@@ -74407,6 +74818,7 @@ www.webtasks.onlineauth.dev.outfra.xyz
 www.webtasks.onlineauth.prod.outfra.xyz
 www.webteam-grafana.corp.acronis.com
 www.webteam-zbx.corp.acronis.com
+www.webwinkel.ad.nl
 www.weddings.expedia.com
 www.welcome.expediagroup.com
 www.weprod.uscellular.com
@@ -75122,6 +75534,7 @@ yuvals.sol.blink-dpa.us-east-3.perf.vespa.oath.cloud
 yuvals2.csp.gemini-native.aws-us-east-2a.dev.vespa.oath.cloud
 yuvalstest.csp.gemini-native.aws-us-east-2a.dev.vespa.oath.cloud
 yuvszjfp-e2e-certificate-test.e2e.klarna.net
+yvr1-aci.acronis.work
 yvr1-repo.acronis.com
 yvr1-s3gw.acronis.com
 yvrswvpn01-ext.yvr.dell.com
@@ -75167,6 +75580,7 @@ z2s2.pcf.dell.com
 z2s3.pcf.dell.com
 za.hotels.com
 za01-cloud.acronis.com
+zabbix.acronis.work
 zabbix.corp.acronis.com
 zabbixnp.dell.com
 zaokpsoq-e2e-certificate-test.e2e.klarna.net
@@ -75272,6 +75686,7 @@ zsalpozy-e2e-certificate-test.e2e.klarna.net
 zsropxpy-e2e-certificate-test.e2e.klarna.net
 zt-login.adminml.com
 zt.adminml.com
+zta-jenkins.acronis.work
 ztcvdrdm-e2e-certificate-test.e2e.klarna.net
 ztfrdgjs-e2e-certificate-test.e2e.klarna.net
 ztn-privatelink.nonprod.eu1.ztn.klarna.net
