@@ -45951,6 +45951,7 @@ mail.acceptance.cloud.8x8.com
 mail.acronis.com
 mail.ad.nl
 mail.adaptive-shield.com
+mail.admin.instacart.com
 mail.adncntxt.fde.openai.com
 mail.ads.openai.com
 mail.adx.opera.com
@@ -53647,6 +53648,7 @@ preview-www.uscellular.com
 preview.3.basecamp.com
 preview.8x8.studio
 preview.account.adobe.com
+preview.admin.shopify.com
 preview.cd.vespa.yahoo.cloud
 preview.delltechnologies.com
 preview.demo-store.klarna.net
