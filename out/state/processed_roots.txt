@@ -18,6 +18,7 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
+*.cashstaging.app
 *.compuserve.com
 *.contentsquare.com
 *.dailyadvent.com
@@ -53,6 +54,7 @@
 *.klarnacdn.net
 *.linktree-extensions.com
 *.lite.aol.com
+*.lululemon.com
 *.mercadolibre.com.ve
 *.mobile-messenger.intercom.com
 *.myseek.xyz
@@ -96,11 +98,19 @@
 *.services.repostnetwork.com
 *.skinfra.xyz
 *.sol-data.com
+*.solarcity.com
 *.soundcloud.org
 *.stayz.com.au
 *.super.xyz
 *.support.originenergy.com.au
 *.swaps.xyz
+*.tdl.sh
+*.tesla.cn
+*.tesla.com
+*.tesla.services
+*.teslainsuranceservices.com
+*.teslamotors.com
+*.tidalhifi.com
 *.tiqets.com
 *.tools.thefork.tech
 *.tucarro.com.ve
