@@ -1686,6 +1686,8 @@ abnuflrr-e2e-certificate-test.e2e.klarna.net
 abonnement-acc.ad.nl
 abonnement-test.ad.nl
 abonnement.ad.nl
+abonnement2.ad.nl
+abonnementen.ad.nl
 aboss.antcloud.antbank.hk
 aboss.cloud.sgp.alipayplus.com
 about.canva.com
@@ -1762,12 +1764,19 @@ acb7850a.g.cd.vespa.oath.cloud
 acb7850a.z.cd.vespa.oath.cloud
 acb924f3.z.vespa.oath.cloud
 acba879c.z.vespa.oath.cloud
+acc-abonnement.ad.nl
 acc-mobile.dell.com
 acc-mobile.ecomm.euro.dell.com
+acc-mobilebackend.ad.nl
+acc-webshop.ad.nl
 acc-webwinkel.ad.nl
 acc.ad.nl
+acc.club.ad.nl
 acc.kcc.ad.nl
 acc.mobilevikings.be
+acc.secure.ad.nl
+acc.voordeel.ad.nl
+acc.webwinkel.ad.nl
 accademia-gallery.tiqets.com
 accaglobal.account.box.com
 accelerate.opera.com
@@ -1787,7 +1796,10 @@ accelerator.amazon.in
 accelerator.amazon.it
 accelerator.amazon.nl
 accelerator.aws.oath.cloud
+acceptance-abonnement.ad.nl
 acceptance-mark.alipayplus.com
+acceptance-opzeggen.ad.nl
+acceptance-wijzigen.ad.nl
 acceptance.cloud.8x8.com
 access-alexa-na.amazon.com
 access-alienware.dell.com
@@ -1996,6 +2008,8 @@ accounts.expediagroup.com
 accounts.firefox.com
 accounts.insightly.com
 accounts.logi.com
+accounts.myaccount.ad.nl
+accounts.nieuw-demo.ad.nl
 accounts.openai.com
 accounts.opera.com
 accounts.pixiv.net
@@ -2227,6 +2241,7 @@ ade-stg.us.dell.com
 adeexuzl-e2e-certificate-test.e2e.klarna.net
 adellchat.ins.dell.com
 adev.scopely.io
+adextra.ad.nl
 adf485fe.z.vespa.oath.cloud
 adf79394.a.vespa.oath.cloud
 adf79394.g.vespa.oath.cloud
@@ -2360,6 +2375,8 @@ adposting.jobstreet.com
 adpqjwlt-e2e-certificate-test.e2e.klarna.net
 adqa-testrail.anduril.dev
 adr.acronis.com
+adrvideoweb-acc.ad.nl
+adrvideoweb.ad.nl
 ads-0.gateway.internal.api.openai.org
 ads-0.internal.api.openai.org
 ads-0s.gateway.internal.api.openai.org
@@ -2487,6 +2504,8 @@ advertising.tucarro.com.ve
 advertisingconnect.amazon.in
 advertize.amazon.com
 advertizing.amazon.com
+advertorial.ad.nl
+advertorials.ad.nl
 advgovernance-aws-dev.aws.oath.cloud
 advinsights-nonprod.aws.oath.cloud
 advinsights-prod.aws.oath.cloud
