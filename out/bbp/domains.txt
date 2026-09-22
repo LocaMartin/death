@@ -18,6 +18,7 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
+*.cashstaging.app
 *.compuserve.com
 *.contentsquare.com
 *.dailyadvent.com
@@ -53,6 +54,7 @@
 *.klarnacdn.net
 *.linktree-extensions.com
 *.lite.aol.com
+*.lululemon.com
 *.mercadolibre.com.ve
 *.mobile-messenger.intercom.com
 *.myseek.xyz
@@ -96,11 +98,19 @@
 *.services.repostnetwork.com
 *.skinfra.xyz
 *.sol-data.com
+*.solarcity.com
 *.soundcloud.org
 *.stayz.com.au
 *.super.xyz
 *.support.originenergy.com.au
 *.swaps.xyz
+*.tdl.sh
+*.tesla.cn
+*.tesla.com
+*.tesla.services
+*.teslainsuranceservices.com
+*.teslamotors.com
+*.tidalhifi.com
 *.tiqets.com
 *.tools.thefork.tech
 *.tucarro.com.ve
@@ -108,9 +118,13 @@
 *.uscc.com
 *.uscc.net
 *.uscellular.com
+*.vercel.com
+*.vercel.live
+*.wimpmusic.com
 *.withbuddies.com
 *.yahoo.cloud
 *.yoyogames.com
+*tidalhi.fi
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
 --your-own-1password-account--.1password.com
 10x.redoxengine.com
@@ -567,6 +581,7 @@ api.swapcard.com
 api.swiftfinancial.com
 api.syfe.com
 api.theperfumeshop.com
+api.tidal.com
 api.trello.com
 api.truelayer-sandbox.com
 api.truelayer.com
@@ -1156,7 +1171,6 @@ closetheplaygap.com
 cloud.app.box.com
 cloud.com
 cloud.digitalocean.com
-cloud.elastic.co
 cloud.forescout.com
 cloud.kaufland.de
 cloud.malwarebytes.com
@@ -1282,6 +1296,8 @@ com.boozt.app
 com.boozt.booztlet
 com.booztlet
 com.box.android
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -4126,7 +4142,6 @@ socialclub.rockstargames.com
 socialimpact.nba.com
 sockets.geneva-staging.chat
 sockets.geneva-staging.com
-solarcity.com
 solutions-environnement.vinci.com
 sonalytic.com
 sonyentertainmentnetwork.com
@@ -4327,7 +4342,6 @@ svn.wordpress.org
 swarm.embark.net
 swiftcapital.com
 swiftfinancial.com
-swiftype.com
 swiss-backup.infomaniak.com
 swisspass.ch
 swisstransfer.infomaniak.com
@@ -4367,11 +4381,6 @@ tempo-dev.wnba.com
 tempo-qa.wnba.com
 tempo.wnba.com
 tequila.kiwi.com
-tesla.cn
-tesla.com
-tesla.services
-teslainsuranceservices.com
-teslamotors.com
 test.deribit.com
 test.payworks.io
 testapi.redoxengine.com
@@ -4399,6 +4408,7 @@ tickets.kinepolis.es
 tickets.kinepolis.fr
 tickets.kinepolis.lu
 tickets.kinepolis.nl
+tidal official clients (e.g. sonos integration, tesla integration, etc.)
 tiktok.com
 tiktokcdn.com
 tiktokpublishers.com
@@ -4542,6 +4552,8 @@ userprofile-ui.landmarkcinemas.com
 users-api.truelayer.com
 uwa.mobilevikings.be
 uzleuven.be
+v0.app
+v0.dev
 v1.kidswebservices.com
 v1staging.kidswebservices.com
 vacation.marriott.com
@@ -4562,6 +4574,8 @@ vcc-*.8x8.com
 vcc-ce.8x8.com
 vector.prd.iat.it.xvservice.net
 venmo.com
+vercel.app
+vercel.com
 veriff.com
 verified.clearme.com
 verified.clearme.com/v1/verification_sessions

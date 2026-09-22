@@ -188,6 +188,7 @@ capitalonegslbex.com
 capitaloneshopping.com
 captcha-delivery.com
 carrentals.com
+cashstaging.app
 cb.dev
 cbhq.net
 certinia.com
@@ -629,6 +630,7 @@ luckydays.ca
 luckydays.com
 lucra.live
 lukwerks.com
+lululemon.com
 luxuryretreats.com
 lyst.co
 lyst.com
@@ -1059,8 +1061,8 @@ superbet.rs
 superdrug.com
 superhuman.com
 swaps.xyz
-swiftype.com
 swisspass.ch
+tdl.sh
 techbook.de
 telenor.se
 telenorinpli.se
@@ -1077,6 +1079,8 @@ thinkingphones.com
 thinkingphones.net
 threatdown.com
 ticketnew.com
+tidalhi.fi
+tidalhifi.com
 tiktok.com
 tiktokcdn.com
 tiktokpublishers.com
@@ -1150,6 +1154,8 @@ varonis.com
 varonis.io
 vayama.com
 venmo.com
+vercel.com
+vercel.live
 veriff.com
 verilyme.com
 verisign-grs.com
@@ -1211,6 +1217,7 @@ whois.eu
 wien.at
 wien.gv.at
 wienkav.at
+wimpmusic.com
 wise.com
 wissen-sie-mehr.de
 withairbnb.com
