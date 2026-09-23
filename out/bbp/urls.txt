@@ -347,7 +347,6 @@ https://bitbucket.org
 https://bitgo.ae
 https://bitso.com
 https://blis.com
-https://blockexplorer.electroneum.com
 https://blofin.com
 https://blog.bitpanda.com/en
 https://blog.etsy.com
@@ -750,7 +749,6 @@ https://github.com/discourse/discourse
 https://github.com/dopplerhq/cli
 https://github.com/dynatrace
 https://github.com/electroneum/electroneum
-https://github.com/electroneum/electroneum-sc
 https://github.com/esa
 https://github.com/exodusoss/bytes
 https://github.com/exodusoss/crypto
@@ -1712,7 +1710,7 @@ https://mcp.opensea.io
 https://mcp.recordedfuture.com
 https://mcs.arlo.com
 https://media.irobot.com
-https://mediaflows.cloudinary.com
+https://mediaflows.cloudinary.com/
 https://mein.wien.gv.at/
 https://mein.wien.gv.at/broker/api/*
 https://member.webmd.com
@@ -2113,7 +2111,6 @@ https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
 https://teleoptiprd.otto.de
 https://tempus-ex.com
 https://tess.service-now.com
-https://testnet-blockexplorer.electroneum.com
 https://tfb.t-mobile.com
 https://thatconceptstore.com
 https://thueringer-foerderportal.eu
