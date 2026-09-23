@@ -1,4 +1,6 @@
+*.bitoasis.net
 *.cashstaging.app
+*.coindcx.com
 *.lululemon.com
 *.solarcity.com
 *.tdl.sh
@@ -13,22 +15,12 @@
 *.wimpmusic.com
 *tidalhi.fi
 api.tidal.com
+protocol of the swiss post voting system 2.0 (whitepaper)
 tidal official clients (e.g. sonos integration, tesla integration, etc.)
 v0.app
 v0.dev
 vercel.app
 vercel.com
-www.funjet.com
-www.fuzemeeting.com
-www.geneva-staging.chat
-www.geneva-staging.com
-www.getaroom.com
-www.giving.marriott.com
-www.gocardless.com
-www.goodrx.com
-www.gr.dyson.com
-www.gripp.com
-www.habileoh.com
 www.hln.be
 www.horeko.com
 www.hotels.com
