@@ -11,6 +11,7 @@
 *.api.originenergy.com.au
 *.arc.io
 *.assurancewireless.com
+*.bitoasis.net
 *.boltable.eu
 *.bookabach.co.nz
 *.canva-apps.cn
@@ -19,6 +20,7 @@
 *.canva.com
 *.canva.tech
 *.cashstaging.app
+*.coindcx.com
 *.compuserve.com
 *.contentsquare.com
 *.dailyadvent.com
@@ -118,9 +120,13 @@
 *.uscc.com
 *.uscc.net
 *.uscellular.com
+*.vercel.com
+*.vercel.live
+*.wimpmusic.com
 *.withbuddies.com
 *.yahoo.cloud
 *.yoyogames.com
+*tidalhi.fi
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
 --your-own-1password-account--.1password.com
 10x.redoxengine.com
@@ -218,3 +224,7 @@ admin.podsights.com
 admin.ring.com
 admin.shopify.com
 admin.sqills-bugbounty-test.cloud.sqills.com
+admin.wickr.com
+admincms.developer.monespacesante.fr
+admincms.monespacesante.fr
+adminml.com
