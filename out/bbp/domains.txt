@@ -102,6 +102,7 @@
 *.sol-data.com
 *.solarcity.com
 *.soundcloud.org
+*.statuspage.io
 *.stayz.com.au
 *.super.xyz
 *.support.originenergy.com.au
@@ -115,6 +116,7 @@
 *.tidalhifi.com
 *.tiqets.com
 *.tools.thefork.tech
+*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.tucarro.com.ve
 *.tw.news.yahoo.com
 *.uscc.com
@@ -208,6 +210,7 @@ acronis.work
 actie.libelle.nl
 actionableagile.55degrees-apps.net
 actionnaires.vinci.com
+activate.3cx.com
 activities.marriott.com
 ad.nl
 adaptive-shield.com
@@ -463,7 +466,6 @@ api.loanbuilder.com
 api.login.yahoo.com
 api.lookatme.com.ph
 api.louisvuitton.com
-api.magic.link
 api.marionnaud.at
 api.marionnaud.ch
 api.marionnaud.cz
@@ -802,7 +804,6 @@ auth.digital.delen.be
 auth.digital.delen.lu
 auth.dmp.gouv.fr
 auth.embark.net
-auth.magic.link
 auth.metronome.com
 auth.monespacesante.fr
 auth.moonpay.com
@@ -1802,7 +1803,6 @@ dash.cloudflare.com
 dash.dropbox.com
 dash.podsights.com
 dashboard.doppler.com
-dashboard.magic.link
 dashboard.mergify.com
 dashboard.plaid.com
 dashboard.pluralonline.com
@@ -1948,6 +1948,7 @@ doordash.doordashconsumer
 doppler.team
 download.esa.int
 download.krisp.ai
+downloads-global.3cx.com
 downloads.varonis.com
 dpgmedia.be
 dpgmedia.nl
@@ -2301,7 +2302,6 @@ giftcards.marriott.com
 gifts.grab.com
 gifts.marriott.com
 gist.github.com
-git.wordpress.org
 github.com
 github.com/anthropics
 github.com/anthropics/anthropic-sdk-python
@@ -2945,6 +2945,7 @@ mail.infomaniak.com
 mail.notion.so
 mail.superhuman.com
 mailpoet.com
+mailproxy.3cx.com
 maine-dev.gleague.nba.com
 maine-qa.gleague.nba.com
 maine.gleague.nba.com
@@ -3838,6 +3839,7 @@ remitresearch.com
 reno-dev.gleague.nba.com
 reno.gleague.nba.com
 rentalcars.com
+repo.3cx.com
 report-html-sight.stg.inspectorio.com
 report.uat.proptrack.com
 report.voi.com
@@ -3910,6 +3912,7 @@ router.hereapi.com
 row.pro
 rpc.drpc.testnet.arc.network
 rpc.testnet.arc.network
+rps.3cx.com
 rs-open-api.tw.coupang.com
 rs.visa.com
 rt.playcanvas.com
@@ -4258,7 +4261,6 @@ stats.vinci.com
 stats.wnba.com
 status.delen.be
 status.larksuite.com
-statuspage.io
 steamcommunity.com
 steamstatic.com
 stockton-dev.gleague.nba.com
@@ -4342,7 +4344,6 @@ survey.vinci.com
 survey.visa.com
 sustentabilidadmercadolibre.com
 svn.notebleue.pro
-svn.wordpress.org
 swarm.embark.net
 swiftcapital.com
 swiftfinancial.com
@@ -4436,7 +4437,6 @@ tospotify.com
 tournament.fantasysports.yahoo.com
 townhall.nba.com
 tpp.nba.com
-trac.wordpress.org
 trade.ripio.com
 trade.staging-enviso.io
 training.ui.com
@@ -4779,6 +4779,7 @@ wissen-sie-mehr.de
 withairbnb.com
 withspotify.com
 wlo.link
+wmr.3cx.net
 wnbabroadcastmanuals.nba.com
 wolt.com
 wonderboxapi.com
