@@ -11,6 +11,7 @@
 *.api.originenergy.com.au
 *.arc.io
 *.assurancewireless.com
+*.bitoasis.net
 *.boltable.eu
 *.bookabach.co.nz
 *.canva-apps.cn
@@ -19,6 +20,7 @@
 *.canva.com
 *.canva.tech
 *.cashstaging.app
+*.coindcx.com
 *.compuserve.com
 *.contentsquare.com
 *.dailyadvent.com
@@ -3808,6 +3810,7 @@ projectbaseline.com
 projects.datacamp.com
 projects.epam.com
 promo.tw.coupang.com
+protocol of the swiss post voting system 2.0 (whitepaper)
 protrade.com
 prow.k8s.io
 prowly.com
