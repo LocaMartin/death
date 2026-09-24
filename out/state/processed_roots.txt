@@ -102,6 +102,7 @@
 *.sol-data.com
 *.solarcity.com
 *.soundcloud.org
+*.statuspage.io
 *.stayz.com.au
 *.super.xyz
 *.support.originenergy.com.au
@@ -115,6 +116,7 @@
 *.tidalhifi.com
 *.tiqets.com
 *.tools.thefork.tech
+*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.tucarro.com.ve
 *.tw.news.yahoo.com
 *.uscc.com
@@ -209,6 +211,7 @@ acronis.work
 actie.libelle.nl
 actionableagile.55degrees-apps.net
 actionnaires.vinci.com
+activate.3cx.com
 activities.marriott.com
 ad.nl
 adaptive-shield.com
@@ -228,3 +231,10 @@ admin.wickr.com
 admincms.developer.monespacesante.fr
 admincms.monespacesante.fr
 adminml.com
+adminstore.developer.monespacesante.fr
+adminstore.monespacesante.fr
+admintool.lime.bike
+ads-partners.tw.coupang.com
+ads.reddit.com
+ads.snapchat.com
+ads.temu.com
