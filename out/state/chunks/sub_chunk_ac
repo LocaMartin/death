@@ -1,10 +1,3 @@
-api.astra-test.dell.com
-api.astra.dell.com
-api.bitoasis.net
-api.cashstaging.app
-api.cognigy-dev.dell.com
-api.cognigy.dell.com
-api.csb.dell.com
 api.defender.saas.dell.com
 api.dell.com
 api.delltechnologies.com
@@ -33,6 +26,7 @@ api.sn.tesla.services
 api.solarcity.com
 api.sre.scit.solarcity.com
 api.sre.solarcity.com
+api.statuspage.io
 api.tax.cashstaging.app
 api.taxes.cashstaging.app
 api.tidalhifi.com
@@ -123,3 +117,9 @@ apiportal.us.dell.com
 apiportalb2b.ins.dell.com
 apiportalb2b.us.dell.com
 apiportalb2bpc1.us.dell.com
+apiportalb2bs3b.us.dell.com
+apiportalddsnp.us.dell.com
+apiportalddsprod.us.dell.com
+apiportaleapi.us.dell.com
+apiportaleapipc1.us.dell.com
+apiportaleapis3b.us.dell.com
