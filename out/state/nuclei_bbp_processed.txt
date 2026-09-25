@@ -102,6 +102,7 @@
 *.sol-data.com
 *.solarcity.com
 *.soundcloud.org
+*.statuspage.io
 *.stayz.com.au
 *.super.xyz
 *.support.originenergy.com.au
@@ -115,6 +116,7 @@
 *.tidalhifi.com
 *.tiqets.com
 *.tools.thefork.tech
+*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.tucarro.com.ve
 *.tw.news.yahoo.com
 *.uscc.com
@@ -212,6 +214,7 @@ acronis.work
 actie.libelle.nl
 actionableagile.55degrees-apps.net
 actionnaires.vinci.com
+activate.3cx.com
 activities.marriott.com
 ad.nl
 adaptive-shield.com
@@ -2016,6 +2019,7 @@ download.esa.int
 download.krisp.ai
 download.mozilla.org
 download.originenergy.com.au
+downloads-global.3cx.com
 downloads.varonis.com
 dpgmedia.be
 dpgmedia.nl
@@ -3030,6 +3034,7 @@ mail.infomaniak.com
 mail.notion.so
 mail.superhuman.com
 mailpoet.com
+mailproxy.3cx.com
 maine-dev.gleague.nba.com
 maine-qa.gleague.nba.com
 maine.gleague.nba.com
@@ -3928,6 +3933,7 @@ remitresearch.com
 reno-dev.gleague.nba.com
 reno.gleague.nba.com
 rentalcars.com
+repo.3cx.com
 report-html-sight.stg.inspectorio.com
 report.uat.proptrack.com
 report.voi.com
@@ -4000,6 +4006,7 @@ router.hereapi.com
 row.pro
 rpc.drpc.testnet.arc.network
 rpc.testnet.arc.network
+rps.3cx.com
 rs-open-api.tw.coupang.com
 rs.visa.com
 rt.playcanvas.com
@@ -4877,6 +4884,7 @@ wissen-sie-mehr.de
 withairbnb.com
 withspotify.com
 wlo.link
+wmr.3cx.net
 wnbabroadcastmanuals.nba.com
 wolt.com
 wonderboxapi.com
