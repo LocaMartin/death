@@ -676,6 +676,8 @@ https://forum.newrelic.com
 https://fx-qa.np.bolsasymercados.es/
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gateway.superhuman.com
+https://gatewaydsapprd.marriott.com/v1
+https://gatewaydsapprd.marriott.com/v2
 https://gcsm.oppoit.com/
 https://gemcreditline.co.nz
 https://gemfinance.co.nz
@@ -2042,6 +2044,7 @@ https://sign.originzero.com.au
 https://signal.pulsepoint.com/hcp365#/dashboard/advertiser/6603/overview
 https://signal.pulsepoint.com/hcpexplorer#/dashboard/eventsExplorer
 https://signature.blis.com
+https://signup.ticketmaster.com/bugbountytest
 https://simnext.bullish-test.com
 https://simplisafe.co.uk
 https://simplisafe.com

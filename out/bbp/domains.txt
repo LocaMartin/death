@@ -5,6 +5,8 @@
 *.admanager.yahoo.com
 *.adx.opera.com
 *.aips-internal.com
+*.algolia.net
+*.algolianet.com
 *.apex-football.com
 *.apexnews.com
 *.apexscores.io
@@ -663,6 +665,7 @@ app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.link.com
+app.livenation.com
 app.marionnaud.at
 app.marionnaud.ch
 app.marionnaud.cz
@@ -702,6 +705,13 @@ app.stg.inspectorio.com
 app.superdrug.com
 app.swapcard.com
 app.theperfumeshop.com
+app.ticketmaster.ca
+app.ticketmaster.co.uk
+app.ticketmaster.com
+app.ticketmaster.com.au
+app.ticketmaster.com.mx
+app.ticketmaster.eu
+app.ticketmaster.ie
 app.truelayer-sandbox.com
 app.truelayer.com
 app.watsons.com.tr
@@ -1802,6 +1812,7 @@ dash.ai
 dash.cloudflare.com
 dash.dropbox.com
 dash.podsights.com
+dashboard.algolia.com
 dashboard.doppler.com
 dashboard.mergify.com
 dashboard.plaid.com
@@ -1919,6 +1930,7 @@ discover-acc.esa.int
 discover.esa.int
 distribution-xml.booking.com
 district.in
+dk.royalarena.app
 dl.boxcloud.com
 dlmultimedia.esa.int
 dns.eu
@@ -2247,6 +2259,7 @@ foundrygov.com
 fp-sg.tiktokv.com
 fr.louisvuitton.com
 fromspotify.com
+frontgatetickets.com
 ftp.developersites.com.au:45875
 fulfillment.23andme.com
 funding-webhooks.remitly.io
@@ -2820,6 +2833,8 @@ lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
 live-backstage.tiktok.com
 live-service.whatnot.com
+livenation.com
+livenation.me
 ljc-test.tw.coupang.com
 ljc.tw.coupang.com
 loanbuilder.com
@@ -4405,6 +4420,12 @@ thinkingphones.net
 thisiswhyweplay.nba.com
 threatdown.com
 ticketing.cm.com
+ticketmaster.ca
+ticketmaster.co.uk
+ticketmaster.com
+ticketmaster.com.br
+ticketmaster.com.mx
+ticketmaster.de
 ticketnew.com
 tickets.crypto.com
 tickets.kinepolis.be
@@ -4831,6 +4852,7 @@ www.4njbets.com
 www.ad.nl
 www.ad.nl/abonnementen
 www.airbnb.com
+www.algolia.com
 www.am.monespacesante.fr
 www.analvids.com
 www.applevacations.com
@@ -5036,7 +5058,9 @@ www.lastminute.co.nz
 www.lastminute.com.au
 www.lefties.com
 www.libelle.nl
+www.lineup.com.mx
 www.linkedin.com
+www.livenation.co.uk
 www.loanbuilder.com
 www.logicool.co.jp
 www.logitech-partner.com
@@ -5094,6 +5118,7 @@ www.nederlandseloterij.nl
 www.netflix.com
 www.notion.so/desktop
 www.onsexprime.fr
+www.onthewaterfrontfestival.com
 www.optimuscards.com
 www.orbitz.com
 www.ottocasino.se
@@ -5125,6 +5150,7 @@ www.pullandbear.com
 www.qualified.com
 www.redcare.it
 www.redoxengine.com
+www.royalarena.dk
 www.s-pankki.fi
 www.sa.dyson.com
 www.samenfittorfs.be

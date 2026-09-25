@@ -42,6 +42,8 @@ alasco.de
 alasco.rocks
 aleenote.cn
 aleenote.com
+algolia.net
+algolianet.com
 alipayplus.com
 allegrosandbox.pl
 amazon.ae
