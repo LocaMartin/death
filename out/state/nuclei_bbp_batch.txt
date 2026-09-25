@@ -1,11 +1,34 @@
-*.bitoasis.net
-*.coindcx.com
+*.algolia.net
+*.algolianet.com
 *.statuspage.io
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 activate.3cx.com
+app.livenation.com
+app.ticketmaster.ca
+app.ticketmaster.co.uk
+app.ticketmaster.com
+app.ticketmaster.com.au
+app.ticketmaster.com.mx
+app.ticketmaster.eu
+app.ticketmaster.ie
+dashboard.algolia.com
+dk.royalarena.app
 downloads-global.3cx.com
+frontgatetickets.com
+livenation.com
+livenation.me
 mailproxy.3cx.com
-protocol of the swiss post voting system 2.0 (whitepaper)
 repo.3cx.com
 rps.3cx.com
+ticketmaster.ca
+ticketmaster.co.uk
+ticketmaster.com
+ticketmaster.com.br
+ticketmaster.com.mx
+ticketmaster.de
 wmr.3cx.net
+www.algolia.com
+www.lineup.com.mx
+www.livenation.co.uk
+www.onthewaterfrontfestival.com
+www.royalarena.dk

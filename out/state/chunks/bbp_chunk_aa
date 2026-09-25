@@ -1,3 +1,9 @@
-*.bitoasis.net
-*.coindcx.com
+*.algolia.net
+*.algolianet.com
 *.statuspage.io
+*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
+activate.3cx.com
+app.livenation.com
+app.ticketmaster.ca
+app.ticketmaster.co.uk
+app.ticketmaster.com
