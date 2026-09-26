@@ -68,7 +68,6 @@ http://pay.monashcollege.edu.au/
 http://payments.hostinger.com
 http://secure-iphone-xml.booking.com/json
 http://socialdeal.nl/inspirations/bluemonday
-http://sso-demo.gocardless-staging.io
 http://streamer.finance.yahoo.com
 http://super.xyz
 http://testnet.bybit.eu
@@ -706,7 +705,6 @@ https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
-https://github.com/brave/%2A,%20https://github.com/brave-intl/%2A
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
@@ -763,7 +761,6 @@ https://github.com/fireblocks/mpc-lib
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
-https://github.com/gocardless
 https://github.com/grafana/alloy
 https://github.com/grafana/beyla
 https://github.com/grafana/faro-web-sdk
@@ -1819,7 +1816,6 @@ https://nubank.com.mx
 https://nvio.ar/
 https://nvio.mx/
 https://nvoice.usaa.com/
-https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
 https://odesli.co

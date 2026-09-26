@@ -421,11 +421,6 @@ glassdoor.com
 globalticket.com
 go-pay.co.id
 gobiz.co.id
-gocardless-banking.io
-gocardless-cicd.io
-gocardless-lab.io
-gocardless.dev
-gocardless.io
 gofood.co.id
 gofoodmerchant.co.id
 gojek.com
