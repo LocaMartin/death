@@ -1,9 +1,8 @@
 *.algolia.net
 *.algolianet.com
-*.statuspage.io
-*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
-activate.3cx.com
+*.rekap.8x8.com
 app.livenation.com
 app.ticketmaster.ca
 app.ticketmaster.co.uk
 app.ticketmaster.com
+app.ticketmaster.com.au

@@ -1,8 +1,6 @@
 *.algolia.net
 *.algolianet.com
-*.statuspage.io
-*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
-activate.3cx.com
+*.rekap.8x8.com
 app.livenation.com
 app.ticketmaster.ca
 app.ticketmaster.co.uk
@@ -13,20 +11,18 @@ app.ticketmaster.eu
 app.ticketmaster.ie
 dashboard.algolia.com
 dk.royalarena.app
-downloads-global.3cx.com
+eg.ht
 frontgatetickets.com
+kmc.kaltura.com
 livenation.com
 livenation.me
-mailproxy.3cx.com
-repo.3cx.com
-rps.3cx.com
+mediaspace.kaltura.com
 ticketmaster.ca
 ticketmaster.co.uk
 ticketmaster.com
 ticketmaster.com.br
 ticketmaster.com.mx
 ticketmaster.de
-wmr.3cx.net
 www.algolia.com
 www.lineup.com.mx
 www.livenation.co.uk
