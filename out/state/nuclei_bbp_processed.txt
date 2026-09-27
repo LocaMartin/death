@@ -91,6 +91,7 @@
 *.prd.webapps.simplisafe.com
 *.pricerunner.com
 *.quizlet.com
+*.rekap.8x8.com
 *.rtbscale.com
 *.s-cloud.net
 *.savi.xyz
@@ -2114,6 +2115,7 @@ education.github.com
 eero.com
 efast.marriott.com
 effecthouse.tiktok.com
+eg.ht
 egaming.kinepolis.es
 eidhelp.marriott.com
 ein-herz-fuer-kinder.de
@@ -2840,6 +2842,7 @@ klarna ios app (com.klarna.app)
 klaviyo-dev.com
 klaviyomsv.com
 klubcinema.fr
+kmc.kaltura.com
 kmeet.infomaniak.com
 knowage.developer.monespacesante.fr
 knowage.monespacesante.fr
@@ -3164,6 +3167,7 @@ medias.watsons.com.ph
 medias.watsons.com.sg
 medias.watsons.com.tw
 medias.watsons.vn
+mediaspace.kaltura.com
 mediatonic.co.uk
 meechum.netflix.com
 meesho.io
