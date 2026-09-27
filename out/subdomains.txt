@@ -3743,6 +3743,7 @@ aips-recs.dev.outfra.xyz
 aips-recs.prod.outfra.xyz
 aiq-in.dell.com
 aiqg.home-ntraj.gcp.yahoo.cloud
+air.com.bitrhymes.bingo
 airbnb-aws.com
 airbnb.com
 airbnb.org
@@ -21389,6 +21390,7 @@ ceowc-external.dell.com
 ceowc-sit.dell.com
 ceowc-uat.dell.com
 ceowc.dell.com
+cerberus-shared-development.airbnb-aws.com
 cerberus.airbnb-aws.com
 cerberus.int.klarna.net
 cerberus.paranoids-fire-dev-cerberus.aws.oath.cloud
@@ -53123,6 +53125,7 @@ origin-logistics.amazon.nl
 origin-logistics.amazon.sa
 origin-marketplacedeveloper.amazon.co.uk
 origin-me.hotwire.com
+origin-misc.airbnb-aws.com
 origin-mobile.tesla.com
 origin-msh.amazon.co.uk
 origin-music.amazon.co.uk
@@ -53167,6 +53170,7 @@ origin-watch.amazon.co.jp
 origin-watch.amazon.co.uk
 origin-wte.teslamotors.com
 origin-www-auth.tesla.com
+origin-www.airbnb-aws.com
 origin-www.amazon.ae
 origin-www.amazon.cl
 origin-www.amazon.co.uk

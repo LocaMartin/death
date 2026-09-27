@@ -258,3 +258,13 @@ agents.tasheer.com
 aguacaliente-dev.gleague.nba.com
 aguacaliente-qa.gleague.nba.com
 aguacaliente.gleague.nba.com
+ai-testing.maventa.com
+ai.8x8.vc
+ai.portswigger.net
+ai.x.grok
+ai.x.grokapp
+air.com.bitrhymes.bingo
+air.com.buffalo_studios.newflashbingo
+air.com.playtika.cvs
+air.com.playtika.slotomania
+airbnb-aws.com
