@@ -1,2 +1,0 @@
-*.rekap.8x8.com
-eg.ht
