@@ -1308,6 +1308,8 @@ com.boozt.app
 com.boozt.booztlet
 com.booztlet
 com.box.android
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -2496,6 +2498,7 @@ hotel-development.marriott.com
 hoteltonight-test.com
 hoteltonight.com
 hotornot.com
+hotshoppeservices.com
 houseoffun.com
 housetrip.com
 hpanel.hostinger.com
@@ -3488,6 +3491,7 @@ partner.logitech.com
 partner.steamgames.com
 partner.steampowered.com
 partner.swiftfinancial.com
+partner.temu.com
 partner.tiktokshop.com
 partner.urbancompany.com
 partnerportal.skyscanner.net/*
