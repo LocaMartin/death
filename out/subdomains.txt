@@ -3673,6 +3673,7 @@ ai-tools.infomaniak.com
 ai-xlarge-de-lw-1.nodes.enablers.algolia.net
 ai.8x8.com
 ai.8x8.vc
+ai.alasco.de
 ai.anduril.dev
 ai.armory-staging.andurildev.com
 ai.commerce-k8s-nonprod.aws.oath.cloud
@@ -6648,6 +6649,8 @@ app-opnsso-enc.orbitz.com
 app-opnsso.eps.orbitz.com
 app-perf.nonprod.klarna.net
 app-pilot.8x8.vc
+app-plat-417-debug-cloudlare-dev.dev.alasco.de
+app-plat-417-dev-cloudfront-to-cloudflare.dev.alasco.de
 app-pr9222-ala-4807-upload.dev.alasco.rocks
 app-pr9473-plat-1077-cloudf.dev.alasco.rocks
 app-pr9505-ala-4950-create.dev.alasco.rocks
@@ -6982,6 +6985,7 @@ app.com.dell.com
 app.comms.dell.com
 app.contentsquare.com
 app.dell.com
+app.demo.alasco.de
 app.dosd.dell.com
 app.eris.eu.production.eu1.klear.klarna.net
 app.eris.us.production.us1.klear.klarna.net
@@ -17669,6 +17673,7 @@ byod-exgw-student-fw2.gp.monash.edu
 byod.demos.dell.com
 byod.myseek.xyz
 byp0tx1.server.oob.devops.dell.com
+bypass-app.alasco.de
 bytearray.image-search.sandbox.us-east-1.dev.vespa.oath.cloud
 bz.adx.opera.com
 bzgizmll-e2e-certificate-test.e2e.klarna.net
@@ -27573,6 +27578,7 @@ dev.ahp.security.anduril.dev
 dev.ai-int.8x8.com
 dev.ai.8x8.com
 dev.aiapi.tophat.scopely.io
+dev.alasco.de
 dev.alasco.rocks
 dev.alerts-search.sports-app.us-east-1.dev.vespa.oath.cloud
 dev.anduril-resiliency-ext.andurildev.com
@@ -37718,6 +37724,7 @@ gerridae-eu.playground.c2c.klarna.net
 gerridae-eu.playground.us1.fd.klarna.net
 gerritt.pgre.dell.com
 get.akismet.com
+get.alasco.de
 get.contentsquare.com
 get.geo.opera.com
 get.klarna.com
@@ -42393,6 +42400,7 @@ internal-testapis-atl-443-at1-nonprod.us.dell.com
 internal-tools.commerce-next-dev-gcp.gcp.yahoo.cloud
 internal.acc.mobilevikings.be
 internal.airbnb.com
+internal.alasco.de
 internal.alasco.rocks
 internal.analytics.expediapartnersolutions.com
 internal.api.anthropic.com
@@ -43304,6 +43312,7 @@ iws.payments-aws-cde-prod.aws.oath.cloud
 iws.payments-aws-cde-stg.aws.oath.cloud
 iws2.gemini.yahoo.com
 iws2.nonprod.be.gemini.yahoo.com
+ixhaus.alasco.rocks
 ixhbytzm-e2e-bouncer-custom-domain-name-test.ixhbytzm.klarna.net
 ixlipswx-e2e-certificate-test.e2e.klarna.net
 ixmbjqcl-e2e-certificate-test.e2e.klarna.net
@@ -46001,6 +46010,7 @@ kyc-idv-policy-manager.klarna.net
 kyc.a.exodus.io
 kyle.ernest.meetkai.aws-us-east-1c.dev.public.vespa.oath.cloud
 kyle.simple-vespa.meetkai.aws-us-east-1c.dev.public.vespa.oath.cloud
+l.alasco.de
 l.create.canva.com
 l.email.uscellular.com
 l.engage.canva.com
@@ -46944,6 +46954,7 @@ login.azcn2p1.pcf.dell.com
 login.compuserve.com
 login.contentsquare.com
 login.creators.lululemon.com
+login.dev.alasco.de
 login.dev.alasco.rocks
 login.developer.anduril.com
 login.devsys.dell.com
@@ -47882,6 +47893,8 @@ mail.ai-large-use-1.nodes.enablers.algolia.net
 mail.ai.stage.8x8.vc
 mail.airbnb.com
 mail.airbnbcitizen.com
+mail.alasco.de
+mail.alasco.rocks
 mail.algolianet.com
 mail.altdev.vault.tophat.withbuddies.com
 mail.amgen-labeling-workbench.fde.openai.com
@@ -48409,6 +48422,7 @@ mail.quizlet.com
 mail.recruiting.openai.com
 mail.register.collector.scopely.io
 mail.report.gemini.yahoo.com
+mail.rest.akismet.com
 mail.rosy.sync8.stage.8x8.vc
 mail.ru.corp.acronis.com
 mail.s3.am4.opera.technology
@@ -61229,6 +61243,7 @@ sandbox-manager.courses.tesla.com
 sandbox-repo.acronis.com
 sandbox-studio.courses.tesla.com
 sandbox.accounts.logi.com
+sandbox.alasco.de
 sandbox.alexa.amazon.ca
 sandbox.alexa.amazon.co.jp
 sandbox.alexa.amazon.co.uk
@@ -65847,6 +65862,7 @@ static-send.openai.com
 static-src.feednews.com
 static.3lateral.com
 static.6chcdn.feednews.com
+static.alasco.de
 static.amazon.co.uk
 static.apps.openai.com
 static.aprod.scopely.io
@@ -78304,6 +78320,7 @@ www.report.gemini.yahoo.com
 www.requestez.dell.com
 www.requestezu.dell.com
 www.reset.federal.dell.com
+www.rest.akismet.com
 www.retailmkt.dell.com
 www.reverselogistics.apj.dell.com
 www.reverselogistics.euro.dell.com
