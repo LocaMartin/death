@@ -149,7 +149,6 @@ bionic.ai
 bitdefender.com
 bitdefender.net
 bitgo.com
-bitoasis.net
 blinkforhome.com
 blofin.com
 boardkingsgame.com
@@ -220,13 +219,11 @@ cognitec.com
 cognitiveperformer.com
 coinbase-corp.com
 coinbase.com
-coindcx.com
 com.com
 comcast.net
 compuserve.com
 computerbild.de
 connect-visit.com
-contentsquare.com
 creditkarma.ca
 creditkarma.co.uk
 creditkarma.com

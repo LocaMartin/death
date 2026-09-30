@@ -13,7 +13,6 @@
 *.api.originenergy.com.au
 *.arc.io
 *.assurancewireless.com
-*.bitoasis.net
 *.boltable.eu
 *.bookabach.co.nz
 *.canva-apps.cn
@@ -22,9 +21,7 @@
 *.canva.com
 *.canva.tech
 *.cashstaging.app
-*.coindcx.com
 *.compuserve.com
-*.contentsquare.com
 *.dailyadvent.com
 *.dell.com/*
 *.delltechnologies.com/*
@@ -393,7 +390,6 @@ api.cloudflare.com
 api.cloudways.com
 api.cm.com
 api.cmtelecom.com
-api.coindcx.com
 api.coinmarketcap.com
 api.creditkarma.com
 api.deriv.com
@@ -3138,7 +3134,7 @@ mgmt-sensors.iris.production.forescoutcloud.net
 mgmt.fndlsb.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
-mgs.dana.id
+mgs-gw.dana.id
 mgs.marriott.com
 mi.cn
 mi.com
@@ -4687,6 +4683,7 @@ walletbot.me
 wallets.api.playstation.com
 wallettg.com
 wallettg.net
+walt.io
 wasapi.watsons.com.tr
 watch-acc.esa.int
 watch-ng.nba.com

@@ -70,6 +70,8 @@ http://secure-iphone-xml.booking.com/json
 http://socialdeal.nl/inspirations/bluemonday
 http://streamer.finance.yahoo.com
 http://super.xyz
+http://t.me/wallet
+http://t.me/walt
 http://testnet.bybit.eu
 http://tsock.us1.twilio.com
 http://twilio.com/blog
@@ -1088,7 +1090,6 @@ https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
 https://lsagentrelay.lansweeper.com/
-https://m.csqtrk.net
 https://m.thefork.com
 https://m.tw.buy.yahoo.com/
 https://maf-holding-prod.apigee.net
@@ -1751,7 +1752,6 @@ https://mintmobile.com
 https://mlife.mo
 https://mlivetickets.monash.edu
 https://mmp.otto.de
-https://mobile-production.content-square.net/
 https://mobile.monash/
 https://mobile.ooredoo.qa
 https://mobile.usaa.com
@@ -1982,7 +1982,6 @@ https://retail-api.otto.de
 https://rivian.com/api/gql/content/graphql
 https://rivian.com/api/gql/gateway/graphql
 https://rivian.com/api/gql/orders/graphql
-https://s.contentsquare.net
 https://s.usaa.com/
 https://s1.utv.usaa.com
 https://s2.utv.usaa.com
