@@ -334,6 +334,7 @@ https://b2blsapi-a.usaa.com
 https://b2blsapi.usaa.com
 https://backblaze.com
 https://backend.ibotta.com
+https://badger.it.vinted.com
 https://basescan.org/address/0xf469ec9debf7f0adeba4d1db2ff5c70707beeb30
 https://basketball.fantasysports.yahoo.com/
 https://bb1.simplisafe.com
@@ -396,6 +397,7 @@ https://calendar.yahoo.com/ws/v3/users
 https://carecredit.com.au
 https://careers.etsy.com
 https://careers.thetradedesk.com
+https://careers.vinted.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
 https://cash.app
 https://cashback.opera.com/
@@ -448,6 +450,7 @@ https://community.exoscale.com/
 https://community.oppo.com/
 https://community.personio.com
 https://communityin.oppo.com/
+https://company.vinted.com
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://confluence.requirementyogi.com
@@ -1805,6 +1808,7 @@ https://netposti.fi
 https://newrelic.com/
 https://newrelic.com/blog
 https://news-app.abumedia.yql.yahoo.com
+https://news.vinted.com
 https://nexo.com/
 https://next.flatmates.com.au
 https://nextshipping.posti.fi
@@ -1994,6 +1998,8 @@ https://sandbox-buy.paddle.com
 https://sandbox-checkout-service.paddle.com
 https://sandbox-login.paddle.com
 https://sandbox-vendors.paddle.com
+https://sandbox.vinted.com
+https://sandbox.vintedgo.com
 https://sb-console-api.fireblocks.io
 https://sb-mobile-api.fireblocks.io
 https://scoober.com
@@ -2133,6 +2139,7 @@ https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
 https://teleoptiprd.otto.de
 https://tempus-ex.com
 https://tess.service-now.com
+https://test-escalations.vintedgo.com
 https://testnet-blockexplorer.electroneum.com
 https://tfb.t-mobile.com
 https://thatconceptstore.com
@@ -2354,6 +2361,7 @@ https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
+https://www.currencycloud.com/
 https://www.cyberghostvpn.com/download
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
@@ -2654,6 +2662,9 @@ https://www.vidaxl.se
 https://www.vidaxl.si
 https://www.vidaxl.sk
 https://www.vidaxl.uk
+https://www.vinted.com
+https://www.vinted.net
+https://www.vintedgo.com
 https://www.visa.co.nz/gateway/api
 https://www.visa.com.az/az_az/account/registration
 https://www.visa.com.ua/

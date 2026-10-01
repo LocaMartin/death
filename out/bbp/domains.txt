@@ -5,8 +5,6 @@
 *.admanager.yahoo.com
 *.adx.opera.com
 *.aips-internal.com
-*.algolia.net
-*.algolianet.com
 *.apex-football.com
 *.apexnews.com
 *.apexscores.io
@@ -282,7 +280,6 @@ aleenote.cn
 aleenote.com
 alert.logitech.com
 alerts.ninjakiwi.com
-alfred-uat-31.nonprod.syfe.com
 alfred.syfe.com
 alipayhk.com
 alipayplus.com
@@ -1805,7 +1802,6 @@ dash.ai
 dash.cloudflare.com
 dash.dropbox.com
 dash.podsights.com
-dashboard.algolia.com
 dashboard.doppler.com
 dashboard.mergify.com
 dashboard.plaid.com
@@ -4651,6 +4647,7 @@ volans.tech
 volkskrant.nl
 volkswagen.de
 vote.nba.com
+voyageai.com
 vpn.intigriti.rocks
 vpn.mobilevikings.be
 vpn01.syd.optusnet.com.au
@@ -4838,7 +4835,6 @@ www.4njbets.com
 www.ad.nl
 www.ad.nl/abonnementen
 www.airbnb.com
-www.algolia.com
 www.am.monespacesante.fr
 www.analvids.com
 www.applevacations.com
@@ -4904,7 +4900,6 @@ www.counter-strike.net
 www.creditkarma.ca
 www.crowdstrike.com
 www.crowdstrike.org
-www.currencycloud.com
 www.cybersource.com
 www.datacamp.com
 www.datacamp.com/datalab
