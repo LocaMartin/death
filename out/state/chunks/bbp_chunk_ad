@@ -1,9 +1,3 @@
-api.anthropic.com
-api.arkane.network
-api.atg.se
-api.binance.com
-api.blablalines.com
-api.blockchain.info
 api.box.com
 api.chainabuse-staging.com
 api.circle.com
@@ -123,3 +117,9 @@ api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
 api.prd.commerce.simplisafe.com
+api.preprod.monespacesante.fr
+api.privateinternetaccess.com
+api.privy.io
+api.pro.faraday.ai
+api.prod.whoop.com
+api.pub1.infomaniak.cloud

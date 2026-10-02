@@ -18,7 +18,6 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
-*.cashstaging.app
 *.compuserve.com
 *.dailyadvent.com
 *.dell.com/*
@@ -105,13 +104,11 @@
 *.super.xyz
 *.support.originenergy.com.au
 *.swaps.xyz
-*.tdl.sh
 *.tesla.cn
 *.tesla.com
 *.tesla.services
 *.teslainsuranceservices.com
 *.teslamotors.com
-*.tidalhifi.com
 *.tiqets.com
 *.tools.thefork.tech
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
@@ -122,4 +119,7 @@
 *.uscellular.com
 *.vercel.com
 *.vercel.live
-*.wimpmusic.com
+*.withbuddies.com
+*.yahoo.cloud
+*.yoyogames.com
+- www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*

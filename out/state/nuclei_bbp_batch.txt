@@ -18,7 +18,6 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
-*.cashstaging.app
 *.compuserve.com
 *.dailyadvent.com
 *.dell.com/*
@@ -105,13 +104,11 @@
 *.super.xyz
 *.support.originenergy.com.au
 *.swaps.xyz
-*.tdl.sh
 *.tesla.cn
 *.tesla.com
 *.tesla.services
 *.teslainsuranceservices.com
 *.teslamotors.com
-*.tidalhifi.com
 *.tiqets.com
 *.tools.thefork.tech
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
@@ -122,11 +119,9 @@
 *.uscellular.com
 *.vercel.com
 *.vercel.live
-*.wimpmusic.com
 *.withbuddies.com
 *.yahoo.cloud
 *.yoyogames.com
-*tidalhi.fi
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
 --your-own-1password-account--.1password.com
 10x.redoxengine.com
@@ -162,7 +157,6 @@
 a.exodus.io
 a.root-servers.net
 a5s.hackerone-ext-content.com
-ab-platform-api.eu-east-1.indriverapp.com
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
 abercrombie.com
 ablink.info.remitly.com
@@ -498,3 +492,9 @@ api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
 api.prd.commerce.simplisafe.com
+api.preprod.monespacesante.fr
+api.privateinternetaccess.com
+api.privy.io
+api.pro.faraday.ai
+api.prod.whoop.com
+api.pub1.infomaniak.cloud
