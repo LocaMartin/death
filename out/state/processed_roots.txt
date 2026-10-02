@@ -8,3 +8,13 @@
 *.algolia.net
 *.algolianet.com
 *.apex-football.com
+*.apexnews.com
+*.apexscores.io
+*.api.originenergy.com.au
+*.arc.io
+*.assurancewireless.com
+*.boltable.eu
+*.bookabach.co.nz
+*.canva-apps.cn
+*.canva-apps.com
+*.canva.cn

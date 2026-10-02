@@ -1016,6 +1016,7 @@
 9w58942.server.oob.devops.dell.com
 9w9f942.server.oob.devops.dell.com
 ?.amazon.co.uk
+_dmarc.arc.io
 a-netstats-1.opera.com
 a-preview.acronis.com
 a-test.staging.eu1.redirect.klarna.net
@@ -14369,6 +14370,7 @@ aw-remote.bazel.anduril.dev
 aw.api.openai.com
 aw.api.openai.org
 aw.dell.com
+awards.bookabach.co.nz
 awards.stayz.com.au
 aware.scopely.com
 awc.tc.eng.anduril.au
@@ -17763,6 +17765,7 @@ c1-ca-3.algolianet.com
 c1-in-3.algolianet.com
 c1-sg-2.algolianet.com
 c1-sg-3.algolianet.com
+c1.bookabach.co.nz
 c1.int-vpn.uscc.com
 c1.vpn.uscc.com
 c10-eu-3.algolianet.com
@@ -52955,7 +52958,13 @@ onprem.spa-aws.gemini-serving.us-east-1.test.vespa.oath.cloud
 onprem.spa-aws.gemini-serving.us-east-3.staging.vespa.oath.cloud
 onprem.spa-aws.gemini-serving.us-east-3.vespa.oath.cloud
 onprem.spa-aws.gemini-serving.us-west-1.vespa.oath.cloud
+onramp-demo-sandbox.arc.io
+onramp-demo-staging.arc.io
+onramp-demo.arc.io
+onramp-sandbox.arc.io
+onramp-staging.arc.io
 onramp.apps.openai.com
+onramp.arc.io
 onramp.g1.services.openai.com
 onramp.g2.services.openai.com
 onramp.unified-4.api.openai.com
@@ -53408,6 +53417,7 @@ origin.ap-southeast-2.development.external.seek.com
 origin.ap-southeast-2.production.external.seek.com
 origin.ap-southeast-2.sandbox.external.seek.com
 origin.ap-southeast-2.test.external.seek.com
+origin.arc.io
 origin.b.ap-southeast-2.test.external.seek.com
 origin.cloudmarketplace.dell.com
 origin.expedia.com
@@ -55623,6 +55633,7 @@ plpiekcl-e2e-certificate-test.e2e.klarna.net
 plsescalations.expedia.com
 pluto.akhwien.at
 plwluaoa-e2e-certificate-test.e2e.klarna.net
+pm-bounces.arc.io
 pm-bounces.notifications.security.vercel.com
 pm-bounces.tesla.com
 pm-dev.mo.tesla.services
@@ -55818,6 +55829,8 @@ portal-lambdas-us-west-2-main.test.epsdecaf.expedia.com
 portal-permissions-canary.expediapartnersolutions.com
 portal-permissions.expediapartnersolutions.com
 portal-service.dccrm-ccs.dell.com
+portal-staging-testnet.arc.io
+portal-staging.arc.io
 portal.8x8.co.uk
 portal.adev.scopely.io
 portal.ai.acronis.com
@@ -59638,6 +59651,8 @@ rekap.8x8.com
 related.image.tbda.aws-us-east-1c.dev.public.vespa.oath.cloud
 relay-dev.account.booking.com
 relay-dqs.account.booking.com
+relay-proxy-rpc.mainnet.arc.io
+relay-rpc.mainnet.arc.io
 relay.account.booking.com
 relay.amazon.co.uk
 relay.amazon.com.au
@@ -60569,11 +60584,15 @@ rpad1ha.dell.com
 rpad1ha.us.dell.com
 rpad2ha.dell.com
 rpad2ha.us.dell.com
+rpc-circle.testnet.arc.io
 rpc-marketo.acronis.com
 rpc-oem.acronis.com
 rpc.acronis.com
 rpc.blockdaemon.mainnet.arc.io
 rpc.blockdaemon.testnet.arc.io
+rpc.devnet.arc.io
+rpc.drpc.mainnet.arc.io
+rpc.drpc.testnet.arc.io
 rpc.expedia.biz.ar.expedia.com
 rpc.mainnet.arc.io
 rpc.quicknode.mainnet.arc.io
@@ -66432,6 +66451,7 @@ studio-cm-staging.content-management-nonprod.aws.oath.cloud
 studio-decks.8x8.engineering
 studio-staging.arc.io
 studio.8x8.com
+studio.arc.io
 studio.courses.tesla.com
 studio.dell.com
 studio.gw.prod.cm.content-management-nonprod.aws.oath.cloud
@@ -77153,6 +77173,7 @@ www.canary.vercel.live
 www.canaryislands.expedia.com
 www.cancun2022.expedia.com
 www.cancun2023.expedia.com
+www.canva-apps.com
 www.canva.cn
 www.canva.com
 www.canvas.dell.com
