@@ -18,7 +18,6 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
-*.cashstaging.app
 *.compuserve.com
 *.dailyadvent.com
 *.dell.com/*
@@ -105,13 +104,11 @@
 *.super.xyz
 *.support.originenergy.com.au
 *.swaps.xyz
-*.tdl.sh
 *.tesla.cn
 *.tesla.com
 *.tesla.services
 *.teslainsuranceservices.com
 *.teslamotors.com
-*.tidalhifi.com
 *.tiqets.com
 *.tools.thefork.tech
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
@@ -122,11 +119,9 @@
 *.uscellular.com
 *.vercel.com
 *.vercel.live
-*.wimpmusic.com
 *.withbuddies.com
 *.yahoo.cloud
 *.yoyogames.com
-*tidalhi.fi
 - www.mercadopago.com.mx/crypto/*  - www.mercadopago.cl/crypto/*  - www.mercadopago.com.br/crypto/*
 --your-own-1password-account--.1password.com
 10x.redoxengine.com
@@ -162,7 +157,6 @@
 a.exodus.io
 a.root-servers.net
 a5s.hackerone-ext-content.com
-ab-platform-api.eu-east-1.indriverapp.com
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
 abercrombie.com
 ablink.info.remitly.com
@@ -581,7 +575,6 @@ api.swapcard.com
 api.swiftfinancial.com
 api.syfe.com
 api.theperfumeshop.com
-api.tidal.com
 api.trello.com
 api.truelayer-sandbox.com
 api.truelayer.com
@@ -831,7 +824,6 @@ autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
 avamposto42.esa.int
 avecspotify.com
-aws.indriverapp.com
 ax-stage.maventa.com
 ayco.com
 b5s.hackerone-ext-content.com
@@ -988,7 +980,6 @@ builder.hostinger.com
 building-blocks.com
 builds.soundtrackyourbrand.com
 bulten.watsons.com.tr
-business-resources.truecaller.com
 business.kayak.com
 business.kinepolis.be
 business.kinepolis.lu
@@ -998,7 +989,6 @@ business.reddithelp.com
 business.snapchat.com
 business.soundtrackyourbrand.com
 business.tiktok.com
-business.truecaller.com
 businesshelp.snapchat.com
 buy.logitech.com
 buy.moonpay.com
@@ -1574,7 +1564,6 @@ com.trendyol.go
 com.trendyol.milla.android
 com.trip.android
 com.trip.ios
-com.truecaller
 com.tumblr
 com.tumblr.tumblr
 com.twitter.android
@@ -2102,7 +2091,6 @@ eternal.com
 etickets.infomaniak.com
 etoro.com
 etsy.com
-eu-east-1.indriverapp.com
 eu.cloud.com
 eu.coolblue.shop
 eu.floqast.app
@@ -2177,7 +2165,6 @@ fi.unibet.com
 fiat-p.a.exodus.io
 fiat-prod-fallback.a.exodus.io
 fiat.a.exodus.io
-file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
 files.com
@@ -2226,6 +2213,7 @@ foliofn.com
 folioidentity.com
 folioinstitutional.com
 folioinvesting.com
+for reporting purposes only. use staging environment listed in brief
 forescout.com
 foretagsportalen.telenor.se
 forms.cybersource.com
@@ -3110,7 +3098,6 @@ mercury-dev.wnba.com
 mercury-qa.wnba.com
 mercury-qa2.wnba.com
 mercury.wnba.com
-messenger.eu-east-1.indriverapp.com
 meta-api.reddit.com
 metahuman.unrealengine.com
 metamask.io
@@ -3306,7 +3293,6 @@ netlify-cdp-loader.netlify.app
 netlify-rum.netlify.app
 network-auth.com
 networkguard.com
-new-order.eu-east-1.indriverapp.com
 new.reddit.com
 new.www.vaxvacationaccess.com
 newegg.ca
@@ -3681,7 +3667,6 @@ prijsmepper.nl
 primarycareondemand.mayoclinic.org
 primevideo.com
 printerdriver.posti.com
-priority.eu-east-1.indriverapp.com
 privateinternetaccess.com
 pro-api.coinmarketcap.com
 pro.coinmarketcap.com
@@ -3706,7 +3691,6 @@ proddata.xobni.yahoo.com
 production.plaid.com
 professionnels.vaccination-info-service.fr
 profiel.vrt.be
-profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
@@ -4415,7 +4399,6 @@ tickets.kinepolis.es
 tickets.kinepolis.fr
 tickets.kinepolis.lu
 tickets.kinepolis.nl
-tidal official clients (e.g. sonos integration, tesla integration, etc.)
 tiktok.com
 tiktokcdn.com
 tiktokpublishers.com
@@ -4467,8 +4450,6 @@ triplinkintl.com
 trm.pinepaymentsolutions.com
 trouw.nl
 trs.nba.com
-truck-api.eu-east-1.indriverapp.com
-truecaller.com
 truelayer-sandbox.com
 truelayer.cloud
 truelayer.com
@@ -4686,7 +4667,6 @@ watch-acc.esa.int
 watch-ng.nba.com
 watch.esa.int
 watch.global.nba.com
-watchdocs.indriverapp.com
 water-link.be
 watsons.co.id
 watsons.co.th
@@ -4714,7 +4694,6 @@ web.koho.ca
 web.np.playstation.com
 web.ryadom.kz
 web.snapchat.com
-web.truecaller.com
 web3.moonpay.com
 webapps-accpt.portofantwerp.com
 webapps-accpt.portofantwerpbruges.com
@@ -5192,7 +5171,6 @@ www.triseptdemo.com
 www.triseptsolutions.com
 www.trouw.nl
 www.trouw.nl/abonnementen
-www.truecaller.com
 www.tumblr.com
 www.tw.coupang.com
 www.udemy.com

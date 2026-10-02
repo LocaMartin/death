@@ -188,7 +188,6 @@ capitalonegslbex.com
 capitaloneshopping.com
 captcha-delivery.com
 carrentals.com
-cashstaging.app
 cb.dev
 cbhq.net
 certinia.com
@@ -1056,7 +1055,6 @@ superdrug.com
 superhuman.com
 swaps.xyz
 swisspass.ch
-tdl.sh
 techbook.de
 telenor.se
 telenorinpli.se
@@ -1073,8 +1071,6 @@ thinkingphones.com
 thinkingphones.net
 threatdown.com
 ticketnew.com
-tidalhi.fi
-tidalhifi.com
 tiktok.com
 tiktokcdn.com
 tiktokpublishers.com
@@ -1104,7 +1100,6 @@ trip.biz
 trip.com
 triplinkintl.com
 trouw.nl
-truecaller.com
 truelayer-sandbox.com
 truelayer.cloud
 truelayer.com
@@ -1211,7 +1206,6 @@ whois.eu
 wien.at
 wien.gv.at
 wienkav.at
-wimpmusic.com
 wise.com
 wissen-sie-mehr.de
 withairbnb.com
