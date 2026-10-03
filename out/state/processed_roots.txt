@@ -18,3 +18,13 @@
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
+*.canva.com
+*.canva.tech
+*.compuserve.com
+*.dailyadvent.com
+*.dell.com/*
+*.delltechnologies.com/*
+*.download.originenergy.com.au
+*.ean.com
+*.employer.seek.com
+*.expedia-aarp.com

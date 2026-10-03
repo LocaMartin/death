@@ -90,6 +90,8 @@
 0002elasticbeanstalk.okta-test.acep.acronis.work
 0002erp.okta-test.acep.acronis.work
 0003-ddmagents.dell.com
+0003.dell.com
+0004.dell.com
 001561-engineering.okta-test.acep.acronis.work
 001561.247.okta-test.acep.acronis.work
 001561.analytics-okta-test.acep.acronis.work
@@ -196,6 +198,7 @@
 02xgms8tze-dsn.algolia.net
 031b4mdoz8-dsn.algolia.net
 031s3gzwcf-dsn.algolia.net
+032amer.dell.com
 03rirs86ot-dsn.algolia.net
 03z341wugs-dsn.algolia.net
 041a0f39e29f.rest.akismet.com
@@ -420,6 +423,7 @@
 19.trk.notify.us.yourbrand.expediapartnersolutions.com
 1919ic.account.box.com
 191northllc.account.box.com
+19687090.canva.com
 198365a.us.dell.com
 199312a.us.dell.com
 199369a.us.dell.com
@@ -444,6 +448,8 @@
 1m7ndh2.server.oob.devops.dell.com
 1nowawesomedomainv5.dell.com
 1p-input-cockpit-fe.adminml.com
+1p-sc-test.canva.com
+1p-sc.canva.com
 1p8fq41.us.dell.com
 1pass-scim.anduril.dev
 1pass-scim.s-cloud.net
@@ -596,6 +602,7 @@
 323media.account.box.com
 33.trk.mg.fewo-direkt.de
 33.trk.notify.us.yourbrand.expediapartnersolutions.com
+33584729ba3f.canva.com
 34.trk.finnair.hotels.com
 34.trk.mg.abritel.fr
 34.trk.mg.fewo-direkt.de
@@ -2597,6 +2604,7 @@ admin2.bitoasis.net
 admin2.infomaniak.com
 adminstore.developer.monespacesante.fr
 admintool.lime.bike
+adminweb-council.nsms.dell.com
 adn.acronis.com
 adn.acronis.work
 adncntxt.fde.openai.com
@@ -2758,6 +2766,7 @@ advisorsstaging.ins.dell.com
 advisorsstagingapj.ins.dell.com
 advisorsstagingeuro.ins.dell.com
 advocates.8x8.com
+advocates.canva.com
 advse-tools-infinite.aws.oath.cloud
 adwords.amazon.com
 adwww.antivirus.tesla.services
@@ -3192,6 +3201,7 @@ agent.api.astra-stage.dell.com
 agent.api.astra-test.dell.com
 agent.api.astra.dell.com
 agent.console.expedia.com
+agent.dcca.dell.com
 agent.dev.insights-api.dell.com
 agent.dev4.insights.dell.com
 agent.insights-api.dell.com
@@ -3617,6 +3627,7 @@ ahggmaab-e2e-certificate-test.e2e.klarna.net
 ahmednaoum.vercel.com
 ahnp8yy2-android.mobile-messenger.intercom.com
 ahnp8yy2-ios.mobile-messenger.intercom.com
+ahp-ah.dell.com
 ahp.security.anduril.dev
 ahweuwaq-e2e-certificate-test.e2e.klarna.net
 ai-8xlarge-nl-1.nodes.enablers.algolia.net
@@ -3634,6 +3645,7 @@ ai-api.dev.plannthat.com
 ai-api.plannthat.com
 ai-api.staging.plannthat.com
 ai-api.tesla.com
+ai-bp-common-services.sp.dell.com
 ai-bridge.tiqets.com
 ai-dapo-mcp.dev.sp.dell.com
 ai-dev.andurildev.com
@@ -3990,6 +4002,7 @@ album-recommendation.yj.aws-us-east-1c.public.vespa.oath.cloud
 album-recommendation.yj.aws-us-east-1c.staging.public.vespa.oath.cloud
 album-recommendation.yj.aws-us-east-1c.test.public.vespa.oath.cloud
 album-recommendation.yj.global.public.vespa.oath.cloud
+album.canva.com
 album.catch-inno-app.catch-inno.aws-us-east-1c.dev.public.vespa.oath.cloud
 album.gv.aws-us-east-1c.dev.public.vespa.oath.cloud
 album.gv.aws-us-east-1c.public.vespa.oath.cloud
@@ -4359,6 +4372,7 @@ ambassadors.lululemon.com
 amd.digitalocean.com
 amdocsgslb1.uscc.com
 amdocsgslb2.uscc.com
+amds.dell.com
 ame-nonprod.uscc.com
 ame-prod.uscellular.com
 ame.uscellular.com
@@ -4384,6 +4398,7 @@ amerchatapp17.aus.amer.dell.com
 amerchatapp18.aus.amer.dell.com
 amerchatlb02.aus.amer.dell.com
 amerd1-guest.networks.dell.com
+ameremea-gslbcorp.dell.com
 ameremea-gslbicorp.dell.com
 americas0100-ddmagents.dell.com
 americas0100-ddmagents.ins.dell.com
@@ -5162,6 +5177,7 @@ apac-cppm.tesla.com
 apac-job-insights.dev.outfra.xyz
 apac-job-insights.prod.outfra.xyz
 apac.account.amazon.com
+apac.dell.com
 apac.logs.tesla.com
 apac.premier.dell.com
 apacb4-guest.networks.dell.com
@@ -5181,6 +5197,7 @@ apbulksubmitdev5.dell.com
 apbulksubmitdev6.dell.com
 apbulksubmitdev7.dell.com
 apbulksubmittest.dell.com
+apcc.dell.com
 apcc.us.dell.com
 apcc1-corpfwm.us.dell.com
 apcc1-ecommfwm.us.dell.com
@@ -5290,6 +5307,7 @@ api-argo.aws-eu.staging.contentsquare.com
 api-argo.contentsquare.com
 api-argo.eu-west-1.production.contentsquare.com
 api-argo.eu-west-1.staging.contentsquare.com
+api-arm64-gw.canva.com
 api-au-oidc.rr.seek.com
 api-au.rr.seek.com
 api-backend1.openai.com
@@ -6162,6 +6180,7 @@ apim-stage.apigeeaccess.lululemon.com
 apim-stage.proxyonboarding.lululemon.com
 apim-stage.tokenapi.lululemon.com
 apim.apigeeaccess.lululemon.com
+apim.dell.com
 apim.expedia.com
 apim.int-stage.expedia.com
 apim.int.expedia.com
@@ -7099,6 +7118,7 @@ applause-eigsdc.dell.com
 apple-maps.tiqets.com
 apple.finance-chart-api-production.finance-k8s.media.yahoo.cloud
 apple.test.epssecure.expedia.com
+application-app.dell.com
 application-profile.candidatemanagement.dev.outfra.xyz
 application-profile.candidatemanagement.prod.outfra.xyz
 application-sandbox.treasury-automation.klarna.com
@@ -8523,6 +8543,7 @@ artifactory.acronis.work
 artifactory.anduril.dev
 artifactory.corp.acronis.com
 artifactory.cpg.dell.com
+artifactory.dell.com
 artifactory.dev.teslamotors.com
 artifactory.devpks.dell.com
 artifactory.eng.dev.skinfra.xyz
@@ -9676,6 +9697,7 @@ au.payments.prod.outfra.xyz
 au.seek-hiring-automation-copilot-staging.dev.outfra.xyz
 au.seek-hiring-automation-copilot.prod.outfra.xyz
 au.seek.com
+au.staging-auoutlet.dell.com
 au.staging.seek.com
 au.unified.seek.com
 au.unified.staging.seek.com
@@ -9723,6 +9745,7 @@ audience.tgt-aud-rec.us-east-3.vespa.oath.cloud
 audience.tgt-aud-rec.us-west-1.vespa.oath.cloud
 audio-private.canva.com
 audio-public.canva.com
+audio-upload.canva.com
 audit-build.eu3.production.mk8s.klarna.net
 audit-build.eu3.staging.mk8s.klarna.net
 audit.gemini.yahoo.com
@@ -9961,6 +9984,7 @@ ausaedidev01.us.dell.com
 ausagilesrv26.us.dell.com
 ausamfgprdweb3.us.dell.com
 ausaoepapp02dr.us.dell.com
+ausaoepofs.us.dell.com
 ausaolmetrics.us.dell.com
 ausarbdcsapd1.us.dell.com
 ausarbdcsapd2.us.dell.com
@@ -10121,6 +10145,7 @@ auscsrr802.us.dell.com
 auscsrr803.us.dell.com
 auscswweb-3dns.ins.dell.com
 ausctrxp203.aus.amer.dell.com
+ausctrxp210.aus.amer.dell.com
 ausctrxp2112.aus.amer.dell.com
 ausctrxp2113.aus.amer.dell.com
 ausctrxp2114.aus.amer.dell.com
@@ -11140,6 +11165,7 @@ ausitsm2sitap01.aus.amer.dell.com
 ausittntdb02.us.dell.com
 ausittntsql01.us.dell.com
 ausivriisweb01.us.dell.com
+ausivrpc111.aus.amer.dell.com
 ausiwarrsb01.aus.amer.dell.com
 ausiwarrsb02.aus.amer.dell.com
 ausiwbklgapp01.aus.amer.dell.com
@@ -11433,6 +11459,7 @@ ausoladpstac1.us.dell.com
 ausoladpte2.us.dell.com
 ausoladpte4.us.dell.com
 ausoladpvia2.us.dell.com
+ausoladpvss01.production.online.dell.com
 ausoladq3rdsq1.ols.us.dell.com
 ausoladq8.us.dell.com
 ausoladqbart1.us.dell.com
@@ -11624,6 +11651,7 @@ ausomegaprdap05.us.dell.com
 ausomegaprdap06.us.dell.com
 ausomegaprdap07.us.dell.com
 ausomegaprdap08.us.dell.com
+ausosrs3b03.aus.amer.dell.com
 auspafwvpnps303-outside.us.dell.com
 auspafwvpnps304-outside.us.dell.com
 auspagl-vip.us.dell.com
@@ -16936,6 +16964,7 @@ bll1-aci.acronis.work
 bll1-repo.acronis.com
 bll1-s3gw.acronis.com
 blob.core.az.dell.com
+blobs.canva.com
 blockdaemon.mainnet.arc.io
 blockdaemon.testnet.arc.io
 blocklist.addons.allizom.org
@@ -16973,6 +17002,8 @@ blogs.api.binance.com
 blogs.aws.amazon.com
 blogs.opera.com
 blogs.staging.route53.opera.com
+blr.amer.dell.com
+blr.dell.com
 blr1-salmon.amazon.com
 blrmrs01.dell.com
 blrmrs02.dell.com
@@ -18972,6 +19003,7 @@ capacityapi.s-e-aks-gwc-api-x14.staging.internal.api.openai.org
 capex-backend.mo.tesla.services
 capex.mo.tesla.services
 capgemini.anfcorp.com
+capi.cse.canva.com
 capig-test.orbitz.com
 capig.expedia.com
 capistrano-preview.amazon.com
@@ -19102,6 +19134,7 @@ carro.mercadolibre.com.ve
 carros.mercadolibre.com.ve
 carros.tucarro.com.ve
 cars.hotels.com
+cart-assets.canva.com
 cart.dell.com
 cartographer.anduril.dev
 cas-grafana-prod.cas.tesla.cn
@@ -21260,6 +21293,7 @@ cde7f281-566c-496d-b025-a3c60cc3073c.event.collector.scopely.io
 cdm-np.dell.com
 cdm-pd.dell.com
 cdm.dell.com
+cdmassive.devops.dell.com
 cdmpwadcpop1.aus.amer.dell.com
 cdmpwadcpop2.aus.amer.dell.com
 cdmpwcache01.aus.amer.dell.com
@@ -22302,6 +22336,7 @@ click.email.seek.com
 click.emails.tesla.com
 click.eml.expediaagents.com
 click.eml.expediacruises.com
+click.engage.canva.com
 click.eu.mail.klarna.com
 click.fedcomms-np.delltechnologies.com
 click.fedcomms.delltechnologies.com
@@ -22331,6 +22366,8 @@ clickhouse.prod.use1.adsrvr.org
 clicks.anchor.fm
 clicks.cashstaging.app
 clicks.contentsquare.com
+clicks.engage.canva.com
+clicks.newsletter.canva.com
 clicks.tiqets.com
 clicksoftware.dell.com
 clienshare.federal.dell.com
@@ -23265,6 +23302,7 @@ community.airbnb.com
 community.amazon.com
 community.arc.io
 community.bjormel-vespa.us-east-1.dev.vespa.oath.cloud
+community.canva.com
 community.contentsquare.com
 community.dell.com
 community.openai.com
@@ -24270,6 +24308,7 @@ cp.cloud.dell.com
 cp.cloudstore.dell.com
 cp.expedia.com
 cp.iomete-d1-np.kob.dell.com
+cp.iomete-s5.kob.dell.com
 cp.office365.dell.com
 cp.partners.acronis.com
 cp.quizlet.com
@@ -24404,12 +24443,14 @@ crawler.ai.preview.8x8.vc
 crawler.ai.stage.8x8.vc
 crawler.instascraper.klarna.net
 crawler.instascraper.nonprod.klarna.net
+create-la-2024.canva.com
 create-stg.canva.com
 create.airbnb.com
 create.canva.com
 creative-qa.aws.oath.cloud
 creative.aws.oath.cloud
 creative.mse-dev.aws.oath.cloud
+creator-content-publish-ai-tooling.canva.com
 creator.ai.acronis.com
 creator.canva.com
 creator.expedia.com
@@ -26537,6 +26578,7 @@ de-ch.hotels.com
 de-cp.cloudstore.dell.com
 de-cp.stg.cloudstore.dell.com
 de-de.about.canva.com
+de-de.learn.canva.com
 de-dms1.corp.acronis.com
 de-edge-3.acronis.com
 de-eu.abercrombie.com
@@ -26908,6 +26950,7 @@ dellecm.dell.com
 dellecm3sit.dell.com
 dellecmdit.dell.com
 dellecmsit.dell.com
+dellecmsit2.dell.com
 dellecmsit3.dell.com
 dellecmsit4.dell.com
 dellemc.dell.com
@@ -27322,6 +27365,7 @@ design.cashstaging.app
 design.odyssey.withbuddies.com
 design.playgami.scopely.com
 design.pricerunner.com
+designschool.canva.com
 desk.test.gen.adsrvr.org
 desktop.canva.tech
 desktop.plannthat.com
@@ -27964,6 +28008,7 @@ developerportal.uscellular.com
 developerportaleapi.us.dell.com
 developers.acronis.com
 developers.alipayplus.com
+developers.canva.com
 developers.expediagroup.com
 developers.klarna.com
 developers.mercadolibre.com.ve
@@ -29445,6 +29490,7 @@ docs.delltechnologies.com
 docs.democenter.dell.com
 docs.dev.legend.withbuddies.com
 docs.dev.sn.tesla.services
+docs.developer.canva.com
 docs.eng.sn.tesla.services
 docs.expediagroup.com
 docs.finance-partners-api.aws.yahoo.cloud
@@ -29466,14 +29512,17 @@ docs.yoyogames.com
 docs2.yoyogames.com
 docsdemo.canva.tech
 docspub.dell.com
+doctype.canva.com
 document-content-amzn.canva.com
 document-content-apne1.canva.com
 document-content-apse2.canva.com
 document-content-us1.canva.com
+document-content-us2.canva.com
 document-export-amzn.canva.com
 document-export-apne1.canva.com
 document-export-apse2.canva.com
 document-export-us1.canva.com
+document-export-us2.canva.com
 document-export.canva.cn
 documents.amazon.ae
 documents.amazon.co.uk
@@ -32006,6 +32055,7 @@ email-connect.nonprod.klarna.com
 email-downloads.dell.com
 email-link-klarna-com.production.us1.fd.klarna.net
 email-link.klarna.com
+email-template-distribution-templates.canva.com
 email-validation.nonprod.klarna.com
 email-validation.nonprod.klarna.net
 email-validation.sandbox.eu1.core-platform.klarna.net
@@ -32361,6 +32411,7 @@ enterpriseplatform.dell.com
 enterpriseregistration.3lateral.com
 enterpriseregistration.acronis.com
 enterpriseregistration.acronis.work
+enterpriseregistration.canva.com
 enterpriseregistration.corp.acronis.com
 enterpriseregistration.federal.dell.com
 enterpriseregistration.jobsdb.com
@@ -32658,6 +32709,7 @@ es-multi-5.staging.ai.8x8.com
 es-multi-6-testing.ai.8x8.com
 es-multi-6.staging.ai.8x8.com
 es-mx.about.canva.com
+es-mx.learn.canva.com
 es-myaccount-stage.assurancewireless.com
 es-myaccount-test.assurancewireless.com
 es-myaccount.assurancewireless.com
@@ -34537,6 +34589,7 @@ figaro-test.feedforward.aws-us-east-1c.public.vespa.oath.cloud
 figaro-test.feedforward.aws-us-east-1c.staging.public.vespa.oath.cloud
 figaro-test.feedforward.aws-us-east-1c.test.public.vespa.oath.cloud
 figaro-test.feedforward.global.public.vespa.oath.cloud
+file-uploads.cse.canva.com
 file.boss.dell.com
 file.bsmt.dell.com
 file.dtue.dell.com
@@ -34887,6 +34940,7 @@ fnfjgdmz-ios.mobile-messenger.intercom.com
 fnhvvrda-e2e-certificate-test.e2e.klarna.net
 fogknrrl-e2e-certificate-test.e2e.klarna.net
 foglight.uup-uup-dev.gcp.yahoo.cloud
+font-ingest.canva.com
 font-public.canva.cn
 foo.ec2-pinotage.amazon.com
 foo.home-sphan02.aws.oath.cloud
@@ -34963,6 +35017,7 @@ fr-eu.abercrombie.com
 fr-ficp-axway.nonprod.eu1.dafu.klarna.net
 fr-ficp-axway.production.eu1.dafu.klarna.net
 fr-fr.about.canva.com
+fr-fr.learn.canva.com
 fr-qa-info.lululemon.com
 fr-qa2-info.lululemon.com
 fr-qa21.lululemon.com
@@ -35147,6 +35202,7 @@ ftp.1debit.com
 ftp.3lateral.com
 ftp.abritel.fr
 ftp.anfcorp.com
+ftp.canva.com
 ftp.csc.us.dell.com
 ftp.dell.com
 ftp.fms.dell.com
@@ -40958,6 +41014,7 @@ id-ds-w06.identityb2b.aws.oath.cloud
 id-ds.identityb2b.aws.oath.cloud
 id-ds.identityb2b.aws.prod.private.aws.oath.cloud
 id-id.about.canva.com
+id-id.learn.canva.com
 id-logstash-us-e001.identityb2b.aws.prod.private.aws.oath.cloud
 id-logstash-us-e002.identityb2b.aws.prod.private.aws.oath.cloud
 id-logstash-us-e003.identityb2b.aws.prod.private.aws.oath.cloud
@@ -41754,6 +41811,7 @@ imjdfpcx-e2e-certificate-test.e2e.klarna.net
 impact.airbnb.com
 impact.next.airbnb.com
 imply-query.nonprod.eu1.imply-media-event-pipeline.klarna.net
+import-generation.canva.com
 import.vercel.com
 imqjnomg-e2e-certificate-test.e2e.klarna.net
 ims.ad.nl
@@ -43091,6 +43149,8 @@ ioe.csg.dell.com
 ioe.kob.dell.com
 iomete-d1-np.tsproxy-za1-np.kob.dell.com
 iomete.tsproxy-za1-np.kob.dell.com
+iomete.tsproxy-zchs1.kob.dell.com
+iomete.tsproxy.kob.dell.com
 iomgr.payments-aws-cde-dev.aws.oath.cloud
 iomgr.payments-aws-cde-prod.aws.oath.cloud
 iomgr.payments-aws-cde-stg.aws.oath.cloud
@@ -43365,6 +43425,7 @@ j6f86q1.server.oob.devops.dell.com
 j8n8i8ke2y-dsn.algolia.net
 ja-jp.abercrombie.com
 ja-jp.about.canva.com
+ja-jp.learn.canva.com
 ja-staging.blog.anchor.fm
 ja.airbnb.com
 ja.airbnb.org
@@ -45638,6 +45699,7 @@ kob-ingress-dfn-aim-ysit.dev.federal.dell.com
 kob-ingress-dfn-aim-zsit.dev.federal.dell.com
 kob-ingress-mimsy-np-kob-za1-np.kob.dell.com
 kob-istio-tst-npatl-za1-np.kob.dell.com
+kob-istio-tst-prds3b-zchs1.kob.dell.com
 koi-ads-mgr-aws-prod.aws.oath.cloud
 koi-ads-mgr-aws-qa.aws.oath.cloud
 koi-na.klarna.com
@@ -46369,6 +46431,7 @@ learning.sg.jobsdb.com
 learning.uscellular.com
 learningapp.dell.com
 learningappdev.dell.com
+learningappsbx.dell.com
 learningappstg.dell.com
 learningcontent.dell.com
 learningcontentstg.dell.com
@@ -48551,6 +48614,7 @@ mailapi-mcp.home-divanov.gcp.yahoo.cloud
 mailcorp.expedia.com
 mailcorp2.expedia.com
 maildur.dell.com
+mailer1.canva.com
 mailfilter.federal.dell.com
 mailhog.acronis.work
 mailhog.noti.dev.outfra.xyz
@@ -48688,6 +48752,7 @@ marketing-fee-service-main-us-west-2.test.epsdecaf.expedia.com
 marketing-fee-service-us-west-2.test.epsdecaf.expedia.com
 marketing-gallery.klarna.net
 marketing.amazon.com
+marketing.canva.com
 marketing.coindcx.com
 marketing.dell.com
 marketing.expedia.com
@@ -48871,6 +48936,7 @@ mc.identity-gcp-s-compute.gcp.yahoo.cloud
 mc.sat.akismet.com
 mc1.dfw.akismet.com
 mc2.dfw.akismet.com
+mcc.lcplus.dell.com
 mccs-preview.amazon.co.uk
 mccs.amazon.co.uk
 mce-what-to-watch.finance-test.global.vespa.oath.cloud
@@ -48921,7 +48987,10 @@ mcsgdevops.dell.com
 mcsi-jenkins.pgre.dell.com
 mcsi-jenkins2.pgre.dell.com
 mcsis.klarna.net
+mcsnwmbkps.aus.amer.dell.com
 mcsplngnat01.amer.dell.com
+mcspwtelcoru01.amer.dell.com
+mcspwtelcoru02.amer.dell.com
 mct.uscellular.com
 mcw.account.box.com
 md-resources-staging.klarna.net
@@ -48983,6 +49052,7 @@ media-data-gcp-looker.gcp.yahoo.cloud
 media-edge-k8s-nonprod.aws.oath.cloud
 media-edge-k8s.aws.oath.cloud
 media-preprod.shoppable-video.nonprod.klarna.com
+media-private-cloudfront.canva.com
 media-qa.shoppable-video.nonprod.klarna.com
 media-server-api.eng.vn.cloud.tesla.com
 media-server-api.prd.vn.cloud.tesla.com
@@ -49349,6 +49419,8 @@ mfa-signincentral.uscellular.com
 mfa.okta.expedia.com
 mfa.prd.webapps.simplisafe.com
 mfa.uscc.com
+mfadocs-pc1.us.dell.com
+mfadocs-s3b.us.dell.com
 mfadocs-uat.dell.com
 mfadocs.dell.com
 mfamobile-dev.tesla.com
@@ -49722,6 +49794,7 @@ mobile-neo-duo-dev-private.mobile.dev.outfra.xyz
 mobile-neo-duo-dev.mobile.dev.outfra.xyz
 mobile-ops-links.prd.vn.cloud.tesla.cn
 mobile-ops-links.prd.vn.cloud.tesla.com
+mobile-ota.canva.com
 mobile-passkeys.8x8.com
 mobile-passkeys.8x8staging.com
 mobile-report.acronis.com
@@ -50166,6 +50239,7 @@ mta.fedcomms.delltechnologies.com
 mta.internal.delltechnologies.com
 mta.learn.ads.snapchat.com
 mta.staging.8x8cloud.net
+mta1.email.canva.com
 mta2.care.orbitz.com
 mta2.comm-np.delltechnologies.com
 mta2.comm.delltechnologies.com
@@ -51926,7 +52000,9 @@ noti.dev.outfra.xyz
 noti.prod.outfra.xyz
 notice-tmo.notice.assurancewireless.com
 notification-design-invite-apne1.canva.com
+notification-design-invite-apse2.canva.com
 notification-design-invite.canva.com
+notification-design-invite.eu1.canva.com
 notification-mock.staging.us1.pgw-pci.klarna.net
 notification-service.dccrm-ccs.dell.com
 notification-service.payments-aws-cde-dev.aws.oath.cloud
@@ -52315,7 +52391,10 @@ o365mrs.federal.dell.com
 o4.email.withbuddies.com
 o4.ptr1867.tesla.com
 o4085.abmail.a.klarna.com
+o4228.e.engage.canva.com
 o4344.e.news.sg.jobsdb.com
+o4774.e.engage.canva.com
+o4775.e.engage.canva.com
 o5.email.withbuddies.com
 o5.ptr3636.account.kaufland.com
 o5218.e.ops.sg.jobsdb.com
@@ -52324,6 +52403,7 @@ o602.ptr5740.bitoasis.net
 o603.ptr5814.bitoasis.net
 o605.ptr2868.bitoasis.net
 o682.orders.tiqets.com
+o684.support.canva.com
 oa-business-strategy-prod.aws.oath.cloud
 oa-business-strategy.aws.oath.cloud
 oa-id.jobstreet.com
@@ -54038,6 +54118,7 @@ partners.orbitz.com
 partners.teslamotors.com
 partners.tiqets.com
 partners.vercel.com
+partnership-assets.canva.com
 partnerweb.logging.expediagroup.com
 partnerxchange.8x8.com
 parts.dell.com
@@ -55095,6 +55176,7 @@ phone-assistant-external-api-eu.staging.us1.fd.klarna.net
 phone-assistant-external-api-us.production.c2c.klarna.net
 phone-assistant-external-api-us.production.us1.fd.klarna.net
 phoromaticdna.dell.com
+photo-editor.canva.com
 photo.abritel.fr
 photo.editor.vercel.com
 photoagent.amazon.com
@@ -56345,6 +56427,11 @@ primenow.amazon.es
 primenow.amazon.it
 primer.builds.tools.expedia.com
 print-assets.canva.com
+print-item-intent.canva.com
+print-prepress-file.canva.com
+print-product-assets.canva.com
+print-product-visualization-assets.canva.com
+print-thumbnail.canva.com
 priors.go.tesla.services
 prism-perf.us.dell.com
 prism-uat.us.dell.com
@@ -56938,6 +57025,7 @@ product-items.koa.delltechnologies.com
 product-security-jenkins.acronis.work
 product.browserapps.amazon.cn
 product.browserapps.amazon.co.uk
+product.canva.com
 product.expedia.com
 product.hotels.com
 product.persaas.dell.com
@@ -58072,6 +58160,7 @@ public-api.hack12.skinfra.xyz
 public-cert4-acm-autoins.expedia.com
 public-cert5-acm-autoins.expedia.com
 public-cert6-acm-autoins.expedia.com
+public-file-uploads.cse.canva.com
 public-meligpt.adminml.com
 public-search.profilesearch.dev2.outfra.xyz
 public-search.profilesearch.prod.outfra.xyz
@@ -58794,6 +58883,7 @@ qtest-stg-app03.gtie.dell.com
 qtest-stg-app04.gtie.dell.com
 qtest-stg-appt1.gtie.dell.com
 qtest-stg-db01.gtie.dell.com
+qtest-stg-db02.gtie.dell.com
 qtest-stg-ins01.gtie.dell.com
 qtest-stg-ses01.gtie.dell.com
 qtest-stg-ses02.gtie.dell.com
@@ -59690,6 +59780,7 @@ remotesessions.apviz.tst.ap.tesla.services
 remotesupport.8x8.com
 remoteworker1.uscc.com
 remoteworker2.uscc.com
+removebg-enterprise.canva.com
 removelockenv.pavedroad.int.outfra.xyz
 render.alipayplus.com
 render.antom.com
@@ -59701,6 +59792,7 @@ render.github-fw.tesla.com
 render.github-it.tesla.com
 render.github.it.tesla.services
 render.github.tesla.com
+renderer.cse.canva.com
 renew-issue.expedia.com
 renew-issue2.expedia.com
 renew-rep.application-app.dell.com
@@ -60902,6 +60994,7 @@ ru-msk-dc1.corp.acronis.com
 ru-oos-1.corp.acronis.com
 ru-oos-2.corp.acronis.com
 ru-ru.about.canva.com
+ru-ru.learn.canva.com
 ru-vpn.acronis.com
 ru-vpn2.acronis.com
 ru.airbnb.com
@@ -61934,6 +62027,7 @@ sddemo-pns.cms.dell.com
 sddemo.cms.dell.com
 sddemo.csgcc.dell.com
 sdk-capabilities.one-mobile-dev.aws.oath.cloud
+sdk.canva.com
 sdk.scopely.io
 sdl-coresvcs.amds.dell.com
 sdl-kibana.adminml.com
@@ -62710,6 +62804,7 @@ shands.dcca.dell.com
 shapi.advertiser.prod.outfra.xyz
 share-html.sports-internal.gcp.yahoo.cloud
 share-referral.8x8.com
+share.canva.com
 share.coindcx.com
 share.federal.dell.com
 share.hotwire.com
@@ -67357,6 +67452,7 @@ talentbuilder-sqa.uscellular.com
 talentbuilder.uscc.com
 talentbuilderadm.uscc.com
 talentdirect.us.dell.com
+talentoperationshub.dell.com
 talentsearch-api-dev.jobstreet.com
 talentsearch-profileexport-api-public-test.graphql.seek.com
 talentsearch-profileexport-api.graphql.seek.com
@@ -67654,6 +67750,7 @@ telemetry.acronis.com
 telemetry.canva.cn
 telemetry.canva.com
 telemetry2.canva.cn
+telemetry2.canva.com
 telepoc.acc.mobilevikings.be
 teleport-026454894052.es.8x8.com
 teleport-dev.dmsp.dell.com
@@ -67669,6 +67766,7 @@ tellmattermost2.mo.tesla.services
 telluride.dcca.dell.com
 temp-eu.issuer.playground.klarna.com
 temp-na.issuer.playground.klarna.com
+template-private.canva.com
 template.canva.com
 templates-backend.prod.expediapartnersolutions.com
 templates-backend.test.expediapartnersolutions.com
@@ -68753,6 +68851,7 @@ thoughtspot.us.dell.com
 thoughtspotdev.us.dell.com
 thoughtspotlhproxygw-np-atl.dell.com
 thoughtspotlhproxygw-np.dell.com
+thoughtspotsaaslhproxygw.dell.com
 thrift.acronis.work
 thumbnails-photos.amazon.co.uk
 thumbnails-photos.amazon.com.au
@@ -69640,6 +69739,7 @@ u01vcd01.dell.com
 u01vcd02.dell.com
 u02vcd01.dell.com
 u02vcd02.dell.com
+u02vcd03.dell.com
 u1vmariesapps01.aus.amer.dell.com
 u1vmcompmwap01.us.dell.com
 u1vmcompmwap02.us.dell.com
@@ -70627,6 +70727,7 @@ unagi.amazon.pl
 unagi.amazon.sa
 unagi.amazon.se
 unagi.amazon.sg
+unhcr-design-for-a-cause-uploads.cse.canva.com
 unhdyenp-e2e-certificate-test.e2e.klarna.net
 unica.uscc.com
 unified-0.api.openai.com
@@ -71340,6 +71441,7 @@ upload.business.allegro.pl.allegrosandbox.pl
 upload.dell.com
 upload.teslamotors.com
 uploads-smoke.sports-internal.gcp.yahoo.cloud
+uploads.canva.com
 uploads.d1vmgithub01.dell.com
 uploads.extgithub.tesla.com
 uploads.git.dell.com
@@ -73826,9 +73928,11 @@ video-prod.aws.oath.cloud
 video-pub.sports-gains-dev.aws.oath.cloud
 video-pub.sports-gains-np.aws.oath.cloud
 video-pub.sports-gains-prod.aws.oath.cloud
+video-public.canva.com
 video-quic.feednews.com
 video-quic2.feednews.com
 video-stage.aws.oath.cloud
+video-upload.canva.com
 video-upnext.vid-search.us-east-1.dev.vespa.oath.cloud
 video.8x8.com
 video.ad.nl
@@ -77657,6 +77761,7 @@ www.fr.digitalfulfillment.dell.com
 www.freundewerben.fewo-direkt.de
 www.fs.acronis.com
 www.fs.acronis.work
+www.ftp.canva.com
 www.garage.vn.teslamotors.com
 www.gateway-cf.unified-12.api.openai.com
 www.gateway.acronis.com
@@ -78591,6 +78696,7 @@ www.support.acronis.com
 www.support.advancedcustomfields.com
 www.support.airbnb.com
 www.support.api.openai.com
+www.support.canva.com
 www.support.cloudstore.dell.com
 www.support.dell.com
 www.svc-spp-dr.us.dell.com
@@ -79621,6 +79727,8 @@ zczshcas-e2e-certificate-test.e2e.klarna.net
 zduouvnn-e2e-certificate-test.e2e.klarna.net
 zebra.account.box.com
 zeihkxmg-e2e-certificate-test.e2e.klarna.net
+zendesk3.canva.com
+zendesk4.canva.com
 zendesksbox.mulesoft.8x8pilot.com
 zenit.finance.vercel.com
 zenx.dev.outfra.xyz
@@ -79637,6 +79745,7 @@ zeus.yoyogames.com
 zfdfxcwe-e2e-certificate-test.e2e.klarna.net
 zh-cn.about.canva.com
 zh-cn.airbnb.com
+zh-cn.learn.canva.com
 zh-cn.next.airbnb.com
 zh-dotcn.about.canva.com
 zh-hk.abercrombie.com
