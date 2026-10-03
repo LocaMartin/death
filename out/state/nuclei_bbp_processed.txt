@@ -498,3 +498,9 @@ api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
 api.prd.commerce.simplisafe.com
+api.preprod.monespacesante.fr
+api.privateinternetaccess.com
+api.privy.io
+api.pro.faraday.ai
+api.prod.whoop.com
+api.pub1.infomaniak.cloud
