@@ -157,6 +157,8 @@
 a.exodus.io
 a.root-servers.net
 a5s.hackerone-ext-content.com
+ab-api-gw-cf.global.aws.indriverapp.com
+ab-api-gw-scf.global.aws.indriverapp.com
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
 abercrombie.com
 ablink.info.remitly.com
@@ -354,6 +356,7 @@ api-accpt.portofantwerpbruges.com
 api-app.telenor.se
 api-eu.floqast.app
 api-gateway.polygon.technology
+api-gw-scf.sa.apse1.aws.indriverapp.com
 api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology
@@ -626,7 +629,6 @@ app.datacamp.com/learn
 app.delen.be
 app.delen.ch
 app.delen.lu
-app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
@@ -722,6 +724,7 @@ arlo.com
 arlocloud.com
 arloxcld.com
 arrive-server.shopifycloud.com
+arsentomsky.indrive.com
 artifactory.marriott.com
 artstation.com
 as-nmt.de
@@ -741,6 +744,9 @@ astronauts.esa.int
 at.marionnaud.customer
 atairbnb.com
 atg.se
+ath-cf.euce1.indriverapp.com
+ath-gw-cf.euce1.indriverapp.com
+ath-gw-scf.euce1.indriverapp.com
 atl-paas.net
 atlassian.com
 atlastunnel.com
@@ -822,6 +828,7 @@ autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
+av.indrive.com
 avamposto42.esa.int
 avecspotify.com
 ax-stage.maventa.com
@@ -835,12 +842,16 @@ backstage.io
 badoo.com
 badoocdn.com
 baeder-suite.de
+baf-gw-cf.africa.afso1.aws.indriverapp.com
+baf-gw-scf.sa.apse1.aws.indriverapp.com
 bakersfield-qa.gleague.nba.com
 bakersfield.gleague.nba.com
 bal-dev.nba.com
 bal-qa.nba.com
 bal-uat.nba.com
 bal.nba.com
+balance-api-front.eu-east-1.indriverapp.com
+balance-api.eu-east-1.indriverapp.com
 ballistic.com
 ballistic.com.br
 bancoplata.mx
@@ -854,10 +865,15 @@ bastion.oath.cloud
 bastion.yahoo.cloud
 battles.tv
 bbpress.org
+bc-cf.latam-co.saea1.aws.indriverapp.com
+bc-gw-cf.latam-pe.saea1.aws.indriverapp.com
 bcny.com
 bd.visa.com
 bdes-api.marionnaud.fr
 bdese.marionnaud.fr
+bdu-cf.euce1.indriverapp.com
+bdu-gw-cf.euce1.indriverapp.com
+bdu-gw-scf.euce1.indriverapp.com
 be.delen.digital
 be.gamma.app.android
 be.ixor.doccle.android
@@ -884,6 +900,11 @@ betsharedservices.io
 bettersearchreplace.com
 bettrfinancing.com
 betviewapi.com
+bf-cf.latam-co.saea1.aws.indriverapp.com
+bf-gw-cf.latam-pe.saea1.aws.indriverapp.com
+bid-cf.africa.afso1.aws.indriverapp.com
+bid-gw-cf.africa.afso1.aws.indriverapp.com
+bid-gw-scf.sa.apse1.aws.indriverapp.com
 bid.yahoo.com
 bigcommerce-adapter.judge.me
 bild.de
@@ -1001,6 +1022,7 @@ bykea.com
 bykea.net
 byspotify.com
 bz-berlin.de
+ca-gw-cf.latam-mx.usea1.aws.indriverapp.com
 ca.account.sony.com
 ca.koho
 cache.judge.me
@@ -1076,6 +1098,10 @@ cars.booking.com
 cart-front-api.tw.coupang.com
 cart.starbucks.co.jp
 cart.tw.coupang.com
+cas-cf.euce1.indriverapp.com
+cas-gw-cf.euce1.indriverapp.com
+cas-gw-scf.euce1.indriverapp.com
+cas.eu-east-1.indriverapp.com
 cas.tomorrowland.com
 cash.tw.coupang.com
 cashier.deriv.com
@@ -1083,6 +1109,7 @@ cashier.robinhood.com
 castor.vinci.com
 cb.dev
 cbhq.net
+cca-cf.latam-mx.usea1.aws.indriverapp.com
 ccardseu1.badoo.com
 ccardsus1.badoo.com
 cceng.8x8.com
@@ -1122,6 +1149,7 @@ channelstore.roku.com/details/48061/vhx
 charts.mongodb.com
 chat-api.swapcard.com/graphql
 chat.booking.com
+chat.eu-east-1.indriverapp.com
 chat.x.com
 chatapps.8x8.com
 chatdate.app
@@ -1142,6 +1170,9 @@ chimepayments.com
 chk.infomaniak.com
 chmfin.com
 chromewebstore.google.com
+cht-cf.euce1.indriverapp.com
+cht-gw-cf.euce1.indriverapp.com
+cht-gw-scf.euce1.indriverapp.com
 ci-propertyconversionportal.marriott.com
 cic-bug-bounty.auth0app.com
 circle.logi.com
@@ -1159,6 +1190,8 @@ claude.ai
 clay.earth
 clearme.atlassian.net
 clearme.com
+cleveland-dev.gleague.nba.com
+cleveland-qa.gleague.nba.com
 cleveland.gleague.nba.com
 clicks.koho.ca
 client-api.arkoselabs.com
@@ -1180,15 +1213,23 @@ cloudflareworkers.com
 cloudways.com
 clovesoftware-dev.com
 clovesoftware.com
+cm-cf.euce1.indriverapp.com
 cm.com
 cm.com/[locale]/register
 cm.com/app/messagingtrial
 cmapi.tw.coupang.com
 cmcom.atlassian.net
+cmf-cf.euce1.indriverapp.com
 cms.monespacesante.fr
 cmtelecom.com
+co-gw-scf.sa.apse1.aws.indriverapp.com
+co-in-cf.mena.meso1.aws.indriverapp.com
+co-in-gw-scf.sa.apse1.aws.indriverapp.com
 co.mona.android
 co.uk.getmondo
+coachellavalley-dev.gleague.nba.com
+coachellavalley-qa.gleague.nba.com
+coachellavalley.gleague.nba.com
 coalition-dev.nba.com
 coalition-qa.nba.com
 coban.pixiv.net
@@ -1291,8 +1332,6 @@ com.boozt.app
 com.boozt.booztlet
 com.booztlet
 com.box.android
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -1640,6 +1679,7 @@ community.watsons.co.th
 community.watsons.com.my
 community.watsons.com.ph
 communityassist.nba.com
+company.indrive.com
 company.thebrowser.arc
 compass.fareharbor.com
 compete.playstation.com
@@ -1647,6 +1687,7 @@ competitive.fortnite.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
 computerbild.de
+coms.ryadom.kz
 concierge.clearme.com
 config.cic-bug-bounty.auth0app.com
 configure.bmw.de
@@ -1714,6 +1755,7 @@ corporate.abercrombie.com
 corporate.wolt.com
 cosmo.fdeb.live.use1a.on.epicgames.com
 counteract 9.x
+courier-gw-cf.cis.euce1.aws.indriverapp.com
 couriers.indrive.com
 courtside.nba.com
 cover-photos-us-east-2.hackerone-user-content.com
@@ -1816,6 +1858,7 @@ datapod-1-query.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
+daw-cf.euce1.indriverapp.com
 dbt.shop-apotheke.com
 dcfgateway.marriott.com
 dcfgatewaytst1.marriott.com
@@ -1887,6 +1930,8 @@ developers.tw.coupangcorp.com
 developers.veriff.me
 device.marriott.com
 devicelock.com
+dh-cf.mena.meso1.aws.indriverapp.com
+dh-gw-scf.sa.apse1.aws.indriverapp.com
 diabrowser.com
 dibz.co.uk
 dic.pixiv.net
@@ -1941,6 +1986,7 @@ downloads-global.3cx.com
 downloads.varonis.com
 dpgmedia.be
 dpgmedia.nl
+dr-gw-cf.euce1.indriverapp.com
 dream-dev.wnba.com
 dream-qa.wnba.com
 dream-qa2.wnba.com
@@ -2080,6 +2126,7 @@ erie-qa.gleague.nba.com
 erie.gleague.nba.com
 erpx.unit4cloud.com/u4erx_pab_acp1
 errors.hackerone.net
+es-gw-cf.euce1.indriverapp.com
 esamultimedia.esa.int
 essentials.vinci.com
 essentiel.vinci.com
@@ -2117,6 +2164,8 @@ experiences.crypto.com
 explore.redoxengine.com
 expressvpn.com
 expressvpn.jobs
+exs-dtu-gw-cf.africa.afso1.aws.indriverapp.com
+exs-dtu-gw-scf.sa.apse1.aws.indriverapp.com
 external-api.lime.bike
 external.indrive.dev
 external.logitech.com
@@ -2144,6 +2193,11 @@ fashion4less.me
 faucet-api.polygon.technology
 faucet.polygon.technology
 fb.lansweeper.com
+fch-cf.euce1.indriverapp.com
+fch-gw-cf.euce1.indriverapp.com
+fch-gw-scf.euce1.indriverapp.com
+fch-scf.euce1.indriverapp.com
+fe-gw-scf.sa.apse1.aws.indriverapp.com
 feed-web.tw.coupang.com
 feedback.logitech.com
 fetlife.com
@@ -2165,6 +2219,8 @@ fi.unibet.com
 fiat-p.a.exodus.io
 fiat-prod-fallback.a.exodus.io
 fiat.a.exodus.io
+fic-cf.euce1.indriverapp.com
+file-storage-front.aws.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
 files.com
@@ -2233,10 +2289,13 @@ fotoservice.kruidvat.be
 fotoservice.kruidvat.nl
 found.io
 foundrygov.com
+fp-cf.global.aws.indriverapp.com
 fp-sg.tiktokv.com
 fr.louisvuitton.com
 fromspotify.com
 frontgatetickets.com
+fsf-gw-cf.euce1.indriverapp.com
+fsf-scf.euce1.indriverapp.com
 ftp.developersites.com.au:45875
 fulfillment.23andme.com
 funding-webhooks.remitly.io
@@ -2249,6 +2308,7 @@ fuze.site
 fv3lfbdyjh.infomaniak.site
 fw-update.ubnt.com
 fw.ring.com
+g2-gw-scf.sa.apse1.aws.indriverapp.com
 gamenotes.nba.com
 gaming.gopayapi.com
 gaming.logicool.co.jp
@@ -2399,10 +2459,14 @@ gsmarkets.de
 gsmarkets.nl
 gspublishing.com
 gsselect.com
+gt-gw-cf-0.cis.euce1.aws.indriverapp.com
+gt-gw-scf.sa.apse1.aws.indriverapp.com
 gtflabs.io
 gtld-servers.net
 guidemylock.dk
 guts.ninjakiwi.com
+gvt-cf.euce1.indriverapp.com
+gvt-scf.euce1.indriverapp.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 hackathon-tracker.digitalocean.com
@@ -2515,10 +2579,17 @@ hyprunlock.exe
 iam.atg.se
 iat.it.xvservice.net
 ibizdna.com
+ic3-cf.euce1.indriverapp.com
+ic3-gw-cf.euce1.indriverapp.com
+ic3-gw-scf.euce1.indriverapp.com
 ichnaea.netflix.com
 iciparisxl.be
 iciparisxl.lu
 iciparisxl.nl
+icl-cf.euce1.indriverapp.com
+icl-gw-cf.euce1.indriverapp.com
+icl-gw-scf.euce1.indriverapp.com
+icl-scf.euce1.indriverapp.com
 id.doccle.be
 id.embark.games
 id.heytap.com
@@ -2532,6 +2603,8 @@ id.stg.inspectorio.com
 id.tw.coupang.com
 id=com.oceanwing.soundcore
 id=com.zhixin.controller
+idc-cf.cis.euce1.aws.indriverapp.com
+idc-gw-cf.cis.euce1.aws.indriverapp.com
 idcash-uat.unico.io
 identi.robinhood.com
 identity-dev.nba.com
@@ -2553,7 +2626,10 @@ identity.yoti.com
 identityhomolog.acesso.io
 identityserver-acc.landmarkcinemas.com
 identityserver.landmarkcinemas.com
+idp-cf.euce1.indriverapp.com
 idp-contact.nexuzhealth.be
+idp-gw-cf.latam-mx.usea1.aws.indriverapp.com
+idp-scf.euce1.indriverapp.com
 idp.uzleuven.be
 idpay-uat.unico.io
 ifast.marriott.com
@@ -2565,14 +2641,15 @@ ignite.gleague.nba.com
 igpayment.com
 ik.watsons.com.tr
 ikarem.io
-images.demand.cybersource.com
 img.swapcard.com
 immedia-semi.com
 imperva.com
+in-gw-scf.sa.apse1.aws.indriverapp.com
 in.amazon.mshop.android.business.shopping
 in.amazon.mshop.android.shopping
 in.jbl.com
 in2tel.ie
+inc-gw-scf.sa.apse1.aws.indriverapp.com
 incapsula.com
 inclusion-dev.nba.com
 inclusion-qa.nba.com
@@ -2590,7 +2667,6 @@ indriverapp.com
 inf.fndlsb.net
 inference.do-ai.run
 influencers.tw.coupang.com
-info.authorize.net
 info.shop-apotheke.com
 infomaniak.com
 infomaniak.events
@@ -2647,7 +2723,10 @@ ir.ui.com
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 irmg.nl
 iron.xyz
+is-cf.euce1.indriverapp.com
 is.shop-apotheke.com
+isa-cf.euce1.indriverapp.com
+isa-gw-cf.euce1.indriverapp.com
 ispdesign.ui.com
 issuer.idpay-uat.unico.io
 it.louisvuitton.com
@@ -2671,6 +2750,8 @@ jira.logitech.com
 jira.logitech.io
 jit.si
 jitsi.net
+jlml-wf.indrive.com
+jlml.indrive.com
 job.ryadom.kz
 jobs.kiwi.com
 jobs.marriott.com
@@ -2690,6 +2771,7 @@ js.stripe.com
 jss.greenhouse.io
 judge.me
 juicer.lime.bike
+juntasllegamos.indrive.com
 jwt.io
 k8s.gcr.io
 k8s.io
@@ -2759,6 +2841,9 @@ labs.8x8.com
 lakeland-dev.gleague.nba.com
 lakeland-qa.gleague.nba.com
 lakeland.gleague.nba.com
+laketown-dev.gleague.nba.com
+laketown-qa.gleague.nba.com
+laketown.gleague.nba.com
 landing.ryadom.kz
 landmarkcinemas.com
 lansweeper.com
@@ -3188,6 +3273,9 @@ movilepay.com
 movilepay.com.br
 mpago.la
 mpago.li
+msg-cf.euce1.indriverapp.com
+msg-gw-cf.euce1.indriverapp.com
+msg-gw-scf.euce1.indriverapp.com
 msg.playcanvas.com
 msgsvc.io
 mta-sts.wearehackerone.com
@@ -3264,6 +3352,7 @@ napoleoncasino.be
 napoleondice.be
 napoleongames.be
 napoleonsports.be
+nb-cf.euce1.indriverapp.com
 nba-ar-app.nba.com
 nba.com
 nbaacademy-dev.nba.com
@@ -3282,6 +3371,8 @@ nbatickets-dev.nba.com
 nbatickets-qa.nba.com
 nbatickets.nba.com
 nbavideo.nba.com
+ncc-cf.latam-br.saea1.aws.indriverapp.com
+ncc-gw-cf.latam-pe.saea1.aws.indriverapp.com
 neoket.net
 net.bitstamp.app
 net.supertreat.solitaire
@@ -3307,11 +3398,16 @@ nexotrack-p.exodus.io
 nexotrack.exodus.io
 next.airbnb.com
 nexuzhealth.com
+nf-cf.latam-mx.usea1.aws.indriverapp.com
+nf-of-cf.euce1.indriverapp.com
 nflxext.com
 nflximg.net
 nflxso.net
 nflxvideo.net
 nft.io
+nha-cf.euce1.indriverapp.com
+nha-gw-cf.euce1.indriverapp.com
+nha-gw-scf.euce1.indriverapp.com
 niantic.kidswebservices.com
 nic.eu
 ninja.kiwi
@@ -3327,6 +3423,8 @@ nmfn.com
 nml.com
 nmtracking.netflix.com
 nnip.com
+no-gw-cf.africa.afso1.aws.indriverapp.com
+no-gw-scf.sa.apse1.aws.indriverapp.com
 node.js/typescript
 non core assets in-scope products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 northernarizona-dev.gleague.nba.com
@@ -3426,6 +3524,8 @@ origenfinance.com
 ort-admin.pingone.com
 ort-authenticator.pingone.com
 ort-desktop.pingone.com
+osceola-qa.gleague.nba.com
+osceola.gleague.nba.com
 oslo.io
 otherside.xyz
 outage.logitech.com
@@ -3443,11 +3543,13 @@ p.grabtaxi.com
 p2p.walletbot.me
 p4-submit-service.embark.net
 p8t.us
+pa-gw-scf.sa.apse1.aws.indriverapp.com
 packet8-pilot.net
 packet8.net
 paddypartners.com
 paddypower.com
 paddypower.it
+pages.indriverapp.com
 pages.tw.coupang.com
 palantir.build
 palantir.com
@@ -3542,6 +3644,7 @@ paypalcorp.com
 paypalobjects.com
 payroll.razorpay.com
 pb.deribit.com
+pc-gw-scf.sa.apse1.aws.indriverapp.com
 pci.shopifyinc.com
 pcrstudioruzb.uzleuven.be
 pdfroster-dev.nba.com
@@ -3558,6 +3661,8 @@ personio.tools
 personiowhistleblowing.com
 petbook-magazine.com
 petbook.de
+pf-gw-cf.euce1.indriverapp.com
+pf-gw-scf.euce1.indriverapp.com
 phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
@@ -3598,6 +3703,7 @@ playwonderbox.com
 playwonderbox.com.br
 playwsop.com
 plugin.doccle.be
+pm-gw-scf.sa.apse1.aws.indriverapp.com
 pmtcards.newegg.com
 pns.hk
 podcast-graph-dot-adaptive-growth.appspot.com
@@ -3629,9 +3735,14 @@ portofantwerpbruges.com
 portswigger.net
 post.ch
 postikuori.posti.fi
+pot-cf.euce1.indriverapp.com
 pourvous.nl
+pp-cf.euce1.indriverapp.com
+pp-gw-cf.euce1.indriverapp.com
 ppb.com
 ppbdev.com
+ppw-gw-cf.euce1.indriverapp.com
+ppw.euce1.indriverapp.com
 pr-dev.nba.com
 pr-qa.nba.com
 pr.nba.com
@@ -3667,6 +3778,7 @@ prijsmepper.nl
 primarycareondemand.mayoclinic.org
 primevideo.com
 printerdriver.posti.com
+pristegnimechty.indrive.com
 privateinternetaccess.com
 pro-api.coinmarketcap.com
 pro.coinmarketcap.com
@@ -3706,6 +3818,7 @@ protrade.com
 prow.k8s.io
 prowly.com
 proxy-production.lime.bike
+ps-cf.euce1.indriverapp.com
 ps5.np.playstation.net
 pscp.tv
 psp.marriott.com
@@ -3771,6 +3884,7 @@ redditmedia.com
 redecor.com
 redoxengine.com
 refer.23andme.com
+referral-program.indrive.com
 refined.site/admin
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
@@ -3925,6 +4039,7 @@ sandbox.developer.plus.authorize.net
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
 sandbox.zimpler.net
+sandiego.gleague.nba.com
 santacruz-dev.gleague.nba.com
 santacruz-qa.gleague.nba.com
 santacruz.gleague.nba.com
@@ -4552,6 +4667,8 @@ vaccination-info-service.fr
 valkyries-dev.wnba.com
 valkyries-qa.wnba.com
 valkyries.wnba.com
+valley-qa.gleague.nba.com
+valley.gleague.nba.com
 varonis.com
 varonis.io
 vasdemos.visa.com
@@ -4990,6 +5107,7 @@ www.ipbooster.com
 www.itscope.com
 www.itscope.de
 www.jaybirdsport.com
+www.juntasllegamos.indrive.com
 www.kayak.co.uk
 www.kayak.com
 www.kayak.de
