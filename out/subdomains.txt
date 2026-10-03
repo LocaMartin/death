@@ -303,6 +303,7 @@
 15.acronis.com
 15.trk.mg.abritel.fr
 15.trk.mg.fewo-direkt.de
+15.trk.notify.us.yourbrand.expediapartnersolutions.com
 154-10.amazon.com
 154-100.amazon.com
 154-101.amazon.com
@@ -707,6 +708,7 @@
 438sq.us.dell.com
 44.trk.mg.abritel.fr
 44.trk.mg.fewo-direkt.de
+44.trk.notify.us.yourbrand.expediapartnersolutions.com
 4402457f476145c2b57fe93b092cea18.klarna.com
 44metricjobszwebdisk.jobsswebmetricjobszwebdiskisk.jobs.amazon.co.za
 45.trk.mg.fewo-direkt.de
@@ -2780,6 +2782,7 @@ adxplxmnweb02.apac.dell.com
 adxpwcewtweb01.amer.dell.com
 adxpwcewtweb02.amer.dell.com
 adxpwcewtweb03.amer.dell.com
+adyen.pnl.prod.payments.expedia.com
 adyen.pnl.test.payments.expedia.com
 ae.api.openai.com
 ae.hotels.com
@@ -4296,6 +4299,7 @@ alternativa.film
 altmail1.expedia.com
 alts-uat-advisorsolutions.gs.com
 alumni.dell.com
+alumni.expedia.com
 alvlfew02.software.dell.com
 alvlfew03.software.dell.com
 alvlfew04.software.dell.com
@@ -15217,6 +15221,8 @@ b2aad0bc.g.vespa.oath.cloud
 b2aad0bc.z.vespa.oath.cloud
 b2b-bml.api.ean.com
 b2b-bml.lab.ean.com
+b2b-email-gateway.prod.epsdecaf.expedia.com
+b2b-email-gateway.test.epsdecaf.expedia.com
 b2b-email-orchestrator-main.us-west-2.test.epsdecaf.expedia.com
 b2b-horizon.test.demandsolutionscts.expedia.com
 b2b-oppy-rec-api-main-us-west-2.test.epsdecaf.expedia.com
@@ -15273,6 +15279,7 @@ b2bsbizlinkarch.dell.com
 b2bsbizlinkmailbox.dell.com
 b2bsecasap.dell.com
 b2bservices.dell.com
+b2bservicing.expediagroup.com
 b2bsftp.dell.com
 b2bsscgmqp.dell.com
 b2bstg.dell.com
@@ -22565,6 +22572,7 @@ cloud.hotwire.com
 cloud.internal-np.delltechnologies.com
 cloud.internal.delltechnologies.com
 cloud.learn.ads.snapchat.com
+cloud.lxpc.expedia.com
 cloud.mail.airbnb.com
 cloud.notifications-np.dell.com
 cloud.notifications.dell.com
@@ -24279,6 +24287,7 @@ country-ng-1.mini5.opera-mini.net
 coupa-acm.acronis.work
 coupon-admin-tool.prod.coupons.expedia.com
 coupon-admin-tool.test.coupons.expedia.com
+coupons.expedia.com
 coursematerials.amazon.com
 cov1-stage.gtie.dell.com
 cov2-stage.gtie.dell.com
@@ -31871,6 +31880,7 @@ eg.orbitz.com
 egapartnerpreviews.expediagroup.com
 egb2bescalations.expedia.com
 egcphqie-e2e-certificate-test.e2e.klarna.net
+egfinance.expedia.com
 egilad.domain-rec.tgt-aud-rec.us-east-1.dev.vespa.oath.cloud
 eglabcheckprinter.expediagroup.com
 egldapadm01pp.eg.orbitz.com
@@ -32178,6 +32188,7 @@ emf1pwuc03.lim.emea.dell.com
 emfctrxsdx3001.lim.emea.dell.com
 emijaczt-e2e-certificate-test.e2e.klarna.net
 emilflow.production.eu1.impairment-calculation-engine.klarna.net
+eml.expediaagents.com
 eml.restsimplycomply.akismet.com
 eml.us-east-1.amazon.com
 emm-trial.dell.com
@@ -32637,6 +32648,7 @@ eps-taap-quotation-api.us-west-2.test.epsdecaf.expedia.com
 eps.dell.com
 eps.dummy.expedia.com
 eps.us-east-1.test.expedia.com
+epsdecaf.expedia.com
 epsgxqwb-e2e-certificate-test.e2e.klarna.net
 epsperf.dell.com
 epuca-prd.euw1.vn.cloud.tesla.com
@@ -37601,6 +37613,7 @@ gcmcart.csb.dell.com
 gco-get.expediapartnersolutions.com
 gco.expedia.com
 gco.expediapartnersolutions.com
+gcotechp.expedia.com
 gcp-dev.metadata-indexer.evaluate.aws-us-west-2a.staging.vespa.oath.cloud
 gcp-dev.metadata-indexer.evaluate.aws-us-west-2a.test.vespa.oath.cloud
 gcp-dev.metadata-indexer.evaluate.gcp-us-east5-a.staging.vespa.oath.cloud
@@ -37773,6 +37786,8 @@ gems.artifacts.adsrvr.org
 gemywxqn-e2e-certificate-test.e2e.klarna.net
 gen-chat-call.allegro.pl.allegrosandbox.pl
 gen.adsrvr.org
+genai-event-gateway.us-east-1.corp.egdataplatform.expedia.com
+genai-event-gateway.us-east-1.test.egdataplatform.expedia.com
 genai-infra-livekit.expedia.com
 genai-ls-models.adminml.com
 genai.tesla.com
@@ -41948,6 +41963,7 @@ info.cloudstore.dell.com
 info.coindcx.com
 info.eu.lululemon.com
 info.expediagroup.com
+info.expediapartnersolutions.com
 info.lululemon.com
 info.uscellular.com
 info.vercel.com
@@ -46985,6 +47001,7 @@ local.uscellular.com
 local.webwinkel.ad.nl
 local0006.webpaypaymentgateway.8x8pilot.com
 localamazon.co.uk
+localexpert.expedia.com
 localgenai.commerce-k8s-nonprod.aws.oath.cloud
 locallygrown.uscellular.com
 locallygrownconnection.uscellular.com
@@ -49069,6 +49086,8 @@ media-service-eu.amazon.com
 media-service-fe.amazon.com
 media-service-na.amazon.com
 media-transformation.canva.com
+media.b2b-ixp-marketing.expediagroup.com
+media.b2b-ixp-marketing.test.expediagroup.com
 media.canva.com
 media.community.dell.com
 media.d1vmgithub01.dell.com
@@ -50909,6 +50928,7 @@ n27-05-08.opera-mini.net
 n7myhlx01bgx.statuspage.io
 n8n-ec2.paranoids-crpa-dev.aws.oath.cloud
 n8n-slack-connector.us-east-1.corp.egdataplatform.expedia.com
+n8n-slack-connector.us-east-1.dev.egdataplatform.expedia.com
 n8n-slack-connector.us-east-1.prod.egdataplatform.expedia.com
 n8n-slack-connector.us-east-1.test.egdataplatform.expedia.com
 n8n.paranoids-crpa-dev.aws.oath.cloud
@@ -54111,6 +54131,7 @@ partners.alipayplus.com
 partners.contentsquare.com
 partners.dcca.dell.com
 partners.dell.com
+partners.expediagroup.com
 partners.hotels.com
 partners.hotwire.com
 partners.openai.com
@@ -54303,6 +54324,7 @@ payments.dev.compuserve.com
 payments.dev.dell.com
 payments.dev.outfra.xyz
 payments.dev1.dell.com
+payments.expedia.com
 payments.expediagroup.com
 payments.g1.dell.com
 payments.g2.dell.com
@@ -54316,6 +54338,7 @@ payments.prod.outfra.xyz
 payments.qa.compuserve.com
 payments.solarcity.com
 payments.stage.compuserve.com
+paymentscts.expedia.com
 paymentsintegration.expediagroup.com
 paymentspcf.dell.com
 paymentsportal.dell.com
@@ -59662,11 +59685,13 @@ redir-prd-usw2.devpro-aux.aws.oath.cloud
 redir-prd.devpro-aux.aws.oath.cloud
 redirect-gateway-eu.staging.c2c.klarna.net
 redirect-r1.expedia.com
+redirect-r1.pay.expedia.com
 redirect-r1.test.pay.expedia.com
 redirect.expedia.com
 redirect.id.dev.outfra.xyz
 redirect.klarna.com
 redirect.klarna.net
+redirect.pay.expedia.com
 redirect.production.eu1.external-dns.klarna.net
 redirect.restsimplycomply.akismet.com
 redirect.sandbox.eu1.cloud-automation.klarna.net
@@ -59753,6 +59778,7 @@ release-registry.staging.klarna.net
 release-ui.one-mobile-dev.aws.oath.cloud
 release-ui.one-mobile-prod.aws.oath.cloud
 releases.openai.com
+reliabilitycts.expedia.com
 relyance.alert.logitech.com
 remediation.dell.com
 remedyqa.uscc.com
@@ -60858,6 +60884,7 @@ rsam.dell.com
 rsatest.pki.dell.com
 rsati-test-204.expedia.com
 rsati-test-207.expedia.com
+rsati-test-ngnix.test.infrastructurects.expedia.com
 rsati-test-public.expedia.com
 rsati-test-public1.expedia.com
 rsati-test-public12.expedia.com
@@ -62295,6 +62322,7 @@ security.opera.software
 security.persaas.dell.com
 security.staging.route53.opera.com
 security.vercel.com
+securityengineering.expedia.com
 securitygym.klarna.net
 securityscore.dell.com
 securityworkbenchui-nonprod.dell.com
@@ -63454,6 +63482,7 @@ sl.airbnb.org
 sl.next.airbnb.com
 sl.video-aws.aws.yahoo.cloud
 slack-blip-bot.gen.adsrvr.org
+slack-connect-dev.us-east-1.test.egdataplatform.expedia.com
 slack-incydr-bot-genai-eu.production.c2c.klarna.net
 slack-incydr-bot-genai-eu.production.us1.fd.klarna.net
 slack-sports-claude-viewer.sports-internal.gcp.yahoo.cloud
@@ -66052,6 +66081,7 @@ static.klubplay.nonprod.klarna.net
 static.klubstage.nonprod.klarna.net
 static.lululemon.com
 static.nonprod.klarna.com
+static.pay.expedia.com
 static.playground.nonprod.eu1.klub.klarna.net
 static.prod.hotwire.com
 static.prodp.hotwire.com
@@ -69518,6 +69548,7 @@ trn2-paymentcenter-cca.healthcare.dell.com
 tron-qn.a.exodus.io
 trs-dev.fleetcore.anduril.dev
 trs-tilt.prod.expedia.com
+trs-tops.us-west-2.test.air.expedia.com
 trt.teslamotors.com
 tru.acronis.com
 truck-app-eng.sn.tesla.services
@@ -70974,6 +71005,7 @@ uobcareers.jobstreet.com
 uoojphwg-e2e-certificate-test.e2e.klarna.net
 up.quizlet.com
 update.adsrvr.org
+update.expedia.com
 update.secure--amazon.co.uk
 update.solarcity.com
 updateapi-techvalidation.dell.com
@@ -74651,6 +74683,7 @@ vovddi4bwqfigxxwev7nuw64hckvaooxt.vespa.oath.cloud
 vovpbjgqh64qqjog34zjaeoo6ze6wzlkc.vespa.oath.cloud
 vowmb6qunnjete3ffdqfpglllrlx4qkxf.vespa.oath.cloud
 voxwrpatsb2gbxpvrfmilutglvzpw26ji.public-cd.vespa.oath.cloud
+voyager-nginx.lab.expedia.com
 voyager-okta.expedia.com
 voyager.expedia.com
 voyager.expediagroup.com
@@ -76683,9 +76716,11 @@ world-model-dev-1.andurildev.com
 world-model-pipeline-0.andurildev.com
 world-model-pipeline-1.andurildev.com
 world-model-pipeline-3.andurildev.com
+worldline.pnl.prod.payments.expedia.com
 worldline.pnl.test.payments.expedia.com
 worldpay.callbacks.airbnb.com
 worldpay.callbacks.staging.airbnb.com
+worldpay.pnl.prod.payments.expedia.com
 worldpay.pnl.test.payments.expedia.com
 worldserver-external.amazon.com
 wormhole-console.us-gov-west-1.aws.amazon.com

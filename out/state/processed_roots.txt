@@ -28,3 +28,13 @@
 *.ean.com
 *.employer.seek.com
 *.expedia-aarp.com
+*.expedia.com
+*.expediaagents.com
+*.expediacruises.com
+*.expediagroup.com
+*.expediapartnersolutions.com
+*.expediataap.com
+*.expediataaprewards.com
+*.feednews.com
+*.fewo-direkt.de
+*.flights.com
